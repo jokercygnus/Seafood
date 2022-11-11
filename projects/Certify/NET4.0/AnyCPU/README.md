@@ -11,3 +11,8 @@ Invoke-LemonHerb -Args <ARGS>
 XorKey-0xe6
 ```
 
+## LemonHerb.ps1 - 11015 - 2022-11-11
+```
+XorKey-0x0b
+```
+
