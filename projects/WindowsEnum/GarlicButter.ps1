@@ -10,14 +10,14 @@
 # Microsoft".
 
 
-param($HoneySort)
+param($tnhSDnTktUdAzbeSsqhtvNvdOsxkhAVHrsG)
  
-$BounceClub="------------------------------------------"
-function whost($SackAfraid) {
+$VmRdYNkOHcgQPNrHQoGhtMwVahvtpjGDATpZ="------------------------------------------"
+function whost($ObqjwdvXVsmtbwgOoXsgLTZgiXhPiIGHwx) {
     Write-Host
-    Write-Host -ForegroundColor Green $BounceClub
-    Write-Host -ForegroundColor Green " "$SackAfraid 
-    Write-Host -ForegroundColor Green $BounceClub
+    Write-Host -ForegroundColor Green $VmRdYNkOHcgQPNrHQoGhtMwVahvtpjGDATpZ
+    Write-Host -ForegroundColor Green " "$ObqjwdvXVsmtbwgOoXsgLTZgiXhPiIGHwx 
+    Write-Host -ForegroundColor Green $VmRdYNkOHcgQPNrHQoGhtMwVahvtpjGDATpZ
 }
 
 
@@ -25,7 +25,7 @@ whost "Windows Enumeration Script v 0.1
           by absolomb
        www.sploitspren.com"
 
-$ClapFly = [ordered]@{
+$nwcxduTbEtxEgFluUCZAfKZcyoMWJDCjheGsVUHgg = [ordered]@{
 
     'Basic System Information'                    = 'Start-Process "systeminfo" -NoNewWindow -Wait';
     'Environment Variables'                       = 'Get-ChildItem Env: | ft Key,Value';
@@ -59,7 +59,7 @@ $ClapFly = [ordered]@{
     
 }
 
-$RedPop = [ordered]@{
+$yjHCabMqWfgPiqhKIXUOpGASeF = [ordered]@{
 
     'Searching for Unattend and Sysprep files' = 'Get-Childitem –Path C:\ -Include *unattend*,*sysprep* -File -Recurse -ErrorAction SilentlyContinue | where {($_.Name -like "*.xml" -or $_.Name -like "*.txt" -or $_.Name -like "*.ini")} | `out`-f`i`le C:\temp\unattendfiles.txt';
     'Searching for web.config files'           = 'Get-Childitem –Path C:\ -Include web.config -File -Recurse -ErrorAction SilentlyContinue | `out`-f`i`le C:\temp\webconfigfiles.txt';
@@ -70,25 +70,25 @@ $RedPop = [ordered]@{
     'Searching for files with passwords'       = 'Get-ChildItem c:\* -include *.xml,*.ini,*.txt,*.config -Recurse -ErrorAction SilentlyContinue | Where-Object {$_.PSPath -notlike "*C:\temp*" -and $_.PSParentPath -notlike "*Reference Assemblies*" -and $_.PSParentPath -notlike "*Windows Kits*"}| Select-String -Pattern "password" | `out`-f`i`le C:\temp\password.txt';
     
 }
-function RunCommands($CleverChess) {
-    ForEach ($MurderCover in $CleverChess.GetEnumerator()) {
-        whost $MurderCover.Name
-        `inv`o`ke`-ex`pre`ss`i`on $MurderCover.Value
+function RunCommands($rheunoZCZBdHBLsjYLnkwG) {
+    ForEach ($BtJIBhnEzlUTwNDmDbQJWiFZlwYifAThpItZUNcXJf in $rheunoZCZBdHBLsjYLnkwG.GetEnumerator()) {
+        whost $BtJIBhnEzlUTwNDmDbQJWiFZlwYifAThpItZUNcXJf.Name
+        `inv`o`ke`-ex`pre`ss`i`on $BtJIBhnEzlUTwNDmDbQJWiFZlwYifAThpItZUNcXJf.Value
     }
 }
 
 
-RunCommands($ClapFly)
+RunCommands($nwcxduTbEtxEgFluUCZAfKZcyoMWJDCjheGsVUHgg)
 
-if ($HoneySort) {
-    if ($HoneySort.ToLower() -eq 'extended') {
-        $CoverMine = Test-Path C:\temp
-        if ($CoverMine -eq $False) {
+if ($tnhSDnTktUdAzbeSsqhtvNvdOsxkhAVHrsG) {
+    if ($tnhSDnTktUdAzbeSsqhtvNvdOsxkhAVHrsG.ToLower() -eq 'extended') {
+        $dBPIEmCIvvXfmjiWqCyqa = Test-Path C:\temp
+        if ($dBPIEmCIvvXfmjiWqCyqa -eq $False) {
             New-Item C:\temp -type directory
         }
         whost "Results writing to C:\temp\
     This may take a while..."
-        RunCommands($RedPop)
+        RunCommands($yjHCabMqWfgPiqhKIXUOpGASeF)
         whost "Script Finished! Check your files in C:\temp\"
     }
 }
