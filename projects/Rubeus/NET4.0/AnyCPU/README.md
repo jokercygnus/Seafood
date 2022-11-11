@@ -16,3 +16,8 @@ XorKey-0x6b
 XorKey-0x54
 ```
 
+## LemonHerb.ps1 - 10973 - 2022-11-11
+```
+XorKey-0xf0
+```
+
